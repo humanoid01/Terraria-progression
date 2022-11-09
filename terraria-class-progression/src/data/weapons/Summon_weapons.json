@@ -1,0 +1,6061 @@
+[
+  {
+    "id": 3000,
+    "itemName": "Abandoned Slime Staff",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/60/Abandoned_Slime_Staff.png/revision/latest?cb=20200309054038",
+    "itemSpecs": [
+      [
+        "Type",
+        "Weapon"
+      ],
+      [
+        "Damage",
+        "56 Summon"
+      ],
+      [
+        "Knockback",
+        "3 (Very Weak)"
+      ],
+      [
+        "Mana",
+        "40"
+      ],
+      [
+        "Use time",
+        "19 Very Fast"
+      ],
+      [
+        "Grants Buff",
+        "Astral Jelly"
+      ],
+      [
+        "Buff tooltip",
+        "The mini astrageldon slime will protect you"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/65/Astral_Infection_%28debuff%29.png/revision/latest?cb=20190822121723",
+        "Astral Infection",
+        "100% chance"
+      ],
+      [
+        "Debuff duration",
+        "2 seconds"
+      ],
+      [
+        "Debuff tooltip",
+        "Your flesh is melting off"
+      ],
+      [
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Rarity_color_7.png/revision/latest?cb=20140827202638"
+      ],
+      [
+        "Sell",
+        "      9  60  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+      ]
+    ],
+    "craftingStations": [],
+    "craftingIngredients": []
+  },
+  {
+    "id": 3001,
+    "itemName": "Ancient Ice Chunk",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e3/Ancient_Ice_Chunk.png/revision/latest?cb=20171208164047",
+    "itemSpecs": [
+      [
+        "Type",
+        "Weapon – Crafting material"
+      ],
+      [
+        "Damage",
+        "35 Summon"
+      ],
+      [
+        "Knockback",
+        "2 (Very Weak)"
+      ],
+      [
+        "Mana",
+        "10"
+      ],
+      [
+        "Use time",
+        "24 Fast"
+      ],
+      [
+        "Grants Buff",
+        "Ice Clasper"
+      ],
+      [
+        "Buff tooltip",
+        "The ice clasper will protect you"
+      ],
+      [
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png/revision/latest?cb=20150630184821"
+      ],
+      [
+        "Sell",
+        "      2  40  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+      ]
+    ],
+    "craftingStations": [],
+    "craftingIngredients": []
+  },
+  {
+    "id": 3002,
+    "itemName": "Ares' Exoskeleton",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/62/Ares%27_Exoskeleton.png/revision/latest?cb=20220822092500",
+    "itemSpecs": [
+      [
+        "Type",
+        "Weapon"
+      ],
+      [
+        "Damage",
+        "625 Summon"
+      ],
+      [
+        "Knockback",
+        "1 (Extremely Weak)"
+      ],
+      [
+        "Mana",
+        "80"
+      ],
+      [
+        "Use time",
+        "9 Very Fast"
+      ],
+      [
+        "Velocity",
+        "10"
+      ],
+      [
+        "Grants Buff",
+        "Ares' CannonsAres' Cannons"
+      ],
+      [
+        "Buff tooltip",
+        "Pulse cannon not included"
+      ],
+      [
+        "Rarity",
+        null
+      ],
+      [
+        "Sell",
+        "      30  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+      ]
+    ],
+    "craftingStations": [],
+    "craftingIngredients": []
+  },
+  {
+    "id": 3003,
+    "itemName": "Atlas Munitions Beacon",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/da/Atlas_Munitions_Beacon.png/revision/latest?cb=20221025125037",
+    "itemSpecs": [
+      [
+        "Type",
+        "Weapon"
+      ],
+      [
+        "Damage",
+        "150 Summon"
+      ],
+      [
+        "Knockback",
+        "4.75 (Average)"
+      ],
+      [
+        "Mana",
+        "10"
+      ],
+      [
+        "Use time",
+        "10 Very Fast"
+      ],
+      [
+        "Velocity",
+        "10"
+      ],
+      [
+        "Rarity",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8d/Rarity_color_15.png/revision/latest?cb=20180106235128"
+      ],
+      [
+        "Sell",
+        "      30  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+      ]
+    ],
+    "craftingStations": [
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e2/Ancient_Manipulator.png/revision/latest?cb=20200516185008",
+        "Ancient Manipulator"
+      ]
+    ],
+    "craftingIngredients": [
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/3b/Astral_Bar.png/revision/latest?cb=20181121142957",
+        "Astral Bar",
+        "8"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/f3/Titan_Heart.png/revision/latest?cb=20200802014712",
+        "Titan Heart",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/da/Atlas_Munitions_Beacon.png/revision/latest?cb=20221025125037",
+        "Atlas Munitions Beacon",
+        "1"
+      ]
+    ]
+  },
+  {
+    "id": 3004,
+    "itemName": "Belladonna Spirit Staff",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/6d/Belladonna_Spirit_Staff.png/revision/latest?cb=20220314162440",
+    "itemSpecs": [
+      [
+        "Type",
+        "Weapon – Crafting material"
+      ],
+      [
+        "Damage",
+        "5 Summon"
+      ],
+      [
+        "Knockback",
+        "1 (Extremely Weak)"
+      ],
+      [
+        "Mana",
+        "10"
+      ],
+      [
+        "Use time",
+        "34 Slow"
+      ],
+      [
+        "Grants Buff",
+        "Belladonna Spirit"
+      ],
+      [
+        "Buff tooltip",
+        "A cute forest spirit is following you"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/11/Poisoned.png/revision/latest?cb=20170708221026",
+        "Poisoned",
+        "100% chance"
+      ],
+      [
+        "Debuff duration",
+        "4 seconds"
+      ],
+      [
+        "Debuff tooltip",
+        "Slowly losing life"
+      ],
+      [
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png/revision/latest?cb=20140827153216"
+      ],
+      [
+        "Sell",
+        "      20  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png/revision/latest?cb=20200516221827"
+      ]
+    ],
+    "craftingStations": [
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c3/Iron_Anvil.png/revision/latest?cb=20200516214257",
+        "Iron Anvil"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/32/Lead_Anvil.png/revision/latest?cb=20200516214608",
+        "Lead Anvil"
+      ]
+    ],
+    "craftingIngredients": [
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/ff/Vine.png/revision/latest?cb=20200516223340",
+        "Vine",
+        "4"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/61/Jungle_Spores.png/revision/latest?cb=20200516214415",
+        "Jungle Spores",
+        "5"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b6/Stinger.png/revision/latest?cb=20200516222608",
+        "Stinger",
+        "8"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/27/Rich_Mahogany.png/revision/latest?cb=20200516221238",
+        "Rich Mahogany",
+        "25"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/6d/Belladonna_Spirit_Staff.png/revision/latest?cb=20220314162440",
+        "Belladonna Spirit Staff",
+        "1"
+      ]
+    ]
+  },
+  {
+    "id": 3005,
+    "itemName": "Black Hawk Remote",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/17/Black_Hawk_Remote.png/revision/latest?cb=20191027020713",
+    "itemSpecs": [
+      [
+        "Type",
+        "Weapon – Crafting material"
+      ],
+      [
+        "Damage",
+        "32 Summon"
+      ],
+      [
+        "Knockback",
+        "1 (Extremely Weak)"
+      ],
+      [
+        "Mana",
+        "10"
+      ],
+      [
+        "Use time",
+        "24 Fast"
+      ],
+      [
+        "Grants Buff",
+        "Black Hawk"
+      ],
+      [
+        "Buff tooltip",
+        "The fighter jet will protect you"
+      ],
+      [
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png/revision/latest?cb=20150630184821"
+      ],
+      [
+        "Sell",
+        "      2  40  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+      ]
+    ],
+    "craftingStations": [],
+    "craftingIngredients": []
+  },
+  {
+    "id": 3006,
+    "itemName": "Blood Clot Staff",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/20/Blood_Clot_Staff.png/revision/latest?cb=20180615012205",
+    "itemSpecs": [
+      [
+        "Type",
+        "Weapon"
+      ],
+      [
+        "Damage",
+        "7 Summon"
+      ],
+      [
+        "Knockback",
+        "2.25 (Very Weak)"
+      ],
+      [
+        "Mana",
+        "10"
+      ],
+      [
+        "Use time",
+        "29 Average"
+      ],
+      [
+        "Grants Buff",
+        "Blood Clot"
+      ],
+      [
+        "Buff tooltip",
+        "The blood clot will protect you"
+      ],
+      [
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png/revision/latest?cb=20140827153300"
+      ],
+      [
+        "Sell",
+        "      80  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png/revision/latest?cb=20200516221827"
+      ]
+    ],
+    "craftingStations": [
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/f8/Demon_Altar.png/revision/latest?cb=20170831034528",
+        "Demon Altar"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/70/Crimson_Altar.png/revision/latest?cb=20160626093352",
+        "Crimson Altar"
+      ]
+    ],
+    "craftingIngredients": [
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/67/Vertebra.png/revision/latest?cb=20200516223320",
+        "Vertebrae",
+        "4"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/ce/Crimtane_Bar.png/revision/latest?cb=20200516210436",
+        "Crimtane Bar",
+        "5"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/a3/Blood_Sample.png/revision/latest?cb=20221002055128",
+        "Blood Sample",
+        "10"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/20/Blood_Clot_Staff.png/revision/latest?cb=20180615012205",
+        "Blood Clot Staff",
+        "1"
+      ]
+    ]
+  },
+  {
+    "id": 3007,
+    "itemName": "Borealis Bomber",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/5f/Borealis_Bomber.png/revision/latest?cb=20200205075910",
+    "itemSpecs": [
+      [
+        "Type",
+        "Weapon"
+      ],
+      [
+        "Damage",
+        "35 Summon"
+      ],
+      [
+        "Knockback",
+        "5 (Average)"
+      ],
+      [
+        "Mana",
+        "10"
+      ],
+      [
+        "Use time",
+        "19 Very Fast"
+      ],
+      [
+        "Velocity",
+        "10"
+      ],
+      [
+        null,
+        "Astral Infection",
+        "100% chance"
+      ],
+      [
+        "Debuff duration",
+        "2 seconds (Impact and Explosion)"
+      ],
+      [
+        "Debuff tooltip",
+        "Your flesh is melting off"
+      ],
+      [
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Rarity_color_7.png/revision/latest?cb=20140827202638"
+      ],
+      [
+        "Sell",
+        "      12  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+      ]
+    ],
+    "craftingStations": [],
+    "craftingIngredients": []
+  },
+  {
+    "id": 3008,
+    "itemName": "Cadaverous Carrion",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/41/Cadaverous_Carrion.png/revision/latest?cb=20220621191739",
+    "itemSpecs": [
+      [
+        "Type",
+        "Weapon"
+      ],
+      [
+        "Damage",
+        "384 Summon"
+      ],
+      [
+        "Knockback",
+        "4 (Weak)"
+      ],
+      [
+        "Mana",
+        "10"
+      ],
+      [
+        "Use time",
+        "13 Very Fast"
+      ],
+      [
+        "Rarity",
+        null
+      ],
+      [
+        "Sell",
+        "      26  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+      ]
+    ],
+    "craftingStations": [],
+    "craftingIngredients": []
+  },
+  {
+    "id": 3009,
+    "itemName": "Calamari's Lament",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/36/Calamari%27s_Lament.png/revision/latest?cb=20190804143503",
+    "itemSpecs": [
+      [
+        "Type",
+        "Weapon"
+      ],
+      [
+        "Damage",
+        "95 Summon"
+      ],
+      [
+        "Knockback",
+        "2.5 (Very Weak)"
+      ],
+      [
+        "Mana",
+        "10"
+      ],
+      [
+        "Use time",
+        "9 Very Fast"
+      ],
+      [
+        "Grants Buff",
+        "Calamari"
+      ],
+      [
+        "Buff tooltip",
+        "The squid will protect you"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/9a/Crush_Depth.png/revision/latest?cb=20181121033957",
+        "Crush Depth",
+        "100% chance"
+      ],
+      [
+        "Debuff duration",
+        "3 seconds"
+      ],
+      [
+        "Debuff tooltip",
+        "Aquatic pressure"
+      ],
+      [
+        "Rarity",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/36/Rarity_color_13.png/revision/latest?cb=20180106235025"
+      ],
+      [
+        "Sell",
+        "      28  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+      ]
+    ],
+    "craftingStations": [],
+    "craftingIngredients": []
+  },
+  {
+    "id": 3010,
+    "itemName": "Caustic Croaker Staff",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8a/Caustic_Croaker_Staff.png/revision/latest?cb=20211117153021",
+    "itemSpecs": [
+      [
+        "Type",
+        "Weapon"
+      ],
+      [
+        "Damage",
+        "8 Summon"
+      ],
+      [
+        "Knockback",
+        "0 (No Knockback)"
+      ],
+      [
+        "Mana",
+        "10"
+      ],
+      [
+        "Use time",
+        "34 Slow"
+      ],
+      [
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png/revision/latest?cb=20140827153252"
+      ],
+      [
+        "Sell",
+        "      40  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png/revision/latest?cb=20200516221827"
+      ]
+    ],
+    "craftingStations": [],
+    "craftingIngredients": []
+  },
+  {
+    "id": 3011,
+    "itemName": "Caustic Staff",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/ce/Caustic_Staff.png/revision/latest?cb=20200802013952",
+    "itemSpecs": [
+      [
+        "Type",
+        "Weapon"
+      ],
+      [
+        "Damage",
+        "15 Summon"
+      ],
+      [
+        "Knockback",
+        "2 (Very Weak)"
+      ],
+      [
+        "Mana",
+        "10"
+      ],
+      [
+        "Use time",
+        "24 Fast"
+      ],
+      [
+        "Grants Buff",
+        "Caustic Dragon"
+      ],
+      [
+        "Buff tooltip",
+        "A mini jungle dragon is following you"
+      ],
+      [
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png/revision/latest?cb=20150630184821"
+      ],
+      [
+        "Sell",
+        "      2  40  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+      ]
+    ],
+    "craftingStations": [
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/f8/Demon_Altar.png/revision/latest?cb=20170831034528",
+        "Demon Altar"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/70/Crimson_Altar.png/revision/latest?cb=20160626093352",
+        "Crimson Altar"
+      ]
+    ],
+    "craftingIngredients": [
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/00/Any_Evil_Flask.gif/revision/latest?cb=20200416123940",
+        "Any Evil Flask",
+        "5"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c8/Deathweed.png/revision/latest?cb=20200516211244",
+        "Deathweed",
+        "2"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e9/Soul_of_Night.png/revision/latest?cb=20200516233827",
+        "Soul of Night",
+        "10"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/7f/Any_Evil_Bar.gif/revision/latest?cb=20200206130830",
+        "Any Evil Bar",
+        "10"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/ce/Caustic_Staff.png/revision/latest?cb=20200802013952",
+        "Caustic Staff",
+        "1"
+      ]
+    ]
+  },
+  {
+    "id": 3012,
+    "itemName": "Cinder Blossom Staff",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/45/Cinder_Blossom_Staff.png/revision/latest?cb=20200401223904",
+    "itemSpecs": [
+      [
+        "Type",
+        "Weapon – Crafting material"
+      ],
+      [
+        "Damage",
+        "25 Summon"
+      ],
+      [
+        "Knockback",
+        "2 (Very Weak)"
+      ],
+      [
+        "Mana",
+        "10"
+      ],
+      [
+        "Use time",
+        "29 Average"
+      ],
+      [
+        "Grants Buff",
+        "Cinder Blossom"
+      ],
+      [
+        "Buff tooltip",
+        "A hot, searing flower is floating uncomfortably close to you"
+      ],
+      [
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png/revision/latest?cb=20140827153300"
+      ],
+      [
+        "Sell",
+        "      80  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png/revision/latest?cb=20200516221827"
+      ]
+    ],
+    "craftingStations": [
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c3/Iron_Anvil.png/revision/latest?cb=20200516214257",
+        "Iron Anvil"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/32/Lead_Anvil.png/revision/latest?cb=20200516214608",
+        "Lead Anvil"
+      ]
+    ],
+    "craftingIngredients": [
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/92/Fireblossom.png/revision/latest?cb=20200516212309",
+        "Fireblossom",
+        "5"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/cd/Lava_Bucket.png/revision/latest?cb=20200516214544",
+        "Lava Bucket",
+        "2"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Hellstone_Bar.png/revision/latest?cb=20200516213934",
+        "Hellstone Bar",
+        "10"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/45/Cinder_Blossom_Staff.png/revision/latest?cb=20200401223904",
+        "Cinder Blossom Staff",
+        "1"
+      ]
+    ]
+  },
+  {
+    "id": 3013,
+    "itemName": "Cinders of Lament",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/52/Cinders_of_Lament.png/revision/latest?cb=20211117005953",
+    "itemSpecs": [
+      [
+        "Type",
+        "Weapon"
+      ],
+      [
+        "Damage",
+        "1666 Summon"
+      ],
+      [
+        "Knockback",
+        "0 (No Knockback)"
+      ],
+      [
+        "Mana",
+        "10"
+      ],
+      [
+        "Use time",
+        "29 Average"
+      ],
+      [
+        "Rarity",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8d/Rarity_color_15.png/revision/latest?cb=20180106235128"
+      ],
+      [
+        "Sell",
+        "      30  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+      ]
+    ],
+    "craftingStations": [],
+    "craftingIngredients": []
+  },
+  {
+    "id": 3014,
+    "itemName": "Cold Divinity",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/2e/Cold_Divinity.png/revision/latest?cb=20200401223502",
+    "itemSpecs": [
+      [
+        "Type",
+        "Weapon"
+      ],
+      [
+        "Damage",
+        "48 Summon"
+      ],
+      [
+        "Knockback",
+        "4.5 (Average)"
+      ],
+      [
+        "Mana",
+        "10"
+      ],
+      [
+        "Use time",
+        "24 Fast"
+      ],
+      [
+        "Grants Buff",
+        "Cold Divinity"
+      ],
+      [
+        "Buff tooltip",
+        "The magic of the ancient ice castle will aid you"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Frostburn.png/revision/latest?cb=20170715155824",
+        "Frostburn",
+        "100% chance"
+      ],
+      [
+        "Debuff duration",
+        "5 seconds"
+      ],
+      [
+        "Debuff tooltip",
+        "It's either really hot or really cold. Either way it REALLY hurts"
+      ],
+      [
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png/revision/latest?cb=20140827211545"
+      ],
+      [
+        "Sell",
+        "      4  80  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+      ]
+    ],
+    "craftingStations": [],
+    "craftingIngredients": []
+  },
+  {
+    "id": 3015,
+    "itemName": "Corroslime Staff",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/7f/Corroslime_Staff.png/revision/latest?cb=20200306040725",
+    "itemSpecs": [
+      [
+        "Type",
+        "Weapon"
+      ],
+      [
+        "Damage",
+        "24 Summon"
+      ],
+      [
+        "Knockback",
+        "2 (Very Weak)"
+      ],
+      [
+        "Mana",
+        "10"
+      ],
+      [
+        "Use time",
+        "29 Average"
+      ],
+      [
+        "Grants Buff",
+        "Corroslime"
+      ],
+      [
+        "Buff tooltip",
+        "The corroslime will protect you"
+      ],
+      [
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png/revision/latest?cb=20150630184821"
+      ],
+      [
+        "Sell",
+        "      2  40  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+      ]
+    ],
+    "craftingStations": [],
+    "craftingIngredients": []
+  },
+  {
+    "id": 3016,
+    "itemName": "Corvid Harbinger Staff",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/bf/Corvid_Harbinger_Staff.png/revision/latest?cb=20200401224707",
+    "itemSpecs": [
+      [
+        "Type",
+        "Weapon – Crafting material"
+      ],
+      [
+        "Damage",
+        "114 Summon"
+      ],
+      [
+        "Knockback",
+        "2 (Very Weak)"
+      ],
+      [
+        "Mana",
+        "10"
+      ],
+      [
+        "Use time",
+        "9 Very Fast"
+      ],
+      [
+        "Grants Buff",
+        "Raven"
+      ],
+      [
+        "Buff tooltip",
+        "The powerful raven will protect you"
+      ],
+      [
+        "Rarity",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e7/Rarity_color_14.png/revision/latest?cb=20180106235104"
+      ],
+      [
+        "Sell",
+        "      50  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+      ]
+    ],
+    "craftingStations": [
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c0/Cosmic_Anvil.png/revision/latest?cb=20211117014658",
+        "Cosmic Anvil"
+      ]
+    ],
+    "craftingIngredients": [
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/10/Raven_Staff.png/revision/latest?cb=20200516221018",
+        "Raven Staff",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c6/Cosmilite_Bar.png/revision/latest?cb=20200222072206",
+        "Cosmilite Bar",
+        "8"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/3c/Nightmare_Fuel.png/revision/latest?cb=20200310163830",
+        "Nightmare Fuel",
+        "20"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/bf/Corvid_Harbinger_Staff.png/revision/latest?cb=20200401224707",
+        "Corvid Harbinger Staff",
+        "1"
+      ]
+    ]
+  },
+  {
+    "id": 3017,
+    "itemName": "Cosmic Immaterializer",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/88/Cosmic_Immaterializer.png/revision/latest?cb=20171227175854",
+    "itemSpecs": [
+      [
+        "Type",
+        "Weapon"
+      ],
+      [
+        "Damage",
+        "560 Summon"
+      ],
+      [
+        "Knockback",
+        "0 (No Knockback)"
+      ],
+      [
+        "Mana",
+        "10"
+      ],
+      [
+        "Use time",
+        "9 Very Fast"
+      ],
+      [
+        "Grants Buff",
+        "Cosmic Energy"
+      ],
+      [
+        "Buff tooltip",
+        "The cosmic energy will protect you"
+      ],
+      [
+        "Rarity",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8d/Rarity_color_15.png/revision/latest?cb=20180106235128"
+      ],
+      [
+        "Sell",
+        "      30  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+      ]
+    ],
+    "craftingStations": [
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/38/Draedon%27s_Forge.png/revision/latest?cb=20211117002300",
+        "Draedon's Forge"
+      ]
+    ],
+    "craftingIngredients": [
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/bf/Corvid_Harbinger_Staff.png/revision/latest?cb=20200401224707",
+        "Corvid Harbinger Staff",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e3/Ancient_Ice_Chunk.png/revision/latest?cb=20171208164047",
+        "Ancient Ice Chunk",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/99/Elemental_Axe.png/revision/latest?cb=20171124220840",
+        "Elemental Axe",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/74/Energy_Staff.png/revision/latest?cb=20200802102755",
+        "Energy Staff",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/ec/Miracle_Matter.png/revision/latest?cb=20211117042838",
+        "Miracle Matter",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/88/Cosmic_Immaterializer.png/revision/latest?cb=20171227175854",
+        "Cosmic Immaterializer",
+        "1"
+      ]
+    ]
+  },
+  {
+    "id": 3018,
+    "itemName": "Cosmic Viper Engine",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/77/Cosmic_Viper_Engine.png/revision/latest?cb=20200401223521",
+    "itemSpecs": [
+      [
+        "Type",
+        "Weapon – Crafting material"
+      ],
+      [
+        "Damage",
+        "138 Summon"
+      ],
+      [
+        "Knockback",
+        "6 (Average)"
+      ],
+      [
+        "Mana",
+        "10"
+      ],
+      [
+        "Use time",
+        "9 Very Fast"
+      ],
+      [
+        "Grants Buff",
+        "Cosmic Viper"
+      ],
+      [
+        "Buff tooltip",
+        "The cosmic gunship will protect you"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/07/God_Slayer_Inferno.png/revision/latest?cb=20190926034038",
+        "God Slayer Inferno",
+        "100% chance"
+      ],
+      [
+        "Debuff duration",
+        "3 seconds (Concussion Missile)2 seconds (Homing, Splitting Rocket)1 second (Shrapnel)"
+      ],
+      [
+        "Debuff tooltip",
+        "Your flesh is burning off"
+      ],
+      [
+        "Rarity",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e7/Rarity_color_14.png/revision/latest?cb=20180106235104"
+      ],
+      [
+        "Sell",
+        "      28  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+      ]
+    ],
+    "craftingStations": [
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c0/Cosmic_Anvil.png/revision/latest?cb=20211117014658",
+        "Cosmic Anvil"
+      ]
+    ],
+    "craftingIngredients": [
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/36/Tactical_Plague_Engine.png/revision/latest?cb=20200401223714",
+        "Tactical Plague Engine",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/aa/Exodium_Cluster.png/revision/latest?cb=20180816171833",
+        "Exodium Cluster",
+        "20"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c6/Cosmilite_Bar.png/revision/latest?cb=20200222072206",
+        "Cosmilite Bar",
+        "10"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/77/Cosmic_Viper_Engine.png/revision/latest?cb=20200401223521",
+        "Cosmic Viper Engine",
+        "1"
+      ]
+    ]
+  },
+  {
+    "id": 3019,
+    "itemName": "Cosmilamp",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/86/Cosmilamp.png/revision/latest?cb=20180402221220",
+    "itemSpecs": [
+      [
+        "Type",
+        "Weapon"
+      ],
+      [
+        "Damage",
+        "89 Summon"
+      ],
+      [
+        "Knockback",
+        "4 (Weak)"
+      ],
+      [
+        "Mana",
+        "10"
+      ],
+      [
+        "Use time",
+        "14 Very Fast"
+      ],
+      [
+        "Grants Buff",
+        "Cosmilamp"
+      ],
+      [
+        "Buff tooltip",
+        "The cosmilamp will protect you"
+      ],
+      [
+        "Rarity",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/ec/Rarity_color_12.png/revision/latest?cb=20180106234938"
+      ],
+      [
+        "Sell",
+        "      24  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+      ]
+    ],
+    "craftingStations": [],
+    "craftingIngredients": []
+  },
+  {
+    "id": 3020,
+    "itemName": "Crimslime Staff",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c5/Crimslime_Staff.png/revision/latest?cb=20200306040750",
+    "itemSpecs": [
+      [
+        "Type",
+        "Weapon"
+      ],
+      [
+        "Damage",
+        "24 Summon"
+      ],
+      [
+        "Knockback",
+        "2 (Very Weak)"
+      ],
+      [
+        "Mana",
+        "10"
+      ],
+      [
+        "Use time",
+        "29 Average"
+      ],
+      [
+        "Grants Buff",
+        "Crimslime"
+      ],
+      [
+        "Buff tooltip",
+        "The crimslime will protect you"
+      ],
+      [
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png/revision/latest?cb=20150630184821"
+      ],
+      [
+        "Sell",
+        "      2  40  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+      ]
+    ],
+    "craftingStations": [],
+    "craftingIngredients": []
+  },
+  {
+    "id": 3021,
+    "itemName": "Cryogenic Staff",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/1a/Cryogenic_Staff.png/revision/latest?cb=20220314135129",
+    "itemSpecs": [
+      [
+        "Type",
+        "Weapon – Crafting material"
+      ],
+      [
+        "Damage",
+        "50 Summon"
+      ],
+      [
+        "Knockback",
+        "4 (Weak)"
+      ],
+      [
+        "Mana",
+        "10"
+      ],
+      [
+        "Use time",
+        "24 Fast"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Frostburn.png/revision/latest?cb=20170715155824",
+        "Frostburn",
+        "100% chance"
+      ],
+      [
+        "Debuff duration",
+        "1 second (ice ball)"
+      ],
+      [
+        "Debuff tooltip",
+        "It's either really hot or really cold. Either way it REALLY hurts"
+      ],
+      [
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/96/Rarity_color_11.png/revision/latest?cb=20150702012429"
+      ],
+      [
+        "Buy / Sell",
+        "      48   /       7  20  "
+      ]
+    ],
+    "craftingStations": [],
+    "craftingIngredients": []
+  },
+  {
+    "id": 3022,
+    "itemName": "Daedalus Golem Staff",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/5d/Daedalus_Golem_Staff.png/revision/latest?cb=20211117012650",
+    "itemSpecs": [
+      [
+        "Type",
+        "Weapon"
+      ],
+      [
+        "Damage",
+        "70 Summon"
+      ],
+      [
+        "Knockback",
+        "3 (Very Weak)"
+      ],
+      [
+        "Mana",
+        "10"
+      ],
+      [
+        "Use time",
+        "24 Fast"
+      ],
+      [
+        "Grants Buff",
+        "Daedalus Golem"
+      ],
+      [
+        "Buff tooltip",
+        "A crystal golem is following you"
+      ],
+      [
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png/revision/latest?cb=20140827211545"
+      ],
+      [
+        "Sell",
+        "      4  80  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+      ]
+    ],
+    "craftingStations": [
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/3d/Mythril_Anvil.png/revision/latest?cb=20200516215710",
+        "Mythril Anvil"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Orichalcum_Anvil.png/revision/latest?cb=20200516220030",
+        "Orichalcum Anvil"
+      ]
+    ],
+    "craftingIngredients": [
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/f8/Cryonic_Bar.png/revision/latest?cb=20191106032234",
+        "Cryonic Bar",
+        "12"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/5d/Daedalus_Golem_Staff.png/revision/latest?cb=20211117012650",
+        "Daedalus Golem Staff",
+        "1"
+      ]
+    ]
+  },
+  {
+    "id": 3023,
+    "itemName": "Dank Staff",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d1/Dank_Staff.png/revision/latest?cb=20200205065418",
+    "itemSpecs": [
+      [
+        "Type",
+        "Weapon"
+      ],
+      [
+        "Damage",
+        "7 Summon"
+      ],
+      [
+        "Knockback",
+        "2.25 (Very Weak)"
+      ],
+      [
+        "Mana",
+        "10"
+      ],
+      [
+        "Use time",
+        "29 Average"
+      ],
+      [
+        "Grants Buff",
+        "Dank Creeper"
+      ],
+      [
+        "Buff tooltip",
+        "The dank creeper will protect you"
+      ],
+      [
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png/revision/latest?cb=20140827153300"
+      ],
+      [
+        "Sell",
+        "      80  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png/revision/latest?cb=20200516221827"
+      ]
+    ],
+    "craftingStations": [
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/f8/Demon_Altar.png/revision/latest?cb=20170831034528",
+        "Demon Altar"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/70/Crimson_Altar.png/revision/latest?cb=20160626093352",
+        "Crimson Altar"
+      ]
+    ],
+    "craftingIngredients": [
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/04/Rotten_Chunk.png/revision/latest?cb=20200516221308",
+        "Rotten Chunk",
+        "3"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/67/Demonite_Bar.png/revision/latest?cb=20200516211316",
+        "Demonite Bar",
+        "8"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/86/Rotten_Matter.png/revision/latest?cb=20211117044335",
+        "Rotten Matter",
+        "7"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d1/Dank_Staff.png/revision/latest?cb=20200205065418",
+        "Dank Staff",
+        "1"
+      ]
+    ]
+  },
+  {
+    "id": 3024,
+    "itemName": "Dazzling Stabber Staff",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/5e/Dazzling_Stabber_Staff.png/revision/latest?cb=20200401220315",
+    "itemSpecs": [
+      [
+        "Type",
+        "Weapon"
+      ],
+      [
+        "Damage",
+        "56 Summon"
+      ],
+      [
+        "Knockback",
+        "2 (Very Weak)"
+      ],
+      [
+        "Mana",
+        "10"
+      ],
+      [
+        "Use time",
+        "14 Very Fast"
+      ],
+      [
+        "Grants Buff",
+        "Dazzling Stabber"
+      ],
+      [
+        "Buff tooltip",
+        "En garde"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d7/Holy_Flames.png/revision/latest?cb=20200420002433",
+        "Holy Flames",
+        "100% chance"
+      ],
+      [
+        "Debuff duration",
+        "3 seconds (Holy Blade)1 second (Homing Blade)"
+      ],
+      [
+        "Debuff tooltip",
+        "Dissolving from holy light"
+      ],
+      [
+        "Rarity",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/ec/Rarity_color_12.png/revision/latest?cb=20180106234938"
+      ],
+      [
+        "Sell",
+        "      24  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+      ]
+    ],
+    "craftingStations": [],
+    "craftingIngredients": []
+  },
+  {
+    "id": 3025,
+    "itemName": "Deathstare Rod",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/6f/Deathstare_Rod.png/revision/latest?cb=20211117012703",
+    "itemSpecs": [
+      [
+        "Type",
+        "Weapon"
+      ],
+      [
+        "Damage",
+        "33 Summon"
+      ],
+      [
+        "Knockback",
+        "2 (Very Weak)"
+      ],
+      [
+        "Mana",
+        "10"
+      ],
+      [
+        "Use time",
+        "34 Slow"
+      ],
+      [
+        "Grants Buff",
+        "Miniature Eye of Cthulhu"
+      ],
+      [
+        "Buff tooltip",
+        "It's watching you"
+      ],
+      [
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png/revision/latest?cb=20140827153252"
+      ],
+      [
+        "Sell",
+        "      40  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png/revision/latest?cb=20200516221827"
+      ]
+    ],
+    "craftingStations": [],
+    "craftingIngredients": []
+  },
+  {
+    "id": 3026,
+    "itemName": "Deepsea Staff",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/2a/Deepsea_Staff.png/revision/latest?cb=20211117153024",
+    "itemSpecs": [
+      [
+        "Type",
+        "Weapon – Crafting material"
+      ],
+      [
+        "Damage",
+        "42 Summon"
+      ],
+      [
+        "Knockback",
+        "2 (Very Weak)"
+      ],
+      [
+        "Mana",
+        "10"
+      ],
+      [
+        "Use time",
+        "24 Fast"
+      ],
+      [
+        "Grants Buff",
+        "Aquatic Star"
+      ],
+      [
+        "Buff tooltip",
+        "The aquatic star will protect you"
+      ],
+      [
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png/revision/latest?cb=20140827211545"
+      ],
+      [
+        "Sell",
+        "      7  20  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+      ]
+    ],
+    "craftingStations": [],
+    "craftingIngredients": []
+  },
+  {
+    "id": 3027,
+    "itemName": "Dormant Brimseeker",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/03/Dormant_Brimseeker.png/revision/latest?cb=20200401223536",
+    "itemSpecs": [
+      [
+        "Type",
+        "Weapon"
+      ],
+      [
+        "Damage",
+        "42 Summon"
+      ],
+      [
+        "Knockback",
+        "3 (Very Weak)"
+      ],
+      [
+        "Mana",
+        "10"
+      ],
+      [
+        "Use time",
+        "24 Fast"
+      ],
+      [
+        "Grants Buff",
+        "Brimseeker"
+      ],
+      [
+        "Buff tooltip",
+        "Does it want something from you?"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/71/Brimstone_Flames.png/revision/latest?cb=20200205054656",
+        "Brimstone Flames",
+        "100% chance"
+      ],
+      [
+        "Debuff duration",
+        "3 seconds (Fireballs)"
+      ],
+      [
+        "Debuff tooltip",
+        "Rapid health loss"
+      ],
+      [
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png/revision/latest?cb=20140827211545"
+      ],
+      [
+        "Sell",
+        "      7  20  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+      ]
+    ],
+    "craftingStations": [],
+    "craftingIngredients": []
+  },
+  {
+    "id": 3028,
+    "itemName": "Dragonblood Disgorger",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8b/Dragonblood_Disgorger.png/revision/latest?cb=20200401223237",
+    "itemSpecs": [
+      [
+        "Type",
+        "Weapon"
+      ],
+      [
+        "Damage",
+        "160 Summon"
+      ],
+      [
+        "Knockback",
+        "4 (Weak)"
+      ],
+      [
+        "Mana",
+        "10"
+      ],
+      [
+        "Use time",
+        "14 Very Fast"
+      ],
+      [
+        "Grants Buff",
+        "Skeletal Dragons"
+      ],
+      [
+        "Buff tooltip",
+        "Big happy family"
+      ],
+      [
+        "Rarity",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/ec/Rarity_color_12.png/revision/latest?cb=20180106234938"
+      ],
+      [
+        "Sell",
+        "      24  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+      ]
+    ],
+    "craftingStations": [
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e2/Ancient_Manipulator.png/revision/latest?cb=20200516185008",
+        "Ancient Manipulator"
+      ]
+    ],
+    "craftingIngredients": [
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/1e/Bloodstone_Core.png/revision/latest?cb=20200309061852",
+        "Bloodstone Core",
+        "12"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8b/Dragonblood_Disgorger.png/revision/latest?cb=20200401223237",
+        "Dragonblood Disgorger",
+        "1"
+      ]
+    ]
+  },
+  {
+    "id": 3029,
+    "itemName": "Dreadmine Staff",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/b5/Dreadmine_Staff.png/revision/latest?cb=20200802102710",
+    "itemSpecs": [
+      [
+        "Type",
+        "Weapon"
+      ],
+      [
+        "Damage",
+        "60 Summon"
+      ],
+      [
+        "Knockback",
+        "4.5 (Average)"
+      ],
+      [
+        "Mana",
+        "10"
+      ],
+      [
+        "Use time",
+        "24 Fast"
+      ],
+      [
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Rarity_color_7.png/revision/latest?cb=20140827202638"
+      ],
+      [
+        "Sell",
+        "      12  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+      ]
+    ],
+    "craftingStations": [
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/3d/Mythril_Anvil.png/revision/latest?cb=20200516215710",
+        "Mythril Anvil"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Orichalcum_Anvil.png/revision/latest?cb=20200516220030",
+        "Orichalcum Anvil"
+      ]
+    ],
+    "craftingIngredients": [
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/f2/Depth_Cells.png/revision/latest?cb=20200510224424",
+        "Depth Cells",
+        "10"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/65/Lumenyl.png/revision/latest?cb=20220917024042",
+        "Lumenyl",
+        "30"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/25/Tenebris.png/revision/latest?cb=20180318035106",
+        "Tenebris",
+        "10"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/b5/Dreadmine_Staff.png/revision/latest?cb=20200802102710",
+        "Dreadmine Staff",
+        "1"
+      ]
+    ]
+  },
+  {
+    "id": 3030,
+    "itemName": "Elemental Axe",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/99/Elemental_Axe.png/revision/latest?cb=20171124220840",
+    "itemSpecs": [
+      [
+        "Type",
+        "Weapon – Crafting material"
+      ],
+      [
+        "Damage",
+        "50 Summon"
+      ],
+      [
+        "Knockback",
+        "5 (Average)"
+      ],
+      [
+        "Mana",
+        "10"
+      ],
+      [
+        "Use time",
+        "14 Very Fast"
+      ],
+      [
+        "Grants Buff",
+        "Elemental Axe"
+      ],
+      [
+        "Buff tooltip",
+        "The elemental axe will protect you"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/71/Brimstone_Flames.png/revision/latest?cb=20200205054656",
+        "Brimstone Flames",
+        "100% chance"
+      ],
+      [
+        "Debuff duration",
+        "1.5 seconds"
+      ],
+      [
+        "Debuff tooltip",
+        "Rapid health loss"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Frostburn.png/revision/latest?cb=20170715155824",
+        "Frostburn",
+        "100% chance"
+      ],
+      [
+        "Debuff duration",
+        "1.5 seconds"
+      ],
+      [
+        "Debuff tooltip",
+        "It's either really hot or really cold. Either way it REALLY hurts"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d7/Holy_Flames.png/revision/latest?cb=20200420002433",
+        "Holy Flames",
+        "100% chance"
+      ],
+      [
+        "Debuff duration",
+        "1.5 seconds"
+      ],
+      [
+        "Debuff tooltip",
+        "Dissolving from holy light"
+      ],
+      [
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/96/Rarity_color_11.png/revision/latest?cb=20150702012429"
+      ],
+      [
+        "Sell",
+        "      22  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+      ]
+    ],
+    "craftingStations": [
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e2/Ancient_Manipulator.png/revision/latest?cb=20200516185008",
+        "Ancient Manipulator"
+      ]
+    ],
+    "craftingIngredients": [
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/89/Blade_Staff.png/revision/latest?cb=20200516192024",
+        "Blade Staff",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/75/Plantation_Staff.png/revision/latest?cb=20200205060611",
+        "Plantation Staff",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/7d/Haunted_Scroll.png/revision/latest?cb=20200401223555",
+        "Haunted Scroll",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/68/Galactica_Singularity.png/revision/latest?cb=20200802035734",
+        "Galactica Singularity",
+        "5"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/cf/Life_Alloy.png/revision/latest?cb=20200401221515",
+        "Life Alloy",
+        "5"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/60/Luminite_Bar.png/revision/latest?cb=20200516214944",
+        "Luminite Bar",
+        "5"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/99/Elemental_Axe.png/revision/latest?cb=20171124220840",
+        "Elemental Axe",
+        "1"
+      ]
+    ]
+  },
+  {
+    "id": 3031,
+    "itemName": "Endo Hydra Staff",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/ec/Endo_Hydra_Staff.png/revision/latest?cb=20200401223842",
+    "itemSpecs": [
+      [
+        "Type",
+        "Weapon"
+      ],
+      [
+        "Damage",
+        "225 Summon"
+      ],
+      [
+        "Knockback",
+        "3 (Very Weak)"
+      ],
+      [
+        "Mana",
+        "10"
+      ],
+      [
+        "Use time",
+        "9 Very Fast"
+      ],
+      [
+        "Grants Buff",
+        "Endo Hydra"
+      ],
+      [
+        "Buff tooltip",
+        "The endo hydra will protect you… for some reason"
+      ],
+      [
+        "Rarity",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e7/Rarity_color_14.png/revision/latest?cb=20180106235104"
+      ],
+      [
+        "Sell",
+        "      50  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+      ]
+    ],
+    "craftingStations": [
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c0/Cosmic_Anvil.png/revision/latest?cb=20211117014658",
+        "Cosmic Anvil"
+      ]
+    ],
+    "craftingIngredients": [
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/20/Staff_of_the_Frost_Hydra.png/revision/latest?cb=20200516222430",
+        "Staff of the Frost Hydra",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c6/Cosmilite_Bar.png/revision/latest?cb=20200222072206",
+        "Cosmilite Bar",
+        "8"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/bf/Endothermic_Energy.png/revision/latest?cb=20200310163808",
+        "Endothermic Energy",
+        "20"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/ec/Endo_Hydra_Staff.png/revision/latest?cb=20200401223842",
+        "Endo Hydra Staff",
+        "1"
+      ]
+    ]
+  },
+  {
+    "id": 3032,
+    "itemName": "Endogenesis",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/52/Endogenesis.png/revision/latest?cb=20200205094428",
+    "itemSpecs": [
+      [
+        "Type",
+        "Weapon"
+      ],
+      [
+        "Damage",
+        "1300 Summon"
+      ],
+      [
+        "Knockback",
+        "4 (Weak)"
+      ],
+      [
+        "Mana",
+        "80"
+      ],
+      [
+        "Use time",
+        "9 Very Fast"
+      ],
+      [
+        "Grants Buff",
+        "Endo Cooper"
+      ],
+      [
+        "Buff tooltip",
+        "The ascened[sic] Cooper will protect you"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/73/Exo_Freeze.png/revision/latest?cb=20181121034119",
+        "Exo Freeze",
+        "100% chance"
+      ],
+      [
+        "Debuff duration",
+        "1.5 seconds"
+      ],
+      [
+        "Debuff tooltip",
+        "Cannot move"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/fc/Glacial_State.png/revision/latest?cb=20200802043326",
+        "Glacial State",
+        "100% chance"
+      ],
+      [
+        "Debuff duration",
+        "2 seconds"
+      ],
+      [
+        "Debuff tooltip",
+        "Cannot move and defense is shattered"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Frostburn.png/revision/latest?cb=20170715155824",
+        "Frostburn",
+        "100% chance"
+      ],
+      [
+        "Debuff duration",
+        "3 seconds"
+      ],
+      [
+        "Debuff tooltip",
+        "It's either really hot or really cold. Either way it REALLY hurts"
+      ],
+      [
+        "Rarity",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8b/Rarity_color_16.png/revision/latest?cb=20180106235146"
+      ],
+      [
+        "Sell",
+        "      40  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+      ]
+    ],
+    "craftingStations": [
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/38/Draedon%27s_Forge.png/revision/latest?cb=20211117002300",
+        "Draedon's Forge"
+      ]
+    ],
+    "craftingIngredients": [
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/1a/Cryogenic_Staff.png/revision/latest?cb=20220314135129",
+        "Cryogenic Staff",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/f5/Blizzard_Staff.png/revision/latest?cb=20200516192439",
+        "Blizzard Staff",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/bf/Endothermic_Energy.png/revision/latest?cb=20200310163808",
+        "Endothermic Energy",
+        "100"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/0f/Core_of_Eleum.png/revision/latest?cb=20170913194337",
+        "Core of Eleum",
+        "15"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e6/Shadowspec_Bar.png/revision/latest?cb=20200222073041",
+        "Shadowspec Bar",
+        "5"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/52/Endogenesis.png/revision/latest?cb=20200205094428",
+        "Endogenesis",
+        "1"
+      ]
+    ]
+  },
+  {
+    "id": 3033,
+    "itemName": "Energy Staff",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/74/Energy_Staff.png/revision/latest?cb=20200802102755",
+    "itemSpecs": [
+      [
+        "Type",
+        "Weapon – Crafting material"
+      ],
+      [
+        "Damage",
+        "128 Summon"
+      ],
+      [
+        "Knockback",
+        "5 (Average)"
+      ],
+      [
+        "Mana",
+        "10"
+      ],
+      [
+        "Use time",
+        "14 Very Fast"
+      ],
+      [
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/96/Rarity_color_11.png/revision/latest?cb=20150702012429"
+      ],
+      [
+        "Sell",
+        "      22  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+      ]
+    ],
+    "craftingStations": [],
+    "craftingIngredients": []
+  },
+  {
+    "id": 3034,
+    "itemName": "Entropy's Vigil",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/60/Entropy%27s_Vigil.png/revision/latest?cb=20211117153034",
+    "itemSpecs": [
+      [
+        "Type",
+        "Weapon"
+      ],
+      [
+        "Damage",
+        "40 Summon"
+      ],
+      [
+        "Knockback",
+        "2 (Very Weak)"
+      ],
+      [
+        "Mana",
+        "10"
+      ],
+      [
+        "Use time",
+        "24 Fast"
+      ],
+      [
+        "Velocity",
+        "10"
+      ],
+      [
+        "Grants Buff",
+        "Blighted Eyes"
+      ],
+      [
+        "Buff tooltip",
+        "Calamitas and her brothers will protect you"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/71/Brimstone_Flames.png/revision/latest?cb=20200205054656",
+        "Brimstone Flames",
+        "100% chance"
+      ],
+      [
+        "Debuff duration",
+        "2 seconds (Laser, Flamethrower)"
+      ],
+      [
+        "Debuff tooltip",
+        "Rapid health loss"
+      ],
+      [
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Rarity_color_7.png/revision/latest?cb=20140827202638"
+      ],
+      [
+        "Sell",
+        "      12  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+      ]
+    ],
+    "craftingStations": [],
+    "craftingIngredients": []
+  },
+  {
+    "id": 3035,
+    "itemName": "Ethereal Subjugator",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/df/Ethereal_Subjugator.png/revision/latest?cb=20191106031337",
+    "itemSpecs": [
+      [
+        "Type",
+        "Weapon"
+      ],
+      [
+        "Damage",
+        "45 Summon"
+      ],
+      [
+        "Knockback",
+        "1 (Extremely Weak)"
+      ],
+      [
+        "Mana",
+        "10"
+      ],
+      [
+        "Use time",
+        "9 Very Fast"
+      ],
+      [
+        "Grants Buff",
+        "Phantom"
+      ],
+      [
+        "Buff tooltip",
+        "The phantom will protect you"
+      ],
+      [
+        "Rarity",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/36/Rarity_color_13.png/revision/latest?cb=20180106235025"
+      ],
+      [
+        "Sell",
+        "      28  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+      ]
+    ],
+    "craftingStations": [],
+    "craftingIngredients": []
+  },
+  {
+    "id": 3036,
+    "itemName": "Eye of Night",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/37/Eye_of_Night.png/revision/latest?cb=20211117013334",
+    "itemSpecs": [
+      [
+        "Type",
+        "Weapon – Crafting material"
+      ],
+      [
+        "Damage",
+        "24 Summon"
+      ],
+      [
+        "Knockback",
+        "1 (Extremely Weak)"
+      ],
+      [
+        "Mana",
+        "10"
+      ],
+      [
+        "Use time",
+        "29 Average"
+      ],
+      [
+        "Grants Buff",
+        "Eye of Night"
+      ],
+      [
+        "Buff tooltip",
+        "It eerily watches"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a0/Cursed_Inferno.png/revision/latest?cb=20170710211519",
+        "Cursed Inferno",
+        "100% chance"
+      ],
+      [
+        "Debuff duration",
+        "2 seconds"
+      ],
+      [
+        "Debuff tooltip",
+        "Losing lifeAll damage taken increased by 20%"
+      ],
+      [
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png/revision/latest?cb=20140827153300"
+      ],
+      [
+        "Sell",
+        "      80  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png/revision/latest?cb=20200516221827"
+      ]
+    ],
+    "craftingStations": [
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/f8/Demon_Altar.png/revision/latest?cb=20170831034528",
+        "Demon Altar"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/70/Crimson_Altar.png/revision/latest?cb=20160626093352",
+        "Crimson Altar"
+      ]
+    ],
+    "craftingIngredients": [
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/6d/Belladonna_Spirit_Staff.png/revision/latest?cb=20220314162440",
+        "Belladonna Spirit Staff",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/fe/Staff_of_Necrosteocytes.png/revision/latest?cb=20200401223659",
+        "Staff of Necrosteocytes",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/b1/Vile_Feeder.png/revision/latest?cb=20200401223728",
+        "Vile Feeder",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/72/Imp_Staff.png/revision/latest?cb=20200516214233",
+        "Imp Staff",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/37/Eye_of_Night.png/revision/latest?cb=20211117013334",
+        "Eye of Night",
+        "1"
+      ]
+    ]
+  },
+  {
+    "id": 3037,
+    "itemName": "Flamsteed Ring",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/1c/Flamsteed_Ring.png/revision/latest?cb=20200802012439",
+    "itemSpecs": [
+      [
+        "Type",
+        "Weapon"
+      ],
+      [
+        "Damage",
+        "1999 Summon"
+      ],
+      [
+        "Knockback",
+        "1 (Extremely Weak)"
+      ],
+      [
+        "Mana",
+        "200"
+      ],
+      [
+        "Use time",
+        "9 Very Fast"
+      ],
+      [
+        "Grants Buff",
+        "Andromeda"
+      ],
+      [
+        "Buff tooltip",
+        "You're controlling a piece of history"
+      ],
+      [
+        null,
+        "Andromeda Cripple",
+        ""
+      ],
+      [
+        "Debuff duration",
+        "6 seconds (Dismount while a boss is alive)"
+      ],
+      [
+        "Debuff tooltip",
+        "You're slow"
+      ],
+      [
+        "Rarity",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8b/Rarity_color_16.png/revision/latest?cb=20180106235146"
+      ],
+      [
+        "Sell",
+        "      40  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+      ]
+    ],
+    "craftingStations": [
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/38/Draedon%27s_Forge.png/revision/latest?cb=20211117002300",
+        "Draedon's Forge"
+      ]
+    ],
+    "craftingIngredients": [
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c6/Cosmilite_Bar.png/revision/latest?cb=20200222072206",
+        "Cosmilite Bar",
+        "40"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/f6/Excelsus.png/revision/latest?cb=20190306043357",
+        "Excelsus",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/77/Cosmic_Viper_Engine.png/revision/latest?cb=20200401223521",
+        "Cosmic Viper Engine",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fd/Vortex_Booster.png/revision/latest?cb=20200516223400",
+        "Vortex Booster",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e6/Shadowspec_Bar.png/revision/latest?cb=20200222073041",
+        "Shadowspec Bar",
+        "5"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/1c/Flamsteed_Ring.png/revision/latest?cb=20200802012439",
+        "Flamsteed Ring",
+        "1"
+      ]
+    ]
+  },
+  {
+    "id": 3038,
+    "itemName": "Flesh of Infidelity",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/30/Flesh_of_Infidelity.png/revision/latest?cb=20211117013113",
+    "itemSpecs": [
+      [
+        "Type",
+        "Weapon – Crafting material"
+      ],
+      [
+        "Damage",
+        "23 Summon"
+      ],
+      [
+        "Knockback",
+        "1 (Extremely Weak)"
+      ],
+      [
+        "Mana",
+        "10"
+      ],
+      [
+        "Use time",
+        "29 Average"
+      ],
+      [
+        "Grants Buff",
+        "Flesh Ball"
+      ],
+      [
+        "Buff tooltip",
+        "Why is it following you?"
+      ],
+      [
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png/revision/latest?cb=20140827153300"
+      ],
+      [
+        "Sell",
+        "      80  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png/revision/latest?cb=20200516221827"
+      ]
+    ],
+    "craftingStations": [
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/f8/Demon_Altar.png/revision/latest?cb=20170831034528",
+        "Demon Altar"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/70/Crimson_Altar.png/revision/latest?cb=20160626093352",
+        "Crimson Altar"
+      ]
+    ],
+    "craftingIngredients": [
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/6d/Belladonna_Spirit_Staff.png/revision/latest?cb=20220314162440",
+        "Belladonna Spirit Staff",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/fe/Staff_of_Necrosteocytes.png/revision/latest?cb=20200401223659",
+        "Staff of Necrosteocytes",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/b9/Scab_Ripper.png/revision/latest?cb=20200401223639",
+        "Scab Ripper",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/72/Imp_Staff.png/revision/latest?cb=20200516214233",
+        "Imp Staff",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/30/Flesh_of_Infidelity.png/revision/latest?cb=20211117013113",
+        "Flesh of Infidelity",
+        "1"
+      ]
+    ]
+  },
+  {
+    "id": 3039,
+    "itemName": "Flowers of Mortality",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/97/Flowers_of_Mortality.png/revision/latest?cb=20211117013210",
+    "itemSpecs": [
+      [
+        "Type",
+        "Weapon"
+      ],
+      [
+        "Damage",
+        "140 Summon"
+      ],
+      [
+        "Knockback",
+        "5 (Average)"
+      ],
+      [
+        "Mana",
+        "10"
+      ],
+      [
+        "Use time",
+        "14 Very Fast"
+      ],
+      [
+        "Grants Buff",
+        "Flowers of Mortality"
+      ],
+      [
+        "Buff tooltip",
+        "Celestial blossoms surround you"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/71/Brimstone_Flames.png/revision/latest?cb=20200205054656",
+        "Brimstone Flames",
+        "100% chance"
+      ],
+      [
+        "Debuff duration",
+        "1.5 seconds"
+      ],
+      [
+        "Debuff tooltip",
+        "Rapid health loss"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Frostburn.png/revision/latest?cb=20170715155824",
+        "Frostburn",
+        "100% chance"
+      ],
+      [
+        "Debuff duration",
+        "1.5 seconds"
+      ],
+      [
+        "Debuff tooltip",
+        "It's either really hot or really cold. Either way it REALLY hurts"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d7/Holy_Flames.png/revision/latest?cb=20200420002433",
+        "Holy Flames",
+        "100% chance"
+      ],
+      [
+        "Debuff duration",
+        "1.5 seconds"
+      ],
+      [
+        "Debuff tooltip",
+        "Dissolving from holy light"
+      ],
+      [
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/96/Rarity_color_11.png/revision/latest?cb=20150702012429"
+      ],
+      [
+        "Sell",
+        "      22  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+      ]
+    ],
+    "craftingStations": [
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e2/Ancient_Manipulator.png/revision/latest?cb=20200516185008",
+        "Ancient Manipulator"
+      ]
+    ],
+    "craftingIngredients": [
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/7a/Wither_Blossoms_Staff.png/revision/latest?cb=20211117003459",
+        "Wither Blossoms Staff",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d5/Viral_Sprout.png/revision/latest?cb=20211117003704",
+        "Viral Sprout",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/60/Luminite_Bar.png/revision/latest?cb=20200516214944",
+        "Luminite Bar",
+        "5"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/68/Galactica_Singularity.png/revision/latest?cb=20200802035734",
+        "Galactica Singularity",
+        "5"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/cf/Life_Alloy.png/revision/latest?cb=20200401221515",
+        "Life Alloy",
+        "5"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/97/Flowers_of_Mortality.png/revision/latest?cb=20211117013210",
+        "Flowers of Mortality",
+        "1"
+      ]
+    ]
+  },
+  {
+    "id": 3040,
+    "itemName": "Forgotten Apex Wand",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/0a/Forgotten_Apex_Wand.png/revision/latest?cb=20200205091737",
+    "itemSpecs": [
+      [
+        "Type",
+        "Weapon – Crafting material"
+      ],
+      [
+        "Damage",
+        "28 Summon"
+      ],
+      [
+        "Knockback",
+        "4 (Weak)"
+      ],
+      [
+        "Mana",
+        "10"
+      ],
+      [
+        "Use time",
+        "24 Fast"
+      ],
+      [
+        "Velocity",
+        "12"
+      ],
+      [
+        "Grants Buff",
+        "Ancient Mineral Shark"
+      ],
+      [
+        "Buff tooltip",
+        "Ancient yet so dangerous"
+      ],
+      [
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png/revision/latest?cb=20140827211545"
+      ],
+      [
+        "Sell",
+        "      7  20  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+      ]
+    ],
+    "craftingStations": [
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/3d/Mythril_Anvil.png/revision/latest?cb=20200516215710",
+        "Mythril Anvil"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Orichalcum_Anvil.png/revision/latest?cb=20200516220030",
+        "Orichalcum Anvil"
+      ]
+    ],
+    "craftingIngredients": [
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/04/Forbidden_Fragment.png/revision/latest?cb=20200516212633",
+        "Forbidden Fragment",
+        "2"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/a7/Any_Adamantite_Bar.gif/revision/latest?cb=20191128205211",
+        "Any Adamantite Bar",
+        "5"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/2e/Amethyst.png/revision/latest?cb=20200516184617",
+        "Amethyst",
+        "4"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/0a/Forgotten_Apex_Wand.png/revision/latest?cb=20200205091737",
+        "Forgotten Apex Wand",
+        "1"
+      ]
+    ]
+  },
+  {
+    "id": 3041,
+    "itemName": "Frost Blossom Staff",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/cc/Frost_Blossom_Staff.png/revision/latest?cb=20200401221740",
+    "itemSpecs": [
+      [
+        "Type",
+        "Weapon – Crafting material"
+      ],
+      [
+        "Damage",
+        "10 Summon"
+      ],
+      [
+        "Knockback",
+        "2 (Very Weak)"
+      ],
+      [
+        "Mana",
+        "10"
+      ],
+      [
+        "Use time",
+        "34 Slow"
+      ],
+      [
+        "Grants Buff",
+        "Frost Blossom"
+      ],
+      [
+        "Buff tooltip",
+        "A cold, prickly flower is floating uncomfortably close to you"
+      ],
+      [
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png/revision/latest?cb=20140827153216"
+      ],
+      [
+        "Sell",
+        "      20  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png/revision/latest?cb=20200516221827"
+      ]
+    ],
+    "craftingStations": [
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c3/Iron_Anvil.png/revision/latest?cb=20200516214257",
+        "Iron Anvil"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/32/Lead_Anvil.png/revision/latest?cb=20200516214608",
+        "Lead Anvil"
+      ]
+    ],
+    "craftingIngredients": [
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/23/Shiverthorn.png/revision/latest?cb=20200516221732",
+        "Shiverthorn",
+        "5"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/2c/Any_Snow_Block.gif/revision/latest?cb=20200326123715",
+        "Any Snow Block",
+        "50"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/52/Any_Ice_Block.gif/revision/latest?cb=20200326123635",
+        "Any Ice Block",
+        "50"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/cc/Frost_Blossom_Staff.png/revision/latest?cb=20200401221740",
+        "Frost Blossom Staff",
+        "1"
+      ]
+    ]
+  },
+  {
+    "id": 3042,
+    "itemName": "Fuel Cell Bundle",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/2d/Fuel_Cell_Bundle.png/revision/latest?cb=20200401214633",
+    "itemSpecs": [
+      [
+        "Type",
+        "Weapon – Crafting material"
+      ],
+      [
+        "Damage",
+        "20 Summon"
+      ],
+      [
+        "Knockback",
+        "7 (Strong)"
+      ],
+      [
+        "Mana",
+        "10"
+      ],
+      [
+        "Use time",
+        "19 Very Fast"
+      ],
+      [
+        "Grants Buff",
+        "Mini Plaguebringer"
+      ],
+      [
+        "Buff tooltip",
+        "A small plague bee is following you"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/6a/Plague.png/revision/latest?cb=20200402072734",
+        "Plague",
+        "100% chance"
+      ],
+      [
+        "Debuff duration",
+        "3 seconds"
+      ],
+      [
+        "Debuff tooltip",
+        "Rotting from the inside"
+      ],
+      [
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png/revision/latest?cb=20140827153336"
+      ],
+      [
+        "Sell",
+        "      16  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+      ]
+    ],
+    "craftingStations": [],
+    "craftingIngredients": []
+  },
+  {
+    "id": 3043,
+    "itemName": "Gamma Heart",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/82/Gamma_Heart.png/revision/latest?cb=20200416030721",
+    "itemSpecs": [
+      [
+        "Type",
+        "Weapon"
+      ],
+      [
+        "Damage",
+        "173 Summon"
+      ],
+      [
+        "Knockback",
+        "3 (Very Weak)"
+      ],
+      [
+        "Mana",
+        "10"
+      ],
+      [
+        "Use time",
+        "14 Very Fast"
+      ],
+      [
+        "Grants Buff",
+        "Gamma Hydra"
+      ],
+      [
+        "Buff tooltip",
+        "..."
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/fc/Sulphuric_Poisoning.png/revision/latest?cb=20200822014714",
+        "Sulphuric Poisoning",
+        "100% chance"
+      ],
+      [
+        "Debuff duration",
+        "4 seconds (Gamma Bullet)"
+      ],
+      [
+        "Debuff tooltip",
+        "The acidic water burns away your flesh"
+      ],
+      [
+        "Rarity",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/36/Rarity_color_13.png/revision/latest?cb=20180106235025"
+      ],
+      [
+        "Sell",
+        "      26  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+      ]
+    ],
+    "craftingStations": [],
+    "craftingIngredients": []
+  },
+  {
+    "id": 3044,
+    "itemName": "Gastric Belcher Staff",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/2c/Gastric_Belcher_Staff.png/revision/latest?cb=20200802015255",
+    "itemSpecs": [
+      [
+        "Type",
+        "Weapon"
+      ],
+      [
+        "Damage",
+        "60 Summon"
+      ],
+      [
+        "Knockback",
+        "1 (Extremely Weak)"
+      ],
+      [
+        "Mana",
+        "10"
+      ],
+      [
+        "Use time",
+        "19 Very Fast"
+      ],
+      [
+        "Grants Buff",
+        "Gastric Aberration"
+      ],
+      [
+        "Buff tooltip",
+        "The aquatic aberration will protect you"
+      ],
+      [
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Rarity_color_7.png/revision/latest?cb=20140827202638"
+      ],
+      [
+        "Sell",
+        "      9  60  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+      ]
+    ],
+    "craftingStations": [],
+    "craftingIngredients": []
+  },
+  {
+    "id": 3045,
+    "itemName": "Godspawn Helix Staff",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/6b/Godspawn_Helix_Staff.png/revision/latest?cb=20200205100020",
+    "itemSpecs": [
+      [
+        "Type",
+        "Weapon"
+      ],
+      [
+        "Damage",
+        "60 Summon"
+      ],
+      [
+        "Knockback",
+        "1.25 (Extremely Weak)"
+      ],
+      [
+        "Mana",
+        "10"
+      ],
+      [
+        "Use time",
+        "19 Very Fast"
+      ],
+      [
+        "Grants Buff",
+        "Astral Probe"
+      ],
+      [
+        "Buff tooltip",
+        "The astral probe will protect you"
+      ],
+      [
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c2/Rarity_color_9.png/revision/latest?cb=20140827153409"
+      ],
+      [
+        "Sell",
+        "      19  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+      ]
+    ],
+    "craftingStations": [],
+    "craftingIngredients": []
+  },
+  {
+    "id": 3046,
+    "itemName": "Guidelight of Oblivion",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/20/Guidelight_of_Oblivion.png/revision/latest?cb=20200205123626",
+    "itemSpecs": [
+      [
+        "Type",
+        "Weapon"
+      ],
+      [
+        "Damage",
+        "188 Summon"
+      ],
+      [
+        "Knockback",
+        "5 (Average)"
+      ],
+      [
+        "Mana",
+        "10"
+      ],
+      [
+        "Use time",
+        "14 Very Fast"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/71/Brimstone_Flames.png/revision/latest?cb=20200205054656",
+        "Brimstone Flames",
+        "100% chance"
+      ],
+      [
+        "Debuff duration",
+        "3 seconds"
+      ],
+      [
+        "Debuff tooltip",
+        "Rapid health loss"
+      ],
+      [
+        "Rarity",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/ec/Rarity_color_12.png/revision/latest?cb=20180106234938"
+      ],
+      [
+        "Sell",
+        "      24  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+      ]
+    ],
+    "craftingStations": [],
+    "craftingIngredients": []
+  },
+  {
+    "id": 3047,
+    "itemName": "Haunted Scroll",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/7d/Haunted_Scroll.png/revision/latest?cb=20200401223555",
+    "itemSpecs": [
+      [
+        "Type",
+        "Weapon – Crafting material"
+      ],
+      [
+        "Damage",
+        "25 Summon"
+      ],
+      [
+        "Knockback",
+        "3 (Very Weak)"
+      ],
+      [
+        "Mana",
+        "10"
+      ],
+      [
+        "Use time",
+        "24 Fast"
+      ],
+      [
+        "Grants Buff",
+        "Haunted Dishes"
+      ],
+      [
+        "Buff tooltip",
+        "The haunted dishes will protect you"
+      ],
+      [
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png/revision/latest?cb=20140827211545"
+      ],
+      [
+        "Sell",
+        "      2  40  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+      ]
+    ],
+    "craftingStations": [
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c3/Iron_Anvil.png/revision/latest?cb=20200516214257",
+        "Iron Anvil"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/32/Lead_Anvil.png/revision/latest?cb=20200516214608",
+        "Lead Anvil"
+      ]
+    ],
+    "craftingIngredients": [
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/70/Any_Wood.gif/revision/latest?cb=20200403131148",
+        "Any Wood",
+        "10"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/ea/Soul_of_Light.png/revision/latest?cb=20200516231730",
+        "Soul of Light",
+        "5"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e9/Soul_of_Night.png/revision/latest?cb=20200516233827",
+        "Soul of Night",
+        "5"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9c/Bowl.png/revision/latest?cb=20200516200953",
+        "Bowl",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/7d/Haunted_Scroll.png/revision/latest?cb=20200401223555",
+        "Haunted Scroll",
+        "1"
+      ]
+    ]
+  },
+  {
+    "id": 3048,
+    "itemName": "Herring Staff",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/10/Herring_Staff.png/revision/latest?cb=20200802022806",
+    "itemSpecs": [
+      [
+        "Type",
+        "Weapon"
+      ],
+      [
+        "Damage",
+        "20 Summon"
+      ],
+      [
+        "Knockback",
+        "1.25 (Extremely Weak)"
+      ],
+      [
+        "Mana",
+        "5"
+      ],
+      [
+        "Use time",
+        "29 Average"
+      ],
+      [
+        "Velocity",
+        "10"
+      ],
+      [
+        "Grants Buff",
+        "Herring"
+      ],
+      [
+        "Buff tooltip",
+        "The herring will protect you"
+      ],
+      [
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png/revision/latest?cb=20140827153300"
+      ],
+      [
+        "Sell",
+        "      80  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png/revision/latest?cb=20200516221827"
+      ]
+    ],
+    "craftingStations": [],
+    "craftingIngredients": []
+  },
+  {
+    "id": 3049,
+    "itemName": "Hive Pod",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/24/Hive_Pod.png/revision/latest?cb=20190117111912",
+    "itemSpecs": [
+      [
+        "Type",
+        "Weapon"
+      ],
+      [
+        "Damage",
+        "75 Summon"
+      ],
+      [
+        "Knockback",
+        "4 (Weak)"
+      ],
+      [
+        "Mana",
+        "10"
+      ],
+      [
+        "Use time",
+        "19 Very Fast"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/65/Astral_Infection_%28debuff%29.png/revision/latest?cb=20190822121723",
+        "Astral Infection",
+        "100% chance"
+      ],
+      [
+        "Debuff duration",
+        "1 second (Hiveling)"
+      ],
+      [
+        "Debuff tooltip",
+        "Your flesh is melting off"
+      ],
+      [
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Rarity_color_7.png/revision/latest?cb=20140827202638"
+      ],
+      [
+        "Sell",
+        "      12  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+      ]
+    ],
+    "craftingStations": [],
+    "craftingIngredients": []
+  },
+  {
+    "id": 3050,
+    "itemName": "Igneous Exaltation",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/a6/Igneous_Exaltation.png/revision/latest?cb=20200401223609",
+    "itemSpecs": [
+      [
+        "Type",
+        "Weapon – Crafting material"
+      ],
+      [
+        "Damage",
+        "34 Summon"
+      ],
+      [
+        "Knockback",
+        "4.5 (Average)"
+      ],
+      [
+        "Mana",
+        "10"
+      ],
+      [
+        "Use time",
+        "24 Fast"
+      ],
+      [
+        "Grants Buff",
+        "Igneous Blade"
+      ],
+      [
+        "Buff tooltip",
+        "A Blade is orbiting you"
+      ],
+      [
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png/revision/latest?cb=20140827211545"
+      ],
+      [
+        "Sell",
+        "      7  20  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+      ]
+    ],
+    "craftingStations": [
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/3d/Mythril_Anvil.png/revision/latest?cb=20200516215710",
+        "Mythril Anvil"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Orichalcum_Anvil.png/revision/latest?cb=20200516220030",
+        "Orichalcum Anvil"
+      ]
+    ],
+    "craftingIngredients": [
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/03/Unholy_Core.png/revision/latest?cb=20200802022841",
+        "Unholy Core",
+        "10"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/7c/Essence_of_Chaos.png/revision/latest?cb=20170917231543",
+        "Essence of Chaos",
+        "5"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/a6/Igneous_Exaltation.png/revision/latest?cb=20200401223609",
+        "Igneous Exaltation",
+        "1"
+      ]
+    ]
+  },
+  {
+    "id": 3051,
+    "itemName": "Magical Conch",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/62/Magical_Conch.png/revision/latest?cb=20200420001953",
+    "itemSpecs": [
+      [
+        "Type",
+        "Weapon"
+      ],
+      [
+        "Damage",
+        "20 Summon"
+      ],
+      [
+        "Knockback",
+        "2 (Very Weak)"
+      ],
+      [
+        "Mana",
+        "10"
+      ],
+      [
+        "Use time",
+        "34 Slow"
+      ],
+      [
+        "Grants Buff",
+        "Hermit Crab"
+      ],
+      [
+        "Buff tooltip",
+        "The hermit crab will protect you"
+      ],
+      [
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png/revision/latest?cb=20140827153252"
+      ],
+      [
+        "Buy / Sell",
+        "      2   /       40  "
+      ]
+    ],
+    "craftingStations": [],
+    "craftingIngredients": []
+  },
+  {
+    "id": 3052,
+    "itemName": "Metastasis",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/14/Metastasis.png/revision/latest?cb=20211117015239",
+    "itemSpecs": [
+      [
+        "Type",
+        "Weapon"
+      ],
+      [
+        "Damage",
+        "666 Summon"
+      ],
+      [
+        "Knockback",
+        "2 (Very Weak)"
+      ],
+      [
+        "Mana",
+        "10"
+      ],
+      [
+        "Use time",
+        "9 Very Fast"
+      ],
+      [
+        "Grants Buff",
+        "Sepulcher"
+      ],
+      [
+        "Buff tooltip",
+        "It is not benevolent"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/71/Brimstone_Flames.png/revision/latest?cb=20200205054656",
+        "Brimstone Flames",
+        "100% chance"
+      ],
+      [
+        "Debuff duration",
+        "4 seconds (Dart)"
+      ],
+      [
+        "Debuff tooltip",
+        "Rapid health loss"
+      ],
+      [
+        "Rarity",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8d/Rarity_color_15.png/revision/latest?cb=20180106235128"
+      ],
+      [
+        "Sell",
+        "      30  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+      ]
+    ],
+    "craftingStations": [],
+    "craftingIngredients": []
+  },
+  {
+    "id": 3053,
+    "itemName": "Midnight Sun Beacon",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/0c/Midnight_Sun_Beacon.png/revision/latest?cb=20200401233515",
+    "itemSpecs": [
+      [
+        "Type",
+        "Weapon"
+      ],
+      [
+        "Damage",
+        "191 Summon"
+      ],
+      [
+        "Knockback",
+        "1 (Extremely Weak)"
+      ],
+      [
+        "Mana",
+        "10"
+      ],
+      [
+        "Use time",
+        "9 Very Fast"
+      ],
+      [
+        "Velocity",
+        "10"
+      ],
+      [
+        "Grants Buff",
+        "Midnight Sun UFO"
+      ],
+      [
+        "Buff tooltip",
+        "A strange UFO is observing you, and it's making you very uncomfortable"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/56/Electrified.png/revision/latest?cb=20150701075756",
+        "Electrified",
+        "100% chance"
+      ],
+      [
+        "Debuff duration",
+        "3 seconds (Sweeping laser beam)"
+      ],
+      [
+        "Debuff tooltip",
+        "You cannot move"
+      ],
+      [
+        "Rarity",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8d/Rarity_color_15.png/revision/latest?cb=20180106235128"
+      ],
+      [
+        "Sell",
+        "      30  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+      ]
+    ],
+    "craftingStations": [
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c0/Cosmic_Anvil.png/revision/latest?cb=20211117014658",
+        "Cosmic Anvil"
+      ]
+    ],
+    "craftingIngredients": [
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/47/Xeno_Staff.png/revision/latest?cb=20200516223729",
+        "Xeno Staff",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/87/Lunar_Portal_Staff.png/revision/latest?cb=20200516214955",
+        "Lunar Portal Staff",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8d/Auric_Bar.png/revision/latest?cb=20221010030406",
+        "Auric Bar",
+        "5"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/0c/Midnight_Sun_Beacon.png/revision/latest?cb=20200401233515",
+        "Midnight Sun Beacon",
+        "1"
+      ]
+    ]
+  },
+  {
+    "id": 3054,
+    "itemName": "Mounted Scanner",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/0c/Mounted_Scanner.png/revision/latest?cb=20200802010520",
+    "itemSpecs": [
+      [
+        "Type",
+        "Weapon"
+      ],
+      [
+        "Damage",
+        "41 Summon"
+      ],
+      [
+        "Knockback",
+        "2 (Very Weak)"
+      ],
+      [
+        "Mana",
+        "10"
+      ],
+      [
+        "Use time",
+        "24 Fast"
+      ],
+      [
+        "Grants Buff",
+        "Mounted Scanner"
+      ],
+      [
+        "Buff tooltip",
+        "Powerful machinery surrounds you"
+      ],
+      [
+        "Rarity",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/bb/Rarity_color_draedon_arsenal.png/revision/latest?cb=20200802010826"
+      ],
+      [
+        "Sell",
+        "      4  80  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+      ]
+    ],
+    "craftingStations": [
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/3d/Mythril_Anvil.png/revision/latest?cb=20200516215710",
+        "Mythril Anvil"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Orichalcum_Anvil.png/revision/latest?cb=20200516220030",
+        "Orichalcum Anvil"
+      ]
+    ],
+    "craftingIngredients": [
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/66/Mysterious_Circuitry.png/revision/latest?cb=20200802005902",
+        "Mysterious Circuitry",
+        "15"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/48/Dubious_Plating.png/revision/latest?cb=20200802005840",
+        "Dubious Plating",
+        "5"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e8/Any_Mythril_Bar.gif/revision/latest?cb=20211117005505",
+        "Any Mythril Bar",
+        "10"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/80/Soul_of_Fright.png/revision/latest?cb=20200517010617",
+        "Soul of Fright",
+        "20"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/0c/Mounted_Scanner.png/revision/latest?cb=20200802010520",
+        "Mounted Scanner",
+        "1"
+      ]
+    ]
+  },
+  {
+    "id": 3055,
+    "itemName": "Orthocera Shell",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d7/Orthocera_Shell.png/revision/latest?cb=20200401223624",
+    "itemSpecs": [
+      [
+        "Type",
+        "Weapon"
+      ],
+      [
+        "Damage",
+        "53 Summon"
+      ],
+      [
+        "Knockback",
+        "2 (Very Weak)"
+      ],
+      [
+        "Mana",
+        "10"
+      ],
+      [
+        "Use time",
+        "24 Fast"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8a/Venom.png/revision/latest?cb=20170715013433",
+        "Venom",
+        "100% chance"
+      ],
+      [
+        "Debuff duration",
+        "3 seconds"
+      ],
+      [
+        "Debuff tooltip",
+        "Losing life"
+      ],
+      [
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png/revision/latest?cb=20140827211545"
+      ],
+      [
+        "Sell",
+        "      7  20  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+      ]
+    ],
+    "craftingStations": [],
+    "craftingIngredients": []
+  },
+  {
+    "id": 3056,
+    "itemName": "Perdition",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/3e/Perdition.png/revision/latest?cb=20211117010148",
+    "itemSpecs": [
+      [
+        "Type",
+        "Weapon"
+      ],
+      [
+        "Damage",
+        "444 Summon"
+      ],
+      [
+        "Knockback",
+        "4 (Weak)"
+      ],
+      [
+        "Mana",
+        "10"
+      ],
+      [
+        "Use time",
+        "9 Very Fast"
+      ],
+      [
+        "Grants Buff",
+        "Perdition"
+      ],
+      [
+        "Buff tooltip",
+        "How unfortunate"
+      ],
+      [
+        "Rarity",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8d/Rarity_color_15.png/revision/latest?cb=20180106235128"
+      ],
+      [
+        "Sell",
+        "      30  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+      ]
+    ],
+    "craftingStations": [],
+    "craftingIngredients": []
+  },
+  {
+    "id": 3057,
+    "itemName": "Plantation Staff",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/75/Plantation_Staff.png/revision/latest?cb=20200205060611",
+    "itemSpecs": [
+      [
+        "Type",
+        "Weapon – Crafting material"
+      ],
+      [
+        "Damage",
+        "55 Summon"
+      ],
+      [
+        "Knockback",
+        "1 (Extremely Weak)"
+      ],
+      [
+        "Mana",
+        "10"
+      ],
+      [
+        "Use time",
+        "19 Very Fast"
+      ],
+      [
+        "Grants Buff",
+        "Plantation"
+      ],
+      [
+        "Buff tooltip",
+        "The miniature plantera will protect you"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/11/Poisoned.png/revision/latest?cb=20170708221026",
+        "Poisoned",
+        "100% chance"
+      ],
+      [
+        "Debuff duration",
+        "5 seconds (Contact)3 seconds (Green seed, Thorn ball, Spore)1 second (Pink seed)"
+      ],
+      [
+        "Debuff tooltip",
+        "Slowly losing life"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8a/Venom.png/revision/latest?cb=20170715013433",
+        "Venom",
+        "100% chance"
+      ],
+      [
+        "Debuff duration",
+        "5 seconds (Contact)3 seconds (Green seed shotgun)"
+      ],
+      [
+        "Debuff tooltip",
+        "Losing life"
+      ],
+      [
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png/revision/latest?cb=20140827153336"
+      ],
+      [
+        "Sell",
+        "      16  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+      ]
+    ],
+    "craftingStations": [
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/3d/Mythril_Anvil.png/revision/latest?cb=20200516215710",
+        "Mythril Anvil"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Orichalcum_Anvil.png/revision/latest?cb=20200516220030",
+        "Orichalcum Anvil"
+      ]
+    ],
+    "craftingIngredients": [
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/30/Flesh_of_Infidelity.png/revision/latest?cb=20211117013113",
+        "Flesh of Infidelity",
+        "1"
+      ],
+      [
+        null
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/37/Eye_of_Night.png/revision/latest?cb=20211117013334",
+        "Eye of Night"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/2a/Deepsea_Staff.png/revision/latest?cb=20211117153024",
+        "Deepsea Staff",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/86/Optic_Staff.png/revision/latest?cb=20200516220008",
+        "Optic Staff",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/87/Living_Shard.png/revision/latest?cb=20211117042745",
+        "Living Shard",
+        "10"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/75/Plantation_Staff.png/revision/latest?cb=20200205060611",
+        "Plantation Staff",
+        "1"
+      ]
+    ]
+  },
+  {
+    "id": 3058,
+    "itemName": "Pole Warper",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/f1/Pole_Warper.png/revision/latest?cb=20200802011807",
+    "itemSpecs": [
+      [
+        "Type",
+        "Weapon"
+      ],
+      [
+        "Damage",
+        "310 Summon"
+      ],
+      [
+        "Knockback",
+        "8 (Very Strong)"
+      ],
+      [
+        "Mana",
+        "12"
+      ],
+      [
+        "Use time",
+        "9 Very Fast"
+      ],
+      [
+        "Grants Buff",
+        "Pole Warper"
+      ],
+      [
+        "Buff tooltip",
+        "Sentient magnets are attracted to you"
+      ],
+      [
+        "Rarity",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/bb/Rarity_color_draedon_arsenal.png/revision/latest?cb=20200802010826"
+      ],
+      [
+        "Sell",
+        "      28  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+      ]
+    ],
+    "craftingStations": [
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c0/Cosmic_Anvil.png/revision/latest?cb=20211117014658",
+        "Cosmic Anvil"
+      ]
+    ],
+    "craftingIngredients": [
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/66/Mysterious_Circuitry.png/revision/latest?cb=20200802005902",
+        "Mysterious Circuitry",
+        "25"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/48/Dubious_Plating.png/revision/latest?cb=20200802005840",
+        "Dubious Plating",
+        "15"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c6/Cosmilite_Bar.png/revision/latest?cb=20200222072206",
+        "Cosmilite Bar",
+        "8"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/43/Ascendant_Spirit_Essence.png/revision/latest?cb=20200822041523",
+        "Ascendant Spirit Essence",
+        "2"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/f1/Pole_Warper.png/revision/latest?cb=20200802011807",
+        "Pole Warper",
+        "1"
+      ]
+    ]
+  },
+  {
+    "id": 3059,
+    "itemName": "Polyp Launcher",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/f5/Polyp_Launcher.png/revision/latest?cb=20211117011440",
+    "itemSpecs": [
+      [
+        "Type",
+        "Weapon"
+      ],
+      [
+        "Damage",
+        "12 Summon"
+      ],
+      [
+        "Knockback",
+        "0 (No Knockback)"
+      ],
+      [
+        "Mana",
+        "10"
+      ],
+      [
+        "Use time",
+        "34 Slow"
+      ],
+      [
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png/revision/latest?cb=20140827153252"
+      ],
+      [
+        "Buy / Sell",
+        "      2   /       40  "
+      ]
+    ],
+    "craftingStations": [],
+    "craftingIngredients": []
+  },
+  {
+    "id": 3060,
+    "itemName": "Pulse Turret Remote",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/43/Pulse_Turret_Remote.png/revision/latest?cb=20200802011425",
+    "itemSpecs": [
+      [
+        "Type",
+        "Weapon"
+      ],
+      [
+        "Damage",
+        "100 Summon"
+      ],
+      [
+        "Knockback",
+        "0 (No Knockback)"
+      ],
+      [
+        "Mana",
+        "10"
+      ],
+      [
+        "Use time",
+        "24 Fast"
+      ],
+      [
+        "Rarity",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/bb/Rarity_color_draedon_arsenal.png/revision/latest?cb=20200802010826"
+      ],
+      [
+        "Sell",
+        "      12  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+      ]
+    ],
+    "craftingStations": [
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/3d/Mythril_Anvil.png/revision/latest?cb=20200516215710",
+        "Mythril Anvil"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Orichalcum_Anvil.png/revision/latest?cb=20200516220030",
+        "Orichalcum Anvil"
+      ]
+    ],
+    "craftingIngredients": [
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/66/Mysterious_Circuitry.png/revision/latest?cb=20200802005902",
+        "Mysterious Circuitry",
+        "12"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/48/Dubious_Plating.png/revision/latest?cb=20200802005840",
+        "Dubious Plating",
+        "18"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/cf/Life_Alloy.png/revision/latest?cb=20200401221515",
+        "Life Alloy",
+        "5"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/2b/Infected_Armor_Plating.png/revision/latest?cb=20200802015333",
+        "Infected Armor Plating",
+        "5"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/43/Pulse_Turret_Remote.png/revision/latest?cb=20200802011425",
+        "Pulse Turret Remote",
+        "1"
+      ]
+    ]
+  },
+  {
+    "id": 3061,
+    "itemName": "Resurrection Butterfly",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/9a/Resurrection_Butterfly.png/revision/latest?cb=20190822031746",
+    "itemSpecs": [
+      [
+        "Type",
+        "Weapon"
+      ],
+      [
+        "Damage",
+        "65 Summon"
+      ],
+      [
+        "Knockback",
+        "1 (Extremely Weak)"
+      ],
+      [
+        "Mana",
+        "10"
+      ],
+      [
+        "Use time",
+        "19 Very Fast"
+      ],
+      [
+        "Grants Buff",
+        "Resurrection Butterfly"
+      ],
+      [
+        "Buff tooltip",
+        "Sleep beneath the Cherry Blossoms, Red-White Butterfly"
+      ],
+      [
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png/revision/latest?cb=20140827153336"
+      ],
+      [
+        "Sell",
+        "      12  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+      ]
+    ],
+    "craftingStations": [
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/3b/Loom.png/revision/latest?cb=20200516214936",
+        "Loom"
+      ]
+    ],
+    "craftingIngredients": [
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/83/Silk.png/revision/latest?cb=20200820022839",
+        "Silk",
+        "40"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/36/Ectoplasm.png/revision/latest?cb=20200516211757",
+        "Ectoplasm",
+        "20"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/cf/Life_Alloy.png/revision/latest?cb=20200401221515",
+        "Life Alloy",
+        "5"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/5c/Butterfly_Dust.png/revision/latest?cb=20200516202844",
+        "Butterfly Dust",
+        "2"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/9a/Resurrection_Butterfly.png/revision/latest?cb=20190822031746",
+        "Resurrection Butterfly",
+        "1"
+      ]
+    ]
+  },
+  {
+    "id": 3062,
+    "itemName": "Rusty Beacon Prototype",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c1/Rusty_Beacon_Prototype.png/revision/latest?cb=20200416031244",
+    "itemSpecs": [
+      [
+        "Type",
+        "Weapon"
+      ],
+      [
+        "Damage",
+        "0 Summon"
+      ],
+      [
+        "Knockback",
+        "0.5 (Extremely Weak)"
+      ],
+      [
+        "Mana",
+        "2"
+      ],
+      [
+        "Use time",
+        "33 Slow"
+      ],
+      [
+        "Velocity",
+        "10"
+      ],
+      [
+        "Grants Buff",
+        "Rusty Drone"
+      ],
+      [
+        "Buff tooltip",
+        "A pitifully fragile drone is observing you"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8b/Irradiated.png/revision/latest?cb=20211117001421",
+        "Irradiated",
+        "100% chance"
+      ],
+      [
+        "Debuff duration",
+        "1 seconds (Rust shards)"
+      ],
+      [
+        "Debuff tooltip",
+        "Your skin is burning off"
+      ],
+      [
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png/revision/latest?cb=20140827153216"
+      ],
+      [
+        "Sell",
+        "      20  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png/revision/latest?cb=20200516221827"
+      ]
+    ],
+    "craftingStations": [
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c3/Iron_Anvil.png/revision/latest?cb=20200516214257",
+        "Iron Anvil"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/32/Lead_Anvil.png/revision/latest?cb=20200516214608",
+        "Lead Anvil"
+      ]
+    ],
+    "craftingIngredients": [
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/0e/Sulphuric_Scale.png/revision/latest?cb=20200401222734",
+        "Sulphuric Scale",
+        "20"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b2/Any_Iron_Bar.gif/revision/latest?cb=20190113000920",
+        "Any Iron Bar",
+        "10"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c1/Rusty_Beacon_Prototype.png/revision/latest?cb=20200416031244",
+        "Rusty Beacon Prototype",
+        "1"
+      ]
+    ]
+  },
+  {
+    "id": 3063,
+    "itemName": "Sand Sharknado Staff",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/df/Sand_Sharknado_Staff.png/revision/latest?cb=20210410211651",
+    "itemSpecs": [
+      [
+        "Type",
+        "Weapon"
+      ],
+      [
+        "Damage",
+        "35 Summon"
+      ],
+      [
+        "Knockback",
+        "2 (Very Weak)"
+      ],
+      [
+        "Mana",
+        "10"
+      ],
+      [
+        "Use time",
+        "19 Very Fast"
+      ],
+      [
+        "Grants Buff",
+        "Sandnado"
+      ],
+      [
+        "Buff tooltip",
+        "The sandnado will protect you"
+      ],
+      [
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Rarity_color_7.png/revision/latest?cb=20140827202638"
+      ],
+      [
+        "Sell",
+        "      12  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+      ]
+    ],
+    "craftingStations": [],
+    "craftingIngredients": []
+  },
+  {
+    "id": 3064,
+    "itemName": "Saros Possession",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/9b/Saros_Possession.png/revision/latest?cb=20200401233544",
+    "itemSpecs": [
+      [
+        "Type",
+        "Weapon – Crafting material"
+      ],
+      [
+        "Damage",
+        "171 Summon"
+      ],
+      [
+        "Knockback",
+        "4 (Weak)"
+      ],
+      [
+        "Mana",
+        "10"
+      ],
+      [
+        "Use time",
+        "9 Very Fast"
+      ],
+      [
+        "Velocity",
+        "10"
+      ],
+      [
+        "Grants Buff",
+        "Saros Possession"
+      ],
+      [
+        "Buff tooltip",
+        "A radiant aura protects you"
+      ],
+      [
+        "Rarity",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e7/Rarity_color_14.png/revision/latest?cb=20180106235104"
+      ],
+      [
+        "Sell",
+        "      28  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+      ]
+    ],
+    "craftingStations": [
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c0/Cosmic_Anvil.png/revision/latest?cb=20211117014658",
+        "Cosmic Anvil"
+      ]
+    ],
+    "craftingIngredients": [
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/18/Sirius.png/revision/latest?cb=20220315140816",
+        "Sirius",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c6/Cosmilite_Bar.png/revision/latest?cb=20200222072206",
+        "Cosmilite Bar",
+        "8"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/31/Darksun_Fragment.png/revision/latest?cb=20200402231938",
+        "Darksun Fragment",
+        "8"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/9b/Saros_Possession.png/revision/latest?cb=20200401233544",
+        "Saros Possession",
+        "1"
+      ]
+    ]
+  },
+  {
+    "id": 3065,
+    "itemName": "Scab Ripper",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/b9/Scab_Ripper.png/revision/latest?cb=20200401223639",
+    "itemSpecs": [
+      [
+        "Type",
+        "Weapon – Crafting material"
+      ],
+      [
+        "Damage",
+        "15 Summon"
+      ],
+      [
+        "Knockback",
+        "0.5 (Extremely Weak)"
+      ],
+      [
+        "Mana",
+        "10"
+      ],
+      [
+        "Use time",
+        "29 Average"
+      ],
+      [
+        "Grants Buff",
+        "Baby Blood Crawler"
+      ],
+      [
+        "Buff tooltip",
+        "The baby blood crawler will protect you"
+      ],
+      [
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png/revision/latest?cb=20140827153252"
+      ],
+      [
+        "Sell",
+        "      40  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png/revision/latest?cb=20200516221827"
+      ]
+    ],
+    "craftingStations": [
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c3/Iron_Anvil.png/revision/latest?cb=20200516214257",
+        "Iron Anvil"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/32/Lead_Anvil.png/revision/latest?cb=20200516214608",
+        "Lead Anvil"
+      ]
+    ],
+    "craftingIngredients": [
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/ce/Crimtane_Bar.png/revision/latest?cb=20200516210436",
+        "Crimtane Bar",
+        "5"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/ea/Tissue_Sample.png/revision/latest?cb=20200516222946",
+        "Tissue Sample",
+        "9"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/2c/Shadewood.png/revision/latest?cb=20200516221636",
+        "Shadewood",
+        "20"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/b9/Scab_Ripper.png/revision/latest?cb=20200401223639",
+        "Scab Ripper",
+        "1"
+      ]
+    ]
+  },
+  {
+    "id": 3066,
+    "itemName": "Seabound Staff",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/74/Seabound_Staff.png/revision/latest?cb=20200402142421",
+    "itemSpecs": [
+      [
+        "Type",
+        "Weapon"
+      ],
+      [
+        "Damage",
+        "11 Summon"
+      ],
+      [
+        "Knockback",
+        "2 (Very Weak)"
+      ],
+      [
+        "Mana",
+        "10"
+      ],
+      [
+        "Use time",
+        "34 Slow"
+      ],
+      [
+        "Grants Buff",
+        "Brittle Star"
+      ],
+      [
+        "Buff tooltip",
+        "The brittle star will protect you"
+      ],
+      [
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png/revision/latest?cb=20140827153252"
+      ],
+      [
+        "Sell",
+        "      40  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png/revision/latest?cb=20200516221827"
+      ]
+    ],
+    "craftingStations": [],
+    "craftingIngredients": []
+  },
+  {
+    "id": 3067,
+    "itemName": "Shellfish Staff",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/6d/Shellfish_Staff.png/revision/latest?cb=20200402070514",
+    "itemSpecs": [
+      [
+        "Type",
+        "Weapon"
+      ],
+      [
+        "Damage",
+        "70 Summon"
+      ],
+      [
+        "Knockback",
+        "2 (Very Weak)"
+      ],
+      [
+        "Mana",
+        "10"
+      ],
+      [
+        "Use time",
+        "24 Fast"
+      ],
+      [
+        "Grants Buff",
+        "Shellfish"
+      ],
+      [
+        "Buff tooltip",
+        "The shellfish will protect you"
+      ],
+      [
+        null,
+        "Shellfish Claps",
+        "100% chance"
+      ],
+      [
+        "Debuff tooltip",
+        "Clamfest"
+      ],
+      [
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png/revision/latest?cb=20140827211545"
+      ],
+      [
+        "Sell",
+        "      7  20  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+      ]
+    ],
+    "craftingStations": [],
+    "craftingIngredients": []
+  },
+  {
+    "id": 3068,
+    "itemName": "Sirius",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/18/Sirius.png/revision/latest?cb=20220315140816",
+    "itemSpecs": [
+      [
+        "Type",
+        "Weapon – Crafting material"
+      ],
+      [
+        "Damage",
+        "160 Summon"
+      ],
+      [
+        "Knockback",
+        "3 (Very Weak)"
+      ],
+      [
+        "Mana",
+        "10"
+      ],
+      [
+        "Use time",
+        "9 Very Fast"
+      ],
+      [
+        "Velocity",
+        "10"
+      ],
+      [
+        "Grants Buff",
+        "Sirius"
+      ],
+      [
+        "Buff tooltip",
+        "A bit too bright, but it helps me"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/77/Nightwither.png/revision/latest?cb=20220315135554",
+        "Nightwither",
+        "100% chance"
+      ],
+      [
+        "Debuff duration",
+        "3 seconds"
+      ],
+      [
+        "Debuff tooltip",
+        "Incinerated by lunar rays"
+      ],
+      [
+        "Rarity",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/36/Rarity_color_13.png/revision/latest?cb=20180106235025"
+      ],
+      [
+        "Sell",
+        "      28  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+      ]
+    ],
+    "craftingStations": [
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e2/Ancient_Manipulator.png/revision/latest?cb=20200516185008",
+        "Ancient Manipulator"
+      ]
+    ],
+    "craftingIngredients": [
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/65/Lumenyl.png/revision/latest?cb=20220917024042",
+        "Lumenyl",
+        "5"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/58/Ruinous_Soul.png/revision/latest?cb=20211117043449",
+        "Ruinous Soul",
+        "2"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/aa/Exodium_Cluster.png/revision/latest?cb=20180816171833",
+        "Exodium Cluster",
+        "12"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d9/Sun_God_Staff.png/revision/latest?cb=20211117153052",
+        "Sun God Staff",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/18/Sirius.png/revision/latest?cb=20220315140816",
+        "Sirius",
+        "1"
+      ]
+    ]
+  },
+  {
+    "id": 3069,
+    "itemName": "Slime Puppet Staff",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/43/Slime_Puppet_Staff.png/revision/latest?cb=20211117011544",
+    "itemSpecs": [
+      [
+        "Type",
+        "Weapon"
+      ],
+      [
+        "Damage",
+        "26 Summon"
+      ],
+      [
+        "Knockback",
+        "3.6 (Weak)"
+      ],
+      [
+        "Mana",
+        "10"
+      ],
+      [
+        "Use time",
+        "29 Average"
+      ],
+      [
+        "Velocity",
+        "10"
+      ],
+      [
+        "Rarity",
+        null
+      ],
+      [
+        "Sell",
+        "      2  40  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+      ]
+    ],
+    "craftingStations": [],
+    "craftingIngredients": []
+  },
+  {
+    "id": 3070,
+    "itemName": "Snake Eyes",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/11/Snake_Eyes.png/revision/latest?cb=20200802011524",
+    "itemSpecs": [
+      [
+        "Type",
+        "Weapon"
+      ],
+      [
+        "Damage",
+        "36 Summon"
+      ],
+      [
+        "Knockback",
+        "3 (Very Weak)"
+      ],
+      [
+        "Mana",
+        "12"
+      ],
+      [
+        "Use time",
+        "14 Very Fast"
+      ],
+      [
+        "Grants Buff",
+        "Snake Eyes"
+      ],
+      [
+        "Buff tooltip",
+        "Always watching..."
+      ],
+      [
+        "Rarity",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/bb/Rarity_color_draedon_arsenal.png/revision/latest?cb=20200802010826"
+      ],
+      [
+        "Sell",
+        "      24  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+      ]
+    ],
+    "craftingStations": [
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e2/Ancient_Manipulator.png/revision/latest?cb=20200516185008",
+        "Ancient Manipulator"
+      ]
+    ],
+    "craftingIngredients": [
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/66/Mysterious_Circuitry.png/revision/latest?cb=20200802005902",
+        "Mysterious Circuitry",
+        "18"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/48/Dubious_Plating.png/revision/latest?cb=20200802005840",
+        "Dubious Plating",
+        "12"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/70/Uelibloom_Bar.png/revision/latest?cb=20191106032302",
+        "Uelibloom Bar",
+        "8"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/60/Luminite_Bar.png/revision/latest?cb=20200516214944",
+        "Luminite Bar",
+        "4"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/11/Snake_Eyes.png/revision/latest?cb=20200802011524",
+        "Snake Eyes",
+        "1"
+      ]
+    ]
+  },
+  {
+    "id": 3071,
+    "itemName": "Spikecrag Staff",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c6/Spikecrag_Staff.png/revision/latest?cb=20210410222752",
+    "itemSpecs": [
+      [
+        "Type",
+        "Weapon – Crafting material"
+      ],
+      [
+        "Damage",
+        "56 Summon"
+      ],
+      [
+        "Knockback",
+        "2 (Very Weak)"
+      ],
+      [
+        "Mana",
+        "10"
+      ],
+      [
+        "Use time",
+        "19 Very Fast"
+      ],
+      [
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png/revision/latest?cb=20140827153336"
+      ],
+      [
+        "Sell",
+        "      16  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+      ]
+    ],
+    "craftingStations": [],
+    "craftingIngredients": []
+  },
+  {
+    "id": 3072,
+    "itemName": "Squirrel Squire Staff",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/a8/Squirrel_Squire_Staff.png/revision/latest?cb=20200309052916",
+    "itemSpecs": [
+      [
+        "Type",
+        "Weapon"
+      ],
+      [
+        "Damage",
+        "8 Summon"
+      ],
+      [
+        "Knockback",
+        "0.5 (Extremely Weak)"
+      ],
+      [
+        "Mana",
+        "10"
+      ],
+      [
+        "Use time",
+        "34 Slow"
+      ],
+      [
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fd/Rarity_color_0.png/revision/latest?cb=20140827153204"
+      ],
+      [
+        "Sell",
+        "      10  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png/revision/latest?cb=20200516221827"
+      ]
+    ],
+    "craftingStations": [
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/91/Work_Bench.png/revision/latest?cb=20200516223653",
+        "Work Bench"
+      ]
+    ],
+    "craftingIngredients": [
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/70/Any_Wood.gif/revision/latest?cb=20200403131148",
+        "Any Wood",
+        "10"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/cd/Acorn.png/revision/latest?cb=20200516182633",
+        "Acorn",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/a8/Squirrel_Squire_Staff.png/revision/latest?cb=20200309052916",
+        "Squirrel Squire Staff",
+        "1"
+      ]
+    ]
+  },
+  {
+    "id": 3073,
+    "itemName": "Staff of Necrosteocytes",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/fe/Staff_of_Necrosteocytes.png/revision/latest?cb=20200401223659",
+    "itemSpecs": [
+      [
+        "Type",
+        "Weapon – Crafting material"
+      ],
+      [
+        "Damage",
+        "31 Summon"
+      ],
+      [
+        "Knockback",
+        "3.5 (Weak)"
+      ],
+      [
+        "Mana",
+        "10"
+      ],
+      [
+        "Use time",
+        "29 Average"
+      ],
+      [
+        "Grants Buff",
+        "Small Skeleton"
+      ],
+      [
+        "Buff tooltip",
+        "A skeleton is observing you"
+      ],
+      [
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png/revision/latest?cb=20140827153300"
+      ],
+      [
+        "Sell",
+        "      80  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png/revision/latest?cb=20200516221827"
+      ]
+    ],
+    "craftingStations": [],
+    "craftingIngredients": []
+  },
+  {
+    "id": 3074,
+    "itemName": "Staff of the Mechworm",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/db/Staff_of_the_Mechworm.png/revision/latest?cb=20190306043935",
+    "itemSpecs": [
+      [
+        "Type",
+        "Weapon – Crafting material"
+      ],
+      [
+        "Damage",
+        "161 Summon"
+      ],
+      [
+        "Knockback",
+        "2 (Very Weak)"
+      ],
+      [
+        "Mana",
+        "10"
+      ],
+      [
+        "Use time",
+        "9 Very Fast"
+      ],
+      [
+        "Velocity",
+        "10"
+      ],
+      [
+        "Grants Buff",
+        "Mechworm"
+      ],
+      [
+        "Buff tooltip",
+        "The mechworm will protect you"
+      ],
+      [
+        "Rarity",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e7/Rarity_color_14.png/revision/latest?cb=20180106235104"
+      ],
+      [
+        "Sell",
+        "      28  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+      ]
+    ],
+    "craftingStations": [],
+    "craftingIngredients": []
+  },
+  {
+    "id": 3075,
+    "itemName": "Star Swallower Containment Unit",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/39/Star_Swallower_Containment_Unit.png/revision/latest?cb=20200802010334",
+    "itemSpecs": [
+      [
+        "Type",
+        "Weapon"
+      ],
+      [
+        "Damage",
+        "24 Summon"
+      ],
+      [
+        "Knockback",
+        "2.25 (Very Weak)"
+      ],
+      [
+        "Mana",
+        "10"
+      ],
+      [
+        "Use time",
+        "30 Average"
+      ],
+      [
+        "Grants Buff",
+        "Star Swallower"
+      ],
+      [
+        "Buff tooltip",
+        "Mmmm myes"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8b/Irradiated.png/revision/latest?cb=20211117001421",
+        "Irradiated",
+        "100% chance"
+      ],
+      [
+        "Debuff duration",
+        "3 seconds (Droplets)"
+      ],
+      [
+        "Debuff tooltip",
+        "Your skin is burning off"
+      ],
+      [
+        "Rarity",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/bb/Rarity_color_draedon_arsenal.png/revision/latest?cb=20200802010826"
+      ],
+      [
+        "Sell",
+        "      80  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png/revision/latest?cb=20200516221827"
+      ]
+    ],
+    "craftingStations": [
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c3/Iron_Anvil.png/revision/latest?cb=20200516214257",
+        "Iron Anvil"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/32/Lead_Anvil.png/revision/latest?cb=20200516214608",
+        "Lead Anvil"
+      ]
+    ],
+    "craftingIngredients": [
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/66/Mysterious_Circuitry.png/revision/latest?cb=20200802005902",
+        "Mysterious Circuitry",
+        "8"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/48/Dubious_Plating.png/revision/latest?cb=20200802005840",
+        "Dubious Plating",
+        "4"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/27/Aerialite_Bar.png/revision/latest?cb=20191125144337",
+        "Aerialite Bar",
+        "4"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/5e/Sea_Prism.png/revision/latest?cb=20221028183445",
+        "Sea Prism",
+        "7"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/39/Star_Swallower_Containment_Unit.png/revision/latest?cb=20200802010334",
+        "Star Swallower Containment Unit",
+        "1"
+      ]
+    ]
+  },
+  {
+    "id": 3076,
+    "itemName": "Stormjaw Staff",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/57/Stormjaw_Staff.png/revision/latest?cb=20200401221505",
+    "itemSpecs": [
+      [
+        "Type",
+        "Weapon"
+      ],
+      [
+        "Damage",
+        "8 Summon"
+      ],
+      [
+        "Knockback",
+        "2 (Very Weak)"
+      ],
+      [
+        "Mana",
+        "10"
+      ],
+      [
+        "Use time",
+        "34 Slow"
+      ],
+      [
+        "Grants Buff",
+        "Baby Stormlion"
+      ],
+      [
+        "Buff tooltip",
+        "The baby stormlion will protect you"
+      ],
+      [
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png/revision/latest?cb=20140827153252"
+      ],
+      [
+        "Sell",
+        "      40  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png/revision/latest?cb=20200516221827"
+      ]
+    ],
+    "craftingStations": [],
+    "craftingIngredients": []
+  },
+  {
+    "id": 3077,
+    "itemName": "Sun God Staff",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d9/Sun_God_Staff.png/revision/latest?cb=20211117153052",
+    "itemSpecs": [
+      [
+        "Type",
+        "Weapon – Crafting material"
+      ],
+      [
+        "Damage",
+        "60 Summon"
+      ],
+      [
+        "Knockback",
+        "1.25 (Extremely Weak)"
+      ],
+      [
+        "Mana",
+        "10"
+      ],
+      [
+        "Use time",
+        "24 Fast"
+      ],
+      [
+        "Grants Buff",
+        "Solar God Spirit"
+      ],
+      [
+        "Buff tooltip",
+        "The solar god spirit will protect you"
+      ],
+      [
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e4/Rarity_color_6.png/revision/latest?cb=20150702012055"
+      ],
+      [
+        "Sell",
+        "      9  60  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+      ]
+    ],
+    "craftingStations": [
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/3d/Mythril_Anvil.png/revision/latest?cb=20200516215710",
+        "Mythril Anvil"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Orichalcum_Anvil.png/revision/latest?cb=20200516220030",
+        "Orichalcum Anvil"
+      ]
+    ],
+    "craftingIngredients": [
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/3d/Sun_Spirit_Staff.png/revision/latest?cb=20211117153100",
+        "Sun Spirit Staff",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/21/Essence_of_Sunlight.png/revision/latest?cb=20170917231424",
+        "Essence of Sunlight",
+        "5"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/0f/Soul_of_Sight.png/revision/latest?cb=20200517010622",
+        "Soul of Sight",
+        "3"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/39/Soul_of_Might.png/revision/latest?cb=20200517010620",
+        "Soul of Might",
+        "3"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/80/Soul_of_Fright.png/revision/latest?cb=20200517010617",
+        "Soul of Fright",
+        "3"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d9/Sun_God_Staff.png/revision/latest?cb=20211117153052",
+        "Sun God Staff",
+        "1"
+      ]
+    ]
+  },
+  {
+    "id": 3078,
+    "itemName": "Sun Spirit Staff",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/3d/Sun_Spirit_Staff.png/revision/latest?cb=20211117153100",
+    "itemSpecs": [
+      [
+        "Type",
+        "Weapon – Crafting material"
+      ],
+      [
+        "Damage",
+        "39 Summon"
+      ],
+      [
+        "Knockback",
+        "1.15 (Extremely Weak)"
+      ],
+      [
+        "Mana",
+        "10"
+      ],
+      [
+        "Use time",
+        "28 Average"
+      ],
+      [
+        "Grants Buff",
+        "Solar Spirit"
+      ],
+      [
+        "Buff tooltip",
+        "The solar spirit will protect you"
+      ],
+      [
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png/revision/latest?cb=20140827153216"
+      ],
+      [
+        "Sell",
+        "      2  50  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+      ]
+    ],
+    "craftingStations": [
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c3/Iron_Anvil.png/revision/latest?cb=20200516214257",
+        "Iron Anvil"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/32/Lead_Anvil.png/revision/latest?cb=20200516214608",
+        "Lead Anvil"
+      ]
+    ],
+    "craftingIngredients": [
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/f6/Sandstone_Brick.png/revision/latest?cb=20200516221415",
+        "Sandstone Brick",
+        "20"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e0/Desert_Feather.png/revision/latest?cb=20211117151953",
+        "Desert Feather",
+        "2"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/3d/Sun_Spirit_Staff.png/revision/latest?cb=20211117153100",
+        "Sun Spirit Staff",
+        "1"
+      ]
+    ]
+  },
+  {
+    "id": 3079,
+    "itemName": "Tactical Plague Engine",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/36/Tactical_Plague_Engine.png/revision/latest?cb=20200401223714",
+    "itemSpecs": [
+      [
+        "Type",
+        "Weapon – Crafting material"
+      ],
+      [
+        "Damage",
+        "52 Summon"
+      ],
+      [
+        "Knockback",
+        "0.5 (Extremely Weak)"
+      ],
+      [
+        "Mana",
+        "10"
+      ],
+      [
+        "Use time",
+        "14 Very Fast"
+      ],
+      [
+        "Grants Buff",
+        "Tactical Plague Engine"
+      ],
+      [
+        "Buff tooltip",
+        "A giant plague jet is following you"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/6a/Plague.png/revision/latest?cb=20200402072734",
+        "Plague",
+        "100% chance"
+      ],
+      [
+        "Debuff duration",
+        "3 seconds (Missile)"
+      ],
+      [
+        "Debuff tooltip",
+        "Rotting from the inside"
+      ],
+      [
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8f/Rarity_color_10.png/revision/latest?cb=20150630184410"
+      ],
+      [
+        "Sell",
+        "      20  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+      ]
+    ],
+    "craftingStations": [
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e2/Ancient_Manipulator.png/revision/latest?cb=20200516185008",
+        "Ancient Manipulator"
+      ]
+    ],
+    "craftingIngredients": [
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/17/Black_Hawk_Remote.png/revision/latest?cb=20191027020713",
+        "Black Hawk Remote",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/2d/Fuel_Cell_Bundle.png/revision/latest?cb=20200401214633",
+        "Fuel Cell Bundle",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8f/Plague_Cell_Canister.png/revision/latest?cb=20221103150741",
+        "Plague Cell Canister",
+        "15"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/60/Luminite_Bar.png/revision/latest?cb=20200516214944",
+        "Luminite Bar",
+        "5"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/2b/Infected_Armor_Plating.png/revision/latest?cb=20200802015333",
+        "Infected Armor Plating",
+        "8"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/36/Tactical_Plague_Engine.png/revision/latest?cb=20200401223714",
+        "Tactical Plague Engine",
+        "1"
+      ]
+    ]
+  },
+  {
+    "id": 3080,
+    "itemName": "Temporal Umbrella",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/f4/Temporal_Umbrella.png/revision/latest?cb=20200402105845",
+    "itemSpecs": [
+      [
+        "Type",
+        "Weapon"
+      ],
+      [
+        "Damage",
+        "193 Summon"
+      ],
+      [
+        "Knockback",
+        "1 (Extremely Weak)"
+      ],
+      [
+        "Mana",
+        "99"
+      ],
+      [
+        "Use time",
+        "9 Very Fast"
+      ],
+      [
+        "Grants Buff",
+        "Magic Hat"
+      ],
+      [
+        "Buff tooltip",
+        "The hat carries your soul, bound by a contract"
+      ],
+      [
+        "Rarity",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8b/Rarity_color_16.png/revision/latest?cb=20180106235146"
+      ],
+      [
+        "Sell",
+        "      40  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+      ]
+    ],
+    "craftingStations": [
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/38/Draedon%27s_Forge.png/revision/latest?cb=20211117002300",
+        "Draedon's Forge"
+      ]
+    ],
+    "craftingIngredients": [
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c6/Spikecrag_Staff.png/revision/latest?cb=20210410222752",
+        "Spikecrag Staff",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/9b/Saros_Possession.png/revision/latest?cb=20200401233544",
+        "Saros Possession",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/06/Umbrella.png/revision/latest?cb=20200516223235",
+        "Umbrella",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8d/Top_Hat.png/revision/latest?cb=20200516223026",
+        "Top Hat",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e6/Shadowspec_Bar.png/revision/latest?cb=20200222073041",
+        "Shadowspec Bar",
+        "5"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/f4/Temporal_Umbrella.png/revision/latest?cb=20200402105845",
+        "Temporal Umbrella",
+        "1"
+      ]
+    ]
+  },
+  {
+    "id": 3081,
+    "itemName": "Tundra Flame Blossoms Staff",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/7e/Tundra_Flame_Blossoms_Staff.png/revision/latest?cb=20200511015421",
+    "itemSpecs": [
+      [
+        "Type",
+        "Weapon – Crafting material"
+      ],
+      [
+        "Damage",
+        "45 Summon"
+      ],
+      [
+        "Knockback",
+        "3 (Very Weak)"
+      ],
+      [
+        "Mana",
+        "10"
+      ],
+      [
+        "Use time",
+        "24 Fast"
+      ],
+      [
+        "Grants Buff",
+        "Tundra Flame Blossom"
+      ],
+      [
+        "Buff tooltip",
+        "A perfect unison of balance and beauty"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Frostburn.png/revision/latest?cb=20170715155824",
+        "Frostburn",
+        "100% chance"
+      ],
+      [
+        "Debuff duration",
+        "3 seconds"
+      ],
+      [
+        "Debuff tooltip",
+        "It's either really hot or really cold. Either way it REALLY hurts"
+      ],
+      [
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png/revision/latest?cb=20140827211545"
+      ],
+      [
+        "Sell",
+        "      4  80  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+      ]
+    ],
+    "craftingStations": [
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/3d/Mythril_Anvil.png/revision/latest?cb=20200516215710",
+        "Mythril Anvil"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Orichalcum_Anvil.png/revision/latest?cb=20200516220030",
+        "Orichalcum Anvil"
+      ]
+    ],
+    "craftingIngredients": [
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/45/Cinder_Blossom_Staff.png/revision/latest?cb=20200401223904",
+        "Cinder Blossom Staff",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/cc/Frost_Blossom_Staff.png/revision/latest?cb=20200401221740",
+        "Frost Blossom Staff",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/ea/Soul_of_Light.png/revision/latest?cb=20200516231730",
+        "Soul of Light",
+        "5"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/7e/Tundra_Flame_Blossoms_Staff.png/revision/latest?cb=20200511015421",
+        "Tundra Flame Blossoms Staff",
+        "1"
+      ]
+    ]
+  },
+  {
+    "id": 3082,
+    "itemName": "Universe Splitter",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/76/Universe_Splitter.gif/revision/latest?cb=20220816074726",
+    "itemSpecs": [
+      [
+        "Type",
+        "Weapon"
+      ],
+      [
+        "Damage",
+        "18000 Summon"
+      ],
+      [
+        "Knockback",
+        "7 (Strong)"
+      ],
+      [
+        "Mana",
+        "300"
+      ],
+      [
+        "Use time",
+        "9 Very Fast"
+      ],
+      [
+        null,
+        "Universe Splitter Cooldown",
+        "100% chance"
+      ],
+      [
+        "Debuff duration",
+        "45 seconds (After usage)"
+      ],
+      [
+        "Debuff tooltip",
+        "You cannot use the Universe Splitter"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/56/Electrified.png/revision/latest?cb=20150701075756",
+        "Electrified",
+        "100% chance"
+      ],
+      [
+        "Debuff duration",
+        "4 seconds (Beams)"
+      ],
+      [
+        "Debuff tooltip",
+        "You cannot move"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/77/Nightwither.png/revision/latest?cb=20220315135554",
+        "Nightwither",
+        "100% chance"
+      ],
+      [
+        "Debuff duration",
+        "4 seconds (Huge Beam)"
+      ],
+      [
+        "Debuff tooltip",
+        "Incinerated by lunar rays"
+      ],
+      [
+        "Rarity",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8b/Rarity_color_16.png/revision/latest?cb=20180106235146"
+      ],
+      [
+        "Sell",
+        "      40  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+      ]
+    ],
+    "craftingStations": [
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/38/Draedon%27s_Forge.png/revision/latest?cb=20211117002300",
+        "Draedon's Forge"
+      ]
+    ],
+    "craftingIngredients": [
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/59/Draedon%27s_Remote.png/revision/latest?cb=20220816074544",
+        "Draedon's Remote",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/76/Abombination.png/revision/latest?cb=20200802023600",
+        "Abombination",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e6/Shadowspec_Bar.png/revision/latest?cb=20200222073041",
+        "Shadowspec Bar",
+        "5"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/11/Universe_Splitter.png/revision/latest?cb=20211117004343",
+        "Universe Splitter",
+        "1"
+      ]
+    ]
+  },
+  {
+    "id": 3083,
+    "itemName": "Vigilance",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d3/Vigilance.png/revision/latest?cb=20211117004110",
+    "itemSpecs": [
+      [
+        "Type",
+        "Weapon"
+      ],
+      [
+        "Damage",
+        "150 Summon"
+      ],
+      [
+        "Knockback",
+        "4 (Weak)"
+      ],
+      [
+        "Mana",
+        "10"
+      ],
+      [
+        "Use time",
+        "9 Very Fast"
+      ],
+      [
+        "Grants Buff",
+        "Soul Seeker"
+      ],
+      [
+        "Buff tooltip",
+        "It definitely wants something from you"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/71/Brimstone_Flames.png/revision/latest?cb=20200205054656",
+        "Brimstone Flames",
+        "100% chance"
+      ],
+      [
+        "Debuff duration",
+        "3 seconds (Dart)"
+      ],
+      [
+        "Debuff tooltip",
+        "Rapid health loss"
+      ],
+      [
+        "Rarity",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8d/Rarity_color_15.png/revision/latest?cb=20180106235128"
+      ],
+      [
+        "Sell",
+        "      30  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+      ]
+    ],
+    "craftingStations": [],
+    "craftingIngredients": []
+  },
+  {
+    "id": 3084,
+    "itemName": "Vile Feeder",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/b1/Vile_Feeder.png/revision/latest?cb=20200401223728",
+    "itemSpecs": [
+      [
+        "Type",
+        "Weapon – Crafting material"
+      ],
+      [
+        "Damage",
+        "9 Summon"
+      ],
+      [
+        "Knockback",
+        "0.5 (Extremely Weak)"
+      ],
+      [
+        "Mana",
+        "10"
+      ],
+      [
+        "Use time",
+        "29 Average"
+      ],
+      [
+        "Grants Buff",
+        "Vile Feeder"
+      ],
+      [
+        "Buff tooltip",
+        "The baby eater of souls will protect you"
+      ],
+      [
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png/revision/latest?cb=20140827153252"
+      ],
+      [
+        "Sell",
+        "      40  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png/revision/latest?cb=20200516221827"
+      ]
+    ],
+    "craftingStations": [
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c3/Iron_Anvil.png/revision/latest?cb=20200516214257",
+        "Iron Anvil"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/32/Lead_Anvil.png/revision/latest?cb=20200516214608",
+        "Lead Anvil"
+      ]
+    ],
+    "craftingIngredients": [
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/67/Demonite_Bar.png/revision/latest?cb=20200516211316",
+        "Demonite Bar",
+        "5"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/0d/Shadow_Scale.png/revision/latest?cb=20200516221650",
+        "Shadow Scale",
+        "9"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/03/Ebonwood.png/revision/latest?cb=20200516211754",
+        "Ebonwood",
+        "20"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/b1/Vile_Feeder.png/revision/latest?cb=20200401223728",
+        "Vile Feeder",
+        "1"
+      ]
+    ]
+  },
+  {
+    "id": 3085,
+    "itemName": "Viral Sprout",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d5/Viral_Sprout.png/revision/latest?cb=20211117003704",
+    "itemSpecs": [
+      [
+        "Type",
+        "Weapon – Crafting material"
+      ],
+      [
+        "Damage",
+        "24 Summon"
+      ],
+      [
+        "Knockback",
+        "2 (Very Weak)"
+      ],
+      [
+        "Mana",
+        "10"
+      ],
+      [
+        "Use time",
+        "19 Very Fast"
+      ],
+      [
+        "Grants Buff",
+        "Sage Spirit"
+      ],
+      [
+        "Buff tooltip",
+        "It's uncomfortably close"
+      ],
+      [
+        null,
+        "Sage Poison",
+        "100% chance"
+      ],
+      [
+        "Debuff duration",
+        "5 seconds"
+      ],
+      [
+        "Debuff tooltip",
+        "Poisoned"
+      ],
+      [
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Rarity_color_7.png/revision/latest?cb=20140827202638"
+      ],
+      [
+        "Sell",
+        "      9  60  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+      ]
+    ],
+    "craftingStations": [
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/3d/Mythril_Anvil.png/revision/latest?cb=20200516215710",
+        "Mythril Anvil"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Orichalcum_Anvil.png/revision/latest?cb=20200516220030",
+        "Orichalcum Anvil"
+      ]
+    ],
+    "craftingIngredients": [
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/f7/Perennial_Bar.png/revision/latest?cb=20191026202207",
+        "Perennial Bar",
+        "12"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d5/Viral_Sprout.png/revision/latest?cb=20211117003704",
+        "Viral Sprout",
+        "1"
+      ]
+    ]
+  },
+  {
+    "id": 3086,
+    "itemName": "Virid Vanguard",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/46/Virid_Vanguard.png/revision/latest?cb=20211117003539",
+    "itemSpecs": [
+      [
+        "Type",
+        "Weapon"
+      ],
+      [
+        "Damage",
+        "280 Summon"
+      ],
+      [
+        "Knockback",
+        "5 (Average)"
+      ],
+      [
+        "Mana",
+        "10"
+      ],
+      [
+        "Use time",
+        "14 Very Fast"
+      ],
+      [
+        "Grants Buff",
+        "Virid Vanguard"
+      ],
+      [
+        "Buff tooltip",
+        "A perfect act of unity surrounds you"
+      ],
+      [
+        "Rarity",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/ec/Rarity_color_12.png/revision/latest?cb=20180106234938"
+      ],
+      [
+        "Sell",
+        "      24  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+      ]
+    ],
+    "craftingStations": [
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e2/Ancient_Manipulator.png/revision/latest?cb=20200516185008",
+        "Ancient Manipulator"
+      ]
+    ],
+    "craftingIngredients": [
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/a6/Igneous_Exaltation.png/revision/latest?cb=20200401223609",
+        "Igneous Exaltation",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/70/Uelibloom_Bar.png/revision/latest?cb=20191106032302",
+        "Uelibloom Bar",
+        "8"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/46/Virid_Vanguard.png/revision/latest?cb=20211117003539",
+        "Virid Vanguard",
+        "1"
+      ]
+    ]
+  },
+  {
+    "id": 3087,
+    "itemName": "Void Concentration Staff",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/59/Void_Concentration_Staff.png/revision/latest?cb=20211117173208",
+    "itemSpecs": [
+      [
+        "Type",
+        "Weapon"
+      ],
+      [
+        "Damage",
+        "150 Summon"
+      ],
+      [
+        "Knockback",
+        "4 (Weak)"
+      ],
+      [
+        "Mana",
+        "10"
+      ],
+      [
+        "Use time",
+        "14 Very Fast"
+      ],
+      [
+        "Grants Buff",
+        "Concentrated Void"
+      ],
+      [
+        "Buff tooltip",
+        "The infinite void yearns for more..."
+      ],
+      [
+        "Rarity",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/ec/Rarity_color_12.png/revision/latest?cb=20180106234938"
+      ],
+      [
+        "Sell",
+        "      24  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+      ]
+    ],
+    "craftingStations": [],
+    "craftingIngredients": []
+  },
+  {
+    "id": 3088,
+    "itemName": "Wither Blossoms Staff",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/7a/Wither_Blossoms_Staff.png/revision/latest?cb=20211117003459",
+    "itemSpecs": [
+      [
+        "Type",
+        "Weapon – Crafting material"
+      ],
+      [
+        "Damage",
+        "61 Summon"
+      ],
+      [
+        "Knockback",
+        "3 (Very Weak)"
+      ],
+      [
+        "Mana",
+        "10"
+      ],
+      [
+        "Use time",
+        "19 Very Fast"
+      ],
+      [
+        "Grants Buff",
+        "Wither Blossoms"
+      ],
+      [
+        "Buff tooltip",
+        "Pestilence surrounds you"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/6a/Plague.png/revision/latest?cb=20200402072734",
+        "Plague",
+        "100% chance"
+      ],
+      [
+        "Debuff duration",
+        "3 seconds"
+      ],
+      [
+        "Debuff tooltip",
+        "Rotting from the inside"
+      ],
+      [
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png/revision/latest?cb=20140827153336"
+      ],
+      [
+        "Sell",
+        "      12  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+      ]
+    ],
+    "craftingStations": [
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/3d/Mythril_Anvil.png/revision/latest?cb=20200516215710",
+        "Mythril Anvil"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Orichalcum_Anvil.png/revision/latest?cb=20200516220030",
+        "Orichalcum Anvil"
+      ]
+    ],
+    "craftingIngredients": [
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/7e/Tundra_Flame_Blossoms_Staff.png/revision/latest?cb=20200511015421",
+        "Tundra Flame Blossoms Staff",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8f/Plague_Cell_Canister.png/revision/latest?cb=20221103150741",
+        "Plague Cell Canister",
+        "15"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/00/Core_of_Calamity.png/revision/latest?cb=20200222072326",
+        "Core of Calamity",
+        "5"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/cf/Life_Alloy.png/revision/latest?cb=20200401221515",
+        "Life Alloy",
+        "5"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/7a/Wither_Blossoms_Staff.png/revision/latest?cb=20211117003459",
+        "Wither Blossoms Staff",
+        "1"
+      ]
+    ]
+  },
+  {
+    "id": 3089,
+    "itemName": "Wulfrum Controller",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/4b/Wulfrum_Controller.png/revision/latest?cb=20200802033815",
+    "itemSpecs": [
+      [
+        "Type",
+        "Weapon"
+      ],
+      [
+        "Damage",
+        "10 Summon"
+      ],
+      [
+        "Knockback",
+        "0.5 (Extremely Weak)"
+      ],
+      [
+        "Mana",
+        "10"
+      ],
+      [
+        "Use time",
+        "34 Slow"
+      ],
+      [
+        "Velocity",
+        "10"
+      ],
+      [
+        "Grants Buff",
+        "Wulfrum Droid"
+      ],
+      [
+        "Buff tooltip",
+        "The wulfrum droid will protect you"
+      ],
+      [
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png/revision/latest?cb=20140827153216"
+      ],
+      [
+        "Sell",
+        "      20  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png/revision/latest?cb=20200516221827"
+      ]
+    ],
+    "craftingStations": [
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c3/Iron_Anvil.png/revision/latest?cb=20200516214257",
+        "Iron Anvil"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/32/Lead_Anvil.png/revision/latest?cb=20200516214608",
+        "Lead Anvil"
+      ]
+    ],
+    "craftingIngredients": [
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/62/Wulfrum_Metal_Scrap.png/revision/latest?cb=20200802033643",
+        "Wulfrum Metal Scrap",
+        "9"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/4b/Wulfrum_Controller.png/revision/latest?cb=20200802033815",
+        "Wulfrum Controller",
+        "1"
+      ]
+    ]
+  },
+  {
+    "id": 3090,
+    "itemName": "Yharon's Kindle Staff",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/91/Yharon%27s_Kindle_Staff.png/revision/latest?cb=20220314152746",
+    "itemSpecs": [
+      [
+        "Type",
+        "Weapon"
+      ],
+      [
+        "Damage",
+        "340 Summon"
+      ],
+      [
+        "Knockback",
+        "7 (Strong)"
+      ],
+      [
+        "Mana",
+        "10"
+      ],
+      [
+        "Use time",
+        "9 Very Fast"
+      ],
+      [
+        "Grants Buff",
+        "Fiery Draconid"
+      ],
+      [
+        "Buff tooltip",
+        "The fiery draconid will protect you"
+      ],
+      [
+        "Rarity",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8d/Rarity_color_15.png/revision/latest?cb=20180106235128"
+      ],
+      [
+        "Sell",
+        "      30  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+      ]
+    ],
+    "craftingStations": [],
+    "craftingIngredients": []
+  }
+]
