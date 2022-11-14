@@ -1,0 +1,257 @@
+[
+  {
+    "id": 8000,
+    "itemName": "Ancient Fossil",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/cf/Ancient_Fossil.png",
+    "itemSpecs": [
+      [
+        "Type",
+        "Accessory – Crafting material"
+      ],
+      [
+        "Rarity",
+        null
+      ],
+      [
+        "Sell",
+        "      20  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png"
+      ]
+    ],
+    "craftingStations": [
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/0f/Furnace.png",
+        "Furnace"
+      ]
+    ],
+    "craftingIngredients": [
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/2f/Any_Silt.gif",
+        "Any Silt",
+        "100"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/cf/Ancient_Fossil.png",
+        "Ancient Fossil",
+        "1"
+      ]
+    ]
+  },
+  {
+    "id": 8001,
+    "itemName": "Archaic Powder",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/b1/Archaic_Powder.png",
+    "itemSpecs": [
+      [
+        "Type",
+        "Accessory – Crafting material"
+      ],
+      [
+        "Rarity",
+        null
+      ],
+      [
+        "Sell",
+        "      80  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png"
+      ]
+    ],
+    "craftingStations": [
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c3/Iron_Anvil.png",
+        "Iron Anvil"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/32/Lead_Anvil.png",
+        "Lead Anvil"
+      ]
+    ],
+    "craftingIngredients": [
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/cf/Ancient_Fossil.png",
+        "Ancient Fossil",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/02/Demonic_Bone_Ash.png",
+        "Demonic Bone Ash",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/ed/Ancient_Bone_Dust.png",
+        "Ancient Bone Dust",
+        "3"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/2c/Bone.png",
+        "Bone",
+        "15"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/b1/Archaic_Powder.png",
+        "Archaic Powder",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/3d/Mythril_Anvil.png"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/b2/Honey_Dew.png",
+        "Honey Dew",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/b1/Archaic_Powder.png",
+        "Archaic Powder",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/bb/Corrupt_Flask.png",
+        "Corrupt Flask",
+        "1"
+      ],
+      [
+        null
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/5f/Crimson_Flask.png",
+        "Crimson Flask"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d6/Radiant_Ooze.png",
+        "Radiant Ooze",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/f8/Cryonic_Bar.png",
+        "Cryonic Bar",
+        "5"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/5e/Sea_Prism.png",
+        "Sea Prism",
+        "10"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/b8/Ambrosial_Ampoule.png",
+        "Ambrosial Ampoule",
+        "1"
+      ]
+    ]
+  },
+  {
+    "id": 8002,
+    "itemName": "Spelunker's Amulet",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/a0/Spelunker%27s_Amulet.png",
+    "itemSpecs": [
+      [
+        "Type",
+        "Accessory"
+      ],
+      [
+        "Rarity",
+        null
+      ],
+      [
+        "Sell",
+        "      2  40  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
+      ]
+    ],
+    "craftingStations": [
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c3/Iron_Anvil.png",
+        "Iron Anvil"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/32/Lead_Anvil.png",
+        "Lead Anvil"
+      ]
+    ],
+    "craftingIngredients": [
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/43/Gold_Dust.png",
+        "Gold Dust",
+        "7"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/03/Spelunker_Potion.png",
+        "Spelunker Potion",
+        "7"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/a0/Spelunker%27s_Amulet.png",
+        "Spelunker's Amulet",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e2/Ancient_Manipulator.png"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/70/Abyssal_Diving_Gear.png",
+        "Abyssal Diving Gear",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e1/Anechoic_Plating.png",
+        "Anechoic Plating",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/a1/Aquatic_Emblem.png",
+        "Aquatic Emblem",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/a0/Spelunker%27s_Amulet.png",
+        "Spelunker's Amulet",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/7c/Alluring_Bait.png",
+        "Alluring Bait",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c1/Lumenous_Amulet.png",
+        "Lumenous Amulet",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c0/Iron_Boots.png",
+        "Iron Boots",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/eb/Mollusk_Husk.png",
+        "Mollusk Husk",
+        "15"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/65/Lumenyl.png",
+        "Lumenyl",
+        "40"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/f2/Depth_Cells.png",
+        "Depth Cells",
+        "40"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/25/Tenebris.png",
+        "Tenebris",
+        "15"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/60/Luminite_Bar.png",
+        "Luminite Bar",
+        "5"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/26/Abyssal_Diving_Suit.png",
+        "Abyssal Diving Suit",
+        "1"
+      ]
+    ]
+  }
+]

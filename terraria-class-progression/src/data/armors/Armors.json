@@ -1,0 +1,1451 @@
+[
+  {
+    "armorName": "Wulfrum armor",
+    "armorImg": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/24/Wulfrum_armor.png",
+    "armorDefenses": {
+      "headDef": [
+        "3",
+        "2",
+        "1",
+        "1"
+      ],
+      "chestDef": [
+        "2"
+      ],
+      "legsDef": [
+        "1"
+      ],
+      "totalDef": [
+        "9",
+        "8",
+        "7",
+        "6",
+        "7"
+      ]
+    },
+    "armorDesc": [
+      "3% increased critical strike chance",
+      "5% increased movement speed",
+      "Set Bonus: +3 defense, +5 defense when below 50% life",
+      "Wulfrum Helm: 10% increased melee damage\nSet Bonus: +100 Aggro",
+      "Wulfrum Headgear: 10% increased ranged damage",
+      "Wulfrum Hood: 10% increased magic damage",
+      "Wulfrum Helmet: 10% increased summon damage\nSet Bonus: +1 max minion",
+      "Wulfrum Mask: 10% increased rogue damage\nSet Bonus: Maximum rogue stealth of 50"
+    ],
+    "craftingItems": [
+      [
+        "25 Wulfrum Metal Scrap",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/62/Wulfrum_Metal_Scrap.png"
+      ],
+      [
+        "3 Energy Core for one set",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/b1/Energy_Core.png"
+      ],
+      [
+        "45 Wulfrum Metal Scrap",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/62/Wulfrum_Metal_Scrap.png"
+      ],
+      [
+        "7 Energy Core for all pieces",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/b1/Energy_Core.png"
+      ],
+      [
+        "Crafted at Iron Anvil",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c3/Iron_Anvil.png"
+      ]
+    ]
+  },
+  {
+    "armorName": "Snow Ruffian armor",
+    "armorImg": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8d/Snow_Ruffian_armor.png",
+    "armorDefenses": {
+      "headDef": [
+        "1"
+      ],
+      "chestDef": [
+        "2"
+      ],
+      "legsDef": [
+        "1"
+      ],
+      "totalDef": [
+        "4"
+      ]
+    },
+    "armorDesc": [
+      "2% increased rogue damage",
+      "3% increased rogue critical strike chance",
+      "5% increased movement speed",
+      "Set Bonus: 5% increased rogue damage.  Grants the player wings to glide and negate fall damage. Maximum rogue stealth of 50."
+    ],
+    "craftingItems": [
+      [
+        "60 Snow Block",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fa/Snow_Block.png"
+      ],
+      [
+        "30 Ice Block",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b1/Ice_Block.png"
+      ],
+      [
+        "90 Boreal Wood",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d3/Boreal_Wood.png"
+      ],
+      [
+        "Crafted at Iron Anvil",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c3/Iron_Anvil.png"
+      ]
+    ]
+  },
+  {
+    "armorName": "Old Hunter armor",
+    "armorImg": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/4a/Old_Hunter_armor.png",
+    "armorDefenses": {
+      "headDef": [
+        "2"
+      ],
+      "chestDef": [
+        "6"
+      ],
+      "legsDef": [
+        "4"
+      ],
+      "totalDef": [
+        "12"
+      ]
+    },
+    "armorDesc": [
+      "14% Increased ranged damage",
+      "7% increased ranged critical strike chance",
+      "20% chance to not consume ammunition",
+      "13% increased movement speed",
+      "Grants immunity to the Mighty Wind debuff",
+      "Set bonus: Pressing ▼ Down twice in quick succession summons a sandnado that is roughly 10 tiles tall, that the player will jet upwards and stand on. Nearby non-boss enemies are sucked inwards and are dealt a continous 20 damage per second. The tornado dissipates after 20 seconds or if the player jumps or is knocked off."
+    ],
+    "craftingItems": [
+      [
+        "10 Desert Feather",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e0/Desert_Feather.png"
+      ],
+      [
+        "2 Antlion Mandible",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/be/Antlion_Mandible.png"
+      ],
+      [
+        "1 Sandstorm in a Bottle",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/6d/Sandstorm_in_a_Bottle.png"
+      ],
+      [
+        "Crafted at Loom",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/3b/Loom.png"
+      ]
+    ]
+  },
+  {
+    "armorName": "Desert Prowler armor",
+    "armorImg": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/ac/Desert_Prowler_armor.png",
+    "armorDefenses": {
+      "headDef": [
+        "1"
+      ],
+      "chestDef": [
+        "3"
+      ],
+      "legsDef": [
+        "2"
+      ],
+      "totalDef": [
+        "6"
+      ]
+    },
+    "armorDesc": [
+      "9% ranged critical strike chance",
+      "20% chance to not consume ammo",
+      "10% increased movement speed",
+      "Grants immunity to Mighty Wind",
+      "Set bonus: Ranged attacks do 1 more damage. Ranged critical strikes can rarely whip up a sandstorm."
+    ],
+    "craftingItems": [
+      [
+        "6 Desert Feather",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e0/Desert_Feather.png"
+      ],
+      [
+        "23 Silk",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/83/Silk.png"
+      ],
+      [
+        "Crafted at Loom",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/3b/Loom.png"
+      ]
+    ]
+  },
+  {
+    "armorName": "Victide armor",
+    "armorImg": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d5/Victide_armor.png",
+    "armorDefenses": {
+      "headDef": [
+        "4",
+        "3",
+        "2",
+        "1",
+        "3"
+      ],
+      "chestDef": [
+        "5"
+      ],
+      "legsDef": [
+        "4"
+      ],
+      "totalDef": [
+        "13",
+        "12",
+        "11",
+        "10",
+        "12"
+      ]
+    },
+    "armorDesc": [
+      "5% increased critical strike chance",
+      "8% increased movement speed",
+      "5% increased damage reduction",
+      "+5 defense, +10% damage reduction and +30% movement speed while submerged in liquid",
+      "Set Bonus: 10% increase to headpiece's damage type and +3 life regen while submerged in liquid. 10% chance to throw returning seashell projectiles when using weapons.",
+      "Victide Helm: 5% increased melee damage\nSet Bonus: +200 Aggro",
+      "Victide Visage: 5% increased ranged damage",
+      "Victide Mask: 5% increased magic damage",
+      "Victide Helmet: 10% increased summon damage\nSet Bonus: Summons an urchin, +1 max minion",
+      "Victide Headgear: 5% increased rogue damage\nSet Bonus: Maximum rogue stealth of 90"
+    ],
+    "craftingItems": [
+      [
+        "12 Victide Bar for one set",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d2/Victide_Bar.png"
+      ],
+      [
+        "24 Victide Bar for set + all helm types",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d2/Victide_Bar.png"
+      ],
+      [
+        "Crafted at Iron Anvil",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c3/Iron_Anvil.png"
+      ]
+    ]
+  },
+  {
+    "armorName": "Sulphurous armor",
+    "armorImg": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/b9/Sulphurous_armor.png",
+    "armorDefenses": {
+      "headDef": [
+        "5"
+      ],
+      "chestDef": [
+        "6"
+      ],
+      "legsDef": [
+        "5"
+      ],
+      "totalDef": [
+        "16"
+      ]
+    },
+    "armorDesc": [
+      "12% increased rogue damage",
+      "7% increased rogue critical strike chance",
+      "10% increased movement speed",
+      "35% increased movement speed while submerged in liquid.",
+      "Gills Potion effect",
+      "Set Bonus: The Poisoned debuff is inflicted onto any attacking enemy. Grants a double jump that leaves behind a sulphurous bubble that floats upward and inflicts Venom on enemy hits. Striking an enemy will inflict the Poisoned debuff onto them. Maximum rogue stealth of 95."
+    ],
+    "craftingItems": [
+      [
+        "45 Acidwood",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/eb/Acidwood.png"
+      ],
+      [
+        "95 Urchin Stinger",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/a1/Urchin_Stinger.png"
+      ],
+      [
+        "45 Sulphurous Sand",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/1a/Sulphurous_Sand.png"
+      ],
+      [
+        "45 Sulphuric Scale",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/0e/Sulphuric_Scale.png"
+      ],
+      [
+        "Crafted at Iron Anvil",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c3/Iron_Anvil.png"
+      ]
+    ]
+  },
+  {
+    "armorName": "Aerospec armor",
+    "armorImg": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/6a/Aerospec_armor.png",
+    "armorDefenses": {
+      "headDef": [
+        "7",
+        "5",
+        "3",
+        "2",
+        "4"
+      ],
+      "chestDef": [
+        "7"
+      ],
+      "legsDef": [
+        "6"
+      ],
+      "totalDef": [
+        "20",
+        "18",
+        "16",
+        "15",
+        "17"
+      ]
+    },
+    "armorDesc": [
+      "3% increased critical strike chance",
+      "12% increased movement speed",
+      "Set Bonus: Increases maximum falling speed by 50% and grants immunity to falling damage. Taking over 25 damage in one hit will cause a spread of homing feathers to fall.",
+      "Aerospec Helm: 8% increased melee damage\nSet Bonus: 5% increased melee critical strike chance and 5% increased movement speed. +300 Aggro.",
+      "Aerospec Hood: 8% increased ranged damage\nSet Bonus: 5% increased ranged critical strike chance and 5% increased movement speed",
+      "Aerospec Hat: 8% increased magic damage and +20 max mana\nSet Bonus: 5% increased magic critical strike chance and 5% increased movement speed",
+      "Aerospec Helmet: 5% increased minion damage and movement speed\nSet Bonus: +11% minion damage and +1 max minion. Summons a valkyrie",
+      "Aerospec Headgear: 8% increased rogue damage and 5% increased movement speed\nSet Bonus: 5% increased rogue critical strike chance and 5% increased movement speed. Maximum rogue stealth of 100."
+    ],
+    "craftingItems": [
+      [
+        "23 Aerialite Bar",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/27/Aerialite_Bar.png"
+      ],
+      [
+        "19 Cloud",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d2/Cloud.png"
+      ],
+      [
+        "9 Rain Cloud",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Rain_Cloud.png"
+      ],
+      [
+        "5 Feather for one set",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/33/Feather.png"
+      ],
+      [
+        "43 Aerialite Bar",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/27/Aerialite_Bar.png"
+      ],
+      [
+        "31 Cloud",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d2/Cloud.png"
+      ],
+      [
+        "13 Rain Cloud",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Rain_Cloud.png"
+      ],
+      [
+        "9 Feather for all pieces",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/33/Feather.png"
+      ],
+      [
+        "Crafted at Sky Mill",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/87/Sky_Mill.png"
+      ]
+    ]
+  },
+  {
+    "armorName": "Statigel armor",
+    "armorImg": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d9/Statigel_armor.png",
+    "armorDefenses": {
+      "headDef": [
+        "9",
+        "7",
+        "5",
+        "4",
+        "6"
+      ],
+      "chestDef": [
+        "10"
+      ],
+      "legsDef": [
+        "8"
+      ],
+      "totalDef": [
+        "27",
+        "25",
+        "23",
+        "22",
+        "24"
+      ]
+    },
+    "armorDesc": [
+      "5% increased damage",
+      "5% increased critical strike chance",
+      "5% increased movement speed",
+      "Set Bonus: Grants the player an extra jump and increased jump height. Taking over 100 damage in one hit makes you immune to damage for an extended period of time.",
+      "Statigel Helm: 10% increased melee damage and melee speed, 7% increased melee critical strike chance\nSet Bonus: +400 Aggro",
+      "Statigel Headgear: 10% increased ranged damage, 7% increased ranged critical strike chance",
+      "Statigel Cap: 10% increased magic damage and 10% decreased mana cost, 7% increased magic critical strike chance, +30 max mana",
+      "Statigel Hood: Increased minion knockback\nSet Bonus: 18% increased minion damage and +1 max minion. Summons a baby slime god.",
+      "Statigel Mask: 10% increased rogue damage and 34% chance to not consume thrown items, 7% increased rogue critical strike chance and 12% increased movement speed\nSet Bonus: Maximum rogue stealth of 100"
+    ],
+    "craftingItems": [
+      [
+        "19 Purified Gel",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/ad/Purified_Gel.png"
+      ],
+      [
+        "33 Hellstone Bar for one set",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Hellstone_Bar.png"
+      ],
+      [
+        "39 Purified Gel",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/ad/Purified_Gel.png"
+      ],
+      [
+        "69 Hellstone Bar for all pieces",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Hellstone_Bar.png"
+      ],
+      [
+        "Crafted at Static Refiner",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e5/Static_Refiner.png"
+      ]
+    ]
+  },
+  {
+    "armorName": "Mollusk armor",
+    "armorImg": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/2b/Mollusk_armor.png",
+    "armorDefenses": {
+      "headDef": [
+        "18"
+      ],
+      "chestDef": [
+        "22"
+      ],
+      "legsDef": [
+        "15"
+      ],
+      "totalDef": [
+        "55"
+      ]
+    },
+    "armorDesc": [
+      "27% increased damage",
+      "14% increased critical strike chance",
+      "22% decreased movement speed",
+      "The player can move freely through liquids",
+      "Set Bonus: Summons 2 shellfish. 10% increased damage and slowed horizontal movement."
+    ],
+    "craftingItems": [
+      [
+        "60 Sea Prism",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/5e/Sea_Prism.png"
+      ],
+      [
+        "31 Mollusk Husk",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/eb/Mollusk_Husk.png"
+      ],
+      [
+        "Crafted at Iron Anvil",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c3/Iron_Anvil.png"
+      ]
+    ]
+  },
+  {
+    "armorName": "Titan Heart armor",
+    "armorImg": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/a5/Titan_Heart_armor.png",
+    "armorDefenses": {
+      "headDef": [
+        "12"
+      ],
+      "chestDef": [
+        "17"
+      ],
+      "legsDef": [
+        "14"
+      ],
+      "totalDef": [
+        "43"
+      ]
+    },
+    "armorDesc": [
+      "9% increased rogue damage",
+      "10% increased rogue velocity",
+      "15% increased rogue knockback",
+      "15% decreased rogue firing speed",
+      "45% increased chance to not consume rogue items",
+      "Rogue weapons inflict Astral Infection.",
+      "Set Bonus: 15% increased rogue damage and knockback. Immunity to knockback. Stealth strikes deal double knockback and cause an astral explosion. Maximum rogue stealth of 100."
+    ],
+    "craftingItems": [
+      [
+        "3 Titan Heart",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/f3/Titan_Heart.png"
+      ],
+      [
+        "44 Astral Monolith",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/13/Astral_Monolith.png"
+      ],
+      [
+        "Crafted at Iron Anvil",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c3/Iron_Anvil.png"
+      ]
+    ]
+  },
+  {
+    "armorName": "Daedalus armor",
+    "armorImg": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/6d/Daedalus_armor.png",
+    "armorDefenses": {
+      "headDef": [
+        "21",
+        "9",
+        "5",
+        "3",
+        "7"
+      ],
+      "chestDef": [
+        "19"
+      ],
+      "legsDef": [
+        "15"
+      ],
+      "totalDef": [
+        "55",
+        "43",
+        "39",
+        "37",
+        "41"
+      ]
+    },
+    "armorDesc": [
+      "3% increased damage",
+      "6% increased critical strike chance",
+      "10% increased movement speed",
+      "Daedalus Helm: 10% increased melee damage, critical strike chance, melee speed and movement speed\nSet Bonus: 5% increased melee damage. +500 Aggro. Reflects projectiles back at enemies. Reflected projectiles only deal 50% damage to the player. This has a 90 second cooldown",
+      "Daedalus Headgear: 13% increased ranged damage and 7% increased ranged critical strike chance, reduces ammo cost by 20%\nSet Bonus: 5% increased ranged damage. Getting hit releases a blast of crystal shards",
+      "Daedalus Hood: 13% increased magic damage and 7% increased magic critical strike chance, +60 max mana, 10% reduced mana cost\nSet Bonus: 5% increased magic damage. 10% chance to absorb physical attacks and projectiles when hit. Absorbing an attack heals the player for 1/2 of that attack's damage",
+      "Daedalus Mask: 5% increased minion damage\nSet Bonus: 20% increased minion damageand +2 max minions. Summons a daedalus crystal",
+      "Daedalus Facemask: 13% increased rogue damage and 7% increased rogue critical strike chance, increases rogue weapon velocity by 15%, 17% increased movement speed\nSet Bonus: 5% increased rogue damage. Rogue projectiles throw out crystal shards as they travel. Maximum rogue stealth of 105."
+    ],
+    "craftingItems": [
+      [
+        "33 Cryonic Bar",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/f8/Cryonic_Bar.png"
+      ],
+      [
+        "13 Crystal Shard",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/19/Crystal_Shard.png"
+      ],
+      [
+        "6 Essence of Eleum",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/84/Essence_of_Eleum.png"
+      ],
+      [
+        "Crafted at Mythril Anvil",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/3d/Mythril_Anvil.png"
+      ]
+    ]
+  },
+  {
+    "armorName": "Brimflame armor",
+    "armorImg": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/2b/Brimflame_armor.png",
+    "armorDefenses": {
+      "headDef": [
+        "11"
+      ],
+      "chestDef": [
+        "15"
+      ],
+      "legsDef": [
+        "15"
+      ],
+      "totalDef": [
+        "41"
+      ]
+    },
+    "armorDesc": [
+      "15% increased magic damage",
+      "10% increased magic critical strike chance",
+      "5% increased movement speed",
+      "+70 max mana",
+      "10% decreased mana usage",
+      "Grants the effect of the Obsidian Rose",
+      "Immunity to On Fire!, Brimstone Flames, and Frostburn",
+      "Set Bonus: Grants an additional 15% increased damage and magic critical strike chance. Pressing Armor Set Bonus will activate Brimflame Frenzy for 10 seconds, temporarily boosting the player’s damage by 30% while significantly reducing the player’s life regen and disabling mana regeneration. Brimflame Frenzy has a 30 second cooldown after its usage."
+    ],
+    "craftingItems": [
+      [
+        "45 Ashes of Calamity",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8a/Ashes_of_Calamity.png"
+      ],
+      [
+        "9 Unholy Core",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/03/Unholy_Core.png"
+      ],
+      [
+        "1 Obsidian Rose",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/54/Obsidian_Rose.png"
+      ],
+      [
+        "Crafted at Mythril Anvil",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/3d/Mythril_Anvil.png"
+      ]
+    ]
+  },
+  {
+    "armorName": "Fathom Swarmer armor",
+    "armorImg": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/9e/Fathom_Swarmer_armor.png",
+    "armorDefenses": {
+      "headDef": [
+        "10"
+      ],
+      "chestDef": [
+        "22"
+      ],
+      "legsDef": [
+        "15"
+      ],
+      "totalDef": [
+        "47"
+      ]
+    },
+    "armorDesc": [
+      "6% increased damage reduction",
+      "15% increased minion damage",
+      "+30 defense, +5 life regen and 40% increased movement speed while submerged in liquids",
+      "Grants the ability to swim and breathe underwater.",
+      "Reduces breath loss, defense loss, and increases light level in the Abyss",
+      "Set Bonus: 10% increased minion damage and +2 max minions. 30% increased minion damage while submerged in liquids. Grants the ability to climb walls."
+    ],
+    "craftingItems": [
+      [
+        "1 Spider armor",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/08/Spider_armor.png"
+      ],
+      [
+        "26 Victide Bar",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d2/Victide_Bar.png"
+      ],
+      [
+        "24 Planty Mush",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/57/Planty_Mush.png"
+      ],
+      [
+        "34 Abyss Gravel",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e8/Abyss_Gravel.png"
+      ],
+      [
+        "12 Depth Cells",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/f2/Depth_Cells.png"
+      ],
+      [
+        "Crafted at Mythril Anvil",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/3d/Mythril_Anvil.png"
+      ]
+    ]
+  },
+  {
+    "armorName": "Umbraphile armor",
+    "armorImg": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d5/Umbraphile_armor.png",
+    "armorDefenses": {
+      "headDef": [
+        "8"
+      ],
+      "chestDef": [
+        "16"
+      ],
+      "legsDef": [
+        "12"
+      ],
+      "totalDef": [
+        "36"
+      ]
+    },
+    "armorDesc": [
+      "27% increased rogue damage",
+      "16% increased rogue critical strike chance",
+      "10% increased rogue projectile velocity",
+      "30% increased movement speed",
+      "Set Bonus: Rogue weapons have a chance to create explosions on hit. Stealth strikes will always create an explosion. Maximum rogue stealth of 110"
+    ],
+    "craftingItems": [
+      [
+        "44 Solar Veil",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/f1/Solar_Veil.png"
+      ],
+      [
+        "34 Hallowed Bar",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d9/Hallowed_Bar.png"
+      ],
+      [
+        "Crafted at Mythril Anvil",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/3d/Mythril_Anvil.png"
+      ]
+    ]
+  },
+  {
+    "armorName": "Reaver armor",
+    "armorImg": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/2c/Reaver_armor.png",
+    "armorDefenses": {
+      "headDef": [
+        "30",
+        "13",
+        "7"
+      ],
+      "chestDef": [
+        "19"
+      ],
+      "legsDef": [
+        "14"
+      ],
+      "totalDef": [
+        "73",
+        "46",
+        "40"
+      ]
+    },
+    "armorDesc": [
+      "9% increased damage",
+      "9% increased critical strike chance",
+      "12% increased movement speed",
+      "+20 max life",
+      "Can travel freely through liquids",
+      "Reaver Helm: 15% increased damage reduction but 30% decreased damage. +50 max life. Passively regenerates one health point every second\nSet Bonus: +10 defense, +3 life regen, 20% decreased movement speed and flight time. +600 Aggro. Reduces the life regen lost from damage over time debuffs by 20%. All attacks have a small chance to steal life and speed up the rate of life regen, releases thorn vines and has a chance to grant the Reaver Rage buff to the player when hit",
+      "Reaver Visage: 10% increased jump speed and 25% increased movement speed\nSet Bonus:  Grants immunity to fall damage and allows constant jumping. 10% increased flight time and horizontal wing speed. Hooks fly out and retract 10% faster. Reduces the cooldown of dashes",
+      "Reaver Headgear: 10% increased pick speed and 20% increased block/wall placement speed. Temporary immunity to lava and can move freely through liquids\nSet Bonus:  Causes nearby treasure to sparkle. Increased item grab range and block placement range. Mining tiles restores breath while underwater. Summons a reaver orb to light up the area around you and reduces enemy aggression, even in the abyss. Provides a small amount of light in the abyss"
+    ],
+    "craftingItems": [
+      [
+        "31 Perennial Bar",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/f7/Perennial_Bar.png"
+      ],
+      [
+        "24 Jungle Spores",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/61/Jungle_Spores.png"
+      ],
+      [
+        "6 Essence of Sunlight",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/21/Essence_of_Sunlight.png"
+      ],
+      [
+        "Crafted at Mythril Anvil",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/3d/Mythril_Anvil.png"
+      ]
+    ]
+  },
+  {
+    "armorName": "Hydrothermic armor",
+    "armorImg": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/48/Hydrothermic_armor.png",
+    "armorDefenses": {
+      "headDef": [
+        "33",
+        "15",
+        "9",
+        "6",
+        "12"
+      ],
+      "chestDef": [
+        "20"
+      ],
+      "legsDef": [
+        "14"
+      ],
+      "totalDef": [
+        "67",
+        "49",
+        "43",
+        "40",
+        "46"
+      ]
+    },
+    "armorDesc": [
+      "+20 max life",
+      "8% increased damage",
+      "7% increased critical strike chance",
+      "15% increased movement speed",
+      "Temporary immunity to lava",
+      "Immunity to fire damage\nSet Bonus: Inferno effect when below 50% life, 20% chance to emit a blazing explosion when hit",
+      "Hydrothermic Helm: 12% increased melee damage, melee speed and movement speed, 10% increased melee critical strike chance. Melee attacks inflict on fire\nSet Bonus: 5% increased melee damage. +700 Aggro. Melee attacks and projectiles cause chaos flames to erupt on enemy hits",
+      "Hydrothermic Headgear: 12% increased ranged damage and 10% increased ranged critical strike chance, reduces ammo cost by 25%\nSet Bonus: 5% increased ranged damage. Ranged attacks fire a homing chaos flare every 0.33 seconds",
+      "Hydrothermic Mask: 12% increased magic damage and 10% increased magic critical strike chance, +100 max mana\nSet Bonus: 5% increased magic damage and 15% reduced mana cost. Magic attacks summon damaging and healing flare orbs on hit",
+      "Hydrothermic Helmet: 5% increased minion damage and increased minion knockback\nSet Bonus: 40% increased minion damage and +2 max minions. Summons a hydrothermic vent",
+      "Hydrothermic Hood: 12% increased rogue damage and 10% increased rogue critical strike chance, 50% chance to not consume thrown items and 15% increased movement speed\nSet Bonus: 5% increased rogue damage. Rogue weapons unleash a volley of homing chaos flames around the player every 2.5 seconds. Maximum rogue stealth of 110."
+    ],
+    "craftingItems": [
+      [
+        "32 Scoria Bar",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/32/Scoria_Bar.png"
+      ],
+      [
+        "17 Hellstone Bar",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Hellstone_Bar.png"
+      ],
+      [
+        "6 Core of Chaos",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c3/Core_of_Chaos.png"
+      ],
+      [
+        "Crafted at Mythril Anvil",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/3d/Mythril_Anvil.png"
+      ]
+    ]
+  },
+  {
+    "armorName": "Plague Reaper armor",
+    "armorImg": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d5/Plague_Reaper_armor.png",
+    "armorDefenses": {
+      "headDef": [
+        "9"
+      ],
+      "chestDef": [
+        "14"
+      ],
+      "legsDef": [
+        "11"
+      ],
+      "totalDef": [
+        "34"
+      ]
+    },
+    "armorDesc": [
+      "25% increased ranged damage",
+      "16% increased ranged critical strike chance",
+      "15% increased movement speed",
+      "Halves the damage taken from the Plague debuff",
+      "Set Bonus: 25% reduced ammo usage, 5% increased flight time. The Plague debuff causes enemies to take 10% more damage from ranged projectiles. Getting hit causes Plague Cinders to rain above the player. Pressing Armor Set Bonus will blind the player for 5 seconds. While the player is blinded, their ranged damage and critical strike chance is raised by 60% and 20% respectively. This effect has a 25 second cooldown."
+    ],
+    "craftingItems": [
+      [
+        "1 Necro armor",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d3/Necro_armor.png"
+      ],
+      [
+        "65 Plague Cell Canister",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8f/Plague_Cell_Canister.png"
+      ],
+      [
+        "47 Nanites",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a8/Nanites.png"
+      ],
+      [
+        "Crafted at Mythril Anvil",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/3d/Mythril_Anvil.png"
+      ]
+    ]
+  },
+  {
+    "armorName": "Plaguebringer armor",
+    "armorImg": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/df/Plaguebringer_armor.png",
+    "armorDefenses": {
+      "headDef": [
+        "7"
+      ],
+      "chestDef": [
+        "17"
+      ],
+      "legsDef": [
+        "8"
+      ],
+      "totalDef": [
+        "32"
+      ]
+    },
+    "armorDesc": [
+      "40% increased summon damage",
+      "+20 max life",
+      "15% increased movement speed",
+      "Halves the damage taken from the Plague debuff",
+      "Friendly bees and wasps inflict the Plague",
+      "You grow flowers on the grass beneath you, alongside random dye plants on grassless dirt",
+      "You spawn bees while sprinting or dashing",
+      "Set Bonus: +3 max minions. Grants a plague dash to ram enemies and inflict the Plague. Summons a lil' plaguebringer to protect you and empower nearby minions"
+    ],
+    "craftingItems": [
+      [
+        "1 Bee armor",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/3d/Bee_armor.png"
+      ],
+      [
+        "2 Alchemical Flask",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/5c/Alchemical_Flask.png"
+      ],
+      [
+        "1 Flower Boots",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Flower_Boots.png"
+      ],
+      [
+        "16 Plague Cell Canister",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8f/Plague_Cell_Canister.png"
+      ],
+      [
+        "16 Infected Armor Plating",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/2b/Infected_Armor_Plating.png"
+      ],
+      [
+        "Crafted at Mythril Anvil",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/3d/Mythril_Anvil.png"
+      ]
+    ]
+  },
+  {
+    "armorName": "Astral armor",
+    "armorImg": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/9e/Astral_armor.png",
+    "armorDefenses": {
+      "headDef": [
+        "17"
+      ],
+      "chestDef": [
+        "25"
+      ],
+      "legsDef": [
+        "21"
+      ],
+      "totalDef": [
+        "63"
+      ]
+    },
+    "armorDesc": [
+      "15% increased movement speed",
+      "+20 max life and +80 max mana",
+      "Creature, treasure, ore, and danger detection",
+      "Set Bonus: 15% increased movement speed, +3 max minions, 28% increased damage, and 21% increased critical strike chance. With a 1-second cooldown, critical hits will cause three fallen, hallowed, and astral stars to rain down on the target and deal 130 damage"
+    ],
+    "craftingItems": [
+      [
+        "30 Astral Bar",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/3b/Astral_Bar.png"
+      ],
+      [
+        "23 Meteorite Bar",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a2/Meteorite_Bar.png"
+      ],
+      [
+        "Crafted at Ancient Manipulator",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e2/Ancient_Manipulator.png"
+      ]
+    ]
+  },
+  {
+    "armorName": "Empyrean armor",
+    "armorImg": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/13/Empyrean_armor.png",
+    "armorDefenses": {
+      "headDef": [
+        "20"
+      ],
+      "chestDef": [
+        "27"
+      ],
+      "legsDef": [
+        "24"
+      ],
+      "totalDef": [
+        "71"
+      ]
+    },
+    "armorDesc": [
+      "23% increased rogue damage and critical strike chance",
+      "40% increased movement speed",
+      "+20 max life",
+      "Temporary immunity to lava",
+      "Set Bonus: 9% increased rogue damage and velocity. Grants Empyrean Rage and Empyrean Wrath buffs when hit. Grants Wrath and Rage buffs when under 50% health. Maximum rogue stealth of 115.Rogue projectiles can spawn a random Empyrean projectile upon striking an enemy:\nEmpyrean Star which homes in strongly on enemies. It deals 80% damage of the projectile that spawned it.\nTwo Empyrean Orbs, one damaging that homes in on enemies and one healing that homes in on the player.\nThe damaging orb deals 62.5% of the projectile's damage.\nThe healing orb heals for 10% of the projectile's damage. If piercing, it heals 5% of the second hit's damage, and does not heal for subsequent hits.\nEmpyrean Fire spark which falls to the ground and lingers for a few seconds. It deals 15% damage of the projectile that spawned it.\nEmpyrean Blast explosion that deals 20% damage of the projectile that spawned it.\nEmpyrean Bubble which homes in weakly on enemies. It deals 60% damage of the projectile that spawned it."
+    ],
+    "craftingItems": [
+      [
+        "52 Meld Construct",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/ec/Meld_Construct.png"
+      ],
+      [
+        "36 Luminite Bar",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/60/Luminite_Bar.png"
+      ],
+      [
+        "Crafted at Ancient Manipulator",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e2/Ancient_Manipulator.png"
+      ]
+    ]
+  },
+  {
+    "armorName": "Tarragon armor",
+    "armorImg": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/0d/Tarragon_armor.png",
+    "armorDefenses": {
+      "headDef": [
+        "33",
+        "21",
+        "10",
+        "3",
+        "15"
+      ],
+      "chestDef": [
+        "37"
+      ],
+      "legsDef": [
+        "32"
+      ],
+      "totalDef": [
+        "102",
+        "90",
+        "79",
+        "72",
+        "84"
+      ]
+    },
+    "armorDesc": [
+      "16% increased damage",
+      "11% increased critical strike chance",
+      "15% increased movement speed",
+      "+40 max life",
+      "5% increased damage reduction",
+      "+2 life regen",
+      "Can move freely in liquids",
+      "Temporary immunity to lava",
+      "Set Bonus: Reduced enemy spawn rates. Increased heart pickup range. Enemies have a chance to drop extra hearts on death",
+      "Tarragon Helm: 10% increased melee damage and critical strike chance\nSet Bonus: +800 Aggro. 25% chance to gain the Tarra Life buff when hit. Press Armor Set Bonus to heavily reduce contact damage for 10 seconds, this has a 30 second cooldown",
+      "Tarragon Visage: 10% increased ranged damage and critical strike chance\nSet Bonus: With a 1-second cooldown, ranged projectiles split into life energy and leaves on death",
+      "Tarragon Mask: 20% increased magic damage, 10% increased magic critical strike chance, +100 max mana and 15% reduced mana cost\nSet Bonus: Every 5th critical strike fires a leaf storm. Magic projectiles have a 50% chance to heal on enemy hits, amount healed is based on projectile damage",
+      "Tarragon Horned Helm: 5% increased minion damage\nSet Bonus: 50% increased minion damage and +3 max minion. Summons a life aura that damages nearby enemies",
+      "Tarragon Helmet: 10% increased rogue damage and critical strike chance, 12% increased movement speed\nSet Bonus: After every 25 rogue critical hits grants 3 seconds of damage immunity with a cooldown of 30 seconds. While afflicted with a debuff, 10% increased rogue damage. Maximum rogue stealth of 115."
+    ],
+    "craftingItems": [
+      [
+        "33 Uelibloom Bar",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/70/Uelibloom_Bar.png"
+      ],
+      [
+        "36 Divine Geode",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/4b/Divine_Geode.png"
+      ],
+      [
+        "Crafted at Ancient Manipulator",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e2/Ancient_Manipulator.png"
+      ]
+    ]
+  },
+  {
+    "armorName": "Prismatic armor",
+    "armorImg": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d4/Prismatic_armor.png",
+    "armorDefenses": {
+      "headDef": [
+        "18"
+      ],
+      "chestDef": [
+        "33"
+      ],
+      "legsDef": [
+        "21"
+      ],
+      "totalDef": [
+        "72"
+      ]
+    },
+    "armorDesc": [
+      "40% increased magic damage",
+      "60% decreased non-magic damage",
+      "39% increased magic critical strike chance",
+      "+20 max life",
+      "+40 max mana",
+      "2% increased jump speed and 10% increased flight time",
+      "While no bosses are alive, any enemy with less than 500 max health deals no contact damage to the player",
+      "Magic attacks have a 20% chance to fire a pair of homing explosive rockets",
+      "Set Bonus: +40 max mana and 15% reduced mana cost. Increased mana regeneration. Press Armor Set Bonus to unleash a barrage of death lasers at the cursor for the next 5 seconds. This has a 30 second cooldown"
+    ],
+    "craftingItems": [
+      [
+        "9 Armored Shell",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/08/Armored_Shell.png"
+      ],
+      [
+        "15 Exodium Cluster",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/aa/Exodium_Cluster.png"
+      ],
+      [
+        "18 Divine Geode",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/4b/Divine_Geode.png"
+      ],
+      [
+        "900 Nanites",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a8/Nanites.png"
+      ],
+      [
+        "Crafted at Ancient Manipulator",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e2/Ancient_Manipulator.png"
+      ]
+    ]
+  },
+  {
+    "armorName": "Bloodflare armor",
+    "armorImg": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/4f/Bloodflare_armor.png",
+    "armorDefenses": {
+      "headDef": [
+        "49",
+        "34",
+        "22",
+        "16",
+        "28"
+      ],
+      "chestDef": [
+        "35"
+      ],
+      "legsDef": [
+        "29"
+      ],
+      "totalDef": [
+        "113",
+        "98",
+        "86",
+        "80",
+        "92"
+      ]
+    },
+    "armorDesc": [
+      "22% increased damage",
+      "15% increased critical strike chance",
+      "17% increased movement speed",
+      "+40 max life",
+      "Free movement in liquids",
+      "Temporary immunity to lava",
+      "+10 life regen and +30 defense while in lava",
+      "Set Bonus: Greatly increases life regeneration. Enemies below 50% life have a chance to drop hearts when struck. Enemies killed during a Blood Moon have a much higher chance to drop Blood Orbs",
+      "Bloodflare Ram Mask: 10% increased melee damage and critical strike chance\nSet Bonus: +900 Aggro. True melee strikes will heal on hit. After striking an enemy 15 times with true melee, a blood frenzy is entered for 5 seconds, giving 25% increased melee damage and critical strike chance and halved contact damage. This effect has a 30 second cooldown",
+      "Bloodflare Horned Helm: 10% increased ranged damage and critical strike chance\nSet Bonus: Press Armor Set Bonus to unleash the lost souls of Polterghast. This effect has a 30 second cooldown. Ranged weapons have a chance to also fire bloodsplosion orbs",
+      "Bloodflare Hydra Hood: 10% increased magic damage and critical strike chance, +100 max mana and 17% reduced mana cost\nSet Bonus: Magic weapons fire ghostly bolts every 1.67 seconds and magic critical strikes cause flame explosions every 2 seconds",
+      "Bloodflare Wyvern Helm: 5% increased minion damage\nSet Bonus: 50% increased minion damage and +3 max minions. Summons Polterghast's mines. When above 90% life, 10% increased minion damage, and when below 50% life, +20 defense and 2 life regen",
+      "Bloodflare Imp Mask: 10% increased rogue damage and critical strike chance, 15 % increased movement speed\nSet Bonus: When above 80% life, +30 and 5% increased rogue critical strike chance. When below 80% life, 10% increased rogue damage. Rogue critical strike heal the player. Maximum rogue stealth of 120"
+    ],
+    "craftingItems": [
+      [
+        "40 Bloodstone Core",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/1e/Bloodstone_Core.png"
+      ],
+      [
+        "9 Ruinous Soul",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/58/Ruinous_Soul.png"
+      ],
+      [
+        "Crafted at Ancient Manipulator",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e2/Ancient_Manipulator.png"
+      ]
+    ]
+  },
+  {
+    "armorName": "Omega Blue armor",
+    "armorImg": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/0e/Omega_Blue_armor.png",
+    "armorDefenses": {
+      "headDef": [
+        "19"
+      ],
+      "chestDef": [
+        "28"
+      ],
+      "legsDef": [
+        "22"
+      ],
+      "totalDef": [
+        "69"
+      ]
+    },
+    "armorDesc": [
+      "36% increased damage",
+      "24% increased critical strike chance",
+      "20% increased movement speed",
+      "Can move freely through liquids.",
+      "All attacks inflict Crush Depth on hit.",
+      "Negates all positive life regen.",
+      "Set Bonus: 10% increased damage and critical strike chance, +2 max minions, armor penetration increased by 15. Summons six tentacles from the player, which automatically attack nearby enemies and have great lifesteal capabilities.Press Armor Set Bonus to activate Abyssal Madness, buffing damage and critical strike chance and giving the tentacles increased range and aggression. Abyssal Madness lasts for 5 seconds and has a 25 second cooldown."
+    ],
+    "craftingItems": [
+      [
+        "30 Reaper Tooth",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/3f/Reaper_Tooth.png"
+      ],
+      [
+        "19 Lumenyl",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/65/Lumenyl.png"
+      ],
+      [
+        "19 Tenebris",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/25/Tenebris.png"
+      ],
+      [
+        "9 Ruinous Soul",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/58/Ruinous_Soul.png"
+      ],
+      [
+        "Crafted at Ancient Manipulator",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e2/Ancient_Manipulator.png"
+      ]
+    ]
+  },
+  {
+    "armorName": "God Slayer armor",
+    "armorImg": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/35/God_Slayer_armor.png",
+    "armorDefenses": {
+      "headDef": [
+        "48",
+        "35",
+        "29"
+      ],
+      "chestDef": [
+        "41"
+      ],
+      "legsDef": [
+        "35"
+      ],
+      "totalDef": [
+        "124",
+        "111",
+        "105"
+      ]
+    },
+    "armorDesc": [
+      "21% increased damage",
+      "12% increased critical strike chance",
+      "18% increased movement speed",
+      "+60 max life",
+      "Enemies take damage when they hit you",
+      "Set Bonus: Pressing God Slayer Dash allows the player to dash a great distance in 8 directions depending on what movement keys are held. This has a 35 second cooldown",
+      "God Slayer Horned Greathelm: 14% increased melee damage and critical strike chance\nSet Bonus: +1000 Aggro. Taking over 80 damage in one hit releases a swarm of high-damage god killer darts, gives the player an even stronger thorns effect, an attack that would deal 80 damage or less will cause the attack to be decreased to 1 damage",
+      "God Slayer Helmet: 14% increased ranged damage and critical strike chance\nSet Bonus: Ranged weapons fire a god killing shrapnel round every 2.5 seconds",
+      "God Slayer Mask: 14% increased rogue damage and critical strike chance, 18% increased movement speed\nSet Bonus: While at full HP all rogue stats are boosted by 10%. Extra immunity frames if taking more than 80 damage. Maximum rogue stealth of 120"
+    ],
+    "craftingItems": [
+      [
+        "55 Cosmilite Bar",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c6/Cosmilite_Bar.png"
+      ],
+      [
+        "7 Ascendant Spirit Essence",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/43/Ascendant_Spirit_Essence.png"
+      ],
+      [
+        "Crafted at Cosmic Anvil",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c0/Cosmic_Anvil.png"
+      ]
+    ]
+  },
+  {
+    "armorName": "Fearmonger armor",
+    "armorImg": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/03/Fearmonger_armor.png",
+    "armorDefenses": {
+      "headDef": [
+        "38"
+      ],
+      "chestDef": [
+        "50"
+      ],
+      "legsDef": [
+        "44"
+      ],
+      "totalDef": [
+        "132"
+      ]
+    },
+    "armorDesc": [
+      "8% increased damage reduction",
+      "11% increased damage",
+      "5% increased critical strike chance",
+      "30% increased summon damage",
+      "10% increased movement speed",
+      "+100 max life and +60 max mana",
+      "10% decreased mana usage",
+      "+2 max minions",
+      "15% increased damage reduction during the Pumpkin and Frost Moons\nThis is separate from normal DR and therefore ignores Calamity's DR scaling system",
+      "Set Bonus: Life regeneration temporarily increased by 7 on every minion hit. The duration increases by 1/3 of a second per minion hit, up to a maximum of 1.5 seconds. Grants the Panic! buff when the player is hit. Reduces the summon penalty to 75% instead of 50%. Immunity to several debuffs."
+    ],
+    "craftingItems": [
+      [
+        "1 Spooky armor",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a9/Spooky_armor.png"
+      ],
+      [
+        "30 Cosmilite Bar",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c6/Cosmilite_Bar.png"
+      ],
+      [
+        "30 Soul of Fright",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/80/Soul_of_Fright.png"
+      ],
+      [
+        "7 Ascendant Spirit Essence",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/43/Ascendant_Spirit_Essence.png"
+      ],
+      [
+        "Crafted at Cosmic Anvil",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c0/Cosmic_Anvil.png"
+      ]
+    ]
+  },
+  {
+    "armorName": "Silva armor",
+    "armorImg": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/0c/Silva_armor.png",
+    "armorDefenses": {
+      "headDef": [
+        "21",
+        "13"
+      ],
+      "chestDef": [
+        "44"
+      ],
+      "legsDef": [
+        "39"
+      ],
+      "totalDef": [
+        "104",
+        "96"
+      ]
+    },
+    "armorDesc": [
+      "24% increased damage",
+      "15% increased critical strike chance",
+      "19% increased movement speed",
+      "+80 max life",
+      "Set Bonus: All projectiles spawn healing leaf orbs on enemy hitsMax run speed and acceleration boosted by 5%If the player is reduced to 1 HP, the player will not die from any further damage for 8 seconds. This effect only triggers once per life.",
+      "Silva Masked Cap: 23% increased magic damage, 13% increased critical strike chance, +100 max mana and 19% reduced mana cost\nSet Bonus: With a 5-second cooldown, magic projectiles which cannot pierce cause an explosion on enemy hits.",
+      "Silva Horned Hood: 10% increased minion damage\nSet Bonus: 65% increased minion damage and +5 max minions. Summons an ancient leaf prism."
+    ],
+    "craftingItems": [
+      [
+        "22 Effulgent Feather",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/55/Effulgent_Feather.png"
+      ],
+      [
+        "22 Any Gold Bar",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/35/Any_Gold_Bar.gif"
+      ],
+      [
+        "27 Tenebris",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/25/Tenebris.png"
+      ],
+      [
+        "7 Ascendant Spirit Essence",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/43/Ascendant_Spirit_Essence.png"
+      ],
+      [
+        "1 Lead Core",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/40/Lead_Core.png"
+      ],
+      [
+        "Crafted at Cosmic Anvil",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c0/Cosmic_Anvil.png"
+      ]
+    ]
+  },
+  {
+    "armorName": "Auric Tesla armor",
+    "armorImg": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/27/Auric_Tesla_armor.png",
+    "armorDefenses": {
+      "headDef": [
+        "54",
+        "40",
+        "24",
+        "12",
+        "34"
+      ],
+      "chestDef": [
+        "48"
+      ],
+      "legsDef": [
+        "44"
+      ],
+      "totalDef": [
+        "146",
+        "132",
+        "116",
+        "104",
+        "126"
+      ]
+    },
+    "armorDesc": [
+      "20% increased damage",
+      "10% increased critical strike chance",
+      "20% increased movement speed",
+      "+100 max life",
+      "Standing still grants 20% increased damage and critical strike chance and a significant boost to knockback",
+      "Nearby enemies are frozen when taking damage",
+      "Magic carpet deploys when out of flight time",
+      "Set Bonus: All non-class Tarragon and Bloodflare set bonus effectsGodslayer armor set bonus effects for Auric Tesla Royal Helm, Hooded Facemask and Plumed HelmSilva armor set bonus effects for Auric Tesla Wire-Hammed Facemask and Space HelmetAll projectiles spawn healing auric orbs on enemy hits",
+      "Auric Tesla Royal Helm: 20% increased melee damage and critical strike chance\nSet Bonus: +1200 Aggro. Melee Tarragon, Bloodflare, and Godslayer armor effects.",
+      "Auric Tesla Hooded Facemask: 30% increased ranged damage and critical strike chance\nSet Bonus: Ranged Tarragon, Bloodflare, and Godslayer armor effects.",
+      "Auric Tesla Wire-Hemmed Visage: 30% increased magic damage, 20% increased magic critical strike chance, +100 max mana and 20% reduced mana cost\nSet Bonus: Magic Tarragon, Bloodflare, and Silva armor effects. Max run speed and acceleration boosted by 5%",
+      "Auric Tesla Space Helmet: 15% increased minion damage\nSet Bonus: 75% increased minion damage and +6 max minions. Summoner Tarragon, Bloodflare, and Silva armor effects. Max run speed and acceleration boosted by 5%",
+      "Auric Tesla Plumed Helm: 20% increased rogue damage, critical strike chance, and movement speed\nSet Bonus: Rogue Tarragon, Bloodflare, and Godslayer armor effects. Maximum rogue stealth of 130"
+    ],
+    "craftingItems": [
+      [
+        "1 Silva armor",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/0c/Silva_armor.png"
+      ],
+      [
+        "1 God Slayer armor",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/35/God_Slayer_armor.png"
+      ],
+      [
+        "1 Bloodflare armor",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/4f/Bloodflare_armor.png"
+      ],
+      [
+        "1 Tarragon armor",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/0d/Tarragon_armor.png"
+      ],
+      [
+        "45 Auric Bar",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8d/Auric_Bar.png"
+      ],
+      [
+        "1 Psychotic Amulet",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/ec/Psychotic_Amulet.png"
+      ],
+      [
+        "1 Frost Barrier",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/76/Frost_Barrier.png"
+      ],
+      [
+        "1 Flying Carpet",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/61/Flying_Carpet.png"
+      ],
+      [
+        "Crafted at Cosmic Anvil",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c0/Cosmic_Anvil.png"
+      ]
+    ]
+  },
+  {
+    "armorName": "Demonshade armor",
+    "armorImg": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/cc/Demonshade_armor.png",
+    "armorDefenses": {
+      "headDef": [
+        "50"
+      ],
+      "chestDef": [
+        "50"
+      ],
+      "legsDef": [
+        "50"
+      ],
+      "totalDef": [
+        "150"
+      ]
+    },
+    "armorDesc": [
+      "45% increased damage",
+      "30% increased critical strike chance",
+      "20% increased melee speed",
+      "30% increased movement speed",
+      "+200 max life and mana",
+      "Enemies have 100x their contact damage reflected back at them when hitting the player",
+      "Standing still grants +34 life regen",
+      "Set Bonus: 100% increased minion damage and +10 max minions. All attacks inflict Demon Flames. Shadowbeams and demon scythes will fire down when hit. Summons a friendly red devil. Pressing Armor Set Bonus causes the player to receive 25% more damage but deal 125% more damage to enemies and also enrage nearby enemies."
+    ],
+    "craftingItems": [
+      [
+        "45 Shadowspec Bar",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e6/Shadowspec_Bar.png"
+      ],
+      [
+        "Crafted at Draedon's Forge",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/38/Draedon%27s_Forge.png"
+      ]
+    ]
+  }
+]

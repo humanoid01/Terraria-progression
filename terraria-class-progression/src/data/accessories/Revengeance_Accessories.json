@@ -1,0 +1,264 @@
+[
+  {
+    "id": 10000,
+    "itemName": "Heart of Darkness",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/17/Heart_of_Darkness.gif",
+    "itemSpecs": [
+      [
+        "Type",
+        "Accessory – Crafting material"
+      ],
+      [
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png"
+      ],
+      [
+        "Sell",
+        "      80  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png"
+      ]
+    ],
+    "craftingStations": [],
+    "craftingIngredients": []
+  },
+  {
+    "id": 10001,
+    "itemName": "Laudanum",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/a1/Laudanum.png",
+    "itemSpecs": [
+      [
+        "Type",
+        "Accessory – Crafting material"
+      ],
+      [
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png"
+      ],
+      [
+        "Sell",
+        "      80  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png"
+      ]
+    ],
+    "craftingStations": [],
+    "craftingIngredients": []
+  },
+  {
+    "id": 10002,
+    "itemName": "Occult Skull Crown",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/5e/Occult_Skull_Crown.png",
+    "itemSpecs": [
+      [
+        "Type",
+        "Accessory – Armor"
+      ],
+      [
+        "Defense",
+        "5"
+      ],
+      [
+        "Body slot",
+        "Helmet"
+      ],
+      [
+        "Rarity",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e7/Rarity_color_14.png"
+      ],
+      [
+        "Sell",
+        "      28  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
+      ]
+    ],
+    "craftingStations": [
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e2/Ancient_Manipulator.png",
+        "Ancient Manipulator"
+      ]
+    ],
+    "craftingIngredients": [
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/09/Heart_of_Darkness.png",
+        "Heart of Darkness",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/a1/Laudanum.png",
+        "Laudanum",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/38/Stress_Pills.png",
+        "Stress Pills",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/3c/Nightmare_Fuel.png",
+        "Nightmare Fuel",
+        "20"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/5e/Occult_Skull_Crown.png",
+        "Occult Skull Crown",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c0/Cosmic_Anvil.png"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/bb/The_Godfather.png",
+        "The Godfather",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/7a/Thrower%27s_Gauntlet.png",
+        "Thrower's Gauntlet",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/9f/Quiver_of_Madness.png",
+        "Quiver of Madness",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/2a/Magna_Core.png",
+        "Magna Core",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/b6/Zenith_Arcanum.png",
+        "Zenith Arcanum",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/89/Nanotech.png",
+        "Nanotech",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/74/Rogue%27s_Lootbox.png",
+        "Rogue's Lootbox",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/46/Statis%27_Void_Sash.png",
+        "Statis' Void Sash",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/33/Asgardian_Aegis.png",
+        "Asgardian Aegis",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d5/Reaper_Tooth_Necklace.png",
+        "Reaper Tooth Necklace",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/40/Core_of_the_Blood_God.png",
+        "Core of the Blood God",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/69/Rampart_of_Deities.png",
+        "Rampart of Deities",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/3d/Universal_Stone.png",
+        "Universal Stone",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/52/Calamity.png",
+        "Calamity",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/38/Draedon%27s_Heart.png",
+        "Draedon's Heart",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/36/Yharim%27s_Gift.png",
+        "Yharim's Gift",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/5e/Occult_Skull_Crown.png",
+        "Occult Skull Crown",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/0d/Holy_Mantle.png",
+        "Holy Mantle",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/a2/Celestial_Tracers.png",
+        "Celestial Tracers",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/73/The_Community.png",
+        "The Community",
+        "1"
+      ],
+      [
+        null
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/36/Shattered_Community.png",
+        "Shattered Community"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/f1/Calamitous_Soul_Artifact.png",
+        "Calamitous Soul Artifact",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/b8/Ambrosial_Ampoule.png",
+        "Ambrosial Ampoule",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/ee/Celestial_Shell.png",
+        "Celestial Shell",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e6/Shadowspec_Bar.png",
+        "Shadowspec Bar",
+        "50"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/cc/The_Verboten_One.png",
+        "The Verboten One",
+        "1"
+      ]
+    ]
+  },
+  {
+    "id": 10003,
+    "itemName": "Stress Pills",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/38/Stress_Pills.png",
+    "itemSpecs": [
+      [
+        "Type",
+        "Accessory – Crafting material"
+      ],
+      [
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png"
+      ],
+      [
+        "Sell",
+        "      80  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png"
+      ]
+    ],
+    "craftingStations": [],
+    "craftingIngredients": []
+  }
+]

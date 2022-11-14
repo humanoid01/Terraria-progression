@@ -2,7 +2,7 @@
   {
     "id": 3000,
     "itemName": "Abandoned Slime Staff",
-    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/60/Abandoned_Slime_Staff.png/revision/latest?cb=20200309054038",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/60/Abandoned_Slime_Staff.png",
     "itemSpecs": [
       [
         "Type",
@@ -33,7 +33,7 @@
         "The mini astrageldon slime will protect you"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/65/Astral_Infection_%28debuff%29.png/revision/latest?cb=20190822121723",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/65/Astral_Infection_%28debuff%29.png",
         "Astral Infection",
         "100% chance"
       ],
@@ -47,12 +47,12 @@
       ],
       [
         "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Rarity_color_7.png/revision/latest?cb=20140827202638"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Rarity_color_7.png"
       ],
       [
         "Sell",
         "      9  60  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [],
@@ -61,7 +61,7 @@
   {
     "id": 3001,
     "itemName": "Ancient Ice Chunk",
-    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e3/Ancient_Ice_Chunk.png/revision/latest?cb=20171208164047",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e3/Ancient_Ice_Chunk.png",
     "itemSpecs": [
       [
         "Type",
@@ -93,12 +93,12 @@
       ],
       [
         "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png/revision/latest?cb=20150630184821"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png"
       ],
       [
         "Sell",
         "      2  40  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [],
@@ -107,7 +107,7 @@
   {
     "id": 3002,
     "itemName": "Ares' Exoskeleton",
-    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/62/Ares%27_Exoskeleton.png/revision/latest?cb=20220822092500",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/62/Ares%27_Exoskeleton.png",
     "itemSpecs": [
       [
         "Type",
@@ -148,7 +148,7 @@
       [
         "Sell",
         "      30  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [],
@@ -157,7 +157,7 @@
   {
     "id": 3003,
     "itemName": "Atlas Munitions Beacon",
-    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/da/Atlas_Munitions_Beacon.png/revision/latest?cb=20221025125037",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/da/Atlas_Munitions_Beacon.png",
     "itemSpecs": [
       [
         "Type",
@@ -185,33 +185,33 @@
       ],
       [
         "Rarity",
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8d/Rarity_color_15.png/revision/latest?cb=20180106235128"
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8d/Rarity_color_15.png"
       ],
       [
         "Sell",
         "      30  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e2/Ancient_Manipulator.png/revision/latest?cb=20200516185008",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e2/Ancient_Manipulator.png",
         "Ancient Manipulator"
       ]
     ],
     "craftingIngredients": [
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/3b/Astral_Bar.png/revision/latest?cb=20181121142957",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/3b/Astral_Bar.png",
         "Astral Bar",
         "8"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/f3/Titan_Heart.png/revision/latest?cb=20200802014712",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/f3/Titan_Heart.png",
         "Titan Heart",
         "1"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/da/Atlas_Munitions_Beacon.png/revision/latest?cb=20221025125037",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/da/Atlas_Munitions_Beacon.png",
         "Atlas Munitions Beacon",
         "1"
       ]
@@ -220,7 +220,7 @@
   {
     "id": 3004,
     "itemName": "Belladonna Spirit Staff",
-    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/6d/Belladonna_Spirit_Staff.png/revision/latest?cb=20220314162440",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/6d/Belladonna_Spirit_Staff.png",
     "itemSpecs": [
       [
         "Type",
@@ -251,7 +251,7 @@
         "A cute forest spirit is following you"
       ],
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/11/Poisoned.png/revision/latest?cb=20170708221026",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/11/Poisoned.png",
         "Poisoned",
         "100% chance"
       ],
@@ -265,47 +265,47 @@
       ],
       [
         "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png/revision/latest?cb=20140827153216"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png"
       ],
       [
         "Sell",
         "      20  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png/revision/latest?cb=20200516221827"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png"
       ]
     ],
     "craftingStations": [
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c3/Iron_Anvil.png/revision/latest?cb=20200516214257",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c3/Iron_Anvil.png",
         "Iron Anvil"
       ],
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/32/Lead_Anvil.png/revision/latest?cb=20200516214608",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/32/Lead_Anvil.png",
         "Lead Anvil"
       ]
     ],
     "craftingIngredients": [
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/ff/Vine.png/revision/latest?cb=20200516223340",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/ff/Vine.png",
         "Vine",
         "4"
       ],
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/61/Jungle_Spores.png/revision/latest?cb=20200516214415",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/61/Jungle_Spores.png",
         "Jungle Spores",
         "5"
       ],
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b6/Stinger.png/revision/latest?cb=20200516222608",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b6/Stinger.png",
         "Stinger",
         "8"
       ],
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/27/Rich_Mahogany.png/revision/latest?cb=20200516221238",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/27/Rich_Mahogany.png",
         "Rich Mahogany",
         "25"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/6d/Belladonna_Spirit_Staff.png/revision/latest?cb=20220314162440",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/6d/Belladonna_Spirit_Staff.png",
         "Belladonna Spirit Staff",
         "1"
       ]
@@ -314,7 +314,7 @@
   {
     "id": 3005,
     "itemName": "Black Hawk Remote",
-    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/17/Black_Hawk_Remote.png/revision/latest?cb=20191027020713",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/17/Black_Hawk_Remote.png",
     "itemSpecs": [
       [
         "Type",
@@ -346,12 +346,12 @@
       ],
       [
         "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png/revision/latest?cb=20150630184821"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png"
       ],
       [
         "Sell",
         "      2  40  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [],
@@ -360,7 +360,7 @@
   {
     "id": 3006,
     "itemName": "Blood Clot Staff",
-    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/20/Blood_Clot_Staff.png/revision/latest?cb=20180615012205",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/20/Blood_Clot_Staff.png",
     "itemSpecs": [
       [
         "Type",
@@ -392,42 +392,42 @@
       ],
       [
         "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png/revision/latest?cb=20140827153300"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png"
       ],
       [
         "Sell",
         "      80  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png/revision/latest?cb=20200516221827"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png"
       ]
     ],
     "craftingStations": [
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/f8/Demon_Altar.png/revision/latest?cb=20170831034528",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/f8/Demon_Altar.png",
         "Demon Altar"
       ],
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/70/Crimson_Altar.png/revision/latest?cb=20160626093352",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/70/Crimson_Altar.png",
         "Crimson Altar"
       ]
     ],
     "craftingIngredients": [
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/67/Vertebra.png/revision/latest?cb=20200516223320",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/67/Vertebra.png",
         "Vertebrae",
         "4"
       ],
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/ce/Crimtane_Bar.png/revision/latest?cb=20200516210436",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/ce/Crimtane_Bar.png",
         "Crimtane Bar",
         "5"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/a3/Blood_Sample.png/revision/latest?cb=20221002055128",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/a3/Blood_Sample.png",
         "Blood Sample",
         "10"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/20/Blood_Clot_Staff.png/revision/latest?cb=20180615012205",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/20/Blood_Clot_Staff.png",
         "Blood Clot Staff",
         "1"
       ]
@@ -436,7 +436,7 @@
   {
     "id": 3007,
     "itemName": "Borealis Bomber",
-    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/5f/Borealis_Bomber.png/revision/latest?cb=20200205075910",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/5f/Borealis_Bomber.png",
     "itemSpecs": [
       [
         "Type",
@@ -477,12 +477,12 @@
       ],
       [
         "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Rarity_color_7.png/revision/latest?cb=20140827202638"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Rarity_color_7.png"
       ],
       [
         "Sell",
         "      12  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [],
@@ -491,7 +491,7 @@
   {
     "id": 3008,
     "itemName": "Cadaverous Carrion",
-    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/41/Cadaverous_Carrion.png/revision/latest?cb=20220621191739",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/41/Cadaverous_Carrion.png",
     "itemSpecs": [
       [
         "Type",
@@ -520,7 +520,7 @@
       [
         "Sell",
         "      26  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [],
@@ -529,7 +529,7 @@
   {
     "id": 3009,
     "itemName": "Calamari's Lament",
-    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/36/Calamari%27s_Lament.png/revision/latest?cb=20190804143503",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/36/Calamari%27s_Lament.png",
     "itemSpecs": [
       [
         "Type",
@@ -560,7 +560,7 @@
         "The squid will protect you"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/9a/Crush_Depth.png/revision/latest?cb=20181121033957",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/9a/Crush_Depth.png",
         "Crush Depth",
         "100% chance"
       ],
@@ -574,12 +574,12 @@
       ],
       [
         "Rarity",
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/36/Rarity_color_13.png/revision/latest?cb=20180106235025"
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/36/Rarity_color_13.png"
       ],
       [
         "Sell",
         "      28  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [],
@@ -588,7 +588,7 @@
   {
     "id": 3010,
     "itemName": "Caustic Croaker Staff",
-    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8a/Caustic_Croaker_Staff.png/revision/latest?cb=20211117153021",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8a/Caustic_Croaker_Staff.png",
     "itemSpecs": [
       [
         "Type",
@@ -612,12 +612,12 @@
       ],
       [
         "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png/revision/latest?cb=20140827153252"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png"
       ],
       [
         "Sell",
         "      40  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png/revision/latest?cb=20200516221827"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png"
       ]
     ],
     "craftingStations": [],
@@ -626,7 +626,7 @@
   {
     "id": 3011,
     "itemName": "Caustic Staff",
-    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/ce/Caustic_Staff.png/revision/latest?cb=20200802013952",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/ce/Caustic_Staff.png",
     "itemSpecs": [
       [
         "Type",
@@ -658,47 +658,47 @@
       ],
       [
         "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png/revision/latest?cb=20150630184821"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png"
       ],
       [
         "Sell",
         "      2  40  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/f8/Demon_Altar.png/revision/latest?cb=20170831034528",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/f8/Demon_Altar.png",
         "Demon Altar"
       ],
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/70/Crimson_Altar.png/revision/latest?cb=20160626093352",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/70/Crimson_Altar.png",
         "Crimson Altar"
       ]
     ],
     "craftingIngredients": [
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/00/Any_Evil_Flask.gif/revision/latest?cb=20200416123940",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/00/Any_Evil_Flask.gif",
         "Any Evil Flask",
         "5"
       ],
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c8/Deathweed.png/revision/latest?cb=20200516211244",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c8/Deathweed.png",
         "Deathweed",
         "2"
       ],
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e9/Soul_of_Night.png/revision/latest?cb=20200516233827",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e9/Soul_of_Night.png",
         "Soul of Night",
         "10"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/7f/Any_Evil_Bar.gif/revision/latest?cb=20200206130830",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/7f/Any_Evil_Bar.gif",
         "Any Evil Bar",
         "10"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/ce/Caustic_Staff.png/revision/latest?cb=20200802013952",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/ce/Caustic_Staff.png",
         "Caustic Staff",
         "1"
       ]
@@ -707,7 +707,7 @@
   {
     "id": 3012,
     "itemName": "Cinder Blossom Staff",
-    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/45/Cinder_Blossom_Staff.png/revision/latest?cb=20200401223904",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/45/Cinder_Blossom_Staff.png",
     "itemSpecs": [
       [
         "Type",
@@ -739,42 +739,42 @@
       ],
       [
         "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png/revision/latest?cb=20140827153300"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png"
       ],
       [
         "Sell",
         "      80  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png/revision/latest?cb=20200516221827"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png"
       ]
     ],
     "craftingStations": [
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c3/Iron_Anvil.png/revision/latest?cb=20200516214257",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c3/Iron_Anvil.png",
         "Iron Anvil"
       ],
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/32/Lead_Anvil.png/revision/latest?cb=20200516214608",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/32/Lead_Anvil.png",
         "Lead Anvil"
       ]
     ],
     "craftingIngredients": [
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/92/Fireblossom.png/revision/latest?cb=20200516212309",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/92/Fireblossom.png",
         "Fireblossom",
         "5"
       ],
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/cd/Lava_Bucket.png/revision/latest?cb=20200516214544",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/cd/Lava_Bucket.png",
         "Lava Bucket",
         "2"
       ],
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Hellstone_Bar.png/revision/latest?cb=20200516213934",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Hellstone_Bar.png",
         "Hellstone Bar",
         "10"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/45/Cinder_Blossom_Staff.png/revision/latest?cb=20200401223904",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/45/Cinder_Blossom_Staff.png",
         "Cinder Blossom Staff",
         "1"
       ]
@@ -783,7 +783,7 @@
   {
     "id": 3013,
     "itemName": "Cinders of Lament",
-    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/52/Cinders_of_Lament.png/revision/latest?cb=20211117005953",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/52/Cinders_of_Lament.png",
     "itemSpecs": [
       [
         "Type",
@@ -807,12 +807,12 @@
       ],
       [
         "Rarity",
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8d/Rarity_color_15.png/revision/latest?cb=20180106235128"
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8d/Rarity_color_15.png"
       ],
       [
         "Sell",
         "      30  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [],
@@ -821,7 +821,7 @@
   {
     "id": 3014,
     "itemName": "Cold Divinity",
-    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/2e/Cold_Divinity.png/revision/latest?cb=20200401223502",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/2e/Cold_Divinity.png",
     "itemSpecs": [
       [
         "Type",
@@ -852,7 +852,7 @@
         "The magic of the ancient ice castle will aid you"
       ],
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Frostburn.png/revision/latest?cb=20170715155824",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Frostburn.png",
         "Frostburn",
         "100% chance"
       ],
@@ -866,12 +866,12 @@
       ],
       [
         "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png/revision/latest?cb=20140827211545"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png"
       ],
       [
         "Sell",
         "      4  80  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [],
@@ -880,7 +880,7 @@
   {
     "id": 3015,
     "itemName": "Corroslime Staff",
-    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/7f/Corroslime_Staff.png/revision/latest?cb=20200306040725",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/7f/Corroslime_Staff.png",
     "itemSpecs": [
       [
         "Type",
@@ -912,12 +912,12 @@
       ],
       [
         "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png/revision/latest?cb=20150630184821"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png"
       ],
       [
         "Sell",
         "      2  40  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [],
@@ -926,7 +926,7 @@
   {
     "id": 3016,
     "itemName": "Corvid Harbinger Staff",
-    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/bf/Corvid_Harbinger_Staff.png/revision/latest?cb=20200401224707",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/bf/Corvid_Harbinger_Staff.png",
     "itemSpecs": [
       [
         "Type",
@@ -958,38 +958,38 @@
       ],
       [
         "Rarity",
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e7/Rarity_color_14.png/revision/latest?cb=20180106235104"
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e7/Rarity_color_14.png"
       ],
       [
         "Sell",
         "      50  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c0/Cosmic_Anvil.png/revision/latest?cb=20211117014658",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c0/Cosmic_Anvil.png",
         "Cosmic Anvil"
       ]
     ],
     "craftingIngredients": [
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/10/Raven_Staff.png/revision/latest?cb=20200516221018",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/10/Raven_Staff.png",
         "Raven Staff",
         "1"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c6/Cosmilite_Bar.png/revision/latest?cb=20200222072206",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c6/Cosmilite_Bar.png",
         "Cosmilite Bar",
         "8"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/3c/Nightmare_Fuel.png/revision/latest?cb=20200310163830",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/3c/Nightmare_Fuel.png",
         "Nightmare Fuel",
         "20"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/bf/Corvid_Harbinger_Staff.png/revision/latest?cb=20200401224707",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/bf/Corvid_Harbinger_Staff.png",
         "Corvid Harbinger Staff",
         "1"
       ]
@@ -998,7 +998,7 @@
   {
     "id": 3017,
     "itemName": "Cosmic Immaterializer",
-    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/88/Cosmic_Immaterializer.png/revision/latest?cb=20171227175854",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/88/Cosmic_Immaterializer.png",
     "itemSpecs": [
       [
         "Type",
@@ -1030,48 +1030,48 @@
       ],
       [
         "Rarity",
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8d/Rarity_color_15.png/revision/latest?cb=20180106235128"
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8d/Rarity_color_15.png"
       ],
       [
         "Sell",
         "      30  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/38/Draedon%27s_Forge.png/revision/latest?cb=20211117002300",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/38/Draedon%27s_Forge.png",
         "Draedon's Forge"
       ]
     ],
     "craftingIngredients": [
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/bf/Corvid_Harbinger_Staff.png/revision/latest?cb=20200401224707",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/bf/Corvid_Harbinger_Staff.png",
         "Corvid Harbinger Staff",
         "1"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e3/Ancient_Ice_Chunk.png/revision/latest?cb=20171208164047",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e3/Ancient_Ice_Chunk.png",
         "Ancient Ice Chunk",
         "1"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/99/Elemental_Axe.png/revision/latest?cb=20171124220840",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/99/Elemental_Axe.png",
         "Elemental Axe",
         "1"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/74/Energy_Staff.png/revision/latest?cb=20200802102755",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/74/Energy_Staff.png",
         "Energy Staff",
         "1"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/ec/Miracle_Matter.png/revision/latest?cb=20211117042838",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/ec/Miracle_Matter.png",
         "Miracle Matter",
         "1"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/88/Cosmic_Immaterializer.png/revision/latest?cb=20171227175854",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/88/Cosmic_Immaterializer.png",
         "Cosmic Immaterializer",
         "1"
       ]
@@ -1080,7 +1080,7 @@
   {
     "id": 3018,
     "itemName": "Cosmic Viper Engine",
-    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/77/Cosmic_Viper_Engine.png/revision/latest?cb=20200401223521",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/77/Cosmic_Viper_Engine.png",
     "itemSpecs": [
       [
         "Type",
@@ -1111,7 +1111,7 @@
         "The cosmic gunship will protect you"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/07/God_Slayer_Inferno.png/revision/latest?cb=20190926034038",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/07/God_Slayer_Inferno.png",
         "God Slayer Inferno",
         "100% chance"
       ],
@@ -1125,38 +1125,38 @@
       ],
       [
         "Rarity",
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e7/Rarity_color_14.png/revision/latest?cb=20180106235104"
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e7/Rarity_color_14.png"
       ],
       [
         "Sell",
         "      28  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c0/Cosmic_Anvil.png/revision/latest?cb=20211117014658",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c0/Cosmic_Anvil.png",
         "Cosmic Anvil"
       ]
     ],
     "craftingIngredients": [
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/36/Tactical_Plague_Engine.png/revision/latest?cb=20200401223714",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/36/Tactical_Plague_Engine.png",
         "Tactical Plague Engine",
         "1"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/aa/Exodium_Cluster.png/revision/latest?cb=20180816171833",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/aa/Exodium_Cluster.png",
         "Exodium Cluster",
         "20"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c6/Cosmilite_Bar.png/revision/latest?cb=20200222072206",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c6/Cosmilite_Bar.png",
         "Cosmilite Bar",
         "10"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/77/Cosmic_Viper_Engine.png/revision/latest?cb=20200401223521",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/77/Cosmic_Viper_Engine.png",
         "Cosmic Viper Engine",
         "1"
       ]
@@ -1165,7 +1165,7 @@
   {
     "id": 3019,
     "itemName": "Cosmilamp",
-    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/86/Cosmilamp.png/revision/latest?cb=20180402221220",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/86/Cosmilamp.png",
     "itemSpecs": [
       [
         "Type",
@@ -1197,12 +1197,12 @@
       ],
       [
         "Rarity",
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/ec/Rarity_color_12.png/revision/latest?cb=20180106234938"
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/ec/Rarity_color_12.png"
       ],
       [
         "Sell",
         "      24  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [],
@@ -1211,7 +1211,7 @@
   {
     "id": 3020,
     "itemName": "Crimslime Staff",
-    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c5/Crimslime_Staff.png/revision/latest?cb=20200306040750",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c5/Crimslime_Staff.png",
     "itemSpecs": [
       [
         "Type",
@@ -1243,12 +1243,12 @@
       ],
       [
         "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png/revision/latest?cb=20150630184821"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png"
       ],
       [
         "Sell",
         "      2  40  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [],
@@ -1257,7 +1257,7 @@
   {
     "id": 3021,
     "itemName": "Cryogenic Staff",
-    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/1a/Cryogenic_Staff.png/revision/latest?cb=20220314135129",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/1a/Cryogenic_Staff.png",
     "itemSpecs": [
       [
         "Type",
@@ -1280,7 +1280,7 @@
         "24 Fast"
       ],
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Frostburn.png/revision/latest?cb=20170715155824",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Frostburn.png",
         "Frostburn",
         "100% chance"
       ],
@@ -1294,7 +1294,7 @@
       ],
       [
         "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/96/Rarity_color_11.png/revision/latest?cb=20150702012429"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/96/Rarity_color_11.png"
       ],
       [
         "Buy / Sell",
@@ -1307,7 +1307,7 @@
   {
     "id": 3022,
     "itemName": "Daedalus Golem Staff",
-    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/5d/Daedalus_Golem_Staff.png/revision/latest?cb=20211117012650",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/5d/Daedalus_Golem_Staff.png",
     "itemSpecs": [
       [
         "Type",
@@ -1339,32 +1339,32 @@
       ],
       [
         "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png/revision/latest?cb=20140827211545"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png"
       ],
       [
         "Sell",
         "      4  80  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/3d/Mythril_Anvil.png/revision/latest?cb=20200516215710",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/3d/Mythril_Anvil.png",
         "Mythril Anvil"
       ],
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Orichalcum_Anvil.png/revision/latest?cb=20200516220030",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Orichalcum_Anvil.png",
         "Orichalcum Anvil"
       ]
     ],
     "craftingIngredients": [
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/f8/Cryonic_Bar.png/revision/latest?cb=20191106032234",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/f8/Cryonic_Bar.png",
         "Cryonic Bar",
         "12"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/5d/Daedalus_Golem_Staff.png/revision/latest?cb=20211117012650",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/5d/Daedalus_Golem_Staff.png",
         "Daedalus Golem Staff",
         "1"
       ]
@@ -1373,7 +1373,7 @@
   {
     "id": 3023,
     "itemName": "Dank Staff",
-    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d1/Dank_Staff.png/revision/latest?cb=20200205065418",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d1/Dank_Staff.png",
     "itemSpecs": [
       [
         "Type",
@@ -1405,42 +1405,42 @@
       ],
       [
         "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png/revision/latest?cb=20140827153300"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png"
       ],
       [
         "Sell",
         "      80  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png/revision/latest?cb=20200516221827"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png"
       ]
     ],
     "craftingStations": [
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/f8/Demon_Altar.png/revision/latest?cb=20170831034528",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/f8/Demon_Altar.png",
         "Demon Altar"
       ],
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/70/Crimson_Altar.png/revision/latest?cb=20160626093352",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/70/Crimson_Altar.png",
         "Crimson Altar"
       ]
     ],
     "craftingIngredients": [
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/04/Rotten_Chunk.png/revision/latest?cb=20200516221308",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/04/Rotten_Chunk.png",
         "Rotten Chunk",
         "3"
       ],
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/67/Demonite_Bar.png/revision/latest?cb=20200516211316",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/67/Demonite_Bar.png",
         "Demonite Bar",
         "8"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/86/Rotten_Matter.png/revision/latest?cb=20211117044335",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/86/Rotten_Matter.png",
         "Rotten Matter",
         "7"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d1/Dank_Staff.png/revision/latest?cb=20200205065418",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d1/Dank_Staff.png",
         "Dank Staff",
         "1"
       ]
@@ -1449,7 +1449,7 @@
   {
     "id": 3024,
     "itemName": "Dazzling Stabber Staff",
-    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/5e/Dazzling_Stabber_Staff.png/revision/latest?cb=20200401220315",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/5e/Dazzling_Stabber_Staff.png",
     "itemSpecs": [
       [
         "Type",
@@ -1480,7 +1480,7 @@
         "En garde"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d7/Holy_Flames.png/revision/latest?cb=20200420002433",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d7/Holy_Flames.png",
         "Holy Flames",
         "100% chance"
       ],
@@ -1494,12 +1494,12 @@
       ],
       [
         "Rarity",
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/ec/Rarity_color_12.png/revision/latest?cb=20180106234938"
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/ec/Rarity_color_12.png"
       ],
       [
         "Sell",
         "      24  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [],
@@ -1508,7 +1508,7 @@
   {
     "id": 3025,
     "itemName": "Deathstare Rod",
-    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/6f/Deathstare_Rod.png/revision/latest?cb=20211117012703",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/6f/Deathstare_Rod.png",
     "itemSpecs": [
       [
         "Type",
@@ -1540,12 +1540,12 @@
       ],
       [
         "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png/revision/latest?cb=20140827153252"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png"
       ],
       [
         "Sell",
         "      40  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png/revision/latest?cb=20200516221827"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png"
       ]
     ],
     "craftingStations": [],
@@ -1554,7 +1554,7 @@
   {
     "id": 3026,
     "itemName": "Deepsea Staff",
-    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/2a/Deepsea_Staff.png/revision/latest?cb=20211117153024",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/2a/Deepsea_Staff.png",
     "itemSpecs": [
       [
         "Type",
@@ -1586,12 +1586,12 @@
       ],
       [
         "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png/revision/latest?cb=20140827211545"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png"
       ],
       [
         "Sell",
         "      7  20  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [],
@@ -1600,7 +1600,7 @@
   {
     "id": 3027,
     "itemName": "Dormant Brimseeker",
-    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/03/Dormant_Brimseeker.png/revision/latest?cb=20200401223536",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/03/Dormant_Brimseeker.png",
     "itemSpecs": [
       [
         "Type",
@@ -1631,7 +1631,7 @@
         "Does it want something from you?"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/71/Brimstone_Flames.png/revision/latest?cb=20200205054656",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/71/Brimstone_Flames.png",
         "Brimstone Flames",
         "100% chance"
       ],
@@ -1645,12 +1645,12 @@
       ],
       [
         "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png/revision/latest?cb=20140827211545"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png"
       ],
       [
         "Sell",
         "      7  20  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [],
@@ -1659,7 +1659,7 @@
   {
     "id": 3028,
     "itemName": "Dragonblood Disgorger",
-    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8b/Dragonblood_Disgorger.png/revision/latest?cb=20200401223237",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8b/Dragonblood_Disgorger.png",
     "itemSpecs": [
       [
         "Type",
@@ -1691,28 +1691,28 @@
       ],
       [
         "Rarity",
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/ec/Rarity_color_12.png/revision/latest?cb=20180106234938"
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/ec/Rarity_color_12.png"
       ],
       [
         "Sell",
         "      24  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e2/Ancient_Manipulator.png/revision/latest?cb=20200516185008",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e2/Ancient_Manipulator.png",
         "Ancient Manipulator"
       ]
     ],
     "craftingIngredients": [
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/1e/Bloodstone_Core.png/revision/latest?cb=20200309061852",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/1e/Bloodstone_Core.png",
         "Bloodstone Core",
         "12"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8b/Dragonblood_Disgorger.png/revision/latest?cb=20200401223237",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8b/Dragonblood_Disgorger.png",
         "Dragonblood Disgorger",
         "1"
       ]
@@ -1721,7 +1721,7 @@
   {
     "id": 3029,
     "itemName": "Dreadmine Staff",
-    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/b5/Dreadmine_Staff.png/revision/latest?cb=20200802102710",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/b5/Dreadmine_Staff.png",
     "itemSpecs": [
       [
         "Type",
@@ -1745,42 +1745,42 @@
       ],
       [
         "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Rarity_color_7.png/revision/latest?cb=20140827202638"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Rarity_color_7.png"
       ],
       [
         "Sell",
         "      12  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/3d/Mythril_Anvil.png/revision/latest?cb=20200516215710",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/3d/Mythril_Anvil.png",
         "Mythril Anvil"
       ],
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Orichalcum_Anvil.png/revision/latest?cb=20200516220030",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Orichalcum_Anvil.png",
         "Orichalcum Anvil"
       ]
     ],
     "craftingIngredients": [
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/f2/Depth_Cells.png/revision/latest?cb=20200510224424",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/f2/Depth_Cells.png",
         "Depth Cells",
         "10"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/65/Lumenyl.png/revision/latest?cb=20220917024042",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/65/Lumenyl.png",
         "Lumenyl",
         "30"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/25/Tenebris.png/revision/latest?cb=20180318035106",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/25/Tenebris.png",
         "Tenebris",
         "10"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/b5/Dreadmine_Staff.png/revision/latest?cb=20200802102710",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/b5/Dreadmine_Staff.png",
         "Dreadmine Staff",
         "1"
       ]
@@ -1789,7 +1789,7 @@
   {
     "id": 3030,
     "itemName": "Elemental Axe",
-    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/99/Elemental_Axe.png/revision/latest?cb=20171124220840",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/99/Elemental_Axe.png",
     "itemSpecs": [
       [
         "Type",
@@ -1820,7 +1820,7 @@
         "The elemental axe will protect you"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/71/Brimstone_Flames.png/revision/latest?cb=20200205054656",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/71/Brimstone_Flames.png",
         "Brimstone Flames",
         "100% chance"
       ],
@@ -1833,7 +1833,7 @@
         "Rapid health loss"
       ],
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Frostburn.png/revision/latest?cb=20170715155824",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Frostburn.png",
         "Frostburn",
         "100% chance"
       ],
@@ -1846,7 +1846,7 @@
         "It's either really hot or really cold. Either way it REALLY hurts"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d7/Holy_Flames.png/revision/latest?cb=20200420002433",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d7/Holy_Flames.png",
         "Holy Flames",
         "100% chance"
       ],
@@ -1860,53 +1860,53 @@
       ],
       [
         "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/96/Rarity_color_11.png/revision/latest?cb=20150702012429"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/96/Rarity_color_11.png"
       ],
       [
         "Sell",
         "      22  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e2/Ancient_Manipulator.png/revision/latest?cb=20200516185008",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e2/Ancient_Manipulator.png",
         "Ancient Manipulator"
       ]
     ],
     "craftingIngredients": [
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/89/Blade_Staff.png/revision/latest?cb=20200516192024",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/89/Blade_Staff.png",
         "Blade Staff",
         "1"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/75/Plantation_Staff.png/revision/latest?cb=20200205060611",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/75/Plantation_Staff.png",
         "Plantation Staff",
         "1"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/7d/Haunted_Scroll.png/revision/latest?cb=20200401223555",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/7d/Haunted_Scroll.png",
         "Haunted Scroll",
         "1"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/68/Galactica_Singularity.png/revision/latest?cb=20200802035734",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/68/Galactica_Singularity.png",
         "Galactica Singularity",
         "5"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/cf/Life_Alloy.png/revision/latest?cb=20200401221515",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/cf/Life_Alloy.png",
         "Life Alloy",
         "5"
       ],
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/60/Luminite_Bar.png/revision/latest?cb=20200516214944",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/60/Luminite_Bar.png",
         "Luminite Bar",
         "5"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/99/Elemental_Axe.png/revision/latest?cb=20171124220840",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/99/Elemental_Axe.png",
         "Elemental Axe",
         "1"
       ]
@@ -1915,7 +1915,7 @@
   {
     "id": 3031,
     "itemName": "Endo Hydra Staff",
-    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/ec/Endo_Hydra_Staff.png/revision/latest?cb=20200401223842",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/ec/Endo_Hydra_Staff.png",
     "itemSpecs": [
       [
         "Type",
@@ -1947,38 +1947,38 @@
       ],
       [
         "Rarity",
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e7/Rarity_color_14.png/revision/latest?cb=20180106235104"
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e7/Rarity_color_14.png"
       ],
       [
         "Sell",
         "      50  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c0/Cosmic_Anvil.png/revision/latest?cb=20211117014658",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c0/Cosmic_Anvil.png",
         "Cosmic Anvil"
       ]
     ],
     "craftingIngredients": [
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/20/Staff_of_the_Frost_Hydra.png/revision/latest?cb=20200516222430",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/20/Staff_of_the_Frost_Hydra.png",
         "Staff of the Frost Hydra",
         "1"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c6/Cosmilite_Bar.png/revision/latest?cb=20200222072206",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c6/Cosmilite_Bar.png",
         "Cosmilite Bar",
         "8"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/bf/Endothermic_Energy.png/revision/latest?cb=20200310163808",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/bf/Endothermic_Energy.png",
         "Endothermic Energy",
         "20"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/ec/Endo_Hydra_Staff.png/revision/latest?cb=20200401223842",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/ec/Endo_Hydra_Staff.png",
         "Endo Hydra Staff",
         "1"
       ]
@@ -1987,7 +1987,7 @@
   {
     "id": 3032,
     "itemName": "Endogenesis",
-    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/52/Endogenesis.png/revision/latest?cb=20200205094428",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/52/Endogenesis.png",
     "itemSpecs": [
       [
         "Type",
@@ -2018,7 +2018,7 @@
         "The ascened[sic] Cooper will protect you"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/73/Exo_Freeze.png/revision/latest?cb=20181121034119",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/73/Exo_Freeze.png",
         "Exo Freeze",
         "100% chance"
       ],
@@ -2031,7 +2031,7 @@
         "Cannot move"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/fc/Glacial_State.png/revision/latest?cb=20200802043326",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/fc/Glacial_State.png",
         "Glacial State",
         "100% chance"
       ],
@@ -2044,7 +2044,7 @@
         "Cannot move and defense is shattered"
       ],
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Frostburn.png/revision/latest?cb=20170715155824",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Frostburn.png",
         "Frostburn",
         "100% chance"
       ],
@@ -2058,48 +2058,48 @@
       ],
       [
         "Rarity",
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8b/Rarity_color_16.png/revision/latest?cb=20180106235146"
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8b/Rarity_color_16.png"
       ],
       [
         "Sell",
         "      40  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/38/Draedon%27s_Forge.png/revision/latest?cb=20211117002300",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/38/Draedon%27s_Forge.png",
         "Draedon's Forge"
       ]
     ],
     "craftingIngredients": [
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/1a/Cryogenic_Staff.png/revision/latest?cb=20220314135129",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/1a/Cryogenic_Staff.png",
         "Cryogenic Staff",
         "1"
       ],
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/f5/Blizzard_Staff.png/revision/latest?cb=20200516192439",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/f5/Blizzard_Staff.png",
         "Blizzard Staff",
         "1"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/bf/Endothermic_Energy.png/revision/latest?cb=20200310163808",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/bf/Endothermic_Energy.png",
         "Endothermic Energy",
         "100"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/0f/Core_of_Eleum.png/revision/latest?cb=20170913194337",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/0f/Core_of_Eleum.png",
         "Core of Eleum",
         "15"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e6/Shadowspec_Bar.png/revision/latest?cb=20200222073041",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e6/Shadowspec_Bar.png",
         "Shadowspec Bar",
         "5"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/52/Endogenesis.png/revision/latest?cb=20200205094428",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/52/Endogenesis.png",
         "Endogenesis",
         "1"
       ]
@@ -2108,7 +2108,7 @@
   {
     "id": 3033,
     "itemName": "Energy Staff",
-    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/74/Energy_Staff.png/revision/latest?cb=20200802102755",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/74/Energy_Staff.png",
     "itemSpecs": [
       [
         "Type",
@@ -2132,12 +2132,12 @@
       ],
       [
         "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/96/Rarity_color_11.png/revision/latest?cb=20150702012429"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/96/Rarity_color_11.png"
       ],
       [
         "Sell",
         "      22  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [],
@@ -2146,7 +2146,7 @@
   {
     "id": 3034,
     "itemName": "Entropy's Vigil",
-    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/60/Entropy%27s_Vigil.png/revision/latest?cb=20211117153034",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/60/Entropy%27s_Vigil.png",
     "itemSpecs": [
       [
         "Type",
@@ -2181,7 +2181,7 @@
         "Calamitas and her brothers will protect you"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/71/Brimstone_Flames.png/revision/latest?cb=20200205054656",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/71/Brimstone_Flames.png",
         "Brimstone Flames",
         "100% chance"
       ],
@@ -2195,12 +2195,12 @@
       ],
       [
         "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Rarity_color_7.png/revision/latest?cb=20140827202638"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Rarity_color_7.png"
       ],
       [
         "Sell",
         "      12  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [],
@@ -2209,7 +2209,7 @@
   {
     "id": 3035,
     "itemName": "Ethereal Subjugator",
-    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/df/Ethereal_Subjugator.png/revision/latest?cb=20191106031337",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/df/Ethereal_Subjugator.png",
     "itemSpecs": [
       [
         "Type",
@@ -2241,12 +2241,12 @@
       ],
       [
         "Rarity",
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/36/Rarity_color_13.png/revision/latest?cb=20180106235025"
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/36/Rarity_color_13.png"
       ],
       [
         "Sell",
         "      28  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [],
@@ -2255,7 +2255,7 @@
   {
     "id": 3036,
     "itemName": "Eye of Night",
-    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/37/Eye_of_Night.png/revision/latest?cb=20211117013334",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/37/Eye_of_Night.png",
     "itemSpecs": [
       [
         "Type",
@@ -2286,7 +2286,7 @@
         "It eerily watches"
       ],
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a0/Cursed_Inferno.png/revision/latest?cb=20170710211519",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a0/Cursed_Inferno.png",
         "Cursed Inferno",
         "100% chance"
       ],
@@ -2300,47 +2300,47 @@
       ],
       [
         "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png/revision/latest?cb=20140827153300"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png"
       ],
       [
         "Sell",
         "      80  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png/revision/latest?cb=20200516221827"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png"
       ]
     ],
     "craftingStations": [
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/f8/Demon_Altar.png/revision/latest?cb=20170831034528",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/f8/Demon_Altar.png",
         "Demon Altar"
       ],
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/70/Crimson_Altar.png/revision/latest?cb=20160626093352",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/70/Crimson_Altar.png",
         "Crimson Altar"
       ]
     ],
     "craftingIngredients": [
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/6d/Belladonna_Spirit_Staff.png/revision/latest?cb=20220314162440",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/6d/Belladonna_Spirit_Staff.png",
         "Belladonna Spirit Staff",
         "1"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/fe/Staff_of_Necrosteocytes.png/revision/latest?cb=20200401223659",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/fe/Staff_of_Necrosteocytes.png",
         "Staff of Necrosteocytes",
         "1"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/b1/Vile_Feeder.png/revision/latest?cb=20200401223728",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/b1/Vile_Feeder.png",
         "Vile Feeder",
         "1"
       ],
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/72/Imp_Staff.png/revision/latest?cb=20200516214233",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/72/Imp_Staff.png",
         "Imp Staff",
         "1"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/37/Eye_of_Night.png/revision/latest?cb=20211117013334",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/37/Eye_of_Night.png",
         "Eye of Night",
         "1"
       ]
@@ -2349,7 +2349,7 @@
   {
     "id": 3037,
     "itemName": "Flamsteed Ring",
-    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/1c/Flamsteed_Ring.png/revision/latest?cb=20200802012439",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/1c/Flamsteed_Ring.png",
     "itemSpecs": [
       [
         "Type",
@@ -2394,48 +2394,48 @@
       ],
       [
         "Rarity",
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8b/Rarity_color_16.png/revision/latest?cb=20180106235146"
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8b/Rarity_color_16.png"
       ],
       [
         "Sell",
         "      40  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/38/Draedon%27s_Forge.png/revision/latest?cb=20211117002300",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/38/Draedon%27s_Forge.png",
         "Draedon's Forge"
       ]
     ],
     "craftingIngredients": [
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c6/Cosmilite_Bar.png/revision/latest?cb=20200222072206",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c6/Cosmilite_Bar.png",
         "Cosmilite Bar",
         "40"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/f6/Excelsus.png/revision/latest?cb=20190306043357",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/f6/Excelsus.png",
         "Excelsus",
         "1"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/77/Cosmic_Viper_Engine.png/revision/latest?cb=20200401223521",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/77/Cosmic_Viper_Engine.png",
         "Cosmic Viper Engine",
         "1"
       ],
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fd/Vortex_Booster.png/revision/latest?cb=20200516223400",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fd/Vortex_Booster.png",
         "Vortex Booster",
         "1"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e6/Shadowspec_Bar.png/revision/latest?cb=20200222073041",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e6/Shadowspec_Bar.png",
         "Shadowspec Bar",
         "5"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/1c/Flamsteed_Ring.png/revision/latest?cb=20200802012439",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/1c/Flamsteed_Ring.png",
         "Flamsteed Ring",
         "1"
       ]
@@ -2444,7 +2444,7 @@
   {
     "id": 3038,
     "itemName": "Flesh of Infidelity",
-    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/30/Flesh_of_Infidelity.png/revision/latest?cb=20211117013113",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/30/Flesh_of_Infidelity.png",
     "itemSpecs": [
       [
         "Type",
@@ -2476,47 +2476,47 @@
       ],
       [
         "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png/revision/latest?cb=20140827153300"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png"
       ],
       [
         "Sell",
         "      80  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png/revision/latest?cb=20200516221827"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png"
       ]
     ],
     "craftingStations": [
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/f8/Demon_Altar.png/revision/latest?cb=20170831034528",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/f8/Demon_Altar.png",
         "Demon Altar"
       ],
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/70/Crimson_Altar.png/revision/latest?cb=20160626093352",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/70/Crimson_Altar.png",
         "Crimson Altar"
       ]
     ],
     "craftingIngredients": [
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/6d/Belladonna_Spirit_Staff.png/revision/latest?cb=20220314162440",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/6d/Belladonna_Spirit_Staff.png",
         "Belladonna Spirit Staff",
         "1"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/fe/Staff_of_Necrosteocytes.png/revision/latest?cb=20200401223659",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/fe/Staff_of_Necrosteocytes.png",
         "Staff of Necrosteocytes",
         "1"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/b9/Scab_Ripper.png/revision/latest?cb=20200401223639",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/b9/Scab_Ripper.png",
         "Scab Ripper",
         "1"
       ],
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/72/Imp_Staff.png/revision/latest?cb=20200516214233",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/72/Imp_Staff.png",
         "Imp Staff",
         "1"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/30/Flesh_of_Infidelity.png/revision/latest?cb=20211117013113",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/30/Flesh_of_Infidelity.png",
         "Flesh of Infidelity",
         "1"
       ]
@@ -2525,7 +2525,7 @@
   {
     "id": 3039,
     "itemName": "Flowers of Mortality",
-    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/97/Flowers_of_Mortality.png/revision/latest?cb=20211117013210",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/97/Flowers_of_Mortality.png",
     "itemSpecs": [
       [
         "Type",
@@ -2556,7 +2556,7 @@
         "Celestial blossoms surround you"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/71/Brimstone_Flames.png/revision/latest?cb=20200205054656",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/71/Brimstone_Flames.png",
         "Brimstone Flames",
         "100% chance"
       ],
@@ -2569,7 +2569,7 @@
         "Rapid health loss"
       ],
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Frostburn.png/revision/latest?cb=20170715155824",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Frostburn.png",
         "Frostburn",
         "100% chance"
       ],
@@ -2582,7 +2582,7 @@
         "It's either really hot or really cold. Either way it REALLY hurts"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d7/Holy_Flames.png/revision/latest?cb=20200420002433",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d7/Holy_Flames.png",
         "Holy Flames",
         "100% chance"
       ],
@@ -2596,48 +2596,48 @@
       ],
       [
         "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/96/Rarity_color_11.png/revision/latest?cb=20150702012429"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/96/Rarity_color_11.png"
       ],
       [
         "Sell",
         "      22  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e2/Ancient_Manipulator.png/revision/latest?cb=20200516185008",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e2/Ancient_Manipulator.png",
         "Ancient Manipulator"
       ]
     ],
     "craftingIngredients": [
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/7a/Wither_Blossoms_Staff.png/revision/latest?cb=20211117003459",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/7a/Wither_Blossoms_Staff.png",
         "Wither Blossoms Staff",
         "1"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d5/Viral_Sprout.png/revision/latest?cb=20211117003704",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d5/Viral_Sprout.png",
         "Viral Sprout",
         "1"
       ],
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/60/Luminite_Bar.png/revision/latest?cb=20200516214944",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/60/Luminite_Bar.png",
         "Luminite Bar",
         "5"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/68/Galactica_Singularity.png/revision/latest?cb=20200802035734",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/68/Galactica_Singularity.png",
         "Galactica Singularity",
         "5"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/cf/Life_Alloy.png/revision/latest?cb=20200401221515",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/cf/Life_Alloy.png",
         "Life Alloy",
         "5"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/97/Flowers_of_Mortality.png/revision/latest?cb=20211117013210",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/97/Flowers_of_Mortality.png",
         "Flowers of Mortality",
         "1"
       ]
@@ -2646,7 +2646,7 @@
   {
     "id": 3040,
     "itemName": "Forgotten Apex Wand",
-    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/0a/Forgotten_Apex_Wand.png/revision/latest?cb=20200205091737",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/0a/Forgotten_Apex_Wand.png",
     "itemSpecs": [
       [
         "Type",
@@ -2682,42 +2682,42 @@
       ],
       [
         "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png/revision/latest?cb=20140827211545"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png"
       ],
       [
         "Sell",
         "      7  20  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/3d/Mythril_Anvil.png/revision/latest?cb=20200516215710",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/3d/Mythril_Anvil.png",
         "Mythril Anvil"
       ],
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Orichalcum_Anvil.png/revision/latest?cb=20200516220030",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Orichalcum_Anvil.png",
         "Orichalcum Anvil"
       ]
     ],
     "craftingIngredients": [
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/04/Forbidden_Fragment.png/revision/latest?cb=20200516212633",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/04/Forbidden_Fragment.png",
         "Forbidden Fragment",
         "2"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/a7/Any_Adamantite_Bar.gif/revision/latest?cb=20191128205211",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/a7/Any_Adamantite_Bar.gif",
         "Any Adamantite Bar",
         "5"
       ],
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/2e/Amethyst.png/revision/latest?cb=20200516184617",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/2e/Amethyst.png",
         "Amethyst",
         "4"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/0a/Forgotten_Apex_Wand.png/revision/latest?cb=20200205091737",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/0a/Forgotten_Apex_Wand.png",
         "Forgotten Apex Wand",
         "1"
       ]
@@ -2726,7 +2726,7 @@
   {
     "id": 3041,
     "itemName": "Frost Blossom Staff",
-    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/cc/Frost_Blossom_Staff.png/revision/latest?cb=20200401221740",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/cc/Frost_Blossom_Staff.png",
     "itemSpecs": [
       [
         "Type",
@@ -2758,42 +2758,42 @@
       ],
       [
         "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png/revision/latest?cb=20140827153216"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png"
       ],
       [
         "Sell",
         "      20  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png/revision/latest?cb=20200516221827"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png"
       ]
     ],
     "craftingStations": [
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c3/Iron_Anvil.png/revision/latest?cb=20200516214257",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c3/Iron_Anvil.png",
         "Iron Anvil"
       ],
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/32/Lead_Anvil.png/revision/latest?cb=20200516214608",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/32/Lead_Anvil.png",
         "Lead Anvil"
       ]
     ],
     "craftingIngredients": [
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/23/Shiverthorn.png/revision/latest?cb=20200516221732",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/23/Shiverthorn.png",
         "Shiverthorn",
         "5"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/2c/Any_Snow_Block.gif/revision/latest?cb=20200326123715",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/2c/Any_Snow_Block.gif",
         "Any Snow Block",
         "50"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/52/Any_Ice_Block.gif/revision/latest?cb=20200326123635",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/52/Any_Ice_Block.gif",
         "Any Ice Block",
         "50"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/cc/Frost_Blossom_Staff.png/revision/latest?cb=20200401221740",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/cc/Frost_Blossom_Staff.png",
         "Frost Blossom Staff",
         "1"
       ]
@@ -2802,7 +2802,7 @@
   {
     "id": 3042,
     "itemName": "Fuel Cell Bundle",
-    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/2d/Fuel_Cell_Bundle.png/revision/latest?cb=20200401214633",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/2d/Fuel_Cell_Bundle.png",
     "itemSpecs": [
       [
         "Type",
@@ -2833,7 +2833,7 @@
         "A small plague bee is following you"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/6a/Plague.png/revision/latest?cb=20200402072734",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/6a/Plague.png",
         "Plague",
         "100% chance"
       ],
@@ -2847,12 +2847,12 @@
       ],
       [
         "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png/revision/latest?cb=20140827153336"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png"
       ],
       [
         "Sell",
         "      16  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [],
@@ -2861,7 +2861,7 @@
   {
     "id": 3043,
     "itemName": "Gamma Heart",
-    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/82/Gamma_Heart.png/revision/latest?cb=20200416030721",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/82/Gamma_Heart.png",
     "itemSpecs": [
       [
         "Type",
@@ -2892,7 +2892,7 @@
         "..."
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/fc/Sulphuric_Poisoning.png/revision/latest?cb=20200822014714",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/fc/Sulphuric_Poisoning.png",
         "Sulphuric Poisoning",
         "100% chance"
       ],
@@ -2906,12 +2906,12 @@
       ],
       [
         "Rarity",
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/36/Rarity_color_13.png/revision/latest?cb=20180106235025"
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/36/Rarity_color_13.png"
       ],
       [
         "Sell",
         "      26  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [],
@@ -2920,7 +2920,7 @@
   {
     "id": 3044,
     "itemName": "Gastric Belcher Staff",
-    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/2c/Gastric_Belcher_Staff.png/revision/latest?cb=20200802015255",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/2c/Gastric_Belcher_Staff.png",
     "itemSpecs": [
       [
         "Type",
@@ -2952,12 +2952,12 @@
       ],
       [
         "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Rarity_color_7.png/revision/latest?cb=20140827202638"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Rarity_color_7.png"
       ],
       [
         "Sell",
         "      9  60  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [],
@@ -2966,7 +2966,7 @@
   {
     "id": 3045,
     "itemName": "Godspawn Helix Staff",
-    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/6b/Godspawn_Helix_Staff.png/revision/latest?cb=20200205100020",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/6b/Godspawn_Helix_Staff.png",
     "itemSpecs": [
       [
         "Type",
@@ -2998,12 +2998,12 @@
       ],
       [
         "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c2/Rarity_color_9.png/revision/latest?cb=20140827153409"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c2/Rarity_color_9.png"
       ],
       [
         "Sell",
         "      19  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [],
@@ -3012,7 +3012,7 @@
   {
     "id": 3046,
     "itemName": "Guidelight of Oblivion",
-    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/20/Guidelight_of_Oblivion.png/revision/latest?cb=20200205123626",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/20/Guidelight_of_Oblivion.png",
     "itemSpecs": [
       [
         "Type",
@@ -3035,7 +3035,7 @@
         "14 Very Fast"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/71/Brimstone_Flames.png/revision/latest?cb=20200205054656",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/71/Brimstone_Flames.png",
         "Brimstone Flames",
         "100% chance"
       ],
@@ -3049,12 +3049,12 @@
       ],
       [
         "Rarity",
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/ec/Rarity_color_12.png/revision/latest?cb=20180106234938"
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/ec/Rarity_color_12.png"
       ],
       [
         "Sell",
         "      24  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [],
@@ -3063,7 +3063,7 @@
   {
     "id": 3047,
     "itemName": "Haunted Scroll",
-    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/7d/Haunted_Scroll.png/revision/latest?cb=20200401223555",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/7d/Haunted_Scroll.png",
     "itemSpecs": [
       [
         "Type",
@@ -3095,47 +3095,47 @@
       ],
       [
         "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png/revision/latest?cb=20140827211545"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png"
       ],
       [
         "Sell",
         "      2  40  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c3/Iron_Anvil.png/revision/latest?cb=20200516214257",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c3/Iron_Anvil.png",
         "Iron Anvil"
       ],
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/32/Lead_Anvil.png/revision/latest?cb=20200516214608",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/32/Lead_Anvil.png",
         "Lead Anvil"
       ]
     ],
     "craftingIngredients": [
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/70/Any_Wood.gif/revision/latest?cb=20200403131148",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/70/Any_Wood.gif",
         "Any Wood",
         "10"
       ],
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/ea/Soul_of_Light.png/revision/latest?cb=20200516231730",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/ea/Soul_of_Light.png",
         "Soul of Light",
         "5"
       ],
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e9/Soul_of_Night.png/revision/latest?cb=20200516233827",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e9/Soul_of_Night.png",
         "Soul of Night",
         "5"
       ],
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9c/Bowl.png/revision/latest?cb=20200516200953",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9c/Bowl.png",
         "Bowl",
         "1"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/7d/Haunted_Scroll.png/revision/latest?cb=20200401223555",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/7d/Haunted_Scroll.png",
         "Haunted Scroll",
         "1"
       ]
@@ -3144,7 +3144,7 @@
   {
     "id": 3048,
     "itemName": "Herring Staff",
-    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/10/Herring_Staff.png/revision/latest?cb=20200802022806",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/10/Herring_Staff.png",
     "itemSpecs": [
       [
         "Type",
@@ -3180,12 +3180,12 @@
       ],
       [
         "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png/revision/latest?cb=20140827153300"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png"
       ],
       [
         "Sell",
         "      80  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png/revision/latest?cb=20200516221827"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png"
       ]
     ],
     "craftingStations": [],
@@ -3194,7 +3194,7 @@
   {
     "id": 3049,
     "itemName": "Hive Pod",
-    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/24/Hive_Pod.png/revision/latest?cb=20190117111912",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/24/Hive_Pod.png",
     "itemSpecs": [
       [
         "Type",
@@ -3217,7 +3217,7 @@
         "19 Very Fast"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/65/Astral_Infection_%28debuff%29.png/revision/latest?cb=20190822121723",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/65/Astral_Infection_%28debuff%29.png",
         "Astral Infection",
         "100% chance"
       ],
@@ -3231,12 +3231,12 @@
       ],
       [
         "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Rarity_color_7.png/revision/latest?cb=20140827202638"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Rarity_color_7.png"
       ],
       [
         "Sell",
         "      12  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [],
@@ -3245,7 +3245,7 @@
   {
     "id": 3050,
     "itemName": "Igneous Exaltation",
-    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/a6/Igneous_Exaltation.png/revision/latest?cb=20200401223609",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/a6/Igneous_Exaltation.png",
     "itemSpecs": [
       [
         "Type",
@@ -3277,37 +3277,37 @@
       ],
       [
         "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png/revision/latest?cb=20140827211545"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png"
       ],
       [
         "Sell",
         "      7  20  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/3d/Mythril_Anvil.png/revision/latest?cb=20200516215710",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/3d/Mythril_Anvil.png",
         "Mythril Anvil"
       ],
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Orichalcum_Anvil.png/revision/latest?cb=20200516220030",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Orichalcum_Anvil.png",
         "Orichalcum Anvil"
       ]
     ],
     "craftingIngredients": [
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/03/Unholy_Core.png/revision/latest?cb=20200802022841",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/03/Unholy_Core.png",
         "Unholy Core",
         "10"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/7c/Essence_of_Chaos.png/revision/latest?cb=20170917231543",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/7c/Essence_of_Chaos.png",
         "Essence of Chaos",
         "5"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/a6/Igneous_Exaltation.png/revision/latest?cb=20200401223609",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/a6/Igneous_Exaltation.png",
         "Igneous Exaltation",
         "1"
       ]
@@ -3316,7 +3316,7 @@
   {
     "id": 3051,
     "itemName": "Magical Conch",
-    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/62/Magical_Conch.png/revision/latest?cb=20200420001953",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/62/Magical_Conch.png",
     "itemSpecs": [
       [
         "Type",
@@ -3348,7 +3348,7 @@
       ],
       [
         "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png/revision/latest?cb=20140827153252"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png"
       ],
       [
         "Buy / Sell",
@@ -3361,7 +3361,7 @@
   {
     "id": 3052,
     "itemName": "Metastasis",
-    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/14/Metastasis.png/revision/latest?cb=20211117015239",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/14/Metastasis.png",
     "itemSpecs": [
       [
         "Type",
@@ -3392,7 +3392,7 @@
         "It is not benevolent"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/71/Brimstone_Flames.png/revision/latest?cb=20200205054656",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/71/Brimstone_Flames.png",
         "Brimstone Flames",
         "100% chance"
       ],
@@ -3406,12 +3406,12 @@
       ],
       [
         "Rarity",
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8d/Rarity_color_15.png/revision/latest?cb=20180106235128"
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8d/Rarity_color_15.png"
       ],
       [
         "Sell",
         "      30  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [],
@@ -3420,7 +3420,7 @@
   {
     "id": 3053,
     "itemName": "Midnight Sun Beacon",
-    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/0c/Midnight_Sun_Beacon.png/revision/latest?cb=20200401233515",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/0c/Midnight_Sun_Beacon.png",
     "itemSpecs": [
       [
         "Type",
@@ -3455,7 +3455,7 @@
         "A strange UFO is observing you, and it's making you very uncomfortable"
       ],
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/56/Electrified.png/revision/latest?cb=20150701075756",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/56/Electrified.png",
         "Electrified",
         "100% chance"
       ],
@@ -3469,38 +3469,38 @@
       ],
       [
         "Rarity",
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8d/Rarity_color_15.png/revision/latest?cb=20180106235128"
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8d/Rarity_color_15.png"
       ],
       [
         "Sell",
         "      30  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c0/Cosmic_Anvil.png/revision/latest?cb=20211117014658",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c0/Cosmic_Anvil.png",
         "Cosmic Anvil"
       ]
     ],
     "craftingIngredients": [
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/47/Xeno_Staff.png/revision/latest?cb=20200516223729",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/47/Xeno_Staff.png",
         "Xeno Staff",
         "1"
       ],
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/87/Lunar_Portal_Staff.png/revision/latest?cb=20200516214955",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/87/Lunar_Portal_Staff.png",
         "Lunar Portal Staff",
         "1"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8d/Auric_Bar.png/revision/latest?cb=20221010030406",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8d/Auric_Bar.png",
         "Auric Bar",
         "5"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/0c/Midnight_Sun_Beacon.png/revision/latest?cb=20200401233515",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/0c/Midnight_Sun_Beacon.png",
         "Midnight Sun Beacon",
         "1"
       ]
@@ -3509,7 +3509,7 @@
   {
     "id": 3054,
     "itemName": "Mounted Scanner",
-    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/0c/Mounted_Scanner.png/revision/latest?cb=20200802010520",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/0c/Mounted_Scanner.png",
     "itemSpecs": [
       [
         "Type",
@@ -3541,47 +3541,47 @@
       ],
       [
         "Rarity",
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/bb/Rarity_color_draedon_arsenal.png/revision/latest?cb=20200802010826"
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/bb/Rarity_color_draedon_arsenal.png"
       ],
       [
         "Sell",
         "      4  80  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/3d/Mythril_Anvil.png/revision/latest?cb=20200516215710",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/3d/Mythril_Anvil.png",
         "Mythril Anvil"
       ],
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Orichalcum_Anvil.png/revision/latest?cb=20200516220030",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Orichalcum_Anvil.png",
         "Orichalcum Anvil"
       ]
     ],
     "craftingIngredients": [
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/66/Mysterious_Circuitry.png/revision/latest?cb=20200802005902",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/66/Mysterious_Circuitry.png",
         "Mysterious Circuitry",
         "15"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/48/Dubious_Plating.png/revision/latest?cb=20200802005840",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/48/Dubious_Plating.png",
         "Dubious Plating",
         "5"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e8/Any_Mythril_Bar.gif/revision/latest?cb=20211117005505",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e8/Any_Mythril_Bar.gif",
         "Any Mythril Bar",
         "10"
       ],
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/80/Soul_of_Fright.png/revision/latest?cb=20200517010617",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/80/Soul_of_Fright.png",
         "Soul of Fright",
         "20"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/0c/Mounted_Scanner.png/revision/latest?cb=20200802010520",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/0c/Mounted_Scanner.png",
         "Mounted Scanner",
         "1"
       ]
@@ -3590,7 +3590,7 @@
   {
     "id": 3055,
     "itemName": "Orthocera Shell",
-    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d7/Orthocera_Shell.png/revision/latest?cb=20200401223624",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d7/Orthocera_Shell.png",
     "itemSpecs": [
       [
         "Type",
@@ -3613,7 +3613,7 @@
         "24 Fast"
       ],
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8a/Venom.png/revision/latest?cb=20170715013433",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8a/Venom.png",
         "Venom",
         "100% chance"
       ],
@@ -3627,12 +3627,12 @@
       ],
       [
         "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png/revision/latest?cb=20140827211545"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png"
       ],
       [
         "Sell",
         "      7  20  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [],
@@ -3641,7 +3641,7 @@
   {
     "id": 3056,
     "itemName": "Perdition",
-    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/3e/Perdition.png/revision/latest?cb=20211117010148",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/3e/Perdition.png",
     "itemSpecs": [
       [
         "Type",
@@ -3673,12 +3673,12 @@
       ],
       [
         "Rarity",
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8d/Rarity_color_15.png/revision/latest?cb=20180106235128"
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8d/Rarity_color_15.png"
       ],
       [
         "Sell",
         "      30  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [],
@@ -3687,7 +3687,7 @@
   {
     "id": 3057,
     "itemName": "Plantation Staff",
-    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/75/Plantation_Staff.png/revision/latest?cb=20200205060611",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/75/Plantation_Staff.png",
     "itemSpecs": [
       [
         "Type",
@@ -3718,7 +3718,7 @@
         "The miniature plantera will protect you"
       ],
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/11/Poisoned.png/revision/latest?cb=20170708221026",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/11/Poisoned.png",
         "Poisoned",
         "100% chance"
       ],
@@ -3731,7 +3731,7 @@
         "Slowly losing life"
       ],
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8a/Venom.png/revision/latest?cb=20170715013433",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8a/Venom.png",
         "Venom",
         "100% chance"
       ],
@@ -3745,27 +3745,27 @@
       ],
       [
         "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png/revision/latest?cb=20140827153336"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png"
       ],
       [
         "Sell",
         "      16  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/3d/Mythril_Anvil.png/revision/latest?cb=20200516215710",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/3d/Mythril_Anvil.png",
         "Mythril Anvil"
       ],
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Orichalcum_Anvil.png/revision/latest?cb=20200516220030",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Orichalcum_Anvil.png",
         "Orichalcum Anvil"
       ]
     ],
     "craftingIngredients": [
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/30/Flesh_of_Infidelity.png/revision/latest?cb=20211117013113",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/30/Flesh_of_Infidelity.png",
         "Flesh of Infidelity",
         "1"
       ],
@@ -3773,26 +3773,26 @@
         null
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/37/Eye_of_Night.png/revision/latest?cb=20211117013334",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/37/Eye_of_Night.png",
         "Eye of Night"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/2a/Deepsea_Staff.png/revision/latest?cb=20211117153024",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/2a/Deepsea_Staff.png",
         "Deepsea Staff",
         "1"
       ],
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/86/Optic_Staff.png/revision/latest?cb=20200516220008",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/86/Optic_Staff.png",
         "Optic Staff",
         "1"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/87/Living_Shard.png/revision/latest?cb=20211117042745",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/87/Living_Shard.png",
         "Living Shard",
         "10"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/75/Plantation_Staff.png/revision/latest?cb=20200205060611",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/75/Plantation_Staff.png",
         "Plantation Staff",
         "1"
       ]
@@ -3801,7 +3801,7 @@
   {
     "id": 3058,
     "itemName": "Pole Warper",
-    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/f1/Pole_Warper.png/revision/latest?cb=20200802011807",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/f1/Pole_Warper.png",
     "itemSpecs": [
       [
         "Type",
@@ -3833,43 +3833,43 @@
       ],
       [
         "Rarity",
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/bb/Rarity_color_draedon_arsenal.png/revision/latest?cb=20200802010826"
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/bb/Rarity_color_draedon_arsenal.png"
       ],
       [
         "Sell",
         "      28  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c0/Cosmic_Anvil.png/revision/latest?cb=20211117014658",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c0/Cosmic_Anvil.png",
         "Cosmic Anvil"
       ]
     ],
     "craftingIngredients": [
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/66/Mysterious_Circuitry.png/revision/latest?cb=20200802005902",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/66/Mysterious_Circuitry.png",
         "Mysterious Circuitry",
         "25"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/48/Dubious_Plating.png/revision/latest?cb=20200802005840",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/48/Dubious_Plating.png",
         "Dubious Plating",
         "15"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c6/Cosmilite_Bar.png/revision/latest?cb=20200222072206",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c6/Cosmilite_Bar.png",
         "Cosmilite Bar",
         "8"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/43/Ascendant_Spirit_Essence.png/revision/latest?cb=20200822041523",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/43/Ascendant_Spirit_Essence.png",
         "Ascendant Spirit Essence",
         "2"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/f1/Pole_Warper.png/revision/latest?cb=20200802011807",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/f1/Pole_Warper.png",
         "Pole Warper",
         "1"
       ]
@@ -3878,7 +3878,7 @@
   {
     "id": 3059,
     "itemName": "Polyp Launcher",
-    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/f5/Polyp_Launcher.png/revision/latest?cb=20211117011440",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/f5/Polyp_Launcher.png",
     "itemSpecs": [
       [
         "Type",
@@ -3902,7 +3902,7 @@
       ],
       [
         "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png/revision/latest?cb=20140827153252"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png"
       ],
       [
         "Buy / Sell",
@@ -3915,7 +3915,7 @@
   {
     "id": 3060,
     "itemName": "Pulse Turret Remote",
-    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/43/Pulse_Turret_Remote.png/revision/latest?cb=20200802011425",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/43/Pulse_Turret_Remote.png",
     "itemSpecs": [
       [
         "Type",
@@ -3939,47 +3939,47 @@
       ],
       [
         "Rarity",
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/bb/Rarity_color_draedon_arsenal.png/revision/latest?cb=20200802010826"
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/bb/Rarity_color_draedon_arsenal.png"
       ],
       [
         "Sell",
         "      12  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/3d/Mythril_Anvil.png/revision/latest?cb=20200516215710",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/3d/Mythril_Anvil.png",
         "Mythril Anvil"
       ],
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Orichalcum_Anvil.png/revision/latest?cb=20200516220030",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Orichalcum_Anvil.png",
         "Orichalcum Anvil"
       ]
     ],
     "craftingIngredients": [
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/66/Mysterious_Circuitry.png/revision/latest?cb=20200802005902",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/66/Mysterious_Circuitry.png",
         "Mysterious Circuitry",
         "12"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/48/Dubious_Plating.png/revision/latest?cb=20200802005840",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/48/Dubious_Plating.png",
         "Dubious Plating",
         "18"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/cf/Life_Alloy.png/revision/latest?cb=20200401221515",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/cf/Life_Alloy.png",
         "Life Alloy",
         "5"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/2b/Infected_Armor_Plating.png/revision/latest?cb=20200802015333",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/2b/Infected_Armor_Plating.png",
         "Infected Armor Plating",
         "5"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/43/Pulse_Turret_Remote.png/revision/latest?cb=20200802011425",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/43/Pulse_Turret_Remote.png",
         "Pulse Turret Remote",
         "1"
       ]
@@ -3988,7 +3988,7 @@
   {
     "id": 3061,
     "itemName": "Resurrection Butterfly",
-    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/9a/Resurrection_Butterfly.png/revision/latest?cb=20190822031746",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/9a/Resurrection_Butterfly.png",
     "itemSpecs": [
       [
         "Type",
@@ -4020,43 +4020,43 @@
       ],
       [
         "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png/revision/latest?cb=20140827153336"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png"
       ],
       [
         "Sell",
         "      12  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/3b/Loom.png/revision/latest?cb=20200516214936",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/3b/Loom.png",
         "Loom"
       ]
     ],
     "craftingIngredients": [
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/83/Silk.png/revision/latest?cb=20200820022839",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/83/Silk.png",
         "Silk",
         "40"
       ],
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/36/Ectoplasm.png/revision/latest?cb=20200516211757",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/36/Ectoplasm.png",
         "Ectoplasm",
         "20"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/cf/Life_Alloy.png/revision/latest?cb=20200401221515",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/cf/Life_Alloy.png",
         "Life Alloy",
         "5"
       ],
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/5c/Butterfly_Dust.png/revision/latest?cb=20200516202844",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/5c/Butterfly_Dust.png",
         "Butterfly Dust",
         "2"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/9a/Resurrection_Butterfly.png/revision/latest?cb=20190822031746",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/9a/Resurrection_Butterfly.png",
         "Resurrection Butterfly",
         "1"
       ]
@@ -4065,7 +4065,7 @@
   {
     "id": 3062,
     "itemName": "Rusty Beacon Prototype",
-    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c1/Rusty_Beacon_Prototype.png/revision/latest?cb=20200416031244",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c1/Rusty_Beacon_Prototype.png",
     "itemSpecs": [
       [
         "Type",
@@ -4100,7 +4100,7 @@
         "A pitifully fragile drone is observing you"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8b/Irradiated.png/revision/latest?cb=20211117001421",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8b/Irradiated.png",
         "Irradiated",
         "100% chance"
       ],
@@ -4114,37 +4114,37 @@
       ],
       [
         "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png/revision/latest?cb=20140827153216"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png"
       ],
       [
         "Sell",
         "      20  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png/revision/latest?cb=20200516221827"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png"
       ]
     ],
     "craftingStations": [
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c3/Iron_Anvil.png/revision/latest?cb=20200516214257",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c3/Iron_Anvil.png",
         "Iron Anvil"
       ],
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/32/Lead_Anvil.png/revision/latest?cb=20200516214608",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/32/Lead_Anvil.png",
         "Lead Anvil"
       ]
     ],
     "craftingIngredients": [
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/0e/Sulphuric_Scale.png/revision/latest?cb=20200401222734",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/0e/Sulphuric_Scale.png",
         "Sulphuric Scale",
         "20"
       ],
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b2/Any_Iron_Bar.gif/revision/latest?cb=20190113000920",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b2/Any_Iron_Bar.gif",
         "Any Iron Bar",
         "10"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c1/Rusty_Beacon_Prototype.png/revision/latest?cb=20200416031244",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c1/Rusty_Beacon_Prototype.png",
         "Rusty Beacon Prototype",
         "1"
       ]
@@ -4153,7 +4153,7 @@
   {
     "id": 3063,
     "itemName": "Sand Sharknado Staff",
-    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/df/Sand_Sharknado_Staff.png/revision/latest?cb=20210410211651",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/df/Sand_Sharknado_Staff.png",
     "itemSpecs": [
       [
         "Type",
@@ -4185,12 +4185,12 @@
       ],
       [
         "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Rarity_color_7.png/revision/latest?cb=20140827202638"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Rarity_color_7.png"
       ],
       [
         "Sell",
         "      12  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [],
@@ -4199,7 +4199,7 @@
   {
     "id": 3064,
     "itemName": "Saros Possession",
-    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/9b/Saros_Possession.png/revision/latest?cb=20200401233544",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/9b/Saros_Possession.png",
     "itemSpecs": [
       [
         "Type",
@@ -4235,38 +4235,38 @@
       ],
       [
         "Rarity",
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e7/Rarity_color_14.png/revision/latest?cb=20180106235104"
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e7/Rarity_color_14.png"
       ],
       [
         "Sell",
         "      28  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c0/Cosmic_Anvil.png/revision/latest?cb=20211117014658",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c0/Cosmic_Anvil.png",
         "Cosmic Anvil"
       ]
     ],
     "craftingIngredients": [
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/18/Sirius.png/revision/latest?cb=20220315140816",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/18/Sirius.png",
         "Sirius",
         "1"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c6/Cosmilite_Bar.png/revision/latest?cb=20200222072206",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c6/Cosmilite_Bar.png",
         "Cosmilite Bar",
         "8"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/31/Darksun_Fragment.png/revision/latest?cb=20200402231938",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/31/Darksun_Fragment.png",
         "Darksun Fragment",
         "8"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/9b/Saros_Possession.png/revision/latest?cb=20200401233544",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/9b/Saros_Possession.png",
         "Saros Possession",
         "1"
       ]
@@ -4275,7 +4275,7 @@
   {
     "id": 3065,
     "itemName": "Scab Ripper",
-    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/b9/Scab_Ripper.png/revision/latest?cb=20200401223639",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/b9/Scab_Ripper.png",
     "itemSpecs": [
       [
         "Type",
@@ -4307,42 +4307,42 @@
       ],
       [
         "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png/revision/latest?cb=20140827153252"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png"
       ],
       [
         "Sell",
         "      40  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png/revision/latest?cb=20200516221827"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png"
       ]
     ],
     "craftingStations": [
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c3/Iron_Anvil.png/revision/latest?cb=20200516214257",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c3/Iron_Anvil.png",
         "Iron Anvil"
       ],
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/32/Lead_Anvil.png/revision/latest?cb=20200516214608",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/32/Lead_Anvil.png",
         "Lead Anvil"
       ]
     ],
     "craftingIngredients": [
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/ce/Crimtane_Bar.png/revision/latest?cb=20200516210436",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/ce/Crimtane_Bar.png",
         "Crimtane Bar",
         "5"
       ],
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/ea/Tissue_Sample.png/revision/latest?cb=20200516222946",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/ea/Tissue_Sample.png",
         "Tissue Sample",
         "9"
       ],
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/2c/Shadewood.png/revision/latest?cb=20200516221636",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/2c/Shadewood.png",
         "Shadewood",
         "20"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/b9/Scab_Ripper.png/revision/latest?cb=20200401223639",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/b9/Scab_Ripper.png",
         "Scab Ripper",
         "1"
       ]
@@ -4351,7 +4351,7 @@
   {
     "id": 3066,
     "itemName": "Seabound Staff",
-    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/74/Seabound_Staff.png/revision/latest?cb=20200402142421",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/74/Seabound_Staff.png",
     "itemSpecs": [
       [
         "Type",
@@ -4383,12 +4383,12 @@
       ],
       [
         "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png/revision/latest?cb=20140827153252"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png"
       ],
       [
         "Sell",
         "      40  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png/revision/latest?cb=20200516221827"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png"
       ]
     ],
     "craftingStations": [],
@@ -4397,7 +4397,7 @@
   {
     "id": 3067,
     "itemName": "Shellfish Staff",
-    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/6d/Shellfish_Staff.png/revision/latest?cb=20200402070514",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/6d/Shellfish_Staff.png",
     "itemSpecs": [
       [
         "Type",
@@ -4438,12 +4438,12 @@
       ],
       [
         "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png/revision/latest?cb=20140827211545"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png"
       ],
       [
         "Sell",
         "      7  20  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [],
@@ -4452,7 +4452,7 @@
   {
     "id": 3068,
     "itemName": "Sirius",
-    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/18/Sirius.png/revision/latest?cb=20220315140816",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/18/Sirius.png",
     "itemSpecs": [
       [
         "Type",
@@ -4487,7 +4487,7 @@
         "A bit too bright, but it helps me"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/77/Nightwither.png/revision/latest?cb=20220315135554",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/77/Nightwither.png",
         "Nightwither",
         "100% chance"
       ],
@@ -4501,43 +4501,43 @@
       ],
       [
         "Rarity",
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/36/Rarity_color_13.png/revision/latest?cb=20180106235025"
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/36/Rarity_color_13.png"
       ],
       [
         "Sell",
         "      28  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e2/Ancient_Manipulator.png/revision/latest?cb=20200516185008",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e2/Ancient_Manipulator.png",
         "Ancient Manipulator"
       ]
     ],
     "craftingIngredients": [
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/65/Lumenyl.png/revision/latest?cb=20220917024042",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/65/Lumenyl.png",
         "Lumenyl",
         "5"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/58/Ruinous_Soul.png/revision/latest?cb=20211117043449",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/58/Ruinous_Soul.png",
         "Ruinous Soul",
         "2"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/aa/Exodium_Cluster.png/revision/latest?cb=20180816171833",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/aa/Exodium_Cluster.png",
         "Exodium Cluster",
         "12"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d9/Sun_God_Staff.png/revision/latest?cb=20211117153052",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d9/Sun_God_Staff.png",
         "Sun God Staff",
         "1"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/18/Sirius.png/revision/latest?cb=20220315140816",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/18/Sirius.png",
         "Sirius",
         "1"
       ]
@@ -4546,7 +4546,7 @@
   {
     "id": 3069,
     "itemName": "Slime Puppet Staff",
-    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/43/Slime_Puppet_Staff.png/revision/latest?cb=20211117011544",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/43/Slime_Puppet_Staff.png",
     "itemSpecs": [
       [
         "Type",
@@ -4579,7 +4579,7 @@
       [
         "Sell",
         "      2  40  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [],
@@ -4588,7 +4588,7 @@
   {
     "id": 3070,
     "itemName": "Snake Eyes",
-    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/11/Snake_Eyes.png/revision/latest?cb=20200802011524",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/11/Snake_Eyes.png",
     "itemSpecs": [
       [
         "Type",
@@ -4620,43 +4620,43 @@
       ],
       [
         "Rarity",
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/bb/Rarity_color_draedon_arsenal.png/revision/latest?cb=20200802010826"
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/bb/Rarity_color_draedon_arsenal.png"
       ],
       [
         "Sell",
         "      24  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e2/Ancient_Manipulator.png/revision/latest?cb=20200516185008",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e2/Ancient_Manipulator.png",
         "Ancient Manipulator"
       ]
     ],
     "craftingIngredients": [
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/66/Mysterious_Circuitry.png/revision/latest?cb=20200802005902",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/66/Mysterious_Circuitry.png",
         "Mysterious Circuitry",
         "18"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/48/Dubious_Plating.png/revision/latest?cb=20200802005840",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/48/Dubious_Plating.png",
         "Dubious Plating",
         "12"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/70/Uelibloom_Bar.png/revision/latest?cb=20191106032302",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/70/Uelibloom_Bar.png",
         "Uelibloom Bar",
         "8"
       ],
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/60/Luminite_Bar.png/revision/latest?cb=20200516214944",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/60/Luminite_Bar.png",
         "Luminite Bar",
         "4"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/11/Snake_Eyes.png/revision/latest?cb=20200802011524",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/11/Snake_Eyes.png",
         "Snake Eyes",
         "1"
       ]
@@ -4665,7 +4665,7 @@
   {
     "id": 3071,
     "itemName": "Spikecrag Staff",
-    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c6/Spikecrag_Staff.png/revision/latest?cb=20210410222752",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c6/Spikecrag_Staff.png",
     "itemSpecs": [
       [
         "Type",
@@ -4689,12 +4689,12 @@
       ],
       [
         "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png/revision/latest?cb=20140827153336"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png"
       ],
       [
         "Sell",
         "      16  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [],
@@ -4703,7 +4703,7 @@
   {
     "id": 3072,
     "itemName": "Squirrel Squire Staff",
-    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/a8/Squirrel_Squire_Staff.png/revision/latest?cb=20200309052916",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/a8/Squirrel_Squire_Staff.png",
     "itemSpecs": [
       [
         "Type",
@@ -4727,33 +4727,33 @@
       ],
       [
         "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fd/Rarity_color_0.png/revision/latest?cb=20140827153204"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fd/Rarity_color_0.png"
       ],
       [
         "Sell",
         "      10  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png/revision/latest?cb=20200516221827"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png"
       ]
     ],
     "craftingStations": [
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/91/Work_Bench.png/revision/latest?cb=20200516223653",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/91/Work_Bench.png",
         "Work Bench"
       ]
     ],
     "craftingIngredients": [
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/70/Any_Wood.gif/revision/latest?cb=20200403131148",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/70/Any_Wood.gif",
         "Any Wood",
         "10"
       ],
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/cd/Acorn.png/revision/latest?cb=20200516182633",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/cd/Acorn.png",
         "Acorn",
         "1"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/a8/Squirrel_Squire_Staff.png/revision/latest?cb=20200309052916",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/a8/Squirrel_Squire_Staff.png",
         "Squirrel Squire Staff",
         "1"
       ]
@@ -4762,7 +4762,7 @@
   {
     "id": 3073,
     "itemName": "Staff of Necrosteocytes",
-    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/fe/Staff_of_Necrosteocytes.png/revision/latest?cb=20200401223659",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/fe/Staff_of_Necrosteocytes.png",
     "itemSpecs": [
       [
         "Type",
@@ -4794,12 +4794,12 @@
       ],
       [
         "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png/revision/latest?cb=20140827153300"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png"
       ],
       [
         "Sell",
         "      80  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png/revision/latest?cb=20200516221827"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png"
       ]
     ],
     "craftingStations": [],
@@ -4808,7 +4808,7 @@
   {
     "id": 3074,
     "itemName": "Staff of the Mechworm",
-    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/db/Staff_of_the_Mechworm.png/revision/latest?cb=20190306043935",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/db/Staff_of_the_Mechworm.png",
     "itemSpecs": [
       [
         "Type",
@@ -4844,12 +4844,12 @@
       ],
       [
         "Rarity",
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e7/Rarity_color_14.png/revision/latest?cb=20180106235104"
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e7/Rarity_color_14.png"
       ],
       [
         "Sell",
         "      28  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [],
@@ -4858,7 +4858,7 @@
   {
     "id": 3075,
     "itemName": "Star Swallower Containment Unit",
-    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/39/Star_Swallower_Containment_Unit.png/revision/latest?cb=20200802010334",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/39/Star_Swallower_Containment_Unit.png",
     "itemSpecs": [
       [
         "Type",
@@ -4889,7 +4889,7 @@
         "Mmmm myes"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8b/Irradiated.png/revision/latest?cb=20211117001421",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8b/Irradiated.png",
         "Irradiated",
         "100% chance"
       ],
@@ -4903,47 +4903,47 @@
       ],
       [
         "Rarity",
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/bb/Rarity_color_draedon_arsenal.png/revision/latest?cb=20200802010826"
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/bb/Rarity_color_draedon_arsenal.png"
       ],
       [
         "Sell",
         "      80  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png/revision/latest?cb=20200516221827"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png"
       ]
     ],
     "craftingStations": [
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c3/Iron_Anvil.png/revision/latest?cb=20200516214257",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c3/Iron_Anvil.png",
         "Iron Anvil"
       ],
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/32/Lead_Anvil.png/revision/latest?cb=20200516214608",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/32/Lead_Anvil.png",
         "Lead Anvil"
       ]
     ],
     "craftingIngredients": [
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/66/Mysterious_Circuitry.png/revision/latest?cb=20200802005902",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/66/Mysterious_Circuitry.png",
         "Mysterious Circuitry",
         "8"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/48/Dubious_Plating.png/revision/latest?cb=20200802005840",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/48/Dubious_Plating.png",
         "Dubious Plating",
         "4"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/27/Aerialite_Bar.png/revision/latest?cb=20191125144337",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/27/Aerialite_Bar.png",
         "Aerialite Bar",
         "4"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/5e/Sea_Prism.png/revision/latest?cb=20221028183445",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/5e/Sea_Prism.png",
         "Sea Prism",
         "7"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/39/Star_Swallower_Containment_Unit.png/revision/latest?cb=20200802010334",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/39/Star_Swallower_Containment_Unit.png",
         "Star Swallower Containment Unit",
         "1"
       ]
@@ -4952,7 +4952,7 @@
   {
     "id": 3076,
     "itemName": "Stormjaw Staff",
-    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/57/Stormjaw_Staff.png/revision/latest?cb=20200401221505",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/57/Stormjaw_Staff.png",
     "itemSpecs": [
       [
         "Type",
@@ -4984,12 +4984,12 @@
       ],
       [
         "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png/revision/latest?cb=20140827153252"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png"
       ],
       [
         "Sell",
         "      40  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png/revision/latest?cb=20200516221827"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png"
       ]
     ],
     "craftingStations": [],
@@ -4998,7 +4998,7 @@
   {
     "id": 3077,
     "itemName": "Sun God Staff",
-    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d9/Sun_God_Staff.png/revision/latest?cb=20211117153052",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d9/Sun_God_Staff.png",
     "itemSpecs": [
       [
         "Type",
@@ -5030,52 +5030,52 @@
       ],
       [
         "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e4/Rarity_color_6.png/revision/latest?cb=20150702012055"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e4/Rarity_color_6.png"
       ],
       [
         "Sell",
         "      9  60  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/3d/Mythril_Anvil.png/revision/latest?cb=20200516215710",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/3d/Mythril_Anvil.png",
         "Mythril Anvil"
       ],
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Orichalcum_Anvil.png/revision/latest?cb=20200516220030",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Orichalcum_Anvil.png",
         "Orichalcum Anvil"
       ]
     ],
     "craftingIngredients": [
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/3d/Sun_Spirit_Staff.png/revision/latest?cb=20211117153100",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/3d/Sun_Spirit_Staff.png",
         "Sun Spirit Staff",
         "1"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/21/Essence_of_Sunlight.png/revision/latest?cb=20170917231424",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/21/Essence_of_Sunlight.png",
         "Essence of Sunlight",
         "5"
       ],
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/0f/Soul_of_Sight.png/revision/latest?cb=20200517010622",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/0f/Soul_of_Sight.png",
         "Soul of Sight",
         "3"
       ],
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/39/Soul_of_Might.png/revision/latest?cb=20200517010620",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/39/Soul_of_Might.png",
         "Soul of Might",
         "3"
       ],
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/80/Soul_of_Fright.png/revision/latest?cb=20200517010617",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/80/Soul_of_Fright.png",
         "Soul of Fright",
         "3"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d9/Sun_God_Staff.png/revision/latest?cb=20211117153052",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d9/Sun_God_Staff.png",
         "Sun God Staff",
         "1"
       ]
@@ -5084,7 +5084,7 @@
   {
     "id": 3078,
     "itemName": "Sun Spirit Staff",
-    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/3d/Sun_Spirit_Staff.png/revision/latest?cb=20211117153100",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/3d/Sun_Spirit_Staff.png",
     "itemSpecs": [
       [
         "Type",
@@ -5116,37 +5116,37 @@
       ],
       [
         "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png/revision/latest?cb=20140827153216"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png"
       ],
       [
         "Sell",
         "      2  50  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c3/Iron_Anvil.png/revision/latest?cb=20200516214257",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c3/Iron_Anvil.png",
         "Iron Anvil"
       ],
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/32/Lead_Anvil.png/revision/latest?cb=20200516214608",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/32/Lead_Anvil.png",
         "Lead Anvil"
       ]
     ],
     "craftingIngredients": [
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/f6/Sandstone_Brick.png/revision/latest?cb=20200516221415",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/f6/Sandstone_Brick.png",
         "Sandstone Brick",
         "20"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e0/Desert_Feather.png/revision/latest?cb=20211117151953",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e0/Desert_Feather.png",
         "Desert Feather",
         "2"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/3d/Sun_Spirit_Staff.png/revision/latest?cb=20211117153100",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/3d/Sun_Spirit_Staff.png",
         "Sun Spirit Staff",
         "1"
       ]
@@ -5155,7 +5155,7 @@
   {
     "id": 3079,
     "itemName": "Tactical Plague Engine",
-    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/36/Tactical_Plague_Engine.png/revision/latest?cb=20200401223714",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/36/Tactical_Plague_Engine.png",
     "itemSpecs": [
       [
         "Type",
@@ -5186,7 +5186,7 @@
         "A giant plague jet is following you"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/6a/Plague.png/revision/latest?cb=20200402072734",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/6a/Plague.png",
         "Plague",
         "100% chance"
       ],
@@ -5200,48 +5200,48 @@
       ],
       [
         "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8f/Rarity_color_10.png/revision/latest?cb=20150630184410"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8f/Rarity_color_10.png"
       ],
       [
         "Sell",
         "      20  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e2/Ancient_Manipulator.png/revision/latest?cb=20200516185008",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e2/Ancient_Manipulator.png",
         "Ancient Manipulator"
       ]
     ],
     "craftingIngredients": [
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/17/Black_Hawk_Remote.png/revision/latest?cb=20191027020713",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/17/Black_Hawk_Remote.png",
         "Black Hawk Remote",
         "1"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/2d/Fuel_Cell_Bundle.png/revision/latest?cb=20200401214633",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/2d/Fuel_Cell_Bundle.png",
         "Fuel Cell Bundle",
         "1"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8f/Plague_Cell_Canister.png/revision/latest?cb=20221103150741",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8f/Plague_Cell_Canister.png",
         "Plague Cell Canister",
         "15"
       ],
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/60/Luminite_Bar.png/revision/latest?cb=20200516214944",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/60/Luminite_Bar.png",
         "Luminite Bar",
         "5"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/2b/Infected_Armor_Plating.png/revision/latest?cb=20200802015333",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/2b/Infected_Armor_Plating.png",
         "Infected Armor Plating",
         "8"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/36/Tactical_Plague_Engine.png/revision/latest?cb=20200401223714",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/36/Tactical_Plague_Engine.png",
         "Tactical Plague Engine",
         "1"
       ]
@@ -5250,7 +5250,7 @@
   {
     "id": 3080,
     "itemName": "Temporal Umbrella",
-    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/f4/Temporal_Umbrella.png/revision/latest?cb=20200402105845",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/f4/Temporal_Umbrella.png",
     "itemSpecs": [
       [
         "Type",
@@ -5282,48 +5282,48 @@
       ],
       [
         "Rarity",
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8b/Rarity_color_16.png/revision/latest?cb=20180106235146"
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8b/Rarity_color_16.png"
       ],
       [
         "Sell",
         "      40  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/38/Draedon%27s_Forge.png/revision/latest?cb=20211117002300",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/38/Draedon%27s_Forge.png",
         "Draedon's Forge"
       ]
     ],
     "craftingIngredients": [
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c6/Spikecrag_Staff.png/revision/latest?cb=20210410222752",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c6/Spikecrag_Staff.png",
         "Spikecrag Staff",
         "1"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/9b/Saros_Possession.png/revision/latest?cb=20200401233544",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/9b/Saros_Possession.png",
         "Saros Possession",
         "1"
       ],
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/06/Umbrella.png/revision/latest?cb=20200516223235",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/06/Umbrella.png",
         "Umbrella",
         "1"
       ],
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8d/Top_Hat.png/revision/latest?cb=20200516223026",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8d/Top_Hat.png",
         "Top Hat",
         "1"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e6/Shadowspec_Bar.png/revision/latest?cb=20200222073041",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e6/Shadowspec_Bar.png",
         "Shadowspec Bar",
         "5"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/f4/Temporal_Umbrella.png/revision/latest?cb=20200402105845",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/f4/Temporal_Umbrella.png",
         "Temporal Umbrella",
         "1"
       ]
@@ -5332,7 +5332,7 @@
   {
     "id": 3081,
     "itemName": "Tundra Flame Blossoms Staff",
-    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/7e/Tundra_Flame_Blossoms_Staff.png/revision/latest?cb=20200511015421",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/7e/Tundra_Flame_Blossoms_Staff.png",
     "itemSpecs": [
       [
         "Type",
@@ -5363,7 +5363,7 @@
         "A perfect unison of balance and beauty"
       ],
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Frostburn.png/revision/latest?cb=20170715155824",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Frostburn.png",
         "Frostburn",
         "100% chance"
       ],
@@ -5377,42 +5377,42 @@
       ],
       [
         "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png/revision/latest?cb=20140827211545"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png"
       ],
       [
         "Sell",
         "      4  80  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/3d/Mythril_Anvil.png/revision/latest?cb=20200516215710",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/3d/Mythril_Anvil.png",
         "Mythril Anvil"
       ],
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Orichalcum_Anvil.png/revision/latest?cb=20200516220030",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Orichalcum_Anvil.png",
         "Orichalcum Anvil"
       ]
     ],
     "craftingIngredients": [
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/45/Cinder_Blossom_Staff.png/revision/latest?cb=20200401223904",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/45/Cinder_Blossom_Staff.png",
         "Cinder Blossom Staff",
         "1"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/cc/Frost_Blossom_Staff.png/revision/latest?cb=20200401221740",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/cc/Frost_Blossom_Staff.png",
         "Frost Blossom Staff",
         "1"
       ],
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/ea/Soul_of_Light.png/revision/latest?cb=20200516231730",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/ea/Soul_of_Light.png",
         "Soul of Light",
         "5"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/7e/Tundra_Flame_Blossoms_Staff.png/revision/latest?cb=20200511015421",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/7e/Tundra_Flame_Blossoms_Staff.png",
         "Tundra Flame Blossoms Staff",
         "1"
       ]
@@ -5421,7 +5421,7 @@
   {
     "id": 3082,
     "itemName": "Universe Splitter",
-    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/76/Universe_Splitter.gif/revision/latest?cb=20220816074726",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/76/Universe_Splitter.gif",
     "itemSpecs": [
       [
         "Type",
@@ -5457,7 +5457,7 @@
         "You cannot use the Universe Splitter"
       ],
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/56/Electrified.png/revision/latest?cb=20150701075756",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/56/Electrified.png",
         "Electrified",
         "100% chance"
       ],
@@ -5470,7 +5470,7 @@
         "You cannot move"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/77/Nightwither.png/revision/latest?cb=20220315135554",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/77/Nightwither.png",
         "Nightwither",
         "100% chance"
       ],
@@ -5484,38 +5484,38 @@
       ],
       [
         "Rarity",
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8b/Rarity_color_16.png/revision/latest?cb=20180106235146"
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8b/Rarity_color_16.png"
       ],
       [
         "Sell",
         "      40  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/38/Draedon%27s_Forge.png/revision/latest?cb=20211117002300",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/38/Draedon%27s_Forge.png",
         "Draedon's Forge"
       ]
     ],
     "craftingIngredients": [
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/59/Draedon%27s_Remote.png/revision/latest?cb=20220816074544",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/59/Draedon%27s_Remote.png",
         "Draedon's Remote",
         "1"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/76/Abombination.png/revision/latest?cb=20200802023600",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/76/Abombination.png",
         "Abombination",
         "1"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e6/Shadowspec_Bar.png/revision/latest?cb=20200222073041",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e6/Shadowspec_Bar.png",
         "Shadowspec Bar",
         "5"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/11/Universe_Splitter.png/revision/latest?cb=20211117004343",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/11/Universe_Splitter.png",
         "Universe Splitter",
         "1"
       ]
@@ -5524,7 +5524,7 @@
   {
     "id": 3083,
     "itemName": "Vigilance",
-    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d3/Vigilance.png/revision/latest?cb=20211117004110",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d3/Vigilance.png",
     "itemSpecs": [
       [
         "Type",
@@ -5555,7 +5555,7 @@
         "It definitely wants something from you"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/71/Brimstone_Flames.png/revision/latest?cb=20200205054656",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/71/Brimstone_Flames.png",
         "Brimstone Flames",
         "100% chance"
       ],
@@ -5569,12 +5569,12 @@
       ],
       [
         "Rarity",
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8d/Rarity_color_15.png/revision/latest?cb=20180106235128"
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8d/Rarity_color_15.png"
       ],
       [
         "Sell",
         "      30  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [],
@@ -5583,7 +5583,7 @@
   {
     "id": 3084,
     "itemName": "Vile Feeder",
-    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/b1/Vile_Feeder.png/revision/latest?cb=20200401223728",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/b1/Vile_Feeder.png",
     "itemSpecs": [
       [
         "Type",
@@ -5615,42 +5615,42 @@
       ],
       [
         "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png/revision/latest?cb=20140827153252"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png"
       ],
       [
         "Sell",
         "      40  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png/revision/latest?cb=20200516221827"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png"
       ]
     ],
     "craftingStations": [
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c3/Iron_Anvil.png/revision/latest?cb=20200516214257",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c3/Iron_Anvil.png",
         "Iron Anvil"
       ],
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/32/Lead_Anvil.png/revision/latest?cb=20200516214608",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/32/Lead_Anvil.png",
         "Lead Anvil"
       ]
     ],
     "craftingIngredients": [
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/67/Demonite_Bar.png/revision/latest?cb=20200516211316",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/67/Demonite_Bar.png",
         "Demonite Bar",
         "5"
       ],
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/0d/Shadow_Scale.png/revision/latest?cb=20200516221650",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/0d/Shadow_Scale.png",
         "Shadow Scale",
         "9"
       ],
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/03/Ebonwood.png/revision/latest?cb=20200516211754",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/03/Ebonwood.png",
         "Ebonwood",
         "20"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/b1/Vile_Feeder.png/revision/latest?cb=20200401223728",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/b1/Vile_Feeder.png",
         "Vile Feeder",
         "1"
       ]
@@ -5659,7 +5659,7 @@
   {
     "id": 3085,
     "itemName": "Viral Sprout",
-    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d5/Viral_Sprout.png/revision/latest?cb=20211117003704",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d5/Viral_Sprout.png",
     "itemSpecs": [
       [
         "Type",
@@ -5704,32 +5704,32 @@
       ],
       [
         "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Rarity_color_7.png/revision/latest?cb=20140827202638"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Rarity_color_7.png"
       ],
       [
         "Sell",
         "      9  60  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/3d/Mythril_Anvil.png/revision/latest?cb=20200516215710",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/3d/Mythril_Anvil.png",
         "Mythril Anvil"
       ],
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Orichalcum_Anvil.png/revision/latest?cb=20200516220030",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Orichalcum_Anvil.png",
         "Orichalcum Anvil"
       ]
     ],
     "craftingIngredients": [
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/f7/Perennial_Bar.png/revision/latest?cb=20191026202207",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/f7/Perennial_Bar.png",
         "Perennial Bar",
         "12"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d5/Viral_Sprout.png/revision/latest?cb=20211117003704",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d5/Viral_Sprout.png",
         "Viral Sprout",
         "1"
       ]
@@ -5738,7 +5738,7 @@
   {
     "id": 3086,
     "itemName": "Virid Vanguard",
-    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/46/Virid_Vanguard.png/revision/latest?cb=20211117003539",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/46/Virid_Vanguard.png",
     "itemSpecs": [
       [
         "Type",
@@ -5770,33 +5770,33 @@
       ],
       [
         "Rarity",
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/ec/Rarity_color_12.png/revision/latest?cb=20180106234938"
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/ec/Rarity_color_12.png"
       ],
       [
         "Sell",
         "      24  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e2/Ancient_Manipulator.png/revision/latest?cb=20200516185008",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e2/Ancient_Manipulator.png",
         "Ancient Manipulator"
       ]
     ],
     "craftingIngredients": [
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/a6/Igneous_Exaltation.png/revision/latest?cb=20200401223609",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/a6/Igneous_Exaltation.png",
         "Igneous Exaltation",
         "1"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/70/Uelibloom_Bar.png/revision/latest?cb=20191106032302",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/70/Uelibloom_Bar.png",
         "Uelibloom Bar",
         "8"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/46/Virid_Vanguard.png/revision/latest?cb=20211117003539",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/46/Virid_Vanguard.png",
         "Virid Vanguard",
         "1"
       ]
@@ -5805,7 +5805,7 @@
   {
     "id": 3087,
     "itemName": "Void Concentration Staff",
-    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/59/Void_Concentration_Staff.png/revision/latest?cb=20211117173208",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/59/Void_Concentration_Staff.png",
     "itemSpecs": [
       [
         "Type",
@@ -5837,12 +5837,12 @@
       ],
       [
         "Rarity",
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/ec/Rarity_color_12.png/revision/latest?cb=20180106234938"
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/ec/Rarity_color_12.png"
       ],
       [
         "Sell",
         "      24  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [],
@@ -5851,7 +5851,7 @@
   {
     "id": 3088,
     "itemName": "Wither Blossoms Staff",
-    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/7a/Wither_Blossoms_Staff.png/revision/latest?cb=20211117003459",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/7a/Wither_Blossoms_Staff.png",
     "itemSpecs": [
       [
         "Type",
@@ -5882,7 +5882,7 @@
         "Pestilence surrounds you"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/6a/Plague.png/revision/latest?cb=20200402072734",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/6a/Plague.png",
         "Plague",
         "100% chance"
       ],
@@ -5896,47 +5896,47 @@
       ],
       [
         "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png/revision/latest?cb=20140827153336"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png"
       ],
       [
         "Sell",
         "      12  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/3d/Mythril_Anvil.png/revision/latest?cb=20200516215710",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/3d/Mythril_Anvil.png",
         "Mythril Anvil"
       ],
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Orichalcum_Anvil.png/revision/latest?cb=20200516220030",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Orichalcum_Anvil.png",
         "Orichalcum Anvil"
       ]
     ],
     "craftingIngredients": [
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/7e/Tundra_Flame_Blossoms_Staff.png/revision/latest?cb=20200511015421",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/7e/Tundra_Flame_Blossoms_Staff.png",
         "Tundra Flame Blossoms Staff",
         "1"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8f/Plague_Cell_Canister.png/revision/latest?cb=20221103150741",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8f/Plague_Cell_Canister.png",
         "Plague Cell Canister",
         "15"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/00/Core_of_Calamity.png/revision/latest?cb=20200222072326",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/00/Core_of_Calamity.png",
         "Core of Calamity",
         "5"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/cf/Life_Alloy.png/revision/latest?cb=20200401221515",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/cf/Life_Alloy.png",
         "Life Alloy",
         "5"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/7a/Wither_Blossoms_Staff.png/revision/latest?cb=20211117003459",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/7a/Wither_Blossoms_Staff.png",
         "Wither Blossoms Staff",
         "1"
       ]
@@ -5945,7 +5945,7 @@
   {
     "id": 3089,
     "itemName": "Wulfrum Controller",
-    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/4b/Wulfrum_Controller.png/revision/latest?cb=20200802033815",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/4b/Wulfrum_Controller.png",
     "itemSpecs": [
       [
         "Type",
@@ -5981,32 +5981,32 @@
       ],
       [
         "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png/revision/latest?cb=20140827153216"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png"
       ],
       [
         "Sell",
         "      20  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png/revision/latest?cb=20200516221827"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png"
       ]
     ],
     "craftingStations": [
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c3/Iron_Anvil.png/revision/latest?cb=20200516214257",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c3/Iron_Anvil.png",
         "Iron Anvil"
       ],
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/32/Lead_Anvil.png/revision/latest?cb=20200516214608",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/32/Lead_Anvil.png",
         "Lead Anvil"
       ]
     ],
     "craftingIngredients": [
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/62/Wulfrum_Metal_Scrap.png/revision/latest?cb=20200802033643",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/62/Wulfrum_Metal_Scrap.png",
         "Wulfrum Metal Scrap",
         "9"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/4b/Wulfrum_Controller.png/revision/latest?cb=20200802033815",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/4b/Wulfrum_Controller.png",
         "Wulfrum Controller",
         "1"
       ]
@@ -6015,7 +6015,7 @@
   {
     "id": 3090,
     "itemName": "Yharon's Kindle Staff",
-    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/91/Yharon%27s_Kindle_Staff.png/revision/latest?cb=20220314152746",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/91/Yharon%27s_Kindle_Staff.png",
     "itemSpecs": [
       [
         "Type",
@@ -6047,12 +6047,12 @@
       ],
       [
         "Rarity",
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8d/Rarity_color_15.png/revision/latest?cb=20180106235128"
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8d/Rarity_color_15.png"
       ],
       [
         "Sell",
         "      30  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [],

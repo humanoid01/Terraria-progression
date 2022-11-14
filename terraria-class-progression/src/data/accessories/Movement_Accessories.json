@@ -1,0 +1,1819 @@
+[
+  {
+    "id": 11000,
+    "itemName": "Abyssal Diving Gear",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/70/Abyssal_Diving_Gear.png",
+    "itemSpecs": [
+      [
+        "Type",
+        "Accessory – Crafting material"
+      ],
+      [
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Rarity_color_7.png"
+      ],
+      [
+        "Sell",
+        "      9  60  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
+      ]
+    ],
+    "craftingStations": [
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/3d/Mythril_Anvil.png",
+        "Mythril Anvil"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Orichalcum_Anvil.png",
+        "Orichalcum Anvil"
+      ]
+    ],
+    "craftingIngredients": [
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/20/Arctic_Diving_Gear.png",
+        "Arctic Diving Gear",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/3d/Ocean_Crest.png",
+        "Ocean Crest",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/9f/Depths_Charm.png",
+        "Depths Charm",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e8/Abyss_Gravel.png",
+        "Abyss Gravel",
+        "25"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/f2/Depth_Cells.png",
+        "Depth Cells",
+        "10"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/65/Lumenyl.png",
+        "Lumenyl",
+        "10"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/70/Abyssal_Diving_Gear.png",
+        "Abyssal Diving Gear",
+        "1"
+      ]
+    ]
+  },
+  {
+    "id": 11001,
+    "itemName": "Aero Stone",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/ed/Aero_Stone.gif",
+    "itemSpecs": [
+      [
+        "Type",
+        "Accessory"
+      ],
+      [
+        "Rarity",
+        null
+      ],
+      [
+        "Sell",
+        "      40  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png"
+      ]
+    ],
+    "craftingStations": [
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c0/Cosmic_Anvil.png",
+        "Cosmic Anvil"
+      ]
+    ],
+    "craftingIngredients": [
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/81/Aero_Stone.png",
+        "Aero Stone",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/77/Cryo_Stone.png",
+        "Cryo Stone",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/69/Metamorphic_Stone.png",
+        "Metamorphic Stone",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8a/Chaos_Stone.png",
+        "Chaos Stone",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/6a/Bloom_Stone.png",
+        "Bloom Stone",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/f1/Cosmic_Stone.png",
+        "Cosmic Stone",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c6/Cosmilite_Bar.png",
+        "Cosmilite Bar",
+        "10"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/43/Ascendant_Spirit_Essence.png",
+        "Ascendant Spirit Essence",
+        "5"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/3d/Universal_Stone.png",
+        "Universal Stone",
+        "1"
+      ]
+    ]
+  },
+  {
+    "id": 11002,
+    "itemName": "Angel Treads",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d7/Angel_Treads.png",
+    "itemSpecs": [
+      [
+        "Type",
+        "Accessory – Crafting material"
+      ],
+      [
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e4/Rarity_color_6.png"
+      ],
+      [
+        "Sell",
+        "      7  20  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
+      ]
+    ],
+    "craftingStations": [
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/3d/Mythril_Anvil.png",
+        "Mythril Anvil"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Orichalcum_Anvil.png",
+        "Orichalcum Anvil"
+      ]
+    ],
+    "craftingIngredients": [
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/ba/Terraspark_Boots.png",
+        "Terraspark Boots",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/43/Cloud_in_a_Bottle.png",
+        "Cloud in a Bottle",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/21/Essence_of_Sunlight.png",
+        "Essence of Sunlight",
+        "5"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/39/Soul_of_Might.png",
+        "Soul of Might",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/0f/Soul_of_Sight.png",
+        "Soul of Sight",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/80/Soul_of_Fright.png",
+        "Soul of Fright",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d7/Angel_Treads.png",
+        "Angel Treads",
+        "1"
+      ]
+    ]
+  },
+  {
+    "id": 11003,
+    "itemName": "Aquatic Emblem",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/a1/Aquatic_Emblem.png",
+    "itemSpecs": [
+      [
+        "Type",
+        "Accessory"
+      ],
+      [
+        "Rarity",
+        null
+      ],
+      [
+        "Sell",
+        "      4  80  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
+      ]
+    ],
+    "craftingStations": [
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e2/Ancient_Manipulator.png",
+        "Ancient Manipulator"
+      ]
+    ],
+    "craftingIngredients": [
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/70/Abyssal_Diving_Gear.png",
+        "Abyssal Diving Gear",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e1/Anechoic_Plating.png",
+        "Anechoic Plating",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/a1/Aquatic_Emblem.png",
+        "Aquatic Emblem",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/a0/Spelunker%27s_Amulet.png",
+        "Spelunker's Amulet",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/7c/Alluring_Bait.png",
+        "Alluring Bait",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c1/Lumenous_Amulet.png",
+        "Lumenous Amulet",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c0/Iron_Boots.png",
+        "Iron Boots",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/eb/Mollusk_Husk.png",
+        "Mollusk Husk",
+        "15"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/65/Lumenyl.png",
+        "Lumenyl",
+        "40"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/f2/Depth_Cells.png",
+        "Depth Cells",
+        "40"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/25/Tenebris.png",
+        "Tenebris",
+        "15"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/60/Luminite_Bar.png",
+        "Luminite Bar",
+        "5"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/26/Abyssal_Diving_Suit.png",
+        "Abyssal Diving Suit",
+        "1"
+      ]
+    ]
+  },
+  {
+    "id": 11004,
+    "itemName": "Aureate Booster",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/55/Aureate_Booster.png",
+    "itemSpecs": [
+      [
+        "Type",
+        "Accessory – Crafting material"
+      ],
+      [
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Rarity_color_7.png"
+      ],
+      [
+        "Sell",
+        "      9  60  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
+      ]
+    ],
+    "craftingStations": [
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/3d/Mythril_Anvil.png",
+        "Mythril Anvil"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Orichalcum_Anvil.png",
+        "Orichalcum Anvil"
+      ]
+    ],
+    "craftingIngredients": [
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/f7/Perennial_Bar.png",
+        "Perennial Bar",
+        "5"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/21/Essence_of_Sunlight.png",
+        "Essence of Sunlight",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a3/Soul_of_Flight.png",
+        "Soul of Flight",
+        "20"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/55/Aureate_Booster.png",
+        "Aureate Booster",
+        "1"
+      ]
+    ]
+  },
+  {
+    "id": 11005,
+    "itemName": "Celestial Tracers",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/a2/Celestial_Tracers.png",
+    "itemSpecs": [
+      [
+        "Type",
+        "Accessory"
+      ],
+      [
+        "Rarity",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8d/Rarity_color_15.png"
+      ],
+      [
+        "Sell",
+        "      30  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
+      ]
+    ],
+    "craftingStations": [
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c0/Cosmic_Anvil.png",
+        "Cosmic Anvil"
+      ]
+    ],
+    "craftingIngredients": [
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/50/Elysian_Tracers.png",
+        "Elysian Tracers",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/68/Drew%27s_Wings.png",
+        "Drew's Wings",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8d/Auric_Bar.png",
+        "Auric Bar",
+        "5"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/a2/Celestial_Tracers.png",
+        "Celestial Tracers",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c0/Cosmic_Anvil.png"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/bb/The_Godfather.png",
+        "The Godfather",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/7a/Thrower%27s_Gauntlet.png",
+        "Thrower's Gauntlet",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/9f/Quiver_of_Madness.png",
+        "Quiver of Madness",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/2a/Magna_Core.png",
+        "Magna Core",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/b6/Zenith_Arcanum.png",
+        "Zenith Arcanum",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/89/Nanotech.png",
+        "Nanotech",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/74/Rogue%27s_Lootbox.png",
+        "Rogue's Lootbox",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/46/Statis%27_Void_Sash.png",
+        "Statis' Void Sash",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/33/Asgardian_Aegis.png",
+        "Asgardian Aegis",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d5/Reaper_Tooth_Necklace.png",
+        "Reaper Tooth Necklace",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/40/Core_of_the_Blood_God.png",
+        "Core of the Blood God",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/69/Rampart_of_Deities.png",
+        "Rampart of Deities",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/3d/Universal_Stone.png",
+        "Universal Stone",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/52/Calamity.png",
+        "Calamity",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/38/Draedon%27s_Heart.png",
+        "Draedon's Heart",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/36/Yharim%27s_Gift.png",
+        "Yharim's Gift",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/5e/Occult_Skull_Crown.png",
+        "Occult Skull Crown",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/0d/Holy_Mantle.png",
+        "Holy Mantle",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/a2/Celestial_Tracers.png",
+        "Celestial Tracers",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/73/The_Community.png",
+        "The Community",
+        "1"
+      ],
+      [
+        null
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/36/Shattered_Community.png",
+        "Shattered Community"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/f1/Calamitous_Soul_Artifact.png",
+        "Calamitous Soul Artifact",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/b8/Ambrosial_Ampoule.png",
+        "Ambrosial Ampoule",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/ee/Celestial_Shell.png",
+        "Celestial Shell",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e6/Shadowspec_Bar.png",
+        "Shadowspec Bar",
+        "50"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/cc/The_Verboten_One.png",
+        "The Verboten One",
+        "1"
+      ]
+    ]
+  },
+  {
+    "id": 11006,
+    "itemName": "Drew's Wings",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/68/Drew%27s_Wings.png",
+    "itemSpecs": [
+      [
+        "Type",
+        "Accessory – Crafting material"
+      ],
+      [
+        "Rarity",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8d/Rarity_color_15.png"
+      ],
+      [
+        "Sell",
+        "      30  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
+      ]
+    ],
+    "craftingStations": [],
+    "craftingIngredients": []
+  },
+  {
+    "id": 11007,
+    "itemName": "Elysian Tracers",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/50/Elysian_Tracers.png",
+    "itemSpecs": [
+      [
+        "Type",
+        "Accessory – Crafting material"
+      ],
+      [
+        "Rarity",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e7/Rarity_color_14.png"
+      ],
+      [
+        "Sell",
+        "      28  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
+      ]
+    ],
+    "craftingStations": [
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c0/Cosmic_Anvil.png",
+        "Cosmic Anvil"
+      ]
+    ],
+    "craftingIngredients": [
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/11/Seraph_Tracers.png",
+        "Seraph Tracers",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/aa/Elysian_Wings.png",
+        "Elysian Wings",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/11/Gravistar_Sabaton.png",
+        "Gravistar Sabaton",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/7e/Microxodonta.png",
+        "Microxodonta",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c6/Cosmilite_Bar.png",
+        "Cosmilite Bar",
+        "5"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/43/Ascendant_Spirit_Essence.png",
+        "Ascendant Spirit Essence",
+        "4"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/50/Elysian_Tracers.png",
+        "Elysian Tracers",
+        "1"
+      ]
+    ]
+  },
+  {
+    "id": 11008,
+    "itemName": "Elysian Wings",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/aa/Elysian_Wings.png",
+    "itemSpecs": [
+      [
+        "Type",
+        "Accessory – Crafting material"
+      ],
+      [
+        "Rarity",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/ec/Rarity_color_12.png"
+      ],
+      [
+        "Sell",
+        "      24  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
+      ]
+    ],
+    "craftingStations": [],
+    "craftingIngredients": []
+  },
+  {
+    "id": 11009,
+    "itemName": "Exodus Wings",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/65/Exodus_Wings.png",
+    "itemSpecs": [
+      [
+        "Type",
+        "Accessory – Crafting material"
+      ],
+      [
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8f/Rarity_color_10.png"
+      ],
+      [
+        "Sell",
+        "      16  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
+      ]
+    ],
+    "craftingStations": [
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e2/Ancient_Manipulator.png",
+        "Ancient Manipulator"
+      ]
+    ],
+    "craftingIngredients": [
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/ec/Meld_Construct.png",
+        "Meld Construct",
+        "5"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/60/Luminite_Bar.png",
+        "Luminite Bar",
+        "10"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/65/Exodus_Wings.png",
+        "Exodus Wings",
+        "1"
+      ]
+    ]
+  },
+  {
+    "id": 11010,
+    "itemName": "Giant Shell",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c9/Giant_Shell.png",
+    "itemSpecs": [
+      [
+        "Type",
+        "Accessory – Crafting material"
+      ],
+      [
+        "Defense",
+        "6"
+      ],
+      [
+        "Grants Buff",
+        "Shell Speed Boost"
+      ],
+      [
+        "Buff duration",
+        "5 seconds (when hit)"
+      ],
+      [
+        "Buff tooltip",
+        "Speed is boosted"
+      ],
+      [
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png"
+      ],
+      [
+        "Sell",
+        "      20  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png"
+      ]
+    ],
+    "craftingStations": [],
+    "craftingIngredients": []
+  },
+  {
+    "id": 11011,
+    "itemName": "Hadal Mantle",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/36/Hadal_Mantle.png",
+    "itemSpecs": [
+      [
+        "Type",
+        "Accessory – Crafting material"
+      ],
+      [
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png"
+      ],
+      [
+        "Sell",
+        "      12  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
+      ]
+    ],
+    "craftingStations": [
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/3d/Mythril_Anvil.png",
+        "Mythril Anvil"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Orichalcum_Anvil.png",
+        "Orichalcum Anvil"
+      ]
+    ],
+    "craftingIngredients": [
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/32/Scoria_Bar.png",
+        "Scoria Bar",
+        "5"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/03/Unholy_Core.png",
+        "Unholy Core",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a3/Soul_of_Flight.png",
+        "Soul of Flight",
+        "20"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/36/Hadal_Mantle.png",
+        "Hadal Mantle",
+        "1"
+      ]
+    ]
+  },
+  {
+    "id": 11012,
+    "itemName": "Hadarian Wings",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e9/Hadarian_Wings.png",
+    "itemSpecs": [
+      [
+        "Type",
+        "Accessory – Crafting material"
+      ],
+      [
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c2/Rarity_color_9.png"
+      ],
+      [
+        "Sell",
+        "      16  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
+      ]
+    ],
+    "craftingStations": [],
+    "craftingIngredients": []
+  },
+  {
+    "id": 11013,
+    "itemName": "Harpy Ring",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/04/Harpy_Ring.png",
+    "itemSpecs": [
+      [
+        "Type",
+        "Accessory – Crafting material"
+      ],
+      [
+        "Rarity",
+        null
+      ],
+      [
+        "Sell",
+        "      80  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png"
+      ]
+    ],
+    "craftingStations": [
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/87/Sky_Mill.png",
+        "Sky Mill"
+      ]
+    ],
+    "craftingIngredients": [
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/27/Aerialite_Bar.png",
+        "Aerialite Bar",
+        "2"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/33/Feather.png",
+        "Feather",
+        "5"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9c/Fallen_Star.png",
+        "Fallen Star",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/04/Harpy_Ring.png",
+        "Harpy Ring",
+        "1"
+      ]
+    ]
+  },
+  {
+    "id": 11014,
+    "itemName": "Holy Mantle",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/0d/Holy_Mantle.png",
+    "itemSpecs": [
+      [
+        "Type",
+        "Accessory – Crafting material"
+      ],
+      [
+        "Rarity",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8d/Rarity_color_15.png"
+      ],
+      [
+        "Sell",
+        "      30  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
+      ]
+    ],
+    "craftingStations": [
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c0/Cosmic_Anvil.png",
+        "Cosmic Anvil"
+      ]
+    ],
+    "craftingIngredients": [
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/bb/The_Godfather.png",
+        "The Godfather",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/7a/Thrower%27s_Gauntlet.png",
+        "Thrower's Gauntlet",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/9f/Quiver_of_Madness.png",
+        "Quiver of Madness",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/2a/Magna_Core.png",
+        "Magna Core",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/b6/Zenith_Arcanum.png",
+        "Zenith Arcanum",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/89/Nanotech.png",
+        "Nanotech",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/74/Rogue%27s_Lootbox.png",
+        "Rogue's Lootbox",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/46/Statis%27_Void_Sash.png",
+        "Statis' Void Sash",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/33/Asgardian_Aegis.png",
+        "Asgardian Aegis",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d5/Reaper_Tooth_Necklace.png",
+        "Reaper Tooth Necklace",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/40/Core_of_the_Blood_God.png",
+        "Core of the Blood God",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/69/Rampart_of_Deities.png",
+        "Rampart of Deities",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/3d/Universal_Stone.png",
+        "Universal Stone",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/52/Calamity.png",
+        "Calamity",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/38/Draedon%27s_Heart.png",
+        "Draedon's Heart",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/36/Yharim%27s_Gift.png",
+        "Yharim's Gift",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/5e/Occult_Skull_Crown.png",
+        "Occult Skull Crown",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/0d/Holy_Mantle.png",
+        "Holy Mantle",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/a2/Celestial_Tracers.png",
+        "Celestial Tracers",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/73/The_Community.png",
+        "The Community",
+        "1"
+      ],
+      [
+        null
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/36/Shattered_Community.png",
+        "Shattered Community"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/f1/Calamitous_Soul_Artifact.png",
+        "Calamitous Soul Artifact",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/b8/Ambrosial_Ampoule.png",
+        "Ambrosial Ampoule",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/ee/Celestial_Shell.png",
+        "Celestial Shell",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e6/Shadowspec_Bar.png",
+        "Shadowspec Bar",
+        "50"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/cc/The_Verboten_One.png",
+        "The Verboten One",
+        "1"
+      ]
+    ]
+  },
+  {
+    "id": 11015,
+    "itemName": "Iron Boots",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c0/Iron_Boots.png",
+    "itemSpecs": [
+      [
+        "Type",
+        "Accessory – Crafting material"
+      ],
+      [
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png"
+      ],
+      [
+        "Sell",
+        "      80  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png"
+      ]
+    ],
+    "craftingStations": [],
+    "craftingIngredients": []
+  },
+  {
+    "id": 11016,
+    "itemName": "MOAB",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/68/MOAB.png",
+    "itemSpecs": [
+      [
+        "Type",
+        "Accessory"
+      ],
+      [
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e4/Rarity_color_6.png"
+      ],
+      [
+        "Sell",
+        "      7  20  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
+      ]
+    ],
+    "craftingStations": [
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/3d/Mythril_Anvil.png",
+        "Mythril Anvil"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Orichalcum_Anvil.png",
+        "Orichalcum Anvil"
+      ]
+    ],
+    "craftingIngredients": [
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a3/Soul_of_Flight.png",
+        "Soul of Flight",
+        "5"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d8/Bundle_of_Balloons.png",
+        "Bundle of Balloons",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d7/Lucky_Horseshoe.png",
+        "Lucky Horseshoe",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/07/Jetpack.png",
+        "Jetpack",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/0f/Soul_of_Sight.png",
+        "Soul of Sight",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/39/Soul_of_Might.png",
+        "Soul of Might",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/80/Soul_of_Fright.png",
+        "Soul of Fright",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/68/MOAB.png",
+        "MOAB",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c0/Cosmic_Anvil.png"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/68/Drew%27s_Wings.png",
+        "Drew's Wings",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/29/Soaring_Insignia.png",
+        "Soaring Insignia",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/68/MOAB.png",
+        "MOAB",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a3/Soul_of_Flight.png",
+        "Soul of Flight",
+        "20"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/ac/Ashes_of_Annihilation.png",
+        "Ashes of Annihilation",
+        "5"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/0d/Holy_Mantle.png",
+        "Holy Mantle",
+        "1"
+      ]
+    ]
+  },
+  {
+    "id": 11017,
+    "itemName": "Microxodonta",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/7e/Microxodonta.png",
+    "itemSpecs": [
+      [
+        "Type",
+        "Accessory"
+      ],
+      [
+        "Rarity",
+        null
+      ],
+      [
+        "Sell",
+        "      9  60  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
+      ]
+    ],
+    "craftingStations": [],
+    "craftingIngredients": []
+  },
+  {
+    "id": 11018,
+    "itemName": "Ocean Crest",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/3d/Ocean_Crest.png",
+    "itemSpecs": [
+      [
+        "Type",
+        "Accessory"
+      ],
+      [
+        "Rarity",
+        null
+      ],
+      [
+        "Sell",
+        "      40  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png"
+      ]
+    ],
+    "craftingStations": [
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/3d/Mythril_Anvil.png",
+        "Mythril Anvil"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Orichalcum_Anvil.png",
+        "Orichalcum Anvil"
+      ]
+    ],
+    "craftingIngredients": [
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/20/Arctic_Diving_Gear.png",
+        "Arctic Diving Gear",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/3d/Ocean_Crest.png",
+        "Ocean Crest",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/9f/Depths_Charm.png",
+        "Depths Charm",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e8/Abyss_Gravel.png",
+        "Abyss Gravel",
+        "25"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/f2/Depth_Cells.png",
+        "Depth Cells",
+        "10"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/65/Lumenyl.png",
+        "Lumenyl",
+        "10"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/70/Abyssal_Diving_Gear.png",
+        "Abyssal Diving Gear",
+        "1"
+      ]
+    ]
+  },
+  {
+    "id": 11019,
+    "itemName": "Seraph Tracers",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/11/Seraph_Tracers.png",
+    "itemSpecs": [
+      [
+        "Type",
+        "Accessory – Crafting material"
+      ],
+      [
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8f/Rarity_color_10.png"
+      ],
+      [
+        "Sell",
+        "      20  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
+      ]
+    ],
+    "craftingStations": [
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e2/Ancient_Manipulator.png",
+        "Ancient Manipulator"
+      ]
+    ],
+    "craftingIngredients": [
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e8/Any_Wings.gif",
+        "Any Wings",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d7/Angel_Treads.png",
+        "Angel Treads",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/00/Core_of_Calamity.png",
+        "Core of Calamity",
+        "3"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/cf/Life_Alloy.png",
+        "Life Alloy",
+        "5"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/60/Luminite_Bar.png",
+        "Luminite Bar",
+        "5"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/11/Seraph_Tracers.png",
+        "Seraph Tracers",
+        "1"
+      ]
+    ]
+  },
+  {
+    "id": 11020,
+    "itemName": "Silva Wings",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/60/Silva_Wings.png",
+    "itemSpecs": [
+      [
+        "Type",
+        "Accessory – Crafting material"
+      ],
+      [
+        "Rarity",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e7/Rarity_color_14.png"
+      ],
+      [
+        "Sell",
+        "      28  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
+      ]
+    ],
+    "craftingStations": [
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c0/Cosmic_Anvil.png",
+        "Cosmic Anvil"
+      ]
+    ],
+    "craftingIngredients": [
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/55/Effulgent_Feather.png",
+        "Effulgent Feather",
+        "15"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/35/Any_Gold_Bar.gif",
+        "Any Gold Bar",
+        "3"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/25/Tenebris.png",
+        "Tenebris",
+        "3"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/31/Darksun_Fragment.png",
+        "Darksun Fragment",
+        "5"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/60/Silva_Wings.png",
+        "Silva Wings",
+        "1"
+      ]
+    ]
+  },
+  {
+    "id": 11021,
+    "itemName": "Skyline Wings",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/92/Skyline_Wings.png",
+    "itemSpecs": [
+      [
+        "Type",
+        "Accessory – Crafting material"
+      ],
+      [
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png"
+      ],
+      [
+        "Sell",
+        "      80  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png"
+      ]
+    ],
+    "craftingStations": [
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c3/Iron_Anvil.png",
+        "Iron Anvil"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/32/Lead_Anvil.png",
+        "Lead Anvil"
+      ]
+    ],
+    "craftingIngredients": [
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/27/Aerialite_Bar.png",
+        "Aerialite Bar",
+        "5"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/33/Feather.png",
+        "Feather",
+        "5"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9c/Fallen_Star.png",
+        "Fallen Star",
+        "5"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/2c/Bone.png",
+        "Bone",
+        "15"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/92/Skyline_Wings.png",
+        "Skyline Wings",
+        "1"
+      ]
+    ]
+  },
+  {
+    "id": 11022,
+    "itemName": "Soul of Cryogen",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/3f/Soul_of_Cryogen.gif",
+    "itemSpecs": [
+      [
+        "Type",
+        "Accessory – Crafting material"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Frostburn.png",
+        "Frostburn",
+        "100% chance"
+      ],
+      [
+        "Debuff duration",
+        "2, 4, or 6 seconds (Melee attacks)"
+      ],
+      [
+        "Debuff tooltip",
+        "It's either really hot or really cold. Either way it REALLY hurts"
+      ],
+      [
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png"
+      ],
+      [
+        "Sell",
+        "      4  80  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
+      ]
+    ],
+    "craftingStations": [],
+    "craftingIngredients": []
+  },
+  {
+    "id": 11023,
+    "itemName": "Starlight Wings",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/a1/Starlight_Wings.png",
+    "itemSpecs": [
+      [
+        "Type",
+        "Accessory – Crafting material"
+      ],
+      [
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png"
+      ],
+      [
+        "Sell",
+        "      4  80  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
+      ]
+    ],
+    "craftingStations": [
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/3d/Mythril_Anvil.png",
+        "Mythril Anvil"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Orichalcum_Anvil.png",
+        "Orichalcum Anvil"
+      ]
+    ],
+    "craftingIngredients": [
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/f8/Cryonic_Bar.png",
+        "Cryonic Bar",
+        "5"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/84/Essence_of_Eleum.png",
+        "Essence of Eleum",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a3/Soul_of_Flight.png",
+        "Soul of Flight",
+        "20"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/a1/Starlight_Wings.png",
+        "Starlight Wings",
+        "1"
+      ]
+    ]
+  },
+  {
+    "id": 11024,
+    "itemName": "Statis' Ninja Belt",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/51/Statis%27_Ninja_Belt.png",
+    "itemSpecs": [
+      [
+        "Type",
+        "Accessory – Crafting material"
+      ],
+      [
+        "Rarity",
+        null
+      ],
+      [
+        "Sell",
+        "      26  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
+      ]
+    ],
+    "craftingStations": [
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e2/Ancient_Manipulator.png",
+        "Ancient Manipulator"
+      ]
+    ],
+    "craftingIngredients": [
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/ff/Master_Ninja_Gear.png",
+        "Master Ninja Gear",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/70/Evasion_Scarf.png",
+        "Evasion Scarf",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/82/Frog_Gear.png",
+        "Frog Gear",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/ad/Purified_Gel.png",
+        "Purified Gel",
+        "50"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/0b/Phantoplasm.png",
+        "Phantoplasm",
+        "5"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/51/Statis%27_Ninja_Belt.png",
+        "Statis' Ninja Belt",
+        "1"
+      ]
+    ]
+  },
+  {
+    "id": 11025,
+    "itemName": "Statis' Void Sash",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/72/Statis%27_Void_Sash.gif",
+    "itemSpecs": [
+      [
+        "Type",
+        "Accessory"
+      ],
+      [
+        null,
+        "God Slayer Inferno",
+        "100% chance"
+      ],
+      [
+        "Debuff duration",
+        "1 second (Cosmic Scythe)"
+      ],
+      [
+        "Debuff tooltip",
+        "Your flesh is burning off"
+      ],
+      [
+        "Rarity",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e7/Rarity_color_14.png"
+      ],
+      [
+        "Sell",
+        "      28  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
+      ]
+    ],
+    "craftingStations": [
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c0/Cosmic_Anvil.png",
+        "Cosmic Anvil"
+      ]
+    ],
+    "craftingIngredients": [
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/51/Statis%27_Ninja_Belt.png",
+        "Statis' Ninja Belt",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/f8/Twisting_Nether.png",
+        "Twisting Nether",
+        "10"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/3c/Nightmare_Fuel.png",
+        "Nightmare Fuel",
+        "20"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/46/Statis%27_Void_Sash.png",
+        "Statis' Void Sash",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c0/Cosmic_Anvil.png"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/bb/The_Godfather.png",
+        "The Godfather",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/7a/Thrower%27s_Gauntlet.png",
+        "Thrower's Gauntlet",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/9f/Quiver_of_Madness.png",
+        "Quiver of Madness",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/2a/Magna_Core.png",
+        "Magna Core",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/b6/Zenith_Arcanum.png",
+        "Zenith Arcanum",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/89/Nanotech.png",
+        "Nanotech",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/74/Rogue%27s_Lootbox.png",
+        "Rogue's Lootbox",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/46/Statis%27_Void_Sash.png",
+        "Statis' Void Sash",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/33/Asgardian_Aegis.png",
+        "Asgardian Aegis",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d5/Reaper_Tooth_Necklace.png",
+        "Reaper Tooth Necklace",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/40/Core_of_the_Blood_God.png",
+        "Core of the Blood God",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/69/Rampart_of_Deities.png",
+        "Rampart of Deities",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/3d/Universal_Stone.png",
+        "Universal Stone",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/52/Calamity.png",
+        "Calamity",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/38/Draedon%27s_Heart.png",
+        "Draedon's Heart",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/36/Yharim%27s_Gift.png",
+        "Yharim's Gift",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/5e/Occult_Skull_Crown.png",
+        "Occult Skull Crown",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/0d/Holy_Mantle.png",
+        "Holy Mantle",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/a2/Celestial_Tracers.png",
+        "Celestial Tracers",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/73/The_Community.png",
+        "The Community",
+        "1"
+      ],
+      [
+        null
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/36/Shattered_Community.png",
+        "Shattered Community"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/f1/Calamitous_Soul_Artifact.png",
+        "Calamitous Soul Artifact",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/b8/Ambrosial_Ampoule.png",
+        "Ambrosial Ampoule",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/ee/Celestial_Shell.png",
+        "Celestial Shell",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e6/Shadowspec_Bar.png",
+        "Shadowspec Bar",
+        "50"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/cc/The_Verboten_One.png",
+        "The Verboten One",
+        "1"
+      ]
+    ]
+  },
+  {
+    "id": 11026,
+    "itemName": "Tarragon Wings",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/5c/Tarragon_Wings.png",
+    "itemSpecs": [
+      [
+        "Type",
+        "Accessory – Crafting material"
+      ],
+      [
+        "Rarity",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/ec/Rarity_color_12.png"
+      ],
+      [
+        "Sell",
+        "      24  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
+      ]
+    ],
+    "craftingStations": [
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e2/Ancient_Manipulator.png",
+        "Ancient Manipulator"
+      ]
+    ],
+    "craftingIngredients": [
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/70/Uelibloom_Bar.png",
+        "Uelibloom Bar",
+        "5"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a3/Soul_of_Flight.png",
+        "Soul of Flight",
+        "30"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/5c/Tarragon_Wings.png",
+        "Tarragon Wings",
+        "1"
+      ]
+    ]
+  },
+  {
+    "id": 11027,
+    "itemName": "Vital Jelly",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/66/Vital_Jelly.png",
+    "itemSpecs": [
+      [
+        "Type",
+        "Accessory – Crafting material"
+      ],
+      [
+        "Rarity",
+        null
+      ],
+      [
+        "Sell",
+        "      20  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png"
+      ]
+    ],
+    "craftingStations": [],
+    "craftingIngredients": []
+  },
+  {
+    "id": 11028,
+    "itemName": "Wulfrum Acrobatics Pack",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/b2/Wulfrum_Acrobatics_Pack.png",
+    "itemSpecs": [
+      [
+        "Type",
+        "Accessory"
+      ],
+      [
+        "Rarity",
+        null
+      ],
+      [
+        "Sell",
+        "      20  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png"
+      ]
+    ],
+    "craftingStations": [],
+    "craftingIngredients": []
+  }
+]

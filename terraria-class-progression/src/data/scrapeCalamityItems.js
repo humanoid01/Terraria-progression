@@ -126,13 +126,22 @@ async function scrapeData(url, id) {
 }
 
 async function saveItemsData() {
-  const urlNames = [
+  const weaponUrlNames = [
     ['Melee_weapons', 1],
     ['Ranged_weapons', 1000],
     ['Magic_weapons', 2000],
     ['Summon_weapons', 3000],
     ['Rogue_weapons', 4000],
     ['Classless_weapons', 5000],
+  ];
+
+  const accessoriesUrlNames = [
+    ['Restorative_Accessories', 6000],
+    ['Combat_Accessories', 7000],
+    ['Mining_Accessories', 8000],
+    ['Fishing_Accessories', 9000],
+    ['Revengeance_Mode_Accessories', 10000],
+    ['Movement_Accessories', 11000],
   ];
 
   const getPageItems = async (pageUrl, id) => {
@@ -150,11 +159,16 @@ async function saveItemsData() {
     return theData;
   };
 
-  for (const [name, id] of urlNames) {
-    const pageUrl = `https://calamitymod.fandom.com/wiki/${name}`;
-    const data = await getPageItems(pageUrl, id);
-    console.log(name);
-    fs.writeFileSync(`./weapons/${name}.json`, JSON.stringify(data, null, 2));
-  }
+  const getCalamityItems = async (weapons, accessories) => {
+    for (const [name, id] of weapons ? weaponUrlNames : accessoriesUrlNames) {
+      const pageUrl = `https://calamitymod.fandom.com/wiki/${name}`;
+      const data = await getPageItems(pageUrl, id);
+      fs.writeFileSync(
+        weapons ? `./weapons/${name}.json` : `./accessories/${name}.json`,
+        JSON.stringify(data, null, 2)
+      );
+    }
+  };
+  getCalamityItems(false);
 }
 saveItemsData();

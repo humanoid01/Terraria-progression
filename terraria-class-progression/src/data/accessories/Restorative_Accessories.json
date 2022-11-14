@@ -1,0 +1,238 @@
+[
+  {
+    "id": 6000,
+    "itemName": "Blood Pact",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/b7/Blood_Pact.png",
+    "itemSpecs": [
+      [
+        "Type",
+        "Accessory – Crafting material"
+      ],
+      [
+        "Grants Buff",
+        "Bloody Boost"
+      ],
+      [
+        "Buff duration",
+        "10 seconds"
+      ],
+      [
+        "Buff tooltip",
+        "Increased offensive and defensive statsHealing potions grant more health"
+      ],
+      [
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png"
+      ],
+      [
+        "Sell",
+        "      12  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
+      ]
+    ],
+    "craftingStations": [],
+    "craftingIngredients": []
+  },
+  {
+    "id": 6001,
+    "itemName": "Bloodflare Core",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/53/Bloodflare_Core.png",
+    "itemSpecs": [
+      [
+        "Type",
+        "Accessory"
+      ],
+      [
+        "Rarity",
+        null
+      ],
+      [
+        "Sell",
+        "      24  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
+      ]
+    ],
+    "craftingStations": [],
+    "craftingIngredients": []
+  },
+  {
+    "id": 6002,
+    "itemName": "Grand Gelatin",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d8/Grand_Gelatin.png",
+    "itemSpecs": [
+      [
+        "Type",
+        "Accessory – Crafting material"
+      ],
+      [
+        "Rarity",
+        null
+      ],
+      [
+        "Sell",
+        "      4  80  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
+      ]
+    ],
+    "craftingStations": [
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c3/Iron_Anvil.png",
+        "Iron Anvil"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/32/Lead_Anvil.png",
+        "Lead Anvil"
+      ]
+    ],
+    "craftingIngredients": [
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/0c/Mana_Jelly.png",
+        "Mana Jelly",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8c/Mirage_Jelly_%28item%29.png",
+        "Mirage Jelly (item)",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/1a/Life_Jelly.png",
+        "Life Jelly",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/66/Vital_Jelly.png",
+        "Vital Jelly",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/ea/Soul_of_Light.png",
+        "Soul of Light",
+        "2"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e9/Soul_of_Night.png",
+        "Soul of Night",
+        "2"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d8/Grand_Gelatin.png",
+        "Grand Gelatin",
+        "1"
+      ]
+    ]
+  },
+  {
+    "id": 6003,
+    "itemName": "Life Jelly",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/1a/Life_Jelly.png",
+    "itemSpecs": [
+      [
+        "Type",
+        "Accessory – Crafting material"
+      ],
+      [
+        "Rarity",
+        null
+      ],
+      [
+        "Sell",
+        "      20  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png"
+      ]
+    ],
+    "craftingStations": [],
+    "craftingIngredients": []
+  },
+  {
+    "id": 6004,
+    "itemName": "Mana Jelly",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/0c/Mana_Jelly.png",
+    "itemSpecs": [
+      [
+        "Type",
+        "Accessory – Crafting material"
+      ],
+      [
+        "Rarity",
+        null
+      ],
+      [
+        "Sell",
+        "      20  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png"
+      ]
+    ],
+    "craftingStations": [],
+    "craftingIngredients": []
+  },
+  {
+    "id": 6005,
+    "itemName": "Mirage Jelly (item)",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8c/Mirage_Jelly_%28item%29.png",
+    "itemSpecs": [
+      [
+        "Type",
+        "Accessory – Crafting material"
+      ],
+      [
+        "Rarity",
+        null
+      ],
+      [
+        "Sell",
+        "      1  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
+      ]
+    ],
+    "craftingStations": [],
+    "craftingIngredients": []
+  },
+  {
+    "id": 6006,
+    "itemName": "Radiant Ooze",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d6/Radiant_Ooze.png",
+    "itemSpecs": [
+      [
+        "Type",
+        "Accessory – Crafting material"
+      ],
+      [
+        "Rarity",
+        null
+      ],
+      [
+        "Sell",
+        "      2  40  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
+      ]
+    ],
+    "craftingStations": [
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c3/Iron_Anvil.png",
+        "Iron Anvil"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/32/Lead_Anvil.png",
+        "Lead Anvil"
+      ]
+    ],
+    "craftingIngredients": [
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/2f/Blighted_Gel.png",
+        "Blighted Gel",
+        "45"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/ad/Purified_Gel.png",
+        "Purified Gel",
+        "15"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d6/Radiant_Ooze.png",
+        "Radiant Ooze",
+        "1"
+      ]
+    ]
+  }
+]

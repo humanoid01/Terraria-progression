@@ -1,0 +1,249 @@
+[
+  {
+    "id": 9000,
+    "itemName": "Alluring Bait",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/7c/Alluring_Bait.png",
+    "itemSpecs": [
+      [
+        "Type",
+        "Accessory"
+      ],
+      [
+        "Rarity",
+        null
+      ],
+      [
+        "Sell",
+        "      20  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png"
+      ]
+    ],
+    "craftingStations": [
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e2/Ancient_Manipulator.png",
+        "Ancient Manipulator"
+      ]
+    ],
+    "craftingIngredients": [
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/70/Abyssal_Diving_Gear.png",
+        "Abyssal Diving Gear",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e1/Anechoic_Plating.png",
+        "Anechoic Plating",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/a1/Aquatic_Emblem.png",
+        "Aquatic Emblem",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/a0/Spelunker%27s_Amulet.png",
+        "Spelunker's Amulet",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/7c/Alluring_Bait.png",
+        "Alluring Bait",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c1/Lumenous_Amulet.png",
+        "Lumenous Amulet",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c0/Iron_Boots.png",
+        "Iron Boots",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/eb/Mollusk_Husk.png",
+        "Mollusk Husk",
+        "15"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/65/Lumenyl.png",
+        "Lumenyl",
+        "40"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/f2/Depth_Cells.png",
+        "Depth Cells",
+        "40"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/25/Tenebris.png",
+        "Tenebris",
+        "15"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/60/Luminite_Bar.png",
+        "Luminite Bar",
+        "5"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/26/Abyssal_Diving_Suit.png",
+        "Abyssal Diving Suit",
+        "1"
+      ]
+    ]
+  },
+  {
+    "id": 9001,
+    "itemName": "Enchanted Pearl",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d9/Enchanted_Pearl.png",
+    "itemSpecs": [
+      [
+        "Type",
+        "Accessory"
+      ],
+      [
+        "Rarity",
+        null
+      ],
+      [
+        "Sell",
+        "      40  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png"
+      ]
+    ],
+    "craftingStations": [
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c3/Iron_Anvil.png",
+        "Iron Anvil"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/32/Lead_Anvil.png",
+        "Lead Anvil"
+      ]
+    ],
+    "craftingIngredients": [
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fa/Fishing_Potion.png",
+        "Fishing Potion",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/f9/Crate_Potion.png",
+        "Crate Potion",
+        "8"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c2/Any_Evil_Flesh.gif",
+        "Any Evil Flesh",
+        "5"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/5e/Sea_Prism.png",
+        "Sea Prism",
+        "10"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d2/Victide_Bar.png",
+        "Victide Bar",
+        "3"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d9/Enchanted_Pearl.png",
+        "Enchanted Pearl",
+        "1"
+      ]
+    ]
+  },
+  {
+    "id": 9002,
+    "itemName": "Supreme Bait Tackle Box Fishing Station",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/48/Supreme_Bait_Tackle_Box_Fishing_Station.png",
+    "itemSpecs": [
+      [
+        "Type",
+        "Accessory"
+      ],
+      [
+        "Rarity",
+        null
+      ],
+      [
+        "Sell",
+        "      2  40  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
+      ]
+    ],
+    "craftingStations": [
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c3/Iron_Anvil.png",
+        "Iron Anvil"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/32/Lead_Anvil.png",
+        "Lead Anvil"
+      ]
+    ],
+    "craftingIngredients": [
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/65/Angler_Hat.png",
+        "Angler Hat",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/09/Angler_Vest.png",
+        "Angler Vest",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fa/Angler_Pants.png",
+        "Angler Pants",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/5b/Angler_Tackle_Bag.png",
+        "Angler Tackle Bag",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fa/Fishing_Potion.png",
+        "Fishing Potion",
+        "5"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/f9/Crate_Potion.png",
+        "Crate Potion",
+        "5"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c8/Sonar_Potion.png",
+        "Sonar Potion",
+        "5"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1c/Master_Bait.png",
+        "Master Bait",
+        "5"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/ea/Soul_of_Light.png",
+        "Soul of Light",
+        "5"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e9/Soul_of_Night.png",
+        "Soul of Night",
+        "5"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/5e/Sea_Prism.png",
+        "Sea Prism",
+        "10"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/48/Supreme_Bait_Tackle_Box_Fishing_Station.png",
+        "Supreme Bait Tackle Box Fishing Station",
+        "1"
+      ]
+    ]
+  }
+]
