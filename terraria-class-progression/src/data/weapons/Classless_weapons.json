@@ -92,9 +92,8 @@
         "5"
       ],
       [
-        null,
-        "Vaporfied",
-        "100% chance"
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/27/Vaporfied.png",
+        "Vaporfied"
       ],
       [
         "Debuff duration",
@@ -126,9 +125,9 @@
     ],
     "craftingIngredients": [
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Hellstone_Bar.png",
-        "Hellstone Bar",
-        "10"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/ea/Diamond.png",
+        "Diamond",
+        "5"
       ],
       [
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a2/Meteorite_Bar.png",
@@ -151,8 +150,8 @@
         "20"
       ],
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/3f/Gel.png",
-        "Gel",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a3/Glowstick.png",
+        "Glowstick",
         "15"
       ],
       [
@@ -452,8 +451,8 @@
         "15"
       ],
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Hellstone_Bar.png",
-        "Hellstone Bar",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Gold_Bar.png",
+        "Gold Bar",
         "10"
       ],
       [
@@ -819,7 +818,7 @@
         "12"
       ],
       [
-        null,
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/db/Marked.png",
         "Marked",
         "100% chance"
       ],
@@ -897,7 +896,7 @@
       ],
       [
         "Rarity",
-        null
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/96/Rarity_color_11.png"
       ],
       [
         "Sell",
@@ -1085,9 +1084,8 @@
         "Increased movement speed and damage"
       ],
       [
-        null,
-        "Kami Flu",
-        "100% chance"
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/ca/Kami_Flu.png",
+        "Kami Flu"
       ],
       [
         "Debuff duration",

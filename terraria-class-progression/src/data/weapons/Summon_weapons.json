@@ -143,7 +143,7 @@
       ],
       [
         "Rarity",
-        null
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8d/Rarity_color_15.png"
       ],
       [
         "Sell",
@@ -300,8 +300,8 @@
         "8"
       ],
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/27/Rich_Mahogany.png",
-        "Rich Mahogany",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/38/Jungle_Rose.png",
+        "Jungle Rose",
         "25"
       ],
       [
@@ -463,7 +463,7 @@
         "10"
       ],
       [
-        null,
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/65/Astral_Infection_%28debuff%29.png",
         "Astral Infection",
         "100% chance"
       ],
@@ -515,7 +515,7 @@
       ],
       [
         "Rarity",
-        null
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/36/Rarity_color_13.png"
       ],
       [
         "Sell",
@@ -759,14 +759,14 @@
     ],
     "craftingIngredients": [
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/92/Fireblossom.png",
-        "Fireblossom",
-        "5"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/23/Obsidian.png",
+        "Obsidian",
+        "50"
       ],
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/cd/Lava_Bucket.png",
-        "Lava Bucket",
-        "2"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c3/Living_Fire_Block.png",
+        "Living Fire Block",
+        "20"
       ],
       [
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Hellstone_Bar.png",
@@ -2380,9 +2380,8 @@
         "You're controlling a piece of history"
       ],
       [
-        null,
-        "Andromeda Cripple",
-        ""
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/71/Andromeda_Cripple.png",
+        "Andromeda Cripple"
       ],
       [
         "Debuff duration",
@@ -3770,9 +3769,6 @@
         "1"
       ],
       [
-        null
-      ],
-      [
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/37/Eye_of_Night.png",
         "Eye of Night"
       ],
@@ -4428,9 +4424,8 @@
         "The shellfish will protect you"
       ],
       [
-        null,
-        "Shellfish Claps",
-        "100% chance"
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e9/Shellfish_Claps.png",
+        "Shellfish Claps"
       ],
       [
         "Debuff tooltip",
@@ -4574,7 +4569,7 @@
       ],
       [
         "Rarity",
-        null
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png"
       ],
       [
         "Sell",
@@ -5258,7 +5253,7 @@
       ],
       [
         "Damage",
-        "193 Summon"
+        "151 Summon"
       ],
       [
         "Knockback",
@@ -5266,11 +5261,11 @@
       ],
       [
         "Mana",
-        "99"
+        "520"
       ],
       [
         "Use time",
-        "9 Very Fast"
+        "12 Very Fast"
       ],
       [
         "Grants Buff",
@@ -5444,9 +5439,8 @@
         "9 Very Fast"
       ],
       [
-        null,
-        "Universe Splitter Cooldown",
-        "100% chance"
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/30/Universe_Splitter_Cooldown.png",
+        "Universe Splitter Cooldown"
       ],
       [
         "Debuff duration",
@@ -5690,9 +5684,8 @@
         "It's uncomfortably close"
       ],
       [
-        null,
-        "Sage Poison",
-        "100% chance"
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/7e/Sage_Poison.png",
+        "Sage Poison"
       ],
       [
         "Debuff duration",

@@ -1,5 +1,6 @@
 [
   {
+    "id": 20000,
     "armorName": "Wulfrum armor",
     "armorImg": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/24/Wulfrum_armor.png",
     "armorDefenses": {
@@ -57,6 +58,7 @@
     ]
   },
   {
+    "id": 20001,
     "armorName": "Snow Ruffian armor",
     "armorImg": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8d/Snow_Ruffian_armor.png",
     "armorDefenses": {
@@ -99,6 +101,7 @@
     ]
   },
   {
+    "id": 20002,
     "armorName": "Old Hunter armor",
     "armorImg": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/4a/Old_Hunter_armor.png",
     "armorDefenses": {
@@ -143,6 +146,7 @@
     ]
   },
   {
+    "id": 20003,
     "armorName": "Desert Prowler armor",
     "armorImg": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/ac/Desert_Prowler_armor.png",
     "armorDefenses": {
@@ -182,6 +186,7 @@
     ]
   },
   {
+    "id": 20004,
     "armorName": "Victide armor",
     "armorImg": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d5/Victide_armor.png",
     "armorDefenses": {
@@ -234,6 +239,7 @@
     ]
   },
   {
+    "id": 20005,
     "armorName": "Sulphurous armor",
     "armorImg": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/b9/Sulphurous_armor.png",
     "armorDefenses": {
@@ -282,6 +288,7 @@
     ]
   },
   {
+    "id": 20006,
     "armorName": "Aerospec armor",
     "armorImg": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/6a/Aerospec_armor.png",
     "armorDefenses": {
@@ -356,6 +363,7 @@
     ]
   },
   {
+    "id": 20007,
     "armorName": "Statigel armor",
     "armorImg": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d9/Statigel_armor.png",
     "armorDefenses": {
@@ -415,6 +423,7 @@
     ]
   },
   {
+    "id": 20008,
     "armorName": "Mollusk armor",
     "armorImg": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/2b/Mollusk_armor.png",
     "armorDefenses": {
@@ -454,6 +463,7 @@
     ]
   },
   {
+    "id": 20009,
     "armorName": "Titan Heart armor",
     "armorImg": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/a5/Titan_Heart_armor.png",
     "armorDefenses": {
@@ -495,6 +505,7 @@
     ]
   },
   {
+    "id": 20010,
     "armorName": "Daedalus armor",
     "armorImg": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/6d/Daedalus_armor.png",
     "armorDefenses": {
@@ -549,6 +560,7 @@
     ]
   },
   {
+    "id": 20011,
     "armorName": "Brimflame armor",
     "armorImg": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/2b/Brimflame_armor.png",
     "armorDefenses": {
@@ -595,6 +607,7 @@
     ]
   },
   {
+    "id": 20012,
     "armorName": "Fathom Swarmer armor",
     "armorImg": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/9e/Fathom_Swarmer_armor.png",
     "armorDefenses": {
@@ -647,6 +660,7 @@
     ]
   },
   {
+    "id": 20013,
     "armorName": "Umbraphile armor",
     "armorImg": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d5/Umbraphile_armor.png",
     "armorDefenses": {
@@ -686,6 +700,7 @@
     ]
   },
   {
+    "id": 20014,
     "armorName": "Reaver armor",
     "armorImg": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/2c/Reaver_armor.png",
     "armorDefenses": {
@@ -736,6 +751,7 @@
     ]
   },
   {
+    "id": 20015,
     "armorName": "Hydrothermic armor",
     "armorImg": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/48/Hydrothermic_armor.png",
     "armorDefenses": {
@@ -793,6 +809,7 @@
     ]
   },
   {
+    "id": 20016,
     "armorName": "Plague Reaper armor",
     "armorImg": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d5/Plague_Reaper_armor.png",
     "armorDefenses": {
@@ -836,6 +853,7 @@
     ]
   },
   {
+    "id": 20017,
     "armorName": "Plaguebringer armor",
     "armorImg": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/df/Plaguebringer_armor.png",
     "armorDefenses": {
@@ -890,6 +908,7 @@
     ]
   },
   {
+    "id": 20018,
     "armorName": "Astral armor",
     "armorImg": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/9e/Astral_armor.png",
     "armorDefenses": {
@@ -928,6 +947,7 @@
     ]
   },
   {
+    "id": 20019,
     "armorName": "Empyrean armor",
     "armorImg": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/13/Empyrean_armor.png",
     "armorDefenses": {
@@ -967,6 +987,7 @@
     ]
   },
   {
+    "id": 20020,
     "armorName": "Tarragon armor",
     "armorImg": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/0d/Tarragon_armor.png",
     "armorDefenses": {
@@ -1023,6 +1044,7 @@
     ]
   },
   {
+    "id": 20021,
     "armorName": "Prismatic armor",
     "armorImg": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d4/Prismatic_armor.png",
     "armorDefenses": {
@@ -1074,6 +1096,7 @@
     ]
   },
   {
+    "id": 20022,
     "armorName": "Bloodflare armor",
     "armorImg": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/4f/Bloodflare_armor.png",
     "armorDefenses": {
@@ -1129,6 +1152,7 @@
     ]
   },
   {
+    "id": 20023,
     "armorName": "Omega Blue armor",
     "armorImg": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/0e/Omega_Blue_armor.png",
     "armorDefenses": {
@@ -1178,6 +1202,7 @@
     ]
   },
   {
+    "id": 20024,
     "armorName": "God Slayer armor",
     "armorImg": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/35/God_Slayer_armor.png",
     "armorDefenses": {
@@ -1225,6 +1250,7 @@
     ]
   },
   {
+    "id": 20025,
     "armorName": "Fearmonger armor",
     "armorImg": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/03/Fearmonger_armor.png",
     "armorDefenses": {
@@ -1277,6 +1303,7 @@
     ]
   },
   {
+    "id": 20026,
     "armorName": "Silva armor",
     "armorImg": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/0c/Silva_armor.png",
     "armorDefenses": {
@@ -1332,6 +1359,7 @@
     ]
   },
   {
+    "id": 20027,
     "armorName": "Auric Tesla armor",
     "armorImg": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/27/Auric_Tesla_armor.png",
     "armorDefenses": {
@@ -1411,6 +1439,7 @@
     ]
   },
   {
+    "id": 20028,
     "armorName": "Demonshade armor",
     "armorImg": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/cc/Demonshade_armor.png",
     "armorDefenses": {

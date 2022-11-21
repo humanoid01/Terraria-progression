@@ -69,7 +69,7 @@
         "1"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d5/Deck_of_Souls.png",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/dc/Fantasy_Talisman.png",
         "Deck of Souls",
         "1"
       ],
@@ -1912,88 +1912,16 @@
       [
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/f2/Musket_Ball.png",
         "Musket Ball",
-        "100"
+        "500"
       ],
       [
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b2/Any_Iron_Bar.gif",
         "Any Iron Bar",
-        "7"
+        "12"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/27/Aerialite_Bar.png",
-        "Aerialite Bar",
-        "3"
-      ],
-      [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e2/Bullet-Filled_Shotgun.png",
-        "Bullet-Filled Shotgun",
-        "1"
-      ]
-    ]
-  },
-  {
-    "id": 1027,
-    "itemName": "Bullet-Filled ShotgunBullet-Filled Shotgun",
-    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e2/Bullet-Filled_Shotgun.png",
-    "itemSpecs": [
-      [
-        "Type",
-        "Weapon"
-      ],
-      [
-        "Damage",
-        "1 Ranged"
-      ],
-      [
-        "Knockback",
-        "0 (No Knockback)"
-      ],
-      [
-        "Critical chance",
-        "4%"
-      ],
-      [
-        "Use time",
-        "45 Very Slow"
-      ],
-      [
-        "Velocity",
-        "9"
-      ],
-      [
-        "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png"
-      ],
-      [
-        "Sell",
-        "      80  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png"
-      ]
-    ],
-    "craftingStations": [
-      [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c3/Iron_Anvil.png",
-        "Iron Anvil"
-      ],
-      [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/32/Lead_Anvil.png",
-        "Lead Anvil"
-      ]
-    ],
-    "craftingIngredients": [
-      [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/f2/Musket_Ball.png",
-        "Musket Ball",
-        "100"
-      ],
-      [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b2/Any_Iron_Bar.gif",
-        "Any Iron Bar",
-        "7"
-      ],
-      [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/27/Aerialite_Bar.png",
-        "Aerialite Bar",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Hellstone_Bar.png",
+        "Hellstone Bar",
         "3"
       ],
       [
@@ -6080,9 +6008,6 @@
         "1"
       ],
       [
-        null
-      ],
-      [
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/84/Tendon_Bow.png",
         "Tendon Bow"
       ],
@@ -6349,7 +6274,7 @@
       ],
       [
         "Rarity",
-        null
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png"
       ],
       [
         "Sell",
@@ -6854,11 +6779,11 @@
       ],
       [
         "Damage",
-        "275 Ranged"
+        "16 Ranged"
       ],
       [
         "Knockback",
-        "2.5 (Very Weak)"
+        "0 (No Knockback)"
       ],
       [
         "Critical chance",
@@ -6866,7 +6791,7 @@
       ],
       [
         "Use time",
-        "3 Insanely Fast"
+        "1 Insanely Fast"
       ],
       [
         "Velocity",
@@ -6878,7 +6803,7 @@
       ],
       [
         "Sell",
-        "      30  ",
+        "      2  ",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
@@ -8980,13 +8905,6 @@
     ]
   },
   {
-    "id": 1127,
-    "itemName": "",
-    "itemSpecs": [],
-    "craftingStations": [],
-    "craftingIngredients": []
-  },
-  {
     "id": 1128,
     "itemName": "Scorched Earth",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/03/Scorched_Earth.png",
@@ -9818,9 +9736,8 @@
         "9"
       ],
       [
-        null,
-        "Shred",
-        "10% chance"
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/36/Shred.png",
+        "Shred"
       ],
       [
         "Debuff duration",
@@ -10066,7 +9983,7 @@
       ],
       [
         "Rarity",
-        null
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png"
       ],
       [
         "Sell",
@@ -10693,7 +10610,7 @@
       ],
       [
         "Rarity",
-        null
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png"
       ],
       [
         "Sell",
@@ -11443,8 +11360,49 @@
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
-    "craftingStations": [],
-    "craftingIngredients": []
+    "craftingStations": [
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c0/Cosmic_Anvil.png",
+        "Cosmic Anvil"
+      ]
+    ],
+    "craftingIngredients": [
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d0/Coin_Gun.png",
+        "Coin Gun",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/14/Clock_Gatlignum.png",
+        "Clock Gatlignum",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1b/Orange_Zapinator.png",
+        "Orange Zapinator",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/2c/Platinum_Coin.png",
+        "Platinum Coin",
+        "7"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png",
+        "Gold Coin",
+        "77"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d6/Twisted_Tendril.png",
+        "Twisted Tendril",
+        "5"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c5/The_Sevens_Striker.png",
+        "The Sevens Striker",
+        "1"
+      ]
+    ]
   },
   {
     "id": 1163,
@@ -12047,11 +12005,11 @@
       ],
       [
         "Damage",
-        "200 Ranged"
+        "73 Ranged"
       ],
       [
         "Knockback",
-        "5 (Average)"
+        "1 (Extremely Weak)"
       ],
       [
         "Critical chance",
@@ -12059,7 +12017,7 @@
       ],
       [
         "Use time",
-        "5 Insanely Fast"
+        "9 Very Fast"
       ],
       [
         "Velocity",
@@ -12198,7 +12156,7 @@
       ],
       [
         "Rarity",
-        null
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png"
       ],
       [
         "Sell",

@@ -52,6 +52,33 @@ async function scrapeData(url, id) {
       const img = inflict.children('a').children('img').attr('data-src');
       const debuffName = inflict.children('span').children('span').text();
       const debuffChance = inflict.children('span').children('div').text();
+
+      const buffImg = $(el)
+        .children('td')
+        .children('span.i')
+        .children('img')
+        .attr('data-src');
+      const debuffImg2 = $(el)
+        .children('td')
+        .children('span.i')
+        .children('img')
+        .attr('src');
+
+      if (debuffImg2) {
+        weaponDetails.push([debuffImg2, debuffName, debuffChance]);
+        return;
+      }
+      if (buffImg) {
+        weaponDetails.push([buffImg, debuffName]);
+        return;
+      }
+
+      if (!img) {
+        const img = inflict.children('a').children('img').attr('src');
+        weaponDetails.push([img, debuffName, debuffChance]);
+        return;
+      }
+
       weaponDetails.push([img, debuffName, debuffChance]);
       return;
     }
@@ -71,6 +98,17 @@ async function scrapeData(url, id) {
         .children('a')
         .children('img')
         .attr('data-src');
+
+      if (!rarity) {
+        const rarity = $(el)
+          .children('td')
+          .children('a')
+          .children('img')
+          .attr('src');
+
+        weaponDetails.push([label, rarity]);
+        return;
+      }
       weaponDetails.push([label, rarity]);
       return;
     }
@@ -115,6 +153,11 @@ async function scrapeData(url, id) {
           craftingInfoBundle.push(text);
         });
       if (craftingInfoBundle.length) {
+        if (
+          craftingInfoBundle.length === 1 &&
+          !!craftingInfoBundle[0] === false
+        )
+          return;
         craftingIngredients.push(craftingInfoBundle);
       }
     }
@@ -149,6 +192,7 @@ async function saveItemsData() {
     const itemNames = await getItemsNames(pageUrl);
     let i = 0;
     for (const name of itemNames) {
+      console.log(name);
       const itemData = await scrapeData(
         `https://calamitymod.fandom.com/wiki/${name}`,
         id + i
@@ -159,9 +203,10 @@ async function saveItemsData() {
     return theData;
   };
 
-  const getCalamityItems = async (weapons, accessories) => {
+  const getCalamityItems = async weapons => {
     for (const [name, id] of weapons ? weaponUrlNames : accessoriesUrlNames) {
       const pageUrl = `https://calamitymod.fandom.com/wiki/${name}`;
+      // const pageUrl = `https://calamitymod.fandom.com/wiki/Magic_weapons`;
       const data = await getPageItems(pageUrl, id);
       fs.writeFileSync(
         weapons ? `./weapons/${name}.json` : `./accessories/${name}.json`,

@@ -91,7 +91,6 @@ const getArmors = async () => {
         }
       });
   });
-  console.log(armors);
 
   fs.writeFileSync(`./armors/armors.json`, JSON.stringify(armors, null, 2));
 };

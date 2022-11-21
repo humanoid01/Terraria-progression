@@ -358,6 +358,11 @@
     ],
     "craftingIngredients": [
       [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/40/Heaven_Piercer.png",
+        "Heaven Piercer",
+        "1"
+      ],
+      [
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/29/Nano_Purge.png",
         "Nano Purge",
         "1"
@@ -371,11 +376,6 @@
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8d/Auric_Bar.png",
         "Auric Bar",
         "5"
-      ],
-      [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/70/Uelibloom_Bar.png",
-        "Uelibloom Bar",
-        "12"
       ],
       [
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/4b/Divine_Geode.png",
@@ -811,16 +811,9 @@
     ],
     "craftingIngredients": [
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c3/Ruby_Staff.png",
-        "Ruby Staff",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/6f/Amber_Staff.png",
+        "Amber Staff",
         "1"
-      ],
-      [
-        null
-      ],
-      [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b0/Diamond_Staff.png",
-        "Diamond Staff"
       ],
       [
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/5e/Sea_Prism.png",
@@ -828,8 +821,8 @@
         "5"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/1a/Navystone.png",
-        "Navystone",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/29/Sand.gif",
+        "Sand",
         "25"
       ],
       [
@@ -3390,9 +3383,6 @@
         "1"
       ],
       [
-        null
-      ],
-      [
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/84/Cursed_Flames.png",
         "Cursed Flames"
       ],
@@ -4416,7 +4406,7 @@
       ],
       [
         "Rarity",
-        null
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8d/Rarity_color_15.png"
       ],
       [
         "Sell",
@@ -4474,9 +4464,8 @@
         "Aquatic pressure"
       ],
       [
-        null,
-        "Acid Venom",
-        "100% chance"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8a/Venom.png",
+        "Acid Venom"
       ],
       [
         "Debuff duration",
@@ -5669,7 +5658,7 @@
     ],
     "craftingIngredients": [
       [
-        null,
+        "No image available",
         "Any Zapinator",
         "1"
       ],
@@ -7028,9 +7017,6 @@
         "1"
       ],
       [
-        null
-      ],
-      [
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/83/The_Undertaker.png",
         "The Undertaker"
       ],
@@ -7572,7 +7558,7 @@
         "9"
       ],
       [
-        null,
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/53/Rancor_Burn.png/revision/latest?cb=20220317222006&format=original",
         "Rancor Burn",
         "100% chance"
       ],
@@ -8149,7 +8135,7 @@
         "16"
       ],
       [
-        null,
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e8/Shadowflame.png",
         "Shadowflame",
         "100% chance"
       ],
@@ -8507,7 +8493,7 @@
         "7"
       ],
       [
-        null,
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Frostburn.png",
         "Frostburn",
         "100% chance"
       ],
@@ -8629,7 +8615,7 @@
       ],
       [
         "Rarity",
-        null
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png"
       ],
       [
         "Sell",
@@ -9044,9 +9030,6 @@
         "1"
       ],
       [
-        null
-      ],
-      [
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/85/Tin_Shortsword.png",
         "Tin Shortsword"
       ],
@@ -9240,9 +9223,6 @@
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/82/Night%27s_Ray.png",
         "Night's Ray",
         "1"
-      ],
-      [
-        null
       ],
       [
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/73/Carnage_Ray.png",
@@ -10138,7 +10118,7 @@
       ],
       [
         "Rarity",
-        null
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png"
       ],
       [
         "Sell",

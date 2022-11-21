@@ -625,7 +625,7 @@
       ],
       [
         "Rarity",
-        null
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png"
       ],
       [
         "Sell",
@@ -645,9 +645,9 @@
     ],
     "craftingIngredients": [
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e9/Glaive.png",
-        "Glaive",
-        "1"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9c/Fallen_Star.png",
+        "Fallen Star",
+        "20"
       ],
       [
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Hellstone_Bar.png",
@@ -1816,9 +1816,9 @@
     ],
     "craftingIngredients": [
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/a8/Wulfrum_Knife.png",
-        "Wulfrum Knife",
-        "50"
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/5e/Sea_Prism.png",
+        "Sea Prism",
+        "5"
       ],
       [
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/ea/Diamond.png",
@@ -1826,8 +1826,8 @@
         "3"
       ],
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9c/Fallen_Star.png",
-        "Fallen Star",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a5/Topaz.png",
+        "Topaz",
         "3"
       ],
       [
@@ -1895,7 +1895,7 @@
   {
     "id": 4029,
     "itemName": "Deck of Souls",
-    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d5/Deck_of_Souls.png",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/dc/Fantasy_Talisman.png",
     "itemSpecs": [
       [
         "Type",
@@ -1958,7 +1958,7 @@
         "5"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d5/Deck_of_Souls.png",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/dc/Fantasy_Talisman.png",
         "Deck of Souls",
         "1"
       ]
@@ -2785,9 +2785,6 @@
         "100"
       ],
       [
-        null
-      ],
-      [
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/19/Lead_Tomahawk.png",
         "Lead Tomahawk"
       ],
@@ -2797,7 +2794,7 @@
         "5"
       ],
       [
-        null,
+        "Image not available",
         "Conquest Fragment",
         "5"
       ],
@@ -3116,6 +3113,84 @@
   },
   {
     "id": 4046,
+    "itemName": "Exodimus",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/62/Exodimus.png",
+    "itemSpecs": [
+      [
+        "Type",
+        "Weapon"
+      ],
+      [
+        "Damage",
+        "426 Rogue"
+      ],
+      [
+        "Knockback",
+        "8 (Very Strong)"
+      ],
+      [
+        "Critical chance",
+        "4%"
+      ],
+      [
+        "Use time",
+        "10 Very Fast"
+      ],
+      [
+        "Velocity",
+        "64"
+      ],
+      [
+        "Rarity",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8d/Rarity_color_15.png"
+      ],
+      [
+        "Sell",
+        "      40  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
+      ]
+    ],
+    "craftingStations": [
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/38/Draedon%27s_Forge.png",
+        "Draedon's Forge"
+      ]
+    ],
+    "craftingIngredients": [
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/da/Seraphim.png",
+        "Seraphim",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/04/Jaws_of_Oblivion.png",
+        "Jaws of Oblivion",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e2/Stellar_Knife.png",
+        "Stellar Knife",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/06/Shinobi_Blade.png",
+        "Shinobi Blade",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/ec/Miracle_Matter.png",
+        "Miracle Matter",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/62/Exodimus.png",
+        "Exodimus",
+        "1"
+      ]
+    ]
+  },
+  {
+    "id": 4047,
     "itemName": "Exorcism",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/78/Exorcism.png",
     "itemSpecs": [
@@ -3197,7 +3272,49 @@
     ]
   },
   {
-    "id": 4047,
+    "id": 4048,
+    "itemName": "Fantasy Talisman",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/dc/Fantasy_Talisman.png",
+    "itemSpecs": [
+      [
+        "Type",
+        "Weapon – Crafting material"
+      ],
+      [
+        "Damage",
+        "93 Rogue"
+      ],
+      [
+        "Knockback",
+        "6 (Average)"
+      ],
+      [
+        "Critical chance",
+        "4%"
+      ],
+      [
+        "Use time",
+        "15 Very Fast"
+      ],
+      [
+        "Velocity",
+        "18"
+      ],
+      [
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Rarity_color_7.png"
+      ],
+      [
+        "Sell",
+        "      12  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png"
+      ]
+    ],
+    "craftingStations": [],
+    "craftingIngredients": []
+  },
+  {
+    "id": 4049,
     "itemName": "Feather Knife",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/0f/Feather_Knife.png",
     "itemSpecs": [
@@ -3255,7 +3372,7 @@
     ]
   },
   {
-    "id": 4048,
+    "id": 4050,
     "itemName": "Fishbone Boomerang",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c5/Fishbone_Boomerang.png",
     "itemSpecs": [
@@ -3297,7 +3414,7 @@
     "craftingIngredients": []
   },
   {
-    "id": 4049,
+    "id": 4051,
     "itemName": "Frequency Manipulator",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/f9/Frequency_Manipulator.png",
     "itemSpecs": [
@@ -3374,7 +3491,7 @@
     ]
   },
   {
-    "id": 4050,
+    "id": 4052,
     "itemName": "Frostcrush Valari",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/f9/Frostcrush_Valari.png",
     "itemSpecs": [
@@ -3486,7 +3603,7 @@
     ]
   },
   {
-    "id": 4051,
+    "id": 4053,
     "itemName": "Frosty Flare",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/db/Frosty_Flare.png",
     "itemSpecs": [
@@ -3553,7 +3670,7 @@
     "craftingIngredients": []
   },
   {
-    "id": 4052,
+    "id": 4054,
     "itemName": "Gacruxian Mollusk",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e8/Gacruxian_Mollusk.png",
     "itemSpecs": [
@@ -3595,7 +3712,7 @@
     "craftingIngredients": []
   },
   {
-    "id": 4053,
+    "id": 4055,
     "itemName": "Gel Dart",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8e/Gel_Dart.png",
     "itemSpecs": [
@@ -3662,7 +3779,7 @@
     "craftingIngredients": []
   },
   {
-    "id": 4054,
+    "id": 4056,
     "itemName": "Ghoulish Gouger",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8e/Ghoulish_Gouger.png",
     "itemSpecs": [
@@ -3704,7 +3821,7 @@
     "craftingIngredients": []
   },
   {
-    "id": 4055,
+    "id": 4057,
     "itemName": "Gilded Dagger",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/25/Gilded_Dagger.png",
     "itemSpecs": [
@@ -3759,8 +3876,8 @@
         "12"
       ],
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d1/Throwing_Knife.png",
-        "Throwing Knife",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/a8/Wulfrum_Knife.png",
+        "Wulfrum Knife",
         "250"
       ],
       [
@@ -3771,7 +3888,7 @@
     ]
   },
   {
-    "id": 4056,
+    "id": 4058,
     "itemName": "Glaive",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e9/Glaive.png",
     "itemSpecs": [
@@ -3801,7 +3918,7 @@
       ],
       [
         "Rarity",
-        null
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png"
       ],
       [
         "Buy / Sell",
@@ -3812,7 +3929,7 @@
     "craftingIngredients": []
   },
   {
-    "id": 4057,
+    "id": 4059,
     "itemName": "Gleaming Dagger",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/62/Gleaming_Dagger.png",
     "itemSpecs": [
@@ -3867,8 +3984,8 @@
         "12"
       ],
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d1/Throwing_Knife.png",
-        "Throwing Knife",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/a8/Wulfrum_Knife.png",
+        "Wulfrum Knife",
         "250"
       ],
       [
@@ -3879,7 +3996,7 @@
     ]
   },
   {
-    "id": 4058,
+    "id": 4060,
     "itemName": "God's Paranoia",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/58/God%27s_Paranoia.png",
     "itemSpecs": [
@@ -3955,7 +4072,7 @@
     ]
   },
   {
-    "id": 4059,
+    "id": 4061,
     "itemName": "Grave Grimreaver",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/63/Grave_Grimreaver.png",
     "itemSpecs": [
@@ -3997,7 +4114,7 @@
     "craftingIngredients": []
   },
   {
-    "id": 4060,
+    "id": 4062,
     "itemName": "Hardened Honeycomb",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/81/Hardened_Honeycomb.png",
     "itemSpecs": [
@@ -4081,7 +4198,7 @@
     ]
   },
   {
-    "id": 4061,
+    "id": 4063,
     "itemName": "Heavenfallen Stardisk",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/12/Heavenfallen_Stardisk.png",
     "itemSpecs": [
@@ -4136,7 +4253,7 @@
     "craftingIngredients": []
   },
   {
-    "id": 4062,
+    "id": 4064,
     "itemName": "Hell's Sun",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/48/Hell%27s_Sun.png",
     "itemSpecs": [
@@ -4212,7 +4329,7 @@
     ]
   },
   {
-    "id": 4063,
+    "id": 4065,
     "itemName": "Hypothermia",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/80/Hypothermia.png",
     "itemSpecs": [
@@ -4298,7 +4415,7 @@
     ]
   },
   {
-    "id": 4064,
+    "id": 4066,
     "itemName": "Ice Star",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/9e/Ice_Star.png",
     "itemSpecs": [
@@ -4352,7 +4469,7 @@
     "craftingIngredients": []
   },
   {
-    "id": 4065,
+    "id": 4067,
     "itemName": "Icebreaker",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/eb/Icebreaker.png",
     "itemSpecs": [
@@ -4381,7 +4498,7 @@
         "16"
       ],
       [
-        null,
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Frostburn.png",
         "Frostburn",
         "100% chance"
       ],
@@ -4433,7 +4550,7 @@
     "craftingIngredients": []
   },
   {
-    "id": 4066,
+    "id": 4068,
     "itemName": "Ichor Spear",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/42/Ichor_Spear.png",
     "itemSpecs": [
@@ -4488,7 +4605,7 @@
     "craftingIngredients": []
   },
   {
-    "id": 4067,
+    "id": 4069,
     "itemName": "Infernal Kris",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/21/Infernal_Kris.png",
     "itemSpecs": [
@@ -4568,7 +4685,7 @@
     ]
   },
   {
-    "id": 4068,
+    "id": 4070,
     "itemName": "Infested Clawmerang",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e9/Infested_Clawmerang.png",
     "itemSpecs": [
@@ -4622,7 +4739,7 @@
     "craftingIngredients": []
   },
   {
-    "id": 4069,
+    "id": 4071,
     "itemName": "Iron Francisca",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/29/Iron_Francisca.png",
     "itemSpecs": [
@@ -4689,7 +4806,7 @@
     ]
   },
   {
-    "id": 4070,
+    "id": 4072,
     "itemName": "Jaws of Oblivion",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/04/Jaws_of_Oblivion.png",
     "itemSpecs": [
@@ -4758,11 +4875,44 @@
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/04/Jaws_of_Oblivion.png",
         "Jaws of Oblivion",
         "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/38/Draedon%27s_Forge.png"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/da/Seraphim.png",
+        "Seraphim",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/04/Jaws_of_Oblivion.png",
+        "Jaws of Oblivion",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e2/Stellar_Knife.png",
+        "Stellar Knife",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/06/Shinobi_Blade.png",
+        "Shinobi Blade",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/ec/Miracle_Matter.png",
+        "Miracle Matter",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/62/Exodimus.png",
+        "Exodimus",
+        "1"
       ]
     ]
   },
   {
-    "id": 4071,
+    "id": 4073,
     "itemName": "Kelvin Catalyst",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/95/Kelvin_Catalyst.png",
     "itemSpecs": [
@@ -4863,7 +5013,7 @@
     ]
   },
   {
-    "id": 4072,
+    "id": 4074,
     "itemName": "Kylie",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/96/Kylie.png",
     "itemSpecs": [
@@ -4893,7 +5043,7 @@
       ],
       [
         "Rarity",
-        null
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png"
       ],
       [
         "Buy / Sell",
@@ -4904,7 +5054,7 @@
     "craftingIngredients": []
   },
   {
-    "id": 4073,
+    "id": 4075,
     "itemName": "Latcher Mine",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/48/Latcher_Mine.png",
     "itemSpecs": [
@@ -4958,7 +5108,7 @@
     "craftingIngredients": []
   },
   {
-    "id": 4074,
+    "id": 4076,
     "itemName": "Lead Tomahawk",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/19/Lead_Tomahawk.png",
     "itemSpecs": [
@@ -5025,7 +5175,7 @@
     ]
   },
   {
-    "id": 4075,
+    "id": 4077,
     "itemName": "Leonid Progenitor",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c0/Leonid_Progenitor.png",
     "itemSpecs": [
@@ -5093,7 +5243,7 @@
     "craftingIngredients": []
   },
   {
-    "id": 4076,
+    "id": 4078,
     "itemName": "Leviathan Teeth",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/fb/Leviathan_Teeth.png",
     "itemSpecs": [
@@ -5148,7 +5298,7 @@
     "craftingIngredients": []
   },
   {
-    "id": 4077,
+    "id": 4079,
     "itemName": "Lionfish",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/bb/Lionfish.png",
     "itemSpecs": [
@@ -5203,7 +5353,7 @@
     "craftingIngredients": []
   },
   {
-    "id": 4078,
+    "id": 4080,
     "itemName": "Luminous Striker",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/61/Luminous_Striker.png",
     "itemSpecs": [
@@ -5281,7 +5431,7 @@
     ]
   },
   {
-    "id": 4079,
+    "id": 4081,
     "itemName": "Lunar Kunai",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/2a/Lunar_Kunai.png",
     "itemSpecs": [
@@ -5339,7 +5489,7 @@
     ]
   },
   {
-    "id": 4080,
+    "id": 4082,
     "itemName": "Malachite",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/ad/Malachite.png",
     "itemSpecs": [
@@ -5381,7 +5531,7 @@
     "craftingIngredients": []
   },
   {
-    "id": 4081,
+    "id": 4083,
     "itemName": "Mangrove Chakram",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/9d/Mangrove_Chakram.png",
     "itemSpecs": [
@@ -5456,7 +5606,7 @@
     ]
   },
   {
-    "id": 4082,
+    "id": 4084,
     "itemName": "Metal Monstrosity",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/46/Metal_Monstrosity.png",
     "itemSpecs": [
@@ -5556,7 +5706,7 @@
     ]
   },
   {
-    "id": 4083,
+    "id": 4085,
     "itemName": "Meteor Fist",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8a/Meteor_Fist.png",
     "itemSpecs": [
@@ -5631,7 +5781,7 @@
     ]
   },
   {
-    "id": 4084,
+    "id": 4086,
     "itemName": "Molten Amputator",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/7d/Molten_Amputator.png",
     "itemSpecs": [
@@ -5673,7 +5823,7 @@
     "craftingIngredients": []
   },
   {
-    "id": 4085,
+    "id": 4087,
     "itemName": "Monkey Darts",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/ef/Monkey_Darts.png",
     "itemSpecs": [
@@ -5714,7 +5864,7 @@
     "craftingIngredients": []
   },
   {
-    "id": 4086,
+    "id": 4088,
     "itemName": "Mycoroot",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/5a/Mycoroot.png",
     "itemSpecs": [
@@ -5756,7 +5906,7 @@
     "craftingIngredients": []
   },
   {
-    "id": 4087,
+    "id": 4089,
     "itemName": "Mythril Knife",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/7e/Mythril_Knife.png",
     "itemSpecs": [
@@ -5818,7 +5968,7 @@
     ]
   },
   {
-    "id": 4088,
+    "id": 4090,
     "itemName": "Nanoblack Reaper",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/41/Nanoblack_Reaper.png",
     "itemSpecs": [
@@ -5901,7 +6051,7 @@
     ]
   },
   {
-    "id": 4089,
+    "id": 4091,
     "itemName": "Nasty Cholla",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/a6/Nasty_Cholla.png",
     "itemSpecs": [
@@ -5959,7 +6109,7 @@
     ]
   },
   {
-    "id": 4090,
+    "id": 4092,
     "itemName": "Night's Gaze",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/79/Night%27s_Gaze.png",
     "itemSpecs": [
@@ -6045,7 +6195,7 @@
     ]
   },
   {
-    "id": 4091,
+    "id": 4093,
     "itemName": "Nychthemeron",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/5b/Nychthemeron.png",
     "itemSpecs": [
@@ -6122,7 +6272,7 @@
     ]
   },
   {
-    "id": 4092,
+    "id": 4094,
     "itemName": "Orichalcum Spiked Gemstone",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/bd/Orichalcum_Spiked_Gemstone.png",
     "itemSpecs": [
@@ -6184,7 +6334,7 @@
     ]
   },
   {
-    "id": 4093,
+    "id": 4095,
     "itemName": "Palladium Javelin",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/45/Palladium_Javelin.png",
     "itemSpecs": [
@@ -6246,7 +6396,7 @@
     ]
   },
   {
-    "id": 4094,
+    "id": 4096,
     "itemName": "Penumbra",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/93/Penumbra.png",
     "itemSpecs": [
@@ -6314,7 +6464,7 @@
     ]
   },
   {
-    "id": 4095,
+    "id": 4097,
     "itemName": "Phantasmal Ruin",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/66/Phantasmal_Ruin.png",
     "itemSpecs": [
@@ -6387,7 +6537,7 @@
     ]
   },
   {
-    "id": 4096,
+    "id": 4098,
     "itemName": "Phantom Lance",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/b1/Phantom_Lance.png",
     "itemSpecs": [
@@ -6459,7 +6609,7 @@
     ]
   },
   {
-    "id": 4097,
+    "id": 4099,
     "itemName": "Plaguenade",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/a4/Plaguenade.png",
     "itemSpecs": [
@@ -6539,7 +6689,7 @@
     ]
   },
   {
-    "id": 4098,
+    "id": 4100,
     "itemName": "Poison Pack",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/3f/Poison_Pack.png",
     "itemSpecs": [
@@ -6568,7 +6718,7 @@
         "7"
       ],
       [
-        null,
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/11/Poisoned.png",
         "Poisoned",
         "100% chance"
       ],
@@ -6619,7 +6769,7 @@
     ]
   },
   {
-    "id": 4099,
+    "id": 4101,
     "itemName": "Prismalline",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/a0/Prismalline.png",
     "itemSpecs": [
@@ -6704,7 +6854,95 @@
     ]
   },
   {
-    "id": 4100,
+    "id": 4102,
+    "itemName": "Profaned Nucleus",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/30/Profaned_Nucleus.png",
+    "itemSpecs": [
+      [
+        "Type",
+        "Weapon"
+      ],
+      [
+        "Damage",
+        "367 Rogue"
+      ],
+      [
+        "Knockback",
+        "10 (Extremely Strong)"
+      ],
+      [
+        "Critical chance",
+        "4%"
+      ],
+      [
+        "Use time",
+        "14 Very Fast"
+      ],
+      [
+        "Velocity",
+        "20"
+      ],
+      [
+        "Rarity",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/ec/Rarity_color_12.png"
+      ],
+      [
+        "Sell",
+        "      16  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
+      ]
+    ],
+    "craftingStations": [
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/38/Draedon%27s_Forge.png",
+        "Draedon's Forge"
+      ]
+    ],
+    "craftingIngredients": [
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/b5/Totality_Breakers.png",
+        "Totality Breakers",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/42/Ballistic_Poison_Bomb.png",
+        "Ballistic Poison Bomb",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e1/Shock_Grenade.png",
+        "Shock Grenade",
+        "200"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/30/Profaned_Nucleus.png",
+        "Profaned Nucleus",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/db/Star_of_Destruction.png",
+        "Star of Destruction",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/93/Penumbra.png",
+        "Penumbra",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/ec/Miracle_Matter.png",
+        "Miracle Matter",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/30/Supernova.png",
+        "Supernova",
+        "1"
+      ]
+    ]
+  },
+  {
+    "id": 4103,
     "itemName": "Profaned Partisan",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/3f/Profaned_Partisan.png",
     "itemSpecs": [
@@ -6790,7 +7028,7 @@
     ]
   },
   {
-    "id": 4101,
+    "id": 4104,
     "itemName": "Quasar",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/3e/Quasar.png",
     "itemSpecs": [
@@ -6845,7 +7083,7 @@
     "craftingIngredients": []
   },
   {
-    "id": 4102,
+    "id": 4105,
     "itemName": "Radiant Star",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/99/Radiant_Star.png",
     "itemSpecs": [
@@ -6931,7 +7169,7 @@
     ]
   },
   {
-    "id": 4103,
+    "id": 4106,
     "itemName": "Refraction Rotor",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/dc/Refraction_Rotor.png",
     "itemSpecs": [
@@ -6973,7 +7211,7 @@
     "craftingIngredients": []
   },
   {
-    "id": 4104,
+    "id": 4107,
     "itemName": "Regulus Riot",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/cd/Regulus_Riot.png",
     "itemSpecs": [
@@ -7028,7 +7266,7 @@
     "craftingIngredients": []
   },
   {
-    "id": 4105,
+    "id": 4108,
     "itemName": "Rot Ball",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/17/Rot_Ball.png",
     "itemSpecs": [
@@ -7113,7 +7351,7 @@
     ]
   },
   {
-    "id": 4106,
+    "id": 4109,
     "itemName": "Sacrifice",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/18/Sacrifice.png",
     "itemSpecs": [
@@ -7155,7 +7393,7 @@
     "craftingIngredients": []
   },
   {
-    "id": 4107,
+    "id": 4110,
     "itemName": "Sand Dollar",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/53/Sand_Dollar.png",
     "itemSpecs": [
@@ -7196,7 +7434,7 @@
     "craftingIngredients": []
   },
   {
-    "id": 4108,
+    "id": 4111,
     "itemName": "Sandslasher",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d3/Sandslasher.png",
     "itemSpecs": [
@@ -7238,7 +7476,7 @@
     "craftingIngredients": []
   },
   {
-    "id": 4109,
+    "id": 4112,
     "itemName": "Scarlet Devil",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/23/Scarlet_Devil.png",
     "itemSpecs": [
@@ -7316,7 +7554,7 @@
     ]
   },
   {
-    "id": 4110,
+    "id": 4113,
     "itemName": "Scourge of the Desert",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/87/Scourge_of_the_Desert.png",
     "itemSpecs": [
@@ -7358,7 +7596,7 @@
     "craftingIngredients": []
   },
   {
-    "id": 4111,
+    "id": 4114,
     "itemName": "Scourge of the Seas",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c0/Scourge_of_the_Seas.png",
     "itemSpecs": [
@@ -7426,7 +7664,7 @@
     "craftingIngredients": []
   },
   {
-    "id": 4112,
+    "id": 4115,
     "itemName": "Seafoam Bomb",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/31/Seafoam_Bomb.png",
     "itemSpecs": [
@@ -7493,7 +7731,7 @@
     ]
   },
   {
-    "id": 4113,
+    "id": 4116,
     "itemName": "Sealed Singularity",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/33/Sealed_Singularity.png",
     "itemSpecs": [
@@ -7556,7 +7794,7 @@
     ]
   },
   {
-    "id": 4114,
+    "id": 4117,
     "itemName": "Seared Pan",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/a9/Seared_Pan.png",
     "itemSpecs": [
@@ -7665,7 +7903,7 @@
     ]
   },
   {
-    "id": 4115,
+    "id": 4118,
     "itemName": "Seashell Boomerang",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d9/Seashell_Boomerang.png",
     "itemSpecs": [
@@ -7695,7 +7933,7 @@
       ],
       [
         "Rarity",
-        null
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png"
       ],
       [
         "Sell",
@@ -7727,7 +7965,7 @@
     ]
   },
   {
-    "id": 4116,
+    "id": 4119,
     "itemName": "Seraphim",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/da/Seraphim.png",
     "itemSpecs": [
@@ -7786,11 +8024,130 @@
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/da/Seraphim.png",
         "Seraphim",
         "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/38/Draedon%27s_Forge.png"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/da/Seraphim.png",
+        "Seraphim",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/04/Jaws_of_Oblivion.png",
+        "Jaws of Oblivion",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e2/Stellar_Knife.png",
+        "Stellar Knife",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/06/Shinobi_Blade.png",
+        "Shinobi Blade",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/ec/Miracle_Matter.png",
+        "Miracle Matter",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/62/Exodimus.png",
+        "Exodimus",
+        "1"
       ]
     ]
   },
   {
-    "id": 4117,
+    "id": 4120,
+    "itemName": "Shadow's Descent",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/42/Shadow%27s_Descent.png",
+    "itemSpecs": [
+      [
+        "Type",
+        "Weapon"
+      ],
+      [
+        "Damage",
+        "212 Rogue"
+      ],
+      [
+        "Knockback",
+        "4 (Weak)"
+      ],
+      [
+        "Critical chance",
+        "4%"
+      ],
+      [
+        "Use time",
+        "19 Very Fast"
+      ],
+      [
+        "Velocity",
+        "5"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e8/Shadowflame.png",
+        "Shadowflame",
+        "100% chance"
+      ],
+      [
+        "Debuff duration",
+        "10 seconds"
+      ],
+      [
+        "Debuff tooltip",
+        "Losing life"
+      ],
+      [
+        "Rarity",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8b/Rarity_color_16.png"
+      ],
+      [
+        "Sell",
+        "      40  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
+      ]
+    ],
+    "craftingStations": [
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/38/Draedon%27s_Forge.png",
+        "Draedon's Forge"
+      ]
+    ],
+    "craftingIngredients": [
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e8/Razorblade_Typhoon.png",
+        "Razorblade Typhoon",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/64/Death_Sickle.png",
+        "Death Sickle",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/43/Ascendant_Spirit_Essence.png",
+        "Ascendant Spirit Essence",
+        "3"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e6/Shadowspec_Bar.png",
+        "Shadowspec Bar",
+        "5"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/42/Shadow%27s_Descent.png",
+        "Shadow's Descent",
+        "1"
+      ]
+    ]
+  },
+  {
+    "id": 4121,
     "itemName": "Shard of Antumbra",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/94/Shard_of_Antumbra.png",
     "itemSpecs": [
@@ -7848,7 +8205,7 @@
     ]
   },
   {
-    "id": 4118,
+    "id": 4122,
     "itemName": "Shattered Sun",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/6b/Shattered_Sun.png",
     "itemSpecs": [
@@ -7924,7 +8281,7 @@
     ]
   },
   {
-    "id": 4119,
+    "id": 4123,
     "itemName": "Shinobi Blade",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/06/Shinobi_Blade.png",
     "itemSpecs": [
@@ -7962,11 +8319,47 @@
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png"
       ]
     ],
-    "craftingStations": [],
-    "craftingIngredients": []
+    "craftingStations": [
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/38/Draedon%27s_Forge.png",
+        "Draedon's Forge"
+      ]
+    ],
+    "craftingIngredients": [
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/da/Seraphim.png",
+        "Seraphim",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/04/Jaws_of_Oblivion.png",
+        "Jaws of Oblivion",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e2/Stellar_Knife.png",
+        "Stellar Knife",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/06/Shinobi_Blade.png",
+        "Shinobi Blade",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/ec/Miracle_Matter.png",
+        "Miracle Matter",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/62/Exodimus.png",
+        "Exodimus",
+        "1"
+      ]
+    ]
   },
   {
-    "id": 4120,
+    "id": 4124,
     "itemName": "Shock Grenade",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e1/Shock_Grenade.png",
     "itemSpecs": [
@@ -8047,7 +8440,61 @@
     ]
   },
   {
-    "id": 4121,
+    "id": 4125,
+    "itemName": "Shroomerang",
+    "itemIcon": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/27/Shroomerang.png",
+    "itemSpecs": [
+      [
+        "Type",
+        "Weapon"
+      ],
+      [
+        "Damage",
+        "18 Rogue"
+      ],
+      [
+        "Knockback",
+        "1.5 (Extremely Weak)"
+      ],
+      [
+        "Critical chance",
+        "4%"
+      ],
+      [
+        "Use time",
+        "19 Very Fast"
+      ],
+      [
+        "Velocity",
+        "15"
+      ],
+      [
+        "Grants Buff",
+        "Mushy"
+      ],
+      [
+        "Buff duration",
+        "12 seconds (Stealth strikes)"
+      ],
+      [
+        "Buff tooltip",
+        "Increased defense and life regen"
+      ],
+      [
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png"
+      ],
+      [
+        "Sell",
+        "      40  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png"
+      ]
+    ],
+    "craftingStations": [],
+    "craftingIngredients": []
+  },
+  {
+    "id": 4126,
     "itemName": "Sky Stabber",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/99/Sky_Stabber.png",
     "itemSpecs": [
@@ -8077,7 +8524,7 @@
       ],
       [
         "Rarity",
-        null
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png"
       ],
       [
         "Sell",
@@ -8115,7 +8562,7 @@
     ]
   },
   {
-    "id": 4122,
+    "id": 4127,
     "itemName": "Skyfin Bombers",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/33/Skyfin_Bombers.png",
     "itemSpecs": [
@@ -8170,7 +8617,7 @@
     "craftingIngredients": []
   },
   {
-    "id": 4123,
+    "id": 4128,
     "itemName": "Slick Cane",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/2b/Slick_Cane.png",
     "itemSpecs": [
@@ -8207,7 +8654,7 @@
     "craftingIngredients": []
   },
   {
-    "id": 4124,
+    "id": 4129,
     "itemName": "Sludge Splotch",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/ef/Sludge_Splotch.png",
     "itemSpecs": [
@@ -8278,7 +8725,7 @@
     ]
   },
   {
-    "id": 4125,
+    "id": 4130,
     "itemName": "Snap Clam",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/5d/Snap_Clam.png",
     "itemSpecs": [
@@ -8307,9 +8754,8 @@
         "12"
       ],
       [
-        null,
-        "Clammed",
-        "100% chance"
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/73/Clammed.png",
+        "Clammed"
       ],
       [
         "Debuff duration",
@@ -8332,7 +8778,7 @@
     "craftingIngredients": []
   },
   {
-    "id": 4126,
+    "id": 4131,
     "itemName": "Spear of Destiny",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/f8/Spear_of_Destiny.png",
     "itemSpecs": [
@@ -8417,7 +8863,7 @@
     ]
   },
   {
-    "id": 4127,
+    "id": 4132,
     "itemName": "Spear of Paleolith",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8b/Spear_of_Paleolith.png",
     "itemSpecs": [
@@ -8497,7 +8943,7 @@
     ]
   },
   {
-    "id": 4128,
+    "id": 4133,
     "itemName": "Spent Fuel Container",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/14/Spent_Fuel_Container.png",
     "itemSpecs": [
@@ -8552,7 +8998,7 @@
     "craftingIngredients": []
   },
   {
-    "id": 4129,
+    "id": 4134,
     "itemName": "Star of Destruction",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/db/Star_of_Destruction.png",
     "itemSpecs": [
@@ -8610,7 +9056,7 @@
     ]
   },
   {
-    "id": 4130,
+    "id": 4135,
     "itemName": "Stellar Knife",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e2/Stellar_Knife.png",
     "itemSpecs": [
@@ -8661,11 +9107,47 @@
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
-    "craftingStations": [],
-    "craftingIngredients": []
+    "craftingStations": [
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/38/Draedon%27s_Forge.png",
+        "Draedon's Forge"
+      ]
+    ],
+    "craftingIngredients": [
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/da/Seraphim.png",
+        "Seraphim",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/04/Jaws_of_Oblivion.png",
+        "Jaws of Oblivion",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e2/Stellar_Knife.png",
+        "Stellar Knife",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/06/Shinobi_Blade.png",
+        "Shinobi Blade",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/ec/Miracle_Matter.png",
+        "Miracle Matter",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/62/Exodimus.png",
+        "Exodimus",
+        "1"
+      ]
+    ]
   },
   {
-    "id": 4131,
+    "id": 4136,
     "itemName": "Sticky Spiky Ball",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/a2/Sticky_Spiky_Ball.png",
     "itemSpecs": [
@@ -8741,7 +9223,7 @@
     ]
   },
   {
-    "id": 4132,
+    "id": 4137,
     "itemName": "Stormfront Razor",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/12/Stormfront_Razor.gif",
     "itemSpecs": [
@@ -8823,7 +9305,7 @@
     ]
   },
   {
-    "id": 4133,
+    "id": 4138,
     "itemName": "Subduction Slicer",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/f5/Subduction_Slicer.png",
     "itemSpecs": [
@@ -8911,7 +9393,7 @@
     ]
   },
   {
-    "id": 4134,
+    "id": 4139,
     "itemName": "Supernova",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/30/Supernova.png",
     "itemSpecs": [
@@ -8972,8 +9454,8 @@
         "200"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/33/Sealed_Singularity.png",
-        "Sealed Singularity",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/30/Profaned_Nucleus.png",
+        "Profaned Nucleus",
         "1"
       ],
       [
@@ -8999,7 +9481,7 @@
     ]
   },
   {
-    "id": 4135,
+    "id": 4140,
     "itemName": "Sylvan Slasher",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/1f/Sylvan_Slasher.png",
     "itemSpecs": [
@@ -9040,7 +9522,7 @@
     "craftingIngredients": []
   },
   {
-    "id": 4136,
+    "id": 4141,
     "itemName": "System Bane",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e1/System_Bane.png",
     "itemSpecs": [
@@ -9117,7 +9599,7 @@
     ]
   },
   {
-    "id": 4137,
+    "id": 4142,
     "itemName": "Tarragon Throwing Dart",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/93/Tarragon_Throwing_Dart.png",
     "itemSpecs": [
@@ -9175,7 +9657,7 @@
     ]
   },
   {
-    "id": 4138,
+    "id": 4143,
     "itemName": "Terra Disk",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/a8/Terra_Disk.png",
     "itemSpecs": [
@@ -9252,7 +9734,7 @@
     ]
   },
   {
-    "id": 4139,
+    "id": 4144,
     "itemName": "Terror Talons",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/7a/Terror_Talons.png",
     "itemSpecs": [
@@ -9324,7 +9806,7 @@
     ]
   },
   {
-    "id": 4140,
+    "id": 4145,
     "itemName": "The Atom Splitter",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/f4/The_Atom_Splitter.png",
     "itemSpecs": [
@@ -9366,7 +9848,7 @@
     "craftingIngredients": []
   },
   {
-    "id": 4141,
+    "id": 4146,
     "itemName": "The Final Dawn",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/0d/The_Final_Dawn.png",
     "itemSpecs": [
@@ -9421,7 +9903,7 @@
     "craftingIngredients": []
   },
   {
-    "id": 4142,
+    "id": 4147,
     "itemName": "The Reaper",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c9/The_Reaper.png",
     "itemSpecs": [
@@ -9476,7 +9958,7 @@
     "craftingIngredients": []
   },
   {
-    "id": 4143,
+    "id": 4148,
     "itemName": "The Syringe",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/90/The_Syringe.png",
     "itemSpecs": [
@@ -9531,7 +10013,7 @@
     "craftingIngredients": []
   },
   {
-    "id": 4144,
+    "id": 4149,
     "itemName": "Throwing Brick",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/a0/Throwing_Brick.png",
     "itemSpecs": [
@@ -9593,7 +10075,7 @@
     ]
   },
   {
-    "id": 4145,
+    "id": 4150,
     "itemName": "Time Bolt",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c9/Time_Bolt.png",
     "itemSpecs": [
@@ -9622,9 +10104,8 @@
         "16"
       ],
       [
-        null,
-        "Time Distortion",
-        "100% chance"
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e6/Time_Distortion.png",
+        "Time Distortion"
       ],
       [
         "Debuff duration",
@@ -9679,7 +10160,7 @@
     ]
   },
   {
-    "id": 4146,
+    "id": 4151,
     "itemName": "Titanium Shuriken",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c2/Titanium_Shuriken.png",
     "itemSpecs": [
@@ -9741,7 +10222,7 @@
     ]
   },
   {
-    "id": 4147,
+    "id": 4152,
     "itemName": "Tooth Ball",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/af/Tooth_Ball.png",
     "itemSpecs": [
@@ -9826,7 +10307,7 @@
     ]
   },
   {
-    "id": 4148,
+    "id": 4153,
     "itemName": "Totality Breakers",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/b5/Totality_Breakers.png",
     "itemSpecs": [
@@ -9934,7 +10415,7 @@
     ]
   },
   {
-    "id": 4149,
+    "id": 4154,
     "itemName": "Toxicant Twister",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/ff/Toxicant_Twister.png",
     "itemSpecs": [
@@ -9989,7 +10470,7 @@
     "craftingIngredients": []
   },
   {
-    "id": 4150,
+    "id": 4155,
     "itemName": "Tracking Disk",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/4f/Tracking_Disk.png",
     "itemSpecs": [
@@ -10066,7 +10547,7 @@
     ]
   },
   {
-    "id": 4151,
+    "id": 4156,
     "itemName": "Turbulance",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/78/Turbulance.png",
     "itemSpecs": [
@@ -10134,7 +10615,7 @@
     ]
   },
   {
-    "id": 4152,
+    "id": 4157,
     "itemName": "Urchin Stinger",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/a1/Urchin_Stinger.png",
     "itemSpecs": [
@@ -10189,7 +10670,7 @@
     "craftingIngredients": []
   },
   {
-    "id": 4153,
+    "id": 4158,
     "itemName": "Utensil Poker",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/b8/Utensil_Poker.png",
     "itemSpecs": [
@@ -10269,7 +10750,7 @@
     "craftingIngredients": []
   },
   {
-    "id": 4154,
+    "id": 4159,
     "itemName": "Valediction",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/fb/Valediction.png",
     "itemSpecs": [
@@ -10337,7 +10818,7 @@
     "craftingIngredients": []
   },
   {
-    "id": 4155,
+    "id": 4160,
     "itemName": "Wave Pounder",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/0f/Wave_Pounder.png",
     "itemSpecs": [
@@ -10410,7 +10891,7 @@
     ]
   },
   {
-    "id": 4156,
+    "id": 4161,
     "itemName": "Wave Skipper",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/82/Wave_Skipper.png",
     "itemSpecs": [
@@ -10487,7 +10968,7 @@
     ]
   },
   {
-    "id": 4157,
+    "id": 4162,
     "itemName": "Web Ball",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/4c/Web_Ball.png",
     "itemSpecs": [
@@ -10553,7 +11034,7 @@
     ]
   },
   {
-    "id": 4158,
+    "id": 4163,
     "itemName": "Wrathwing",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/30/Wrathwing.png",
     "itemSpecs": [
@@ -10608,7 +11089,7 @@
     "craftingIngredients": []
   },
   {
-    "id": 4159,
+    "id": 4164,
     "itemName": "Wulfrum Knife",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/a8/Wulfrum_Knife.png",
     "itemSpecs": [

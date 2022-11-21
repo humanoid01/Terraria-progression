@@ -44,7 +44,7 @@
         "Accessory – Crafting material"
       ],
       [
-        null,
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/a5/Abyssal_Evade_Cooldown.png",
         "Abyssal Evade Cooldown",
         "100% chance"
       ],
@@ -137,7 +137,7 @@
         "Accessory – Crafting material"
       ],
       [
-        null,
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/68/Confused.png",
         "Confused",
         ""
       ],
@@ -181,11 +181,6 @@
         "1"
       ],
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e9/Soul_of_Night.png",
-        "Soul of Night",
-        "3"
-      ],
-      [
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/50/Amalgamated_Brain.png",
         "Amalgamated Brain",
         "1"
@@ -202,7 +197,7 @@
         "Accessory"
       ],
       [
-        null,
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/f9/Eutrophication.png",
         "Eutrophication",
         "100% chance"
       ],
@@ -300,7 +295,7 @@
         "Increased health regen and minions inflict Banishing Fire"
       ],
       [
-        null,
+        "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
         "Divine Recharge",
         "100% (After blessing usage) chance"
       ],
@@ -313,7 +308,7 @@
         "Your divine powers are recharging"
       ],
       [
-        null,
+        "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
         "Banishing Fire",
         "100% chance"
       ],
@@ -395,7 +390,7 @@
       ],
       [
         "Rarity",
-        null
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8f/Rarity_color_10.png"
       ],
       [
         "Sell",
@@ -476,7 +471,7 @@
       ],
       [
         "Rarity",
-        null
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/ec/Rarity_color_12.png"
       ],
       [
         "Sell",
@@ -634,11 +629,6 @@
         "1"
       ],
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e9/Soul_of_Night.png",
-        "Soul of Night",
-        "3"
-      ],
-      [
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/cc/Bloody_Worm_Scarf.png",
         "Bloody Worm Scarf",
         "1"
@@ -656,7 +646,7 @@
       ],
       [
         "Rarity",
-        null
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png"
       ],
       [
         "Sell",
@@ -677,7 +667,7 @@
         "Accessory"
       ],
       [
-        null,
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/56/Electrified.png",
         "Electrified",
         "100% chance"
       ],
@@ -733,7 +723,7 @@
         "Accessory"
       ],
       [
-        null,
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/b4/Vulnerability_Hex.png",
         "Vulnerability Hex",
         "100% chance"
       ],
@@ -863,9 +853,6 @@
         "1"
       ],
       [
-        null
-      ],
-      [
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/36/Shattered_Community.png",
         "Shattered Community"
       ],
@@ -906,7 +893,7 @@
         "Accessory"
       ],
       [
-        null,
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/28/Mana_Burn.png",
         "Mana Burn",
         ""
       ],
@@ -989,7 +976,7 @@
       ],
       [
         "Rarity",
-        null
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png"
       ],
       [
         "Sell",
@@ -1009,14 +996,14 @@
     ],
     "craftingIngredients": [
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/35/Any_Gold_Bar.gif",
-        "Any Gold Bar",
-        "4"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png",
+        "Gold Coin",
+        "10"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/a7/Any_Copper_Bar.gif",
-        "Any Copper Bar",
-        "8"
+        "No image available",
+        "Any Silver Bar",
+        "5"
       ],
       [
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/eb/Acidwood.png",
@@ -1044,7 +1031,7 @@
         "4"
       ],
       [
-        null,
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8a/Venom.png",
         "Venom",
         "100% chance"
       ],
@@ -1092,7 +1079,7 @@
         "Accessory – Crafting material"
       ],
       [
-        null,
+        "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
         "Scarf Cooldown",
         ""
       ],
@@ -1226,7 +1213,7 @@
       ],
       [
         "Rarity",
-        null
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c2/Rarity_color_9.png"
       ],
       [
         "Sell",
@@ -1278,7 +1265,7 @@
       ],
       [
         "Rarity",
-        null
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e7/Rarity_color_14.png"
       ],
       [
         "Sell",
@@ -1364,7 +1351,7 @@
       ],
       [
         "Rarity",
-        null
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png"
       ],
       [
         "Sell",
@@ -1411,7 +1398,7 @@
       ],
       [
         "Rarity",
-        null
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e7/Rarity_color_14.png"
       ],
       [
         "Sell",
@@ -1463,7 +1450,7 @@
       ],
       [
         "Rarity",
-        null
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8d/Rarity_color_15.png"
       ],
       [
         "Sell",
@@ -1579,9 +1566,6 @@
         "1"
       ],
       [
-        null
-      ],
-      [
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/36/Shattered_Community.png",
         "Shattered Community"
       ],
@@ -1623,7 +1607,7 @@
       ],
       [
         "Rarity",
-        null
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8d/Rarity_color_15.png"
       ],
       [
         "Buy / Sell",
@@ -1715,7 +1699,7 @@
       ],
       [
         "Rarity",
-        null
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/96/Rarity_color_11.png"
       ],
       [
         "Sell",
@@ -1736,7 +1720,7 @@
         "Accessory"
       ],
       [
-        null,
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/ba/Eclipse_Evade_Cooldown.png",
         "Eclipse Evade Cooldown",
         "100% chance"
       ],
@@ -1866,7 +1850,7 @@
       ],
       [
         "Rarity",
-        null
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/96/Rarity_color_11.png"
       ],
       [
         "Sell",
@@ -1941,9 +1925,6 @@
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/27/Bloodstained_Glove.png",
         "Bloodstained Glove",
         "1"
-      ],
-      [
-        null
       ],
       [
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/98/Filthy_Glove.png",
@@ -2107,7 +2088,7 @@
       ],
       [
         "Rarity",
-        null
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e7/Rarity_color_14.png"
       ],
       [
         "Sell",
@@ -2198,7 +2179,7 @@
       ],
       [
         "Rarity",
-        null
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png"
       ],
       [
         "Buy / Sell",
@@ -2290,7 +2271,7 @@
       ],
       [
         "Rarity",
-        null
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e7/Rarity_color_14.png"
       ],
       [
         "Sell",
@@ -2311,7 +2292,7 @@
         "1"
       ],
       [
-        null,
+        "No image available",
         "Any Mana Flowers",
         "1"
       ],
@@ -2385,7 +2366,7 @@
         "Accessory"
       ],
       [
-        null,
+        "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
         "Evasion Scarf Cooldown",
         ""
       ],
@@ -2505,9 +2486,6 @@
         "1"
       ],
       [
-        null
-      ],
-      [
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/66/Platinum_Crown.png",
         "Platinum Crown"
       ],
@@ -2590,7 +2568,7 @@
         "Accessory – Crafting material"
       ],
       [
-        null,
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Frostburn.png",
         "Frostburn",
         "100% chance"
       ],
@@ -2626,7 +2604,7 @@
       ],
       [
         "Rarity",
-        null
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png"
       ],
       [
         "Sell",
@@ -2692,6 +2670,16 @@
         "1"
       ],
       [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/5c/Blunder_Booster.png",
+        "Blunder Booster",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c1/Nebulous_Core.png",
+        "Nebulous Core",
+        "1"
+      ],
+      [
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/ec/Miracle_Matter.png",
         "Miracle Matter",
         "1"
@@ -2713,7 +2701,7 @@
         "Accessory – Crafting material"
       ],
       [
-        null,
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/71/Brimstone_Flames.png",
         "Brimstone Flames",
         "100% chance"
       ],
@@ -3149,7 +3137,7 @@
         "Accessory – Crafting material"
       ],
       [
-        null,
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/da/Ink_Bomb_Cooldown.png",
         "Ink Bomb Cooldown",
         "100% chance"
       ],
@@ -3197,7 +3185,7 @@
         "Accessory – Crafting material"
       ],
       [
-        null,
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/56/Electrified.png",
         "Electrified",
         "20% chance"
       ],
@@ -3271,7 +3259,7 @@
         "20"
       ],
       [
-        null,
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/11/Poisoned.png",
         "Poisoned",
         "100% chance"
       ],
@@ -3458,7 +3446,7 @@
       ],
       [
         "Rarity",
-        null
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png"
       ],
       [
         "Sell",
@@ -3710,9 +3698,6 @@
         "1"
       ],
       [
-        null
-      ],
-      [
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/36/Shattered_Community.png",
         "Shattered Community"
       ],
@@ -3754,7 +3739,7 @@
       ],
       [
         "Rarity",
-        null
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png"
       ],
       [
         "Sell",
@@ -3776,7 +3761,7 @@
       ],
       [
         "Rarity",
-        null
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png"
       ],
       [
         "Sell",
@@ -3795,9 +3780,6 @@
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1d/Magic_Mirror.png",
         "Magic Mirror",
         "1"
-      ],
-      [
-        null
       ],
       [
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/de/Ice_Mirror.png",
@@ -3879,7 +3861,7 @@
       ],
       [
         "Rarity",
-        null
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e7/Rarity_color_14.png"
       ],
       [
         "Sell",
@@ -4038,9 +4020,6 @@
         "1"
       ],
       [
-        null
-      ],
-      [
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/36/Shattered_Community.png",
         "Shattered Community"
       ],
@@ -4082,7 +4061,7 @@
       ],
       [
         "Rarity",
-        null
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e7/Rarity_color_14.png"
       ],
       [
         "Sell",
@@ -4103,7 +4082,7 @@
         "Accessory – Crafting material"
       ],
       [
-        null,
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a0/Cursed_Inferno.png",
         "Cursed Inferno",
         "100% chance"
       ],
@@ -4176,7 +4155,7 @@
         "Accessory – Crafting material"
       ],
       [
-        null,
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8b/Irradiated.png",
         "Irradiated",
         "100% chance"
       ],
@@ -4211,7 +4190,7 @@
         "Accessory"
       ],
       [
-        null,
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/fc/Sulphuric_Poisoning.png",
         "Sulphuric Poisoning",
         "100% chance"
       ],
@@ -4288,7 +4267,7 @@
       ],
       [
         "Rarity",
-        null
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e7/Rarity_color_14.png"
       ],
       [
         "Sell",
@@ -4541,9 +4520,6 @@
         "1"
       ],
       [
-        null
-      ],
-      [
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/36/Shattered_Community.png",
         "Shattered Community"
       ],
@@ -4585,7 +4561,7 @@
       ],
       [
         "Rarity",
-        null
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png"
       ],
       [
         "Buy / Sell",
@@ -4606,7 +4582,7 @@
       ],
       [
         "Rarity",
-        null
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/36/Rarity_color_13.png"
       ],
       [
         "Sell",
@@ -4715,7 +4691,7 @@
         "Accessory"
       ],
       [
-        null,
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/6a/Plague.png",
         "Plague",
         "100% chance"
       ],
@@ -4776,7 +4752,7 @@
         "Accessory – Crafting material"
       ],
       [
-        null,
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/6a/Plague.png",
         "Plague",
         "100% chance"
       ],
@@ -4812,7 +4788,7 @@
       ],
       [
         "Rarity",
-        null
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png"
       ],
       [
         "Sell",
@@ -4834,7 +4810,7 @@
       ],
       [
         "Rarity",
-        null
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8d/Rarity_color_15.png"
       ],
       [
         "Sell",
@@ -4983,9 +4959,6 @@
         "1"
       ],
       [
-        null
-      ],
-      [
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/36/Shattered_Community.png",
         "Shattered Community"
       ],
@@ -5027,7 +5000,7 @@
       ],
       [
         "Rarity",
-        null
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png"
       ],
       [
         "Sell",
@@ -5047,14 +5020,14 @@
     ],
     "craftingIngredients": [
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/3d/Leather.png",
-        "Leather",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/83/Silk.png",
+        "Silk",
         "5"
       ],
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/23/Obsidian.png",
-        "Obsidian",
-        "20"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a5/Topaz.png",
+        "Topaz",
+        "1"
       ],
       [
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/65/Raider%27s_Talisman.png",
@@ -5235,9 +5208,6 @@
         "1"
       ],
       [
-        null
-      ],
-      [
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/36/Shattered_Community.png",
         "Shattered Community"
       ],
@@ -5278,7 +5248,7 @@
         "Accessory"
       ],
       [
-        null,
+        "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
         "Eclipse Evade Cooldown",
         "100% chance"
       ],
@@ -5481,9 +5451,6 @@
         "1"
       ],
       [
-        null
-      ],
-      [
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/36/Shattered_Community.png",
         "Shattered Community"
       ],
@@ -5525,7 +5492,7 @@
       ],
       [
         "Rarity",
-        null
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png"
       ],
       [
         "Sell",
@@ -5547,7 +5514,7 @@
       ],
       [
         "Rarity",
-        null
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png"
       ],
       [
         "Sell",
@@ -5568,7 +5535,7 @@
         "Accessory"
       ],
       [
-        null,
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8f/Armor_Crunch.png",
         "Armor Crunch",
         "100% chance"
       ],
@@ -5648,6 +5615,16 @@
         "1"
       ],
       [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/5c/Blunder_Booster.png",
+        "Blunder Booster",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c1/Nebulous_Core.png",
+        "Nebulous Core",
+        "1"
+      ],
+      [
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/ec/Miracle_Matter.png",
         "Miracle Matter",
         "1"
@@ -5670,7 +5647,7 @@
       ],
       [
         "Rarity",
-        null
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png"
       ],
       [
         "Sell",
@@ -5721,7 +5698,7 @@
         "Accessory"
       ],
       [
-        null,
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8b/Irradiated.png",
         "Irradiated",
         "100% chance"
       ],
@@ -5829,7 +5806,7 @@
         "Accessory"
       ],
       [
-        null,
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/fe/Sand_Cloak_Cooldown.png",
         "Sand Cloak Cooldown",
         "100% chance"
       ],
@@ -5966,7 +5943,7 @@
       ],
       [
         "Rarity",
-        null
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png"
       ],
       [
         "Sell",
@@ -6175,9 +6152,6 @@
         "1"
       ],
       [
-        null
-      ],
-      [
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/36/Shattered_Community.png",
         "Shattered Community"
       ],
@@ -6219,7 +6193,7 @@
       ],
       [
         "Rarity",
-        null
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png"
       ],
       [
         "Sell",
@@ -6281,7 +6255,7 @@
       ],
       [
         "Rarity",
-        null
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png"
       ],
       [
         "Sell",
@@ -6329,7 +6303,7 @@
       ],
       [
         "Rarity",
-        null
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8d/Rarity_color_15.png"
       ],
       [
         "Sell",
@@ -6418,6 +6392,16 @@
         "1"
       ],
       [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/5c/Blunder_Booster.png",
+        "Blunder Booster",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c1/Nebulous_Core.png",
+        "Nebulous Core",
+        "1"
+      ],
+      [
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/ec/Miracle_Matter.png",
         "Miracle Matter",
         "1"
@@ -6440,7 +6424,7 @@
       ],
       [
         "Rarity",
-        null
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/ec/Rarity_color_12.png"
       ],
       [
         "Sell",
@@ -6615,7 +6599,7 @@
         "Accessory – Crafting material"
       ],
       [
-        null,
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/56/Electrified.png",
         "Electrified",
         "100% chance"
       ],
@@ -6712,7 +6696,7 @@
       ],
       [
         "Rarity",
-        null
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Rarity_color_7.png"
       ],
       [
         "Sell",
@@ -6883,7 +6867,7 @@
       ],
       [
         "Rarity",
-        null
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e7/Rarity_color_14.png"
       ],
       [
         "Sell",
@@ -7029,7 +7013,7 @@
       ],
       [
         "Rarity",
-        null
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png"
       ],
       [
         "Sell",
@@ -7050,7 +7034,7 @@
         "Accessory – Crafting material"
       ],
       [
-        null,
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e8/Shadowflame.png",
         "Shadowflame",
         "100% chance"
       ],
@@ -7149,6 +7133,16 @@
       [
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c8/The_Transformer.png",
         "The Transformer",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/5c/Blunder_Booster.png",
+        "Blunder Booster",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c1/Nebulous_Core.png",
+        "Nebulous Core",
         "1"
       ],
       [
@@ -7263,9 +7257,6 @@
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/73/The_Community.png",
         "The Community",
         "1"
-      ],
-      [
-        null
       ],
       [
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/36/Shattered_Community.png",
@@ -7425,9 +7416,6 @@
         "1"
       ],
       [
-        null
-      ],
-      [
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/36/Shattered_Community.png",
         "Shattered Community"
       ],
@@ -7468,7 +7456,7 @@
         "Accessory"
       ],
       [
-        null,
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d8/Midas.png",
         "Midas",
         "100% chance"
       ],
@@ -7762,9 +7750,6 @@
         "1"
       ],
       [
-        null
-      ],
-      [
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/36/Shattered_Community.png",
         "Shattered Community"
       ],
@@ -7805,7 +7790,7 @@
         "Accessory"
       ],
       [
-        null,
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/6a/Plague.png",
         "Plague",
         "100% chance"
       ],
@@ -7867,7 +7852,7 @@
       ],
       [
         "Rarity",
-        null
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png"
       ],
       [
         "Sell",
@@ -7930,7 +7915,7 @@
       ],
       [
         "Rarity",
-        null
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Rarity_color_7.png"
       ],
       [
         "Sell",
@@ -7977,7 +7962,7 @@
       ],
       [
         "Rarity",
-        null
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e7/Rarity_color_14.png"
       ],
       [
         "Buy / Sell",
@@ -8068,7 +8053,7 @@
         "Accessory – Crafting material"
       ],
       [
-        null,
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/71/Brimstone_Flames.png",
         "Brimstone Flames",
         "100% chance"
       ],
@@ -8103,7 +8088,7 @@
         "Accessory – Crafting material"
       ],
       [
-        null,
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/71/Brimstone_Flames.png",
         "Brimstone Flames",
         "100% chance"
       ],
@@ -8183,7 +8168,7 @@
         "Accessory – Crafting material"
       ],
       [
-        null,
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/56/Electrified.png",
         "Electrified",
         "20% chance"
       ],
@@ -8285,7 +8270,7 @@
       ],
       [
         "Rarity",
-        null
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e7/Rarity_color_14.png"
       ],
       [
         "Sell",
@@ -8371,7 +8356,7 @@
       ],
       [
         "Rarity",
-        null
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png"
       ],
       [
         "Sell",
@@ -8396,7 +8381,7 @@
         "30"
       ],
       [
-        null,
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d7/Holy_Flames.png",
         "Holy Flames",
         "100% chance"
       ],
@@ -8526,9 +8511,6 @@
         "1"
       ],
       [
-        null
-      ],
-      [
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/36/Shattered_Community.png",
         "Shattered Community"
       ],
@@ -8569,7 +8551,7 @@
         "Accessory – Crafting material"
       ],
       [
-        null,
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d7/Holy_Flames.png",
         "Holy Flames",
         "100% chance"
       ],
@@ -8681,7 +8663,7 @@
         "The plates will absorb 15% damage"
       ],
       [
-        null,
+        "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
         "Abyssal Diving Suit Plates Broken",
         ""
       ],
@@ -8829,6 +8811,16 @@
         "1"
       ],
       [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/5c/Blunder_Booster.png",
+        "Blunder Booster",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c1/Nebulous_Core.png",
+        "Nebulous Core",
+        "1"
+      ],
+      [
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/ec/Miracle_Matter.png",
         "Miracle Matter",
         "1"
@@ -8884,7 +8876,7 @@
         "Accessory – Crafting material"
       ],
       [
-        null,
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/6a/Plague.png",
         "Plague",
         "100% chance"
       ],
@@ -8954,7 +8946,7 @@
       ],
       [
         "Rarity",
-        null
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png"
       ],
       [
         "Sell",
@@ -8987,9 +8979,6 @@
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/bb/Corrupt_Flask.png",
         "Corrupt Flask",
         "1"
-      ],
-      [
-        null
       ],
       [
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/5f/Crimson_Flask.png",
@@ -9119,9 +9108,6 @@
         "1"
       ],
       [
-        null
-      ],
-      [
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/36/Shattered_Community.png",
         "Shattered Community"
       ],
@@ -9163,7 +9149,7 @@
       ],
       [
         "Rarity",
-        null
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png"
       ],
       [
         "Sell",
@@ -9185,7 +9171,7 @@
       ],
       [
         "Rarity",
-        null
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png"
       ],
       [
         "Sell",
@@ -9238,7 +9224,7 @@
         "Absorbs 20% damage from the next hit you take, then shatters"
       ],
       [
-        null,
+        "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
         "Ice Shield Cooldown",
         ""
       ],
@@ -9539,9 +9525,6 @@
         "1"
       ],
       [
-        null
-      ],
-      [
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/36/Shattered_Community.png",
         "Shattered Community"
       ],
@@ -9587,7 +9570,7 @@
       ],
       [
         "Rarity",
-        null
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/36/Rarity_color_13.png"
       ],
       [
         "Sell",
@@ -9634,7 +9617,7 @@
         "Accessory"
       ],
       [
-        null,
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d7/Holy_Flames.png",
         "Holy Flames",
         "100% chance"
       ],
@@ -9771,7 +9754,7 @@
       ],
       [
         "Rarity",
-        null
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/ec/Rarity_color_12.png"
       ],
       [
         "Sell",
@@ -9793,7 +9776,7 @@
       ],
       [
         "Rarity",
-        null
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Rarity_color_7.png"
       ],
       [
         "Sell",
@@ -9870,7 +9853,7 @@
       ],
       [
         "Rarity",
-        null
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Rarity_color_7.png"
       ],
       [
         "Sell",
@@ -9926,7 +9909,7 @@
         "Accessory"
       ],
       [
-        null,
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/0e/Flesh_Totem_Cooldown.png",
         "Flesh Totem Cooldown",
         ""
       ],
@@ -10084,9 +10067,6 @@
         "1"
       ],
       [
-        null
-      ],
-      [
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/36/Shattered_Community.png",
         "Shattered Community"
       ],
@@ -10128,7 +10108,7 @@
       ],
       [
         "Rarity",
-        null
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png"
       ],
       [
         "Sell",
@@ -10264,7 +10244,7 @@
       ],
       [
         "Rarity",
-        null
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png"
       ],
       [
         "Sell",
@@ -10286,7 +10266,7 @@
       ],
       [
         "Rarity",
-        null
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png"
       ],
       [
         "Sell",
@@ -10337,7 +10317,7 @@
       ],
       [
         "Rarity",
-        null
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png"
       ],
       [
         "Sell",
@@ -10362,7 +10342,7 @@
         "6"
       ],
       [
-        null,
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/fc/Glacial_State.png",
         "Glacial State",
         "100% chance"
       ],
@@ -10466,7 +10446,7 @@
       ],
       [
         "Rarity",
-        null
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png"
       ],
       [
         "Sell",
@@ -10532,6 +10512,16 @@
         "1"
       ],
       [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/5c/Blunder_Booster.png",
+        "Blunder Booster",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c1/Nebulous_Core.png",
+        "Nebulous Core",
+        "1"
+      ],
+      [
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/ec/Miracle_Matter.png",
         "Miracle Matter",
         "1"
@@ -10554,7 +10544,7 @@
       ],
       [
         "Rarity",
-        null
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c2/Rarity_color_9.png"
       ],
       [
         "Sell",
@@ -10612,7 +10602,7 @@
       ],
       [
         "Rarity",
-        null
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png"
       ],
       [
         "Sell",
@@ -10856,7 +10846,7 @@
         "Accessory – Crafting material"
       ],
       [
-        null,
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/0e/Flesh_Totem_Cooldown.png",
         "Flesh Totem Cooldown",
         ""
       ],
@@ -10945,7 +10935,7 @@
         "4"
       ],
       [
-        null,
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/fc/Glacial_State.png",
         "Glacial State",
         "100% chance"
       ],
@@ -10985,7 +10975,7 @@
       ],
       [
         "Rarity",
-        null
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png"
       ],
       [
         "Sell",
@@ -11085,6 +11075,16 @@
         "1"
       ],
       [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/5c/Blunder_Booster.png",
+        "Blunder Booster",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c1/Nebulous_Core.png",
+        "Nebulous Core",
+        "1"
+      ],
+      [
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/ec/Miracle_Matter.png",
         "Miracle Matter",
         "1"
@@ -11106,7 +11106,7 @@
         "Accessory"
       ],
       [
-        null,
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/ce/Pearl_Aura.png",
         "Pearl Aura",
         "100% chance"
       ],
@@ -11184,7 +11184,7 @@
       ],
       [
         "Rarity",
-        null
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png"
       ],
       [
         "Sell",
@@ -11205,7 +11205,7 @@
         "Accessory"
       ],
       [
-        null,
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/65/Astral_Infection_%28debuff%29.png",
         "Astral Infection",
         "100% chance"
       ],
@@ -11412,7 +11412,7 @@
         "Accessory"
       ],
       [
-        null,
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/65/Astral_Infection_%28debuff%29.png",
         "Astral Infection",
         "100% chance"
       ],
@@ -11492,6 +11492,16 @@
         "1"
       ],
       [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/5c/Blunder_Booster.png",
+        "Blunder Booster",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c1/Nebulous_Core.png",
+        "Nebulous Core",
+        "1"
+      ],
+      [
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/ec/Miracle_Matter.png",
         "Miracle Matter",
         "1"
@@ -11514,7 +11524,7 @@
       ],
       [
         "Rarity",
-        null
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png"
       ],
       [
         "Sell",
@@ -11580,9 +11590,6 @@
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/bb/Corrupt_Flask.png",
         "Corrupt Flask",
         "1"
-      ],
-      [
-        null
       ],
       [
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/5f/Crimson_Flask.png",
@@ -11718,7 +11725,7 @@
       ],
       [
         "Rarity",
-        null
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png"
       ],
       [
         "Sell",
@@ -11740,7 +11747,7 @@
       ],
       [
         "Rarity",
-        null
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png"
       ],
       [
         "Sell",
@@ -12066,7 +12073,7 @@
         "30 defense and +30% damage reduction, but..."
       ],
       [
-        null,
+        "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
         "Concoction Cooldown",
         ""
       ],
@@ -12112,7 +12119,7 @@
         "The healer will heal your wounds (Only Healer) The Defensive Duo will protect and heal you! (Healer + Defensive) The Offensive Duo will fight for and heal you! (Healer + Offensive) The Profaned Babs will fight for and defend you! (All Three)"
       ],
       [
-        null,
+        "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
         "Burnt Out",
         ""
       ],
@@ -12509,9 +12516,6 @@
         "1"
       ],
       [
-        null
-      ],
-      [
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/36/Shattered_Community.png",
         "Shattered Community"
       ],
@@ -12587,7 +12591,7 @@
       ],
       [
         "Rarity",
-        null
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Rarity_color_7.png"
       ],
       [
         "Sell",
@@ -12611,9 +12615,6 @@
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/4f/Craw_Carapace.png",
         "Craw Carapace",
         "1"
-      ],
-      [
-        null
       ],
       [
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c9/Giant_Shell.png",
@@ -12724,7 +12725,7 @@
       ],
       [
         "Rarity",
-        null
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png"
       ],
       [
         "Sell",
@@ -12750,7 +12751,7 @@
       ],
       [
         "Rarity",
-        null
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png"
       ],
       [
         "Sell",
@@ -12776,7 +12777,7 @@
       ],
       [
         "Rarity",
-        null
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png"
       ],
       [
         "Sell",
@@ -12849,7 +12850,7 @@
       ],
       [
         "Rarity",
-        null
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c2/Rarity_color_9.png"
       ],
       [
         "Sell",
@@ -12873,9 +12874,6 @@
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/4f/Craw_Carapace.png",
         "Craw Carapace",
         "1"
-      ],
-      [
-        null
       ],
       [
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c9/Giant_Shell.png",
@@ -13065,7 +13063,7 @@
       ],
       [
         "Rarity",
-        null
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d9/Rarity_color_rainbow.gif"
       ],
       [
         "Sell",
@@ -13181,9 +13179,6 @@
         "1"
       ],
       [
-        null
-      ],
-      [
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/36/Shattered_Community.png",
         "Shattered Community"
       ],
@@ -13225,7 +13220,7 @@
       ],
       [
         "Rarity",
-        null
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/ec/Rarity_color_12.png"
       ],
       [
         "Sell",
@@ -13352,7 +13347,7 @@
       ],
       [
         "Rarity",
-        null
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e7/Rarity_color_14.png"
       ],
       [
         "Sell",
@@ -13481,6 +13476,16 @@
         "1"
       ],
       [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/5c/Blunder_Booster.png",
+        "Blunder Booster",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c1/Nebulous_Core.png",
+        "Nebulous Core",
+        "1"
+      ],
+      [
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/ec/Miracle_Matter.png",
         "Miracle Matter",
         "1"
@@ -13503,7 +13508,7 @@
       ],
       [
         "Rarity",
-        null
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png"
       ],
       [
         "Sell",
@@ -13566,6 +13571,16 @@
       [
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c8/The_Transformer.png",
         "The Transformer",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/5c/Blunder_Booster.png",
+        "Blunder Booster",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c1/Nebulous_Core.png",
+        "Nebulous Core",
         "1"
       ],
       [
@@ -13801,9 +13816,6 @@
         "1"
       ],
       [
-        null
-      ],
-      [
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/36/Shattered_Community.png",
         "Shattered Community"
       ],
@@ -13849,7 +13861,7 @@
       ],
       [
         "Rarity",
-        null
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png"
       ],
       [
         "Sell",
@@ -14036,9 +14048,6 @@
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/73/The_Community.png",
         "The Community",
         "1"
-      ],
-      [
-        null
       ],
       [
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/36/Shattered_Community.png",

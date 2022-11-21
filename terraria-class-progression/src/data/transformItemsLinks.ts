@@ -23,6 +23,7 @@ const transformArmorLinks = ({
   armorDesc,
   craftingItems,
 }: any): any => ({
+  id,
   armorName,
   armorImg: tryTransformLink(armorImg),
   armorDefenses,
@@ -85,7 +86,6 @@ for (const [key, value] of Object.entries(items)) {
       }
       return transformLinks(item);
     });
-    console.log(label);
 
     fs.writeFileSync(
       `./${key}/${label}.json`,
