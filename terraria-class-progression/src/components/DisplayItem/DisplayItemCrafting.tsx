@@ -7,8 +7,17 @@ export const DisplayItemCrafting = ({
   craftingIngredients,
   craftingStations,
 }: DisplayCraftingProps) => {
-  console.log(craftingIngredients);
-  console.log(craftingStations);
-
-  return <div>DisplayItemCrafting</div>;
+  return (
+    <div>
+      {craftingIngredients.map(([image, label, quantity], i) => {
+        return (
+          <div key={i}>
+            <img src={image} alt={label} title={label} />
+            <span> {label} </span>
+            <span> {quantity} </span>
+          </div>
+        );
+      })}
+    </div>
+  );
 };

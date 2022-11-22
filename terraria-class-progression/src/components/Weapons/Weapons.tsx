@@ -1,8 +1,8 @@
 import allWeapons from '../../data/weapons/allWeapons.json';
-
 import { useState } from 'react';
-import { DisplayItemInfo } from '../../components/DisplayItem/DisplayItemInfo';
-export const ClasslessPath = () => {
+import { DisplayItemInfo } from '../DisplayItem/DisplayItemInfo';
+
+export const Weapons = () => {
   const [currentWeapon, setCurrentWeapon] = useState(1);
 
   return (
@@ -21,7 +21,7 @@ export const ClasslessPath = () => {
           })}
         </optgroup>
       </select>
-      <DisplayItemInfo itemId={currentWeapon} />
+      <DisplayItemInfo itemId={currentWeapon} itemsData={allWeapons} />
     </div>
   );
 };
