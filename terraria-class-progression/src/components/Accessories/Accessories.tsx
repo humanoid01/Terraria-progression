@@ -21,7 +21,7 @@ export const Accessories = () => {
           })}
         </optgroup>
       </select>
-      <DisplayItemInfo itemId={currentAccessory} itemsData={allAccessories} />
+      {/* <DisplayItemInfo itemId={currentAccessory} itemsData={allAccessories} /> */}
     </div>
   );
 };

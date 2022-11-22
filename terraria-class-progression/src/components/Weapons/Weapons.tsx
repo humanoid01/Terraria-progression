@@ -4,7 +4,7 @@ import { DisplayItemInfo } from '../DisplayItem/DisplayItemInfo';
 
 export const Weapons = () => {
   const [currentWeapon, setCurrentWeapon] = useState(1);
-
+  console.log(allWeapons.length);
   return (
     <div>
       <select
@@ -21,7 +21,7 @@ export const Weapons = () => {
           })}
         </optgroup>
       </select>
-      <DisplayItemInfo itemId={currentWeapon} itemsData={allWeapons} />
+      {/* <DisplayItemInfo itemId={currentWeapon} itemsData={allWeapons} /> */}
     </div>
   );
 };

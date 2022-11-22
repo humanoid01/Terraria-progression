@@ -43,7 +43,6 @@ export const DisplayItemInfo = ({ itemId, itemsData }: DisplayItemProps) => {
         <div key={id}>
           {itemSpecs.map((specs: string[], id: number) => {
             const debuff: boolean = specs[0]?.startsWith('https');
-            const coin: boolean = specs[2]?.startsWith('https');
             const rarity: boolean = specs[1]?.startsWith('https');
 
             if (debuff) {
@@ -58,14 +57,6 @@ export const DisplayItemInfo = ({ itemId, itemsData }: DisplayItemProps) => {
                 <div key={id}>
                   <h3>{specs[0]}</h3>
                   <img src={specs[1] || ''} alt='rarity' />
-                </div>
-              );
-            } else if (coin) {
-              return (
-                <div key={id}>
-                  <span>{specs[0]}</span>
-                  <span>{specs[1]} </span>
-                  <img src={specs[2] || ''} alt='coin' />
                 </div>
               );
             }
