@@ -4,7 +4,7 @@ import { DisplayItemInfo } from './../DisplayItem/DisplayItemInfo';
 
 export const Accessories = () => {
   const [currentAccessory, setCurrentAccessory] = useState(7000);
-
+  console.log(allAccessories.length);
   return (
     <div>
       <select

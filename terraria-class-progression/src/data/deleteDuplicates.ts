@@ -24,7 +24,10 @@ export const deleteDuplicates = () => {
         return item;
       }
     });
-    fs.writeFileSync(`${label}.json`, JSON.stringify(newData, null, 2));
+    fs.writeFileSync(
+      `./weapons/${label}.json`,
+      JSON.stringify(newData, null, 2)
+    );
   });
 };
 

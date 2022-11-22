@@ -9,6 +9,10 @@
         "Accessory – Crafting material"
       ],
       [
+        "Tooltip",
+        "Increases pick speed by 15% while underground"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png"
       ],
@@ -45,6 +49,10 @@
       [
         "Type",
         "Accessory – Crafting material"
+      ],
+      [
+        "Tooltip",
+        "20% increased mining speed, 5% damage reduction, and +10 defense while underground or in the underworld"
       ],
       [
         "Rarity",
@@ -144,6 +152,10 @@
       [
         "Type",
         "Accessory"
+      ],
+      [
+        "Tooltip",
+        "Spelunker effect and 15% increased mining speed"
       ],
       [
         "Rarity",

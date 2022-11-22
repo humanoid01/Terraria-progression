@@ -9,9 +9,12 @@
         "Accessory – Crafting material"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/9a/Crush_Depth.png",
-        "Crush Depth",
-        "100% chance"
+        "Tooltip",
+        "Attacks inflict the Crush Depths debuff. Grants immunity to the Crush Depth debuff. While in the abyss you gain 10% increased max life."
+      ],
+      [
+        "Inflicts Debuff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/9a/Crush_Depth.png"
       ],
       [
         "Debuff duration",
@@ -24,11 +27,6 @@
       [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png"
-      ],
-      [
-        "Sell",
-        "      80  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png"
       ]
     ],
     "craftingStations": [],
@@ -44,9 +42,12 @@
         "Accessory – Crafting material"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/a5/Abyssal_Evade_Cooldown.png",
-        "Abyssal Evade Cooldown",
-        "100% chance"
+        "Tooltip",
+        "Light does not reach the depths of the ocean. Significantly reduces enemy aggression, even in the abyss. Stealth generates 30% faster when standing still and 20% faster while moving. Grants the ability to evade attacks, releasing a cloud of lumenyl fluid which damages and stuns nearby enemies. Evading an attack grants a lot of stealth but has a 90 second cooldown. This cooldown is shared with all other dodges and reflects."
+      ],
+      [
+        "Inflicts Debuff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/a5/Abyssal_Evade_Cooldown.png"
       ],
       [
         "Debuff duration",
@@ -57,9 +58,8 @@
         "Your Abyssal Mirror's dodge is recharging"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/f9/Eutrophication.png",
-        "Eutrophication",
-        "100% chance"
+        "Inflicts Debuff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/f9/Eutrophication.png"
       ],
       [
         "Debuff duration",
@@ -72,11 +72,6 @@
       [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Rarity_color_7.png"
-      ],
-      [
-        "Sell",
-        "      9  60  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [
@@ -137,9 +132,12 @@
         "Accessory – Crafting material"
       ],
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/68/Confused.png",
-        "Confused",
-        ""
+        "Tooltip",
+        "10% increased damage. Shade rains down when you are hit. You will confuse nearby enemies when you are struck."
+      ],
+      [
+        "Inflicts Debuff",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/68/Confused.png"
       ],
       [
         "Debuff duration",
@@ -152,11 +150,6 @@
       [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png"
-      ],
-      [
-        "Sell",
-        "      2  40  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [
@@ -197,9 +190,12 @@
         "Accessory"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/f9/Eutrophication.png",
-        "Eutrophication",
-        "100% chance"
+        "Tooltip",
+        "Periodically rains down prism shards that can briefly stun enemies."
+      ],
+      [
+        "Inflicts Debuff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/f9/Eutrophication.png"
       ],
       [
         "Debuff duration",
@@ -212,11 +208,6 @@
       [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png"
-      ],
-      [
-        "Sell",
-        "      40  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png"
       ]
     ],
     "craftingStations": [
@@ -283,8 +274,12 @@
         "Accessory"
       ],
       [
+        "Tooltip",
+        "Call upon the force of heaven to empower your attacks and minions  Courage, Enlightenment, Bliss.  United in Judgement  +2 max minions, 15% increased summon damage, and 8% increased damage to all other classes  Life regeneration is boosted while jumping  Press Angelic Alliance Blessing to grace yourself in divinity for 15 seconds  While under the effects of Divine Bless, a holy construct of the One Order is summoned which scales in damage for every minion you have  All minion attacks inflict Banishing Fire and you are granted a flat health boost of four health per second  This effect has a cooldown of 1 minute."
+      ],
+      [
         "Grants Buff",
-        "Divine Bless"
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/84/Divine_Bless.png"
       ],
       [
         "Buff duration",
@@ -295,9 +290,8 @@
         "Increased health regen and minions inflict Banishing Fire"
       ],
       [
-        "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
-        "Divine Recharge",
-        "100% (After blessing usage) chance"
+        "Inflicts Debuff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/23/Divine_Recharge.png"
       ],
       [
         "Debuff duration",
@@ -308,9 +302,8 @@
         "Your divine powers are recharging"
       ],
       [
-        "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
-        "Banishing Fire",
-        "100% chance"
+        "Inflicts Debuff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/ed/Banishing_Fire.png"
       ],
       [
         "Debuff duration",
@@ -323,11 +316,6 @@
       [
         "Rarity",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8b/Rarity_color_16.png"
-      ],
-      [
-        "Sell",
-        "      40  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [
@@ -389,13 +377,12 @@
         "Accessory"
       ],
       [
-        "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8f/Rarity_color_10.png"
+        "Tooltip",
+        "Summons slimes to fight for you based on your current biome. All wild slimes will fight for you. Pacifies all slimes, even bosses."
       ],
       [
-        "Sell",
-        "      4  80  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8f/Rarity_color_10.png"
       ]
     ],
     "craftingStations": [
@@ -470,13 +457,12 @@
         "Accessory"
       ],
       [
-        "Rarity",
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/ec/Rarity_color_12.png"
+        "Tooltip",
+        "15% increased melee speed. Increases melee damage and melee crit by 5%+5 armor penetration."
       ],
       [
-        "Sell",
-        "      24  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
+        "Rarity",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/ec/Rarity_color_12.png"
       ]
     ],
     "craftingStations": [
@@ -546,13 +532,12 @@
         "Accessory – Crafting material"
       ],
       [
-        "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png"
+        "Tooltip",
+        "Stealth strikes have +10 armor peneration and heal for 1 HP."
       ],
       [
-        "Sell",
-        "      80  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png"
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png"
       ]
     ],
     "craftingStations": [
@@ -598,13 +583,12 @@
         "Accessory – Crafting material"
       ],
       [
-        "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png"
+        "Tooltip",
+        "7 defense. \n7% increased damage reduction. \n\n7% increased melee damage and speed."
       ],
       [
-        "Sell",
-        "      2  40  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png"
       ]
     ],
     "craftingStations": [
@@ -645,13 +629,12 @@
         "Accessory – Crafting material"
       ],
       [
-        "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png"
+        "Tooltip",
+        "5% increased damage reduction and increased melee stats. 10% increased damage reduction and melee stats when below 50% life."
       ],
       [
-        "Sell",
-        "      80  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png"
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png"
       ]
     ],
     "craftingStations": [],
@@ -667,9 +650,12 @@
         "Accessory"
       ],
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/56/Electrified.png",
-        "Electrified",
-        "100% chance"
+        "Tooltip",
+        "12% increased rogue damage and 15% increased rogue projectile velocity. Stealth generates 10% faster. Summons a red lightning aura to surround the player and electrify nearby enemies. Press Booster Dash to consume 25% of your maximum stealth to perform a swift upwards. /diagonal dash which leaves a trail of lightning bolts."
+      ],
+      [
+        "Inflicts Debuff",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/56/Electrified.png"
       ],
       [
         "Debuff duration",
@@ -682,11 +668,6 @@
       [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/96/Rarity_color_11.png"
-      ],
-      [
-        "Sell",
-        "      22  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [
@@ -723,9 +704,12 @@
         "Accessory"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/b4/Vulnerability_Hex.png",
-        "Vulnerability Hex",
-        "100% chance"
+        "Tooltip",
+        "Lights your cursor ablaze with the Witch's flames, summoning a burning sigil around it. Enemies touching the sigil take immense damage and are inflicted with Vulnerability Hex. Equip in a vanity slot to change the cursor without dealing damage."
+      ],
+      [
+        "Inflicts Debuff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/b4/Vulnerability_Hex.png"
       ],
       [
         "Debuff duration",
@@ -738,11 +722,6 @@
       [
         "Rarity",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8d/Rarity_color_15.png"
-      ],
-      [
-        "Sell",
-        "      30  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [
@@ -893,9 +872,12 @@
         "Accessory"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/28/Mana_Burn.png",
-        "Mana Burn",
-        ""
+        "Tooltip",
+        "One of the ancient relics. Mana Sickness from drinking mana potions is replaced by Mana Burn. Mana Burn deals damage over time relative to the intensity of the debuff. This debuff does not reduce your magic damage."
+      ],
+      [
+        "Inflicts Debuff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/28/Mana_Burn.png"
       ],
       [
         "Debuff tooltip",
@@ -904,11 +886,6 @@
       [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Rarity_color_7.png"
-      ],
-      [
-        "Sell",
-        "      9  60  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [
@@ -975,13 +952,12 @@
         "Accessory – Crafting material"
       ],
       [
-        "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png"
+        "Tooltip",
+        "Stealth strikes only expend 75% of your max stealth. 6% increased rogue crit chance."
       ],
       [
-        "Sell",
-        "      20  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png"
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png"
       ]
     ],
     "craftingStations": [
@@ -1001,7 +977,7 @@
         "10"
       ],
       [
-        "No image available",
+        "Any Silver Bar",
         "Any Silver Bar",
         "5"
       ],
@@ -1031,9 +1007,12 @@
         "4"
       ],
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8a/Venom.png",
-        "Venom",
-        "100% chance"
+        "Tooltip",
+        "10% increased movement speed. All rogue weapons inflict venom and spawn clouds on enemy hits. You release a ton of clouds everywhere on hit."
+      ],
+      [
+        "Inflicts Debuff",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8a/Venom.png"
       ],
       [
         "Debuff duration",
@@ -1044,9 +1023,8 @@
         "Losing life"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8b/Irradiated.png",
-        "Irradiated",
-        "100% chance"
+        "Inflicts Debuff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8b/Irradiated.png"
       ],
       [
         "Debuff duration",
@@ -1059,11 +1037,6 @@
       [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png"
-      ],
-      [
-        "Sell",
-        "      7  20  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [],
@@ -1079,9 +1052,12 @@
         "Accessory – Crafting material"
       ],
       [
-        "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
-        "Scarf Cooldown",
-        ""
+        "Tooltip",
+        "True melee strikes deal 10% more damage. Grants the ability to dash. ; dashing into an attack will cause you to dodge it. After a successful dodge you must wait 15 seconds before you can dodge again. This cooldown will be twice as long if you have Chaos State. While on cooldown, Chaos State will last twice as long."
+      ],
+      [
+        "Inflicts Debuff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/39/Scarf_Cooldown.png"
       ],
       [
         "Debuff duration",
@@ -1094,10 +1070,6 @@
       [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png"
-      ],
-      [
-        "Buy / Sell",
-        "      10   /       80  "
       ]
     ],
     "craftingStations": [],
@@ -1113,8 +1085,12 @@
         "Accessory"
       ],
       [
+        "Tooltip",
+        "All nearby enemies and bosses are marked with bullseyes. Ranged attacks that strike a bullseye always critically strike and deal massive damage. When a bullseye is struck, it vanishes and a new one appears elswhere. Explosions or large projectiles cannot strike bullseyes. Converts all ranged critical strike chance boosts into extra critical strike damage. All ranged weapons will deal even more critical strike damage the slower they are. Summons a heroic spirit from another world if accessory visibility is enabled. The heroic spirit is also summoned when this accessory is placed in vanity slots'A strand of a lost cosmos remains, waiting for its master'."
+      ],
+      [
         "Grants Buff",
-        "Archer of Lunamoon"
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/27/Archer_of_Lunamoon.png"
       ],
       [
         "Buff tooltip",
@@ -1123,11 +1099,6 @@
       [
         "Rarity",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e7/Rarity_color_14.png"
-      ],
-      [
-        "Sell",
-        "      28  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [
@@ -1212,13 +1183,12 @@
         "Accessory – Crafting material"
       ],
       [
-        "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c2/Rarity_color_9.png"
+        "Tooltip",
+        "The Dark God. ’s void. +20 maximum stealth. 20% increased rogue crit chance in space. Stealth strikes launch dark meteor blasts. Rogue projectile velocity is doubled."
       ],
       [
-        "Sell",
-        "      16  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c2/Rarity_color_9.png"
       ]
     ],
     "craftingStations": [
@@ -1264,13 +1234,12 @@
         "10"
       ],
       [
-        "Rarity",
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e7/Rarity_color_14.png"
+        "Tooltip",
+        "Contains the power of the dark sun. 12% increase to damage and melee speed. +1 life regeneration, 15% increased pick speed, and +2 max minions. Increased minion knockback. During the day the player has +3 life regen. During the night the player has +15 defense. Both of these bonuses are granted during an eclipse."
       ],
       [
-        "Sell",
-        "      28  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
+        "Rarity",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e7/Rarity_color_14.png"
       ]
     ],
     "craftingStations": [
@@ -1350,13 +1319,12 @@
         "Accessory – Crafting material"
       ],
       [
-        "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png"
+        "Tooltip",
+        "10% increased ranged damage, 5% increased ranged critical strike chance, and 20% reduced ammo usage. 5 increased defense, 2 increased life regen, and 15% increased pick speed."
       ],
       [
-        "Sell",
-        "      12  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png"
       ]
     ],
     "craftingStations": [
@@ -1397,13 +1365,12 @@
         "Accessory"
       ],
       [
-        "Rarity",
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e7/Rarity_color_14.png"
+        "Tooltip",
+        "Power. Boosts all damage by 25%, but at what cost? Increases all damage taken by 15%."
       ],
       [
-        "Sell",
-        "      28  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
+        "Rarity",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e7/Rarity_color_14.png"
       ]
     ],
     "craftingStations": [
@@ -1449,13 +1416,12 @@
         "Accessory"
       ],
       [
-        "Rarity",
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8d/Rarity_color_15.png"
+        "Tooltip",
+        "Reduces the amount of defense damage you take by 50%Standing still regenerates your life quickly, reduces your damage by 50% and boosts your defense by 75%Nanomachines, son."
       ],
       [
-        "Sell",
-        "      30  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
+        "Rarity",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8d/Rarity_color_15.png"
       ]
     ],
     "craftingStations": [
@@ -1606,12 +1572,12 @@
         "Accessory"
       ],
       [
-        "Rarity",
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8d/Rarity_color_15.png"
+        "Tooltip",
+        "Only a living dragon holds true treasure. Rogue projectiles create slow fireballs as they travel. Stealth strikes create infernados on death. +10% max run speed and acceleration."
       ],
       [
-        "Buy / Sell",
-        "      40   /       30  "
+        "Rarity",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8d/Rarity_color_15.png"
       ]
     ],
     "craftingStations": [
@@ -1698,13 +1664,12 @@
         "Accessory"
       ],
       [
-        "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/96/Rarity_color_11.png"
+        "Tooltip",
+        "10% increased movement speed. Ranged weapons have a chance to fire mini swarmers."
       ],
       [
-        "Sell",
-        "      22  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/96/Rarity_color_11.png"
       ]
     ],
     "craftingStations": [],
@@ -1720,9 +1685,12 @@
         "Accessory"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/ba/Eclipse_Evade_Cooldown.png",
-        "Eclipse Evade Cooldown",
-        "100% chance"
+        "Tooltip",
+        "Its reflection shows naught but darkness. +20 maximum stealth. 6% increased rogue damage, and 6% increased rogue crit chance. Vastly reduces enemy aggression, even in the abyss. Stealth generates 20% faster when standing still. Mobile stealth generation exponentially accelerates while not attacking. Stealth strikes have a 100% critical hit chance. Stealth strikes only expend 50% of your max stealth. Grants the ability to evade attacks in a blast of darksun light, which inflicts extreme damage in a wide area. Evading an attack grants full stealth but has a 90 second cooldown. This cooldown is shared with all other dodges and reflects."
+      ],
+      [
+        "Inflicts Debuff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/ba/Eclipse_Evade_Cooldown.png"
       ],
       [
         "Debuff duration",
@@ -1735,11 +1703,6 @@
       [
         "Rarity",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e7/Rarity_color_14.png"
-      ],
-      [
-        "Sell",
-        "      28  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [
@@ -1849,13 +1812,12 @@
         "Accessory"
       ],
       [
-        "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/96/Rarity_color_11.png"
+        "Tooltip",
+        "Knowledge. Boosts melee speed by 10%, ranged velocity by 25%, rogue damage by 15%, max minions by 2, and reduces mana cost by 15%."
       ],
       [
-        "Sell",
-        "      22  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/96/Rarity_color_11.png"
       ]
     ],
     "craftingStations": [
@@ -1901,13 +1863,12 @@
         "Accessory – Crafting material"
       ],
       [
-        "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png"
+        "Tooltip",
+        "Stealth strikes summon sparks on enemy hits. Stealth strikes have +10 armor penetration, deal 10% more damage, and heal for 1 HP."
       ],
       [
-        "Sell",
-        "      4  80  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png"
       ]
     ],
     "craftingStations": [
@@ -1957,9 +1918,12 @@
         "Accessory"
       ],
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4f/On_Fire%21.png",
-        "On Fire!",
-        "100% chance"
+        "Tooltip",
+        "Melee attacks and projectiles inflict on fire, frostburn and holy flames. 15% increased melee speed, damage, and 5% increased melee critical strike chance. 20% increased true melee damage. Temporary immunity to lava. Increased melee knockback."
+      ],
+      [
+        "Inflicts Debuff",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4f/On_Fire%21.png"
       ],
       [
         "Debuff duration",
@@ -1970,9 +1934,8 @@
         "Slowly losing life"
       ],
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Frostburn.png",
-        "Frostburn",
-        "100% chance"
+        "Inflicts Debuff",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Frostburn.png"
       ],
       [
         "Debuff duration",
@@ -1983,9 +1946,8 @@
         "It's either really hot or really cold. Either way it REALLY hurts"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d7/Holy_Flames.png",
-        "Holy Flames",
-        "100% chance"
+        "Inflicts Debuff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d7/Holy_Flames.png"
       ],
       [
         "Debuff duration",
@@ -1998,11 +1960,6 @@
       [
         "Rarity",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e7/Rarity_color_14.png"
-      ],
-      [
-        "Sell",
-        "      28  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [
@@ -2087,13 +2044,12 @@
         "Accessory"
       ],
       [
-        "Rarity",
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e7/Rarity_color_14.png"
+        "Tooltip",
+        "15% increased ranged damage, 5% increased ranged critical strike chance, and 20% reduced ammo usage 5 increased defense, 2 increased life regen, and 15% increased pick speed. Greatly increases arrow speed and grants a 20% chance to not consume arrows."
       ],
       [
-        "Sell",
-        "      28  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
+        "Rarity",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e7/Rarity_color_14.png"
       ]
     ],
     "craftingStations": [
@@ -2178,12 +2134,12 @@
         "Accessory"
       ],
       [
-        "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png"
+        "Tooltip",
+        "Rogue projectiles explode into homing souls on death. 10% increased rogue damage and +10 maximum stealth, however, life regen is reduced by 1."
       ],
       [
-        "Buy / Sell",
-        "      1   /       12  "
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png"
       ]
     ],
     "craftingStations": [
@@ -2270,13 +2226,12 @@
         "Accessory"
       ],
       [
-        "Rarity",
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e7/Rarity_color_14.png"
+        "Tooltip",
+        "15% increased magic damage, 5% increased magic critical strike chance, and 10% decreased mana usage. +150 max mana. Increases pickup range for mana stars. You automatically use mana potions when needed if visibility is on."
       ],
       [
-        "Sell",
-        "      28  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
+        "Rarity",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e7/Rarity_color_14.png"
       ]
     ],
     "craftingStations": [
@@ -2292,7 +2247,7 @@
         "1"
       ],
       [
-        "No image available",
+        "Any Mana Flowers",
         "Any Mana Flowers",
         "1"
       ],
@@ -2366,9 +2321,12 @@
         "Accessory"
       ],
       [
-        "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
-        "Evasion Scarf Cooldown",
-        ""
+        "Tooltip",
+        "True melee strikes deal 15% more damage. Grants the ability to dash. ; dashing into an attack will cause you to dodge it. After a successful dodge you must wait 13 seconds before you can dodge again. This cooldown will be 50 percent longer if you have Chaos State. While on cooldown, Chaos State will be 50 percent longer."
+      ],
+      [
+        "Inflicts Debuff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/15/Evasion_Scarf_Cooldown.png"
       ],
       [
         "Debuff duration",
@@ -2381,11 +2339,6 @@
       [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png"
-      ],
-      [
-        "Sell",
-        "      4  80  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [
@@ -2464,13 +2417,12 @@
         "Accessory – Crafting material"
       ],
       [
-        "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png"
+        "Tooltip",
+        "15% increased rogue projectile velocity. Stealth strikes cause feathers to fall from the sky on enemy hits."
       ],
       [
-        "Sell",
-        "      80  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png"
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png"
       ]
     ],
     "craftingStations": [
@@ -2516,13 +2468,12 @@
         "Accessory – Crafting material"
       ],
       [
-        "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png"
+        "Tooltip",
+        "Stealth strikes have +10 armor peneration and deal 10% more damage."
       ],
       [
-        "Sell",
-        "      80  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png"
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png"
       ]
     ],
     "craftingStations": [
@@ -2568,9 +2519,12 @@
         "Accessory – Crafting material"
       ],
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Frostburn.png",
-        "Frostburn",
-        "100% chance"
+        "Tooltip",
+        "All melee attacks and projectiles inflict frostburn. Immunity to frostburn, chilled, and frozen. Being above 75% life grants 10% increased damage. Being below 25% life grants 20 defense and 15% increased max movement speed and acceleration. Grants resistance against cold attacks."
+      ],
+      [
+        "Inflicts Debuff",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Frostburn.png"
       ],
       [
         "Debuff duration",
@@ -2583,11 +2537,6 @@
       [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png"
-      ],
-      [
-        "Sell",
-        "      4  80  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [],
@@ -2603,13 +2552,12 @@
         "Accessory"
       ],
       [
-        "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png"
+        "Tooltip",
+        "Various melee weapons emit mushrooms in true melee range. True melee strikes deal 15% more damage."
       ],
       [
-        "Sell",
-        "      80  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png"
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png"
       ]
     ],
     "craftingStations": [
@@ -2701,9 +2649,12 @@
         "Accessory – Crafting material"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/71/Brimstone_Flames.png",
-        "Brimstone Flames",
-        "100% chance"
+        "Tooltip",
+        "Drops brimstone fireballs from the sky occasionally."
+      ],
+      [
+        "Inflicts Debuff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/71/Brimstone_Flames.png"
       ],
       [
         "Debuff duration",
@@ -2716,11 +2667,6 @@
       [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png"
-      ],
-      [
-        "Sell",
-        "      4  80  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [],
@@ -2744,8 +2690,12 @@
         "5"
       ],
       [
+        "Tooltip",
+        "Summons two spirit swords to protect you."
+      ],
+      [
         "Grants Buff",
-        "Gladiator Swords"
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/2d/Gladiator_Swords_%28buff%29.png"
       ],
       [
         "Buff tooltip",
@@ -2754,11 +2704,6 @@
       [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png"
-      ],
-      [
-        "Sell",
-        "      80  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png"
       ]
     ],
     "craftingStations": [
@@ -2820,12 +2765,12 @@
         "Accessory"
       ],
       [
-        "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Rarity_color_7.png"
+        "Tooltip",
+        "Decreases rogue attack speed by 20% but increases damage and crit by 12% and velocity by 25%."
       ],
       [
-        "Buy / Sell",
-        "      60   /       9  60  "
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Rarity_color_7.png"
       ]
     ],
     "craftingStations": [
@@ -2912,12 +2857,12 @@
         "Accessory"
       ],
       [
-        "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Rarity_color_7.png"
+        "Tooltip",
+        "Increases rogue attack speed by 12% but decreases damage by 10%Adds inaccuracy to rogue weapons."
       ],
       [
-        "Buy / Sell",
-        "      60   /       9  60  "
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Rarity_color_7.png"
       ]
     ],
     "craftingStations": [
@@ -3004,8 +2949,12 @@
         "Accessory"
       ],
       [
+        "Tooltip",
+        "Whenever your minions hit an enemy you will gain a random buff, does not stack with downgrades. These buffs will either boost your defense, summon damage, or life regen for a while. If you have the offensive boost, enemies hit by minions will sometimes be hit by stars."
+      ],
+      [
         "Grants Buff",
-        "Hallowed Defense"
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/4d/Hallowed_Defense.png"
       ],
       [
         "Buff duration",
@@ -3017,7 +2966,7 @@
       ],
       [
         "Grants Buff",
-        "Hallowed Power"
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/72/Hallowed_Power.png"
       ],
       [
         "Buff duration",
@@ -3029,7 +2978,7 @@
       ],
       [
         "Grants Buff",
-        "Hallowed Regen"
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/1d/Hallowed_Regen.png"
       ],
       [
         "Buff duration",
@@ -3040,9 +2989,8 @@
         "Regenerating life"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/65/Astral_Infection_%28debuff%29.png",
-        "Astral Infection",
-        "100% chance"
+        "Inflicts Debuff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/65/Astral_Infection_%28debuff%29.png"
       ],
       [
         "Debuff duration",
@@ -3055,11 +3003,6 @@
       [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png"
-      ],
-      [
-        "Sell",
-        "      7  20  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [
@@ -3115,13 +3058,12 @@
         "Accessory – Crafting material"
       ],
       [
-        "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png"
+        "Tooltip",
+        "You constantly gain rage over time. Rage does not fade away when out of combat. Revengeance drop."
       ],
       [
-        "Sell",
-        "      80  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png"
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png"
       ]
     ],
     "craftingStations": [],
@@ -3137,9 +3079,12 @@
         "Accessory – Crafting material"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/da/Ink_Bomb_Cooldown.png",
-        "Ink Bomb Cooldown",
-        "100% chance"
+        "Tooltip",
+        "Throws several ink bombs when hit that explode in a confusing cloud of ink. Gain a lot of stealth when struck. This effect has a 20s cooldown before it can occur again."
+      ],
+      [
+        "Inflicts Debuff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/da/Ink_Bomb_Cooldown.png"
       ],
       [
         "Debuff duration",
@@ -3150,9 +3095,8 @@
         "Your Ink Bomb is recharging"
       ],
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/68/Confused.png",
-        "Confused",
-        "100% chance"
+        "Inflicts Debuff",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/68/Confused.png"
       ],
       [
         "Debuff duration",
@@ -3165,11 +3109,6 @@
       [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png"
-      ],
-      [
-        "Sell",
-        "      80  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png"
       ]
     ],
     "craftingStations": [],
@@ -3185,9 +3124,12 @@
         "Accessory – Crafting material"
       ],
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/56/Electrified.png",
-        "Electrified",
-        "20% chance"
+        "Tooltip",
+        "+1 max minions and 7% minion damage. Minion attacks spawn orbs of energy and inflict Electrified."
+      ],
+      [
+        "Inflicts Debuff",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/56/Electrified.png"
       ],
       [
         "Debuff duration",
@@ -3200,11 +3142,6 @@
       [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png"
-      ],
-      [
-        "Sell",
-        "      2  40  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [
@@ -3259,9 +3196,12 @@
         "20"
       ],
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/11/Poisoned.png",
-        "Poisoned",
-        "100% chance"
+        "Tooltip",
+        "You leave behind poisonous seawater as you move. 30% increased movement speed, 10% increase to all damage, and plus 10 defense while submerged in liquid. If you are damaged while submerged in liquid you will gain a damaging aura for a short time. Being outside of liquid increases all damage by 5% and increases damage reduction by 5%."
+      ],
+      [
+        "Inflicts Debuff",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/11/Poisoned.png"
       ],
       [
         "Debuff duration",
@@ -3272,9 +3212,8 @@
         "Slowly losing life"
       ],
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8a/Venom.png",
-        "Venom",
-        "100% chance"
+        "Inflicts Debuff",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8a/Venom.png"
       ],
       [
         "Debuff duration",
@@ -3287,11 +3226,6 @@
       [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Rarity_color_7.png"
-      ],
-      [
-        "Sell",
-        "      9  60  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [],
@@ -3307,9 +3241,12 @@
         "Accessory"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/9a/Crush_Depth.png",
-        "Crush Depth",
-        "100% chance"
+        "Tooltip",
+        "Attacks inflict the Crush Depth debuff. Grants immunity to the Crush Depth debuff. While in the abyss you gain 25% increased max life. Provides a moderate amount of light in the abyss."
+      ],
+      [
+        "Inflicts Debuff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/9a/Crush_Depth.png"
       ],
       [
         "Debuff duration",
@@ -3322,11 +3259,6 @@
       [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Rarity_color_7.png"
-      ],
-      [
-        "Sell",
-        "      9  60  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [
@@ -3445,13 +3377,12 @@
         "Accessory"
       ],
       [
-        "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png"
+        "Tooltip",
+        "Weapons fire unique projectiles based on the damage type they have. Some weapons are unable to receive this bonus."
       ],
       [
-        "Sell",
-        "      80  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png"
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png"
       ]
     ],
     "craftingStations": [
@@ -3543,13 +3474,12 @@
         "Accessory"
       ],
       [
-        "Rarity",
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8d/Rarity_color_15.png"
+        "Tooltip",
+        "30% increased magic damage, 25% increased magic critical strike chance, and 100% decreased mana usage. +250 max mana. Increases pickup range for mana stars. Using a Mana Potion causes a burst of granite energy to assault enemies."
       ],
       [
-        "Sell",
-        "      35  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
+        "Rarity",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8d/Rarity_color_15.png"
       ]
     ],
     "craftingStations": [
@@ -3738,13 +3668,12 @@
         "Accessory"
       ],
       [
-        "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png"
+        "Tooltip",
+        "Increases max mana by 50 and magic damage by 6%Life regen lowered by 3 if mana is above 50% of its maximum. Grants spectre healing, the amount healed scales with your mana. The healing only works while holding a magic weapon. The more mana you have, the more you heal."
       ],
       [
-        "Sell",
-        "      2  40  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png"
       ]
     ],
     "craftingStations": [],
@@ -3760,13 +3689,12 @@
         "Accessory – Crafting material"
       ],
       [
-        "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png"
+        "Tooltip",
+        "Bend light around you. Reduces enemy aggression outside of the abyss. Stealth generates 30% faster when standing still and 20% faster while moving."
       ],
       [
-        "Sell",
-        "      80  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png"
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png"
       ]
     ],
     "craftingStations": [
@@ -3812,13 +3740,12 @@
         "Accessory – Crafting material"
       ],
       [
-        "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/96/Rarity_color_11.png"
+        "Tooltip",
+        "15% increased rogue projectile velocity. Stealth strikes summon lunar flares on enemy hits. Rogue projectiles very occasionally summon moon sigils behind them."
       ],
       [
-        "Sell",
-        "      22  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/96/Rarity_color_11.png"
       ]
     ],
     "craftingStations": [
@@ -3860,13 +3787,12 @@
         "Accessory"
       ],
       [
-        "Rarity",
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e7/Rarity_color_14.png"
+        "Tooltip",
+        "Rogue projectiles create nanoblades as they travel. Stealth strikes summon nanobeams and sparks on enemy hits. Stealth strikes have +20 armor penetration, deal 5% more damage, and heal for 1 HP12% increased rogue damage and 15% increased rogue velocity. Whenever you crit an enemy with a rogue weapon your rogue damage increases. This effect can stack up to 150 times. Max rogue damage boost is 15%Rogue Crit Level. : [LEVEL HERE]."
       ],
       [
-        "Sell",
-        "      28  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
+        "Rarity",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e7/Rarity_color_14.png"
       ]
     ],
     "craftingStations": [
@@ -4060,13 +3986,12 @@
         "Accessory – Crafting material"
       ],
       [
-        "Rarity",
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e7/Rarity_color_14.png"
+        "Tooltip",
+        "10% increased damage Summons floating nebula stars to protect you. You will survive an attack that would have killed you and be healed 100 HPThis effect has a 90 second cooldown."
       ],
       [
-        "Sell",
-        "      28  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
+        "Rarity",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e7/Rarity_color_14.png"
       ]
     ],
     "craftingStations": [],
@@ -4082,9 +4007,12 @@
         "Accessory – Crafting material"
       ],
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a0/Cursed_Inferno.png",
-        "Cursed Inferno",
-        "100% chance"
+        "Tooltip",
+        "Revenge. 20% increased damage when under 50% life. All attacks inflict Cursed Inferno and Venom while wearing Reaver armor."
+      ],
+      [
+        "Inflicts Debuff",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a0/Cursed_Inferno.png"
       ],
       [
         "Debuff duration",
@@ -4095,9 +4023,8 @@
         "Losing lifeAll damage taken increased by 20%"
       ],
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8a/Venom.png",
-        "Venom",
-        "100% chance"
+        "Inflicts Debuff",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8a/Venom.png"
       ],
       [
         "Debuff duration",
@@ -4110,11 +4037,6 @@
       [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Rarity_color_7.png"
-      ],
-      [
-        "Sell",
-        "      9  60  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [
@@ -4155,9 +4077,12 @@
         "Accessory – Crafting material"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8b/Irradiated.png",
-        "Irradiated",
-        "100% chance"
+        "Tooltip",
+        "Minions release an irradiated aura on enemy hits. +1 max minion."
+      ],
+      [
+        "Inflicts Debuff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8b/Irradiated.png"
       ],
       [
         "Debuff duration",
@@ -4170,11 +4095,6 @@
       [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png"
-      ],
-      [
-        "Sell",
-        "      4  80  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [],
@@ -4190,18 +4110,20 @@
         "Accessory"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/fc/Sulphuric_Poisoning.png",
-        "Sulphuric Poisoning",
-        "100% chance"
+        "Tooltip",
+        "Summons a nucleate to fight for you. Pacifies all boss servant slimes."
+      ],
+      [
+        "Inflicts Debuff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/fc/Sulphuric_Poisoning.png"
       ],
       [
         "Debuff duration",
         "20 seconds"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8b/Irradiated.png",
-        "Irradiated",
-        "100% chance"
+        "Inflicts Debuff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8b/Irradiated.png"
       ],
       [
         "Debuff duration",
@@ -4210,11 +4132,6 @@
       [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png"
-      ],
-      [
-        "Sell",
-        "      4  80  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [
@@ -4266,13 +4183,12 @@
         "Accessory"
       ],
       [
-        "Rarity",
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e7/Rarity_color_14.png"
+        "Tooltip",
+        "Increased max minions by 4, does not stack with downgrades. 15% increased minion damage. Increased minion knockback. Minions inflict a variety of debuffs. Minions spawn damaging sparks on enemy hits."
       ],
       [
-        "Sell",
-        "      28  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
+        "Rarity",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e7/Rarity_color_14.png"
       ]
     ],
     "craftingStations": [
@@ -4375,13 +4291,12 @@
         "Helmet"
       ],
       [
-        "Rarity",
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e7/Rarity_color_14.png"
+        "Tooltip",
+        "Only a fool would ever wear this... You constantly gain rage over time and rage does not fade away when out of combat. Converts certain debuffs into buffs and extends their durations. Debuffs affected. : Darkness, Blackout, Confused, Slow, Weak, Broken Armor,Armor Crunch, War Cleave, Chilled, Ichor and Obstructed. Getting hit causes you to only lose half of your max adrenaline rather than all of it. Increases your max movement speed and acceleration by 5%Can also be worn as a helmet. Revengeance item."
       ],
       [
-        "Sell",
-        "      28  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
+        "Rarity",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e7/Rarity_color_14.png"
       ]
     ],
     "craftingStations": [
@@ -4560,12 +4475,12 @@
         "Accessory"
       ],
       [
-        "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png"
+        "Tooltip",
+        "Lucky for you, the curse doesn't affect you.  Mostly. Increases the randomness of attack damage."
       ],
       [
-        "Buy / Sell",
-        "      40   /       80  "
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png"
       ]
     ],
     "craftingStations": [],
@@ -4581,13 +4496,12 @@
         "Accessory"
       ],
       [
-        "Rarity",
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/36/Rarity_color_13.png"
+        "Tooltip",
+        "While under the effects of a damaging debuff, you gain 10% increased damage and 5% crit. For every 25% of lost life, you gain 6% increased damage and 3% crit. This will max out at 18% increased damage and 9% crit when under 25% life. Provides immunity to poisoned, venom, and sulphuric poisoning."
       ],
       [
-        "Sell",
-        "      26  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
+        "Rarity",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/36/Rarity_color_13.png"
       ]
     ],
     "craftingStations": [],
@@ -4603,8 +4517,12 @@
         "Accessory"
       ],
       [
+        "Tooltip",
+        "Judgement. Whenever your minions hit an enemy you will gain a random phantomic buff, does not stack with downgrades. These buffs will either boost your defense, summon damage, or life regen for a while. If you have the offensive boost, enemies hit by minions will sometimes be hit by phantomic knives. If you have the regenerative boost, a phantomic heart will occasionally materialise granting massive health regen. If you have the defensive boost, a phantomic bulwark will absorb 20% of the next projectile's damage that hits the bulwark, shattering it."
+      ],
+      [
         "Grants Buff",
-        "Phantomic Shield"
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d5/Phantomic_Shield.png"
       ],
       [
         "Buff duration",
@@ -4616,7 +4534,7 @@
       ],
       [
         "Grants Buff",
-        "Phantomic Empowerment"
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d0/Phantomic_Empowerment.png"
       ],
       [
         "Buff duration",
@@ -4628,7 +4546,7 @@
       ],
       [
         "Grants Buff",
-        "Phantomic Regen"
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/cc/Phantomic_Regen.png"
       ],
       [
         "Buff duration",
@@ -4641,11 +4559,6 @@
       [
         "Rarity",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/36/Rarity_color_13.png"
-      ],
-      [
-        "Sell",
-        "      26  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [
@@ -4691,9 +4604,12 @@
         "Accessory"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/6a/Plague.png",
-        "Plague",
-        "100% chance"
+        "Tooltip",
+        "All attacks inflict the Plague debuff. Releases bees when damaged that inflict the Plague. Projectiles spawn plague seekers on enemy hits."
+      ],
+      [
+        "Inflicts Debuff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/6a/Plague.png"
       ],
       [
         "Debuff duration",
@@ -4706,11 +4622,6 @@
       [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c2/Rarity_color_9.png"
-      ],
-      [
-        "Sell",
-        "      16  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [
@@ -4752,9 +4663,12 @@
         "Accessory – Crafting material"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/6a/Plague.png",
-        "Plague",
-        "100% chance"
+        "Tooltip",
+        "5% increased rogue damage and 15% increased rogue projectile velocity. Stealth generates 10% faster. Press Booster Dash to consume 25% of your maximum stealth to perform a swift upwards. /diagonal dash which leaves a trail of plagued clouds."
+      ],
+      [
+        "Inflicts Debuff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/6a/Plague.png"
       ],
       [
         "Debuff duration",
@@ -4767,11 +4681,6 @@
       [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png"
-      ],
-      [
-        "Sell",
-        "      12  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [],
@@ -4787,13 +4696,12 @@
         "Accessory – Crafting material"
       ],
       [
-        "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png"
+        "Tooltip",
+        "Boosts rogue and ranged damage and critical strike chance by 5%Grants a massive boost to these stats if you aren't moving."
       ],
       [
-        "Sell",
-        "      4  80  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png"
       ]
     ],
     "craftingStations": [],
@@ -4809,13 +4717,12 @@
         "Accessory"
       ],
       [
-        "Rarity",
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8d/Rarity_color_15.png"
+        "Tooltip",
+        "Most drink the wine to lose focus, while others transcend... 30% increased ranged damage, 25% increased ranged critical strike chance, and 100% reduced ammo usage 15 increased defense, 2 increased life regen, and 35% increased pick speed. You are surrounded by 4 demonic portals that buff ranged projectiles that intersect them. Skull targets occasionally appear on enemies which increase damage taken when hit."
       ],
       [
-        "Sell",
-        "      35  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
+        "Rarity",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8d/Rarity_color_15.png"
       ]
     ],
     "craftingStations": [
@@ -4999,13 +4906,12 @@
         "Accessory – Crafting material"
       ],
       [
-        "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png"
+        "Tooltip",
+        "Whenever you crit an enemy with a rogue weapon your rogue damage increases. This effect can stack up to 150 times. Max rogue damage boost is 15%Rogue Crit Level. : [LEVEL HERE]."
       ],
       [
-        "Sell",
-        "      40  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png"
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png"
       ]
     ],
     "craftingStations": [
@@ -5050,8 +4956,12 @@
         "200 summon"
       ],
       [
+        "Tooltip",
+        "A grisly trophy from the ultimate predator. 15% increased damage. Increases armor penetration by 15Summons a smart Reaper Shark to protect you  It can be controlled directly with the cursor while a summoning weapon is held, and will benefit from all minion bonuses."
+      ],
+      [
         "Grants Buff",
-        "Reaper Shark"
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/1a/Reaper_Shark_%28buff%29.png"
       ],
       [
         "Buff tooltip",
@@ -5060,11 +4970,6 @@
       [
         "Rarity",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/36/Rarity_color_13.png"
-      ],
-      [
-        "Sell",
-        "      26  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [
@@ -5248,9 +5153,12 @@
         "Accessory"
       ],
       [
-        "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
-        "Eclipse Evade Cooldown",
-        "100% chance"
+        "Tooltip",
+        "+30 maximum stealth. 12% increased rogue damage, and 12% increased rogue crit chance. Vastly reduces enemy aggression, even in the abyss. Stealth generates 50% faster when standing still. Mobile stealth generation exponentially accelerates while not attacking. Stealth strikes have a 100% critical hit chance. Stealth strikes only expend 50% of your max stealth. A copy of your weapon falls downward from the sky each use which deals 30% of the weapon's damage. A burst of homing souls, bouncing jewels, and fireballs are released once the copy projectile dies. Sun Tornadoes are summoned on stealth strike hits with a cap of 2 at once. Grants the ability to evade attacks in a blast of darksun light, which inflicts extreme damage in a wide area. Evading an attack grants full stealth but has a 20 second cooldown. This cooldown is shared with all other dodges and reflects. Hit the spectral veil key to summon an eclipse aura that nullifies damage for 5 seconds with a 20 second cooldown. "
+      ],
+      [
+        "Inflicts Debuff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/ba/Eclipse_Evade_Cooldown.png"
       ],
       [
         "Debuff duration",
@@ -5261,18 +5169,12 @@
         "Your Eclipse Mirror's dodge is recharging"
       ],
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Chaos_State.png",
-        "Chaos State",
-        ""
+        "Inflicts Debuff",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Chaos_State.png"
       ],
       [
         "Rarity",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8d/Rarity_color_15.png"
-      ],
-      [
-        "Sell",
-        "      28  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [
@@ -5491,13 +5393,12 @@
         "Accessory – Crafting material"
       ],
       [
-        "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png"
+        "Tooltip",
+        "15% increased rogue damage."
       ],
       [
-        "Sell",
-        "      2  40  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png"
       ]
     ],
     "craftingStations": [],
@@ -5513,13 +5414,12 @@
         "Accessory – Crafting material"
       ],
       [
-        "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png"
+        "Tooltip",
+        "10% increased damage when below 75% life. 5% decreased movement speed when below 50% life. Shade rains down when you are hit."
       ],
       [
-        "Sell",
-        "      80  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png"
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png"
       ]
     ],
     "craftingStations": [],
@@ -5535,9 +5435,12 @@
         "Accessory"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8f/Armor_Crunch.png",
-        "Armor Crunch",
-        "100% chance"
+        "Tooltip",
+        "Makes Stealth strikes inflict Armor Crunch, deal 10% more damage and cost 1 less unit of stealth. "
+      ],
+      [
+        "Inflicts Debuff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8f/Armor_Crunch.png"
       ],
       [
         "Debuff duration",
@@ -5550,11 +5453,6 @@
       [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png"
-      ],
-      [
-        "Sell",
-        "      20  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png"
       ]
     ],
     "craftingStations": [
@@ -5646,13 +5544,12 @@
         "Accessory – Crafting material"
       ],
       [
-        "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png"
+        "Tooltip",
+        "Stealth strikes only expend 50% of your max stealth. 6% increased rogue damage, and 6% increased rogue crit chance."
       ],
       [
-        "Sell",
-        "      4  80  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png"
       ]
     ],
     "craftingStations": [
@@ -5698,9 +5595,12 @@
         "Accessory"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8b/Irradiated.png",
-        "Irradiated",
-        "100% chance"
+        "Tooltip",
+        "Causes most ranged weapons to sometimes release acid droplets from the sky."
+      ],
+      [
+        "Inflicts Debuff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8b/Irradiated.png"
       ],
       [
         "Debuff duration",
@@ -5713,11 +5613,6 @@
       [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png"
-      ],
-      [
-        "Sell",
-        "      20  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png"
       ]
     ],
     "craftingStations": [
@@ -5806,9 +5701,12 @@
         "Accessory"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/fe/Sand_Cloak_Cooldown.png",
-        "Sand Cloak Cooldown",
-        "100% chance"
+        "Tooltip",
+        "+1 defense and 5% increased movement speed. Press Sand Cloak Effect to consume 25% of your maximum stealth to create a protective dust veil which provides +6 defense and +2 life regen. This effect has a 30 second cooldown before it can be used again."
+      ],
+      [
+        "Inflicts Debuff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/fe/Sand_Cloak_Cooldown.png"
       ],
       [
         "Debuff duration",
@@ -5821,11 +5719,6 @@
       [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png"
-      ],
-      [
-        "Sell",
-        "      40  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png"
       ]
     ],
     "craftingStations": [
@@ -5912,8 +5805,12 @@
         "Accessory – Crafting material"
       ],
       [
+        "Tooltip",
+        "You're the alpha now Increases all stats by 10%Increases armor penetration by 10Summons a smart Sand Shark to protect you  It can be controlled directly with the cursor while a summoning weapon is held, and will benefit from all minion bonuses."
+      ],
+      [
         "Grants Buff",
-        "Sand Shark"
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/59/Sand_Shark_%28buff%29.png"
       ],
       [
         "Buff tooltip",
@@ -5922,11 +5819,6 @@
       [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Rarity_color_7.png"
-      ],
-      [
-        "Sell",
-        "      9  60  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [],
@@ -5942,13 +5834,12 @@
         "Accessory"
       ],
       [
-        "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png"
+        "Tooltip",
+        "Stealth strike projectiles spawn a jewel spike when destroyed."
       ],
       [
-        "Sell",
-        "      20  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png"
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png"
       ]
     ],
     "craftingStations": [
@@ -6035,13 +5926,12 @@
         "Accessory"
       ],
       [
-        "Rarity",
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8b/Rarity_color_16.png"
+        "Tooltip",
+        "Ruined by unknowable hatred, it still contains (most of. ) the power of The Community... You generate rage over time and rage does not fade away out of combat. Taking damage gives rage, this effect is not hindered by your defensive stats. While Rage Mode is active, taking damage gives only half as much rage. Deal damage with Rage Mode to further empower your wrath. Current level. : [LEVEL] (+[BOOST]% Rage Mode damage. )Progress to next level. : [PROGRESS RATIO]%Total Rage Mode damage. : [CUMULATIVE DAMAGE DEALT]."
       ],
       [
-        "Sell",
-        "      40  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
+        "Rarity",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8b/Rarity_color_16.png"
       ]
     ],
     "craftingStations": [
@@ -6192,13 +6082,12 @@
         "Accessory – Crafting material"
       ],
       [
-        "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png"
+        "Tooltip",
+        "15% increased magic damage and 10% decreased mana usage. +100 max mana. Increases pickup range for mana stars."
       ],
       [
-        "Sell",
-        "      12  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png"
       ]
     ],
     "craftingStations": [
@@ -6254,13 +6143,12 @@
         "Accessory – Crafting material"
       ],
       [
-        "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png"
+        "Tooltip",
+        "+20 maximum stealth. Stealth generates 15% faster."
       ],
       [
-        "Sell",
-        "      80  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png"
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png"
       ]
     ],
     "craftingStations": [
@@ -6302,13 +6190,12 @@
         "Accessory"
       ],
       [
-        "Rarity",
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8d/Rarity_color_15.png"
+        "Tooltip",
+        "Extends the duration of potion buffs by 200% and potion buffs remain active even after you die. 15% increased damage. Summons an evolved slime core to fight for you. All wild slimes will fight for you. Shade and brimstone flames rain down when you are hit. Nearby enemies receive a variety of debuffs when you are hit. Life drains over time in exchange for a significant damage boost as health decreases. You leave behind a trail of spores, toxic clouds, plague bees, and brine. Standing still generates an aura that slows enemies, and increases defense and life regen. All weapons have a chance to fire out mini birbs and miniature suns. 50% of the items stats are granted to team members."
       ],
       [
-        "Sell",
-        "      32  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
+        "Rarity",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8d/Rarity_color_15.png"
       ]
     ],
     "craftingStations": [
@@ -6423,13 +6310,12 @@
         "Accessory"
       ],
       [
-        "Rarity",
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/ec/Rarity_color_12.png"
+        "Tooltip",
+        "The inside of the cloak is full of teeth... Allows you to dodge attacks. \nThe dodge has a 70 second cooldown. This cooldown is shared with all other dodges and reflects. Provides 10% increased movement speed. Stealth generates 20% faster while moving."
       ],
       [
-        "Sell",
-        "      24  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
+        "Rarity",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/ec/Rarity_color_12.png"
       ]
     ],
     "craftingStations": [
@@ -6516,8 +6402,12 @@
         "Accessory – Crafting material"
       ],
       [
+        "Tooltip",
+        "Whenever your minions hit an enemy you will gain a random buff. These buffs will either boost your defense, summon damage, or life regen for a while."
+      ],
+      [
         "Grants Buff",
-        "Spirit Defense"
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/13/Spirit_Defense.png"
       ],
       [
         "Buff duration",
@@ -6529,7 +6419,7 @@
       ],
       [
         "Grants Buff",
-        "Spirit Power"
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8f/Spirit_Power.png"
       ],
       [
         "Buff duration",
@@ -6541,7 +6431,7 @@
       ],
       [
         "Grants Buff",
-        "Spirit Regen"
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/9d/Spirit_Regen.png"
       ],
       [
         "Buff duration",
@@ -6554,11 +6444,6 @@
       [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png"
-      ],
-      [
-        "Sell",
-        "      40  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png"
       ]
     ],
     "craftingStations": [
@@ -6599,9 +6484,12 @@
         "Accessory – Crafting material"
       ],
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/56/Electrified.png",
-        "Electrified",
-        "100% chance"
+        "Tooltip",
+        "+2 max minions, does not stack with downgrades. 7% minion damage. Minion attacks spawn astral explosions and inflict several debuffs."
+      ],
+      [
+        "Inflicts Debuff",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/56/Electrified.png"
       ],
       [
         "Debuff duration",
@@ -6612,9 +6500,8 @@
         "You cannot move"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/65/Astral_Infection_%28debuff%29.png",
-        "Astral Infection",
-        "100% chance"
+        "Inflicts Debuff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/65/Astral_Infection_%28debuff%29.png"
       ],
       [
         "Debuff duration",
@@ -6625,9 +6512,8 @@
         "Your flesh is melting off"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8b/Irradiated.png",
-        "Irradiated",
-        "100% chance"
+        "Inflicts Debuff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8b/Irradiated.png"
       ],
       [
         "Debuff duration",
@@ -6640,11 +6526,6 @@
       [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png"
-      ],
-      [
-        "Sell",
-        "      12  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [
@@ -6695,13 +6576,12 @@
         "Accessory – Crafting material"
       ],
       [
-        "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Rarity_color_7.png"
+        "Tooltip",
+        "Summons release an astral explosion on enemy hits. +1 max minion."
       ],
       [
-        "Sell",
-        "      9  60  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Rarity_color_7.png"
       ]
     ],
     "craftingStations": [],
@@ -6717,9 +6597,12 @@
         "Accessory – Crafting material"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d7/Holy_Flames.png",
-        "Holy Flames",
-        "100% chance"
+        "Tooltip",
+        "Increased max minions by 2 and 10% increased minion damage. Increased minion knockback. Minions inflict holy flames on hit."
+      ],
+      [
+        "Inflicts Debuff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d7/Holy_Flames.png"
       ],
       [
         "Debuff duration",
@@ -6732,11 +6615,6 @@
       [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Rarity_color_7.png"
-      ],
-      [
-        "Sell",
-        "      9  60  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [
@@ -6792,9 +6670,12 @@
         "Accessory – Crafting material"
       ],
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e8/Shadowflame.png",
-        "Shadowflame",
-        "100% chance"
+        "Tooltip",
+        "Increased max minions by 3, does not stack with downgrades. 10% increased minion damage. Increased minion knockback. Minions inflict holy flames and shadowflames on hit."
+      ],
+      [
+        "Inflicts Debuff",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e8/Shadowflame.png"
       ],
       [
         "Debuff duration",
@@ -6805,9 +6686,8 @@
         "Losing life"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d7/Holy_Flames.png",
-        "Holy Flames",
-        "100% chance"
+        "Inflicts Debuff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d7/Holy_Flames.png"
       ],
       [
         "Debuff duration",
@@ -6820,11 +6700,6 @@
       [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8f/Rarity_color_10.png"
-      ],
-      [
-        "Sell",
-        "      20  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [
@@ -6866,13 +6741,12 @@
         "Accessory"
       ],
       [
-        "Rarity",
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e7/Rarity_color_14.png"
+        "Tooltip",
+        "Extends the duration of potion buffs by 100% and potion buffs remain active even after you die. 15% increased damage. Shade and brimstone flames rain down when you are hit. Nearby enemies receive a variety of debuffs when you are hit. Life drains over time in exchange for a significant damage boost as health decreases. You leave behind a trail of spores, toxic clouds, plague bees, and brine. Standing still generates an aura that slows enemies, and increases defense and life regen. All weapons have a chance to fire out mini birbs and miniature suns. 50% of the items stats are granted to team members."
       ],
       [
-        "Sell",
-        "      28  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
+        "Rarity",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e7/Rarity_color_14.png"
       ]
     ],
     "craftingStations": [
@@ -7012,13 +6886,12 @@
         "Accessory"
       ],
       [
-        "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png"
+        "Tooltip",
+        "When at full HP, your damage is increased based on your damage reduction. Damage taken at full HP is halved. This has a 10 second cooldown."
       ],
       [
-        "Sell",
-        "      80  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png"
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png"
       ]
     ],
     "craftingStations": [],
@@ -7034,9 +6907,12 @@
         "Accessory – Crafting material"
       ],
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e8/Shadowflame.png",
-        "Shadowflame",
-        "100% chance"
+        "Tooltip",
+        "It is said that in the past, Prometheus descended from the heavens to grant man fire. If that were true, then it is surely the demons of hell that would have risen from below to do the same. Increases max minions by 1 and minions inflict the Shadowflame debuff on enemies. "
+      ],
+      [
+        "Inflicts Debuff",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e8/Shadowflame.png"
       ],
       [
         "Debuff duration",
@@ -7049,11 +6925,6 @@
       [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png"
-      ],
-      [
-        "Sell",
-        "      4  80  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [],
@@ -7069,13 +6940,12 @@
         "Accessory"
       ],
       [
-        "Rarity",
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8d/Rarity_color_15.png"
+        "Tooltip",
+        "All effects of ingredients. Additionally. :Extends the duration of potion buffs by 200% and potion buffs remain active even after you die. Summons an evolved slime core to fight for you. All wild slimes will fight for you. Hit the Plague Pack key to launch yourself towards your cursor while ignoring damage with a 20 second cooldown. All weapons including true melee have a chance to fire out mini birbs, shrooms, sigils, and miniature suns. Removes all of the Abyss' hindering effects. Provides a 20% chance to revive upon dying with a cooldown of 50 seconds. Immunity to electric-based attacks."
       ],
       [
-        "Sell",
-        "      32  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
+        "Rarity",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8d/Rarity_color_15.png"
       ]
     ],
     "craftingStations": [
@@ -7299,13 +7169,12 @@
         "Accessory"
       ],
       [
-        "Rarity",
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8b/Rarity_color_16.png"
+        "Tooltip",
+        "Ultimatum. Provides all effects of its ingredients."
       ],
       [
-        "Sell",
-        "      1 ",
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/21/Klepticoin.png"
+        "Rarity",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8b/Rarity_color_16.png"
       ]
     ],
     "craftingStations": [
@@ -7456,9 +7325,12 @@
         "Accessory"
       ],
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d8/Midas.png",
-        "Midas",
-        "100% chance"
+        "Tooltip",
+        "Those scurvy dogs don. ’t know the first thing about making bank. Summons a coin that revolves around you and steals money from enemies."
+      ],
+      [
+        "Inflicts Debuff",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d8/Midas.png"
       ],
       [
         "Debuff duration",
@@ -7471,10 +7343,6 @@
       [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png"
-      ],
-      [
-        "Buy / Sell",
-        "      1   /       7  20  "
       ]
     ],
     "craftingStations": [
@@ -7561,9 +7429,12 @@
         "Accessory"
       ],
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4f/On_Fire%21.png",
-        "On Fire!",
-        "100% chance"
+        "Tooltip",
+        "Melee attacks and projectiles inflict a variety of debuffs. 30% increased melee speed, damage, and 25% increased melee critical strike chance. 100% increased true melee damage. Temporary immunity to lava. Increased melee knockback. Triples Yoyos, spawns 5 Counterweights, and quadruples yoyo range."
+      ],
+      [
+        "Inflicts Debuff",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4f/On_Fire%21.png"
       ],
       [
         "Debuff duration",
@@ -7574,9 +7445,8 @@
         "Slowly losing life"
       ],
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Frostburn.png",
-        "Frostburn",
-        "100% chance"
+        "Inflicts Debuff",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Frostburn.png"
       ],
       [
         "Debuff duration",
@@ -7587,9 +7457,8 @@
         "It's either really hot or really cold. Either way it REALLY hurts"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d7/Holy_Flames.png",
-        "Holy Flames",
-        "100% chance"
+        "Inflicts Debuff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d7/Holy_Flames.png"
       ],
       [
         "Debuff duration",
@@ -7602,11 +7471,6 @@
       [
         "Rarity",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8d/Rarity_color_15.png"
-      ],
-      [
-        "Sell",
-        "      28  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [
@@ -7790,9 +7654,12 @@
         "Accessory"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/6a/Plague.png",
-        "Plague",
-        "100% chance"
+        "Tooltip",
+        "Summons a plague aura around you that damages nearby enemies. Makes you immune to the Plague debuff."
+      ],
+      [
+        "Inflicts Debuff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/6a/Plague.png"
       ],
       [
         "Debuff duration",
@@ -7805,11 +7672,6 @@
       [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png"
-      ],
-      [
-        "Sell",
-        "      12  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [
@@ -7851,13 +7713,12 @@
         "Accessory"
       ],
       [
-        "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png"
+        "Tooltip",
+        "Three sparks are released on critical hits."
       ],
       [
-        "Sell",
-        "      80  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png"
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png"
       ]
     ],
     "craftingStations": [
@@ -7914,13 +7775,12 @@
         "Accessory"
       ],
       [
-        "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Rarity_color_7.png"
+        "Tooltip",
+        "Rogue projectiles give lifesteal on crits. 12% increased rogue damage."
       ],
       [
-        "Sell",
-        "      9  60  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Rarity_color_7.png"
       ]
     ],
     "craftingStations": [
@@ -7961,12 +7821,12 @@
         "Accessory"
       ],
       [
-        "Rarity",
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e7/Rarity_color_14.png"
+        "Tooltip",
+        "10% increased rogue damage. Using a rogue weapon summons a copy of the projectile that falls from the sky. Stealth strikes cause a circular fan of seeking cosmilite knives to be thrown. You'll never be alone, no matter where you go."
       ],
       [
-        "Buy / Sell",
-        "      25   /       28  "
+        "Rarity",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e7/Rarity_color_14.png"
       ]
     ],
     "craftingStations": [
@@ -8053,9 +7913,12 @@
         "Accessory – Crafting material"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/71/Brimstone_Flames.png",
-        "Brimstone Flames",
-        "100% chance"
+        "Tooltip",
+        "Cursed?  Reduces damage reduction by 10%15% increase to all damage. Brimstone fire rains down while invincibility is active."
+      ],
+      [
+        "Inflicts Debuff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/71/Brimstone_Flames.png"
       ],
       [
         "Debuff duration",
@@ -8068,11 +7931,6 @@
       [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Rarity_color_7.png"
-      ],
-      [
-        "Sell",
-        "      9  60  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [],
@@ -8088,9 +7946,12 @@
         "Accessory – Crafting material"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/71/Brimstone_Flames.png",
-        "Brimstone Flames",
-        "100% chance"
+        "Tooltip",
+        "No longer cursed. Drops brimstone fireballs from the sky occasionally. 15% increase to all damage. Brimstone fire rains down while invincibility is active. Temporary immunity to lava, greatly reduces lava burn damage, and 25% increased damage while in lava."
+      ],
+      [
+        "Inflicts Debuff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/71/Brimstone_Flames.png"
       ],
       [
         "Debuff duration",
@@ -8103,11 +7964,6 @@
       [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png"
-      ],
-      [
-        "Sell",
-        "      12  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [
@@ -8168,9 +8024,12 @@
         "Accessory – Crafting material"
       ],
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/56/Electrified.png",
-        "Electrified",
-        "20% chance"
+        "Tooltip",
+        "+1 max minions. Minion attacks inflict Electrified."
+      ],
+      [
+        "Inflicts Debuff",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/56/Electrified.png"
       ],
       [
         "Debuff duration",
@@ -8183,11 +8042,6 @@
       [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png"
-      ],
-      [
-        "Sell",
-        "      40  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png"
       ]
     ],
     "craftingStations": [],
@@ -8203,13 +8057,12 @@
         "Accessory"
       ],
       [
-        "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/96/Rarity_color_11.png"
+        "Tooltip",
+        "Increases melee damage, true melee damage and melee speed the closer you are to enemies. Max boost is 20% increased melee damage, true melee damage and melee speed."
       ],
       [
-        "Sell",
-        "      22  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/96/Rarity_color_11.png"
       ]
     ],
     "craftingStations": [
@@ -8261,8 +8114,12 @@
         "Accessory"
       ],
       [
+        "Tooltip",
+        "Melee attacks and projectiles inflict nightwither and have a 10% chance to instantly kill normal enemies. Grants the user 60% increased true melee damage on true melee hits. 25% increased melee speed, damage, and 5% increased melee critical strike chance. 50% increased true melee damage. Temporary immunity to lava. Increased melee knockback."
+      ],
+      [
         "Grants Buff",
-        "Moon Fist (buff)Moon Fist"
+        "Moon Fist (buff)"
       ],
       [
         "Buff tooltip",
@@ -8271,11 +8128,6 @@
       [
         "Rarity",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e7/Rarity_color_14.png"
-      ],
-      [
-        "Sell",
-        "      28  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [
@@ -8355,13 +8207,12 @@
         "Accessory – Crafting material"
       ],
       [
-        "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png"
+        "Tooltip",
+        "7% increased summon damage."
       ],
       [
-        "Sell",
-        "      20  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png"
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png"
       ]
     ],
     "craftingStations": [],
@@ -8381,9 +8232,12 @@
         "30"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d7/Holy_Flames.png",
-        "Holy Flames",
-        "100% chance"
+        "Tooltip",
+        "The power of a god pulses from within this artifact. Flaming meteors rain down while invincibility is active. Exploding dragon dust is left behind as you move. Damage and movement speed increased by 15%."
+      ],
+      [
+        "Inflicts Debuff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d7/Holy_Flames.png"
       ],
       [
         "Debuff duration",
@@ -8396,11 +8250,6 @@
       [
         "Rarity",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8d/Rarity_color_15.png"
-      ],
-      [
-        "Sell",
-        "      30  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [
@@ -8551,9 +8400,12 @@
         "Accessory – Crafting material"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d7/Holy_Flames.png",
-        "Holy Flames",
-        "100% chance"
+        "Tooltip",
+        "10% increased damage when under 50% life. 10% increased melee speed. 10% increased melee and true melee damage. Melee attacks and melee projectiles inflict holy fire. Temporary immunity to lava. Increased melee knockback."
+      ],
+      [
+        "Inflicts Debuff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d7/Holy_Flames.png"
       ],
       [
         "Debuff duration",
@@ -8566,11 +8418,6 @@
       [
         "Rarity",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/ec/Rarity_color_12.png"
-      ],
-      [
-        "Sell",
-        "      24  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [
@@ -8617,13 +8464,12 @@
         "Accessory – Crafting material"
       ],
       [
-        "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png"
+        "Tooltip",
+        "Reduces the damage caused by the Brimstone Flames debuff and provides immunity to Searing Lava."
       ],
       [
-        "Sell",
-        "      4  80  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png"
       ]
     ],
     "craftingStations": [],
@@ -8639,8 +8485,12 @@
         "Accessory"
       ],
       [
+        "Tooltip",
+        "Transforms the holder into an armored diver. Increases max movement speed and acceleration while underwater but you move slowly outside of water. The suits' armored plates reduce damage taken by 15%The plates will only take damage if the damage taken is over 50After the suit has taken too much damage its armored plates will take 3 minutes to regenerate. Reduces the damage caused by the pressure of the abyss while out of breath. Removes the bleed effect caused by the abyss in all layers except the deepest one. Grants the ability to swim and greatly extends underwater breathing. Provides light underwater and extra mobility on ice. Provides a moderate amount of light in the abyss. Greatly reduces breath loss in the abyss. Reduces creature's ability to detect you in the abyss. Reduces the defense reduction that the abyss causes. Allows you to fall faster while in liquids."
+      ],
+      [
         "Grants Buff",
-        "Abyssal Diving Suit"
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8a/Abyssal_Diving_Suit_%28buff%29.png"
       ],
       [
         "Buff duration",
@@ -8652,7 +8502,7 @@
       ],
       [
         "Grants Buff",
-        "Abyssal Diving Suit Plates"
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/f0/Abyssal_Diving_Suit_Plates.png"
       ],
       [
         "Buff duration",
@@ -8663,9 +8513,8 @@
         "The plates will absorb 15% damage"
       ],
       [
-        "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
-        "Abyssal Diving Suit Plates Broken",
-        ""
+        "Inflicts Debuff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/47/Abyssal_Diving_Suit_Plates_Broken.png"
       ],
       [
         "Debuff duration",
@@ -8678,11 +8527,6 @@
       [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/96/Rarity_color_11.png"
-      ],
-      [
-        "Sell",
-        "      22  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [
@@ -8842,8 +8686,12 @@
         "Accessory"
       ],
       [
+        "Tooltip",
+        "Gives you and all other players on your team +1 life regen,+10% max life, 7% damage reduction, 13 defense, and 10% increased damage."
+      ],
+      [
         "Grants Buff",
-        "Afflicted"
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/3a/Afflicted.png"
       ],
       [
         "Buff duration",
@@ -8856,11 +8704,6 @@
       [
         "Rarity",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/36/Rarity_color_13.png"
-      ],
-      [
-        "Sell",
-        "      26  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [],
@@ -8876,9 +8719,12 @@
         "Accessory – Crafting material"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/6a/Plague.png",
-        "Plague",
-        "100% chance"
+        "Tooltip",
+        "All attacks inflict the Plague debuff. Projectiles spawn plague seekers on enemy hits."
+      ],
+      [
+        "Inflicts Debuff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/6a/Plague.png"
       ],
       [
         "Debuff duration",
@@ -8891,11 +8737,6 @@
       [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png"
-      ],
-      [
-        "Sell",
-        "      12  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [
@@ -8945,13 +8786,12 @@
         "6"
       ],
       [
-        "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png"
+        "Tooltip",
+        "You emit light. 7% increased damage reduction and increased life regen. Freeze, chill, and frostburn immunity."
       ],
       [
-        "Sell",
-        "      4  80  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png"
       ]
     ],
     "craftingStations": [
@@ -9148,13 +8988,12 @@
         "Accessory"
       ],
       [
-        "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png"
+        "Tooltip",
+        "Taking damage releases a blast of sparks."
       ],
       [
-        "Sell",
-        "      20  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png"
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png"
       ]
     ],
     "craftingStations": [],
@@ -9170,13 +9009,12 @@
         "Accessory – Crafting material"
       ],
       [
-        "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png"
+        "Tooltip",
+        "Reduces creature's ability to detect you in the abyss. Reduces the defense reduction that the abyss causes."
       ],
       [
-        "Sell",
-        "      80  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png"
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png"
       ]
     ],
     "craftingStations": [],
@@ -9192,8 +9030,12 @@
         "Accessory"
       ],
       [
+        "Tooltip",
+        "Transforms the holder into a water elemental. Going underwater gives you a buff. Greatly reduces breath loss and provides a small amount of light in the abyss. Enemies become frozen when they touch you. You have a layer of ice around you that absorbs 20% damage but breaks after one hit. After 30 seconds the ice shield will regenerate. Wow, you can swim now! Most of these effects are only active after Skeletron has been defeated."
+      ],
+      [
         "Grants Buff",
-        "Water Elemental"
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d9/Water_Elemental_%28buff%29.png"
       ],
       [
         "Buff tooltip",
@@ -9201,7 +9043,7 @@
       ],
       [
         "Grants Buff",
-        "Ocean's Blessing"
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e2/Ocean%27s_Blessing.png"
       ],
       [
         "Buff duration",
@@ -9213,7 +9055,7 @@
       ],
       [
         "Grants Buff",
-        "Ice Shield"
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/ae/Ice_Shield_%28buff%29.png"
       ],
       [
         "Buff duration",
@@ -9224,9 +9066,8 @@
         "Absorbs 20% damage from the next hit you take, then shatters"
       ],
       [
-        "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
-        "Ice Shield Cooldown",
-        ""
+        "Inflicts Debuff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/95/Ice_Shield_Cooldown.png"
       ],
       [
         "Debuff duration",
@@ -9237,9 +9078,8 @@
         "The shield is regenerating"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/fc/Glacial_State.png",
-        "Glacial State",
-        "100% chance"
+        "Inflicts Debuff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/fc/Glacial_State.png"
       ],
       [
         "Debuff duration",
@@ -9252,11 +9092,6 @@
       [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png"
-      ],
-      [
-        "Sell",
-        "      2  40  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [],
@@ -9276,13 +9111,12 @@
         "16"
       ],
       [
-        "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Rarity_color_7.png"
+        "Tooltip",
+        "Grants immunity to knockback. Immune to most debuffs and reduces the damage caused by the Brimstone Flames debuff. +16 defense while submerged in liquid. +20 max life. Grants a holy dash which can be used to ram enemies."
       ],
       [
-        "Sell",
-        "      9  60  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Rarity_color_7.png"
       ]
     ],
     "craftingStations": [
@@ -9342,8 +9176,12 @@
         "28"
       ],
       [
+        "Tooltip",
+        "Grants immunity to knockback. Immune to most debuffs. +40 max life and increased life regeneration. Grants a supreme holy flame dash. Can be used to ram enemies. Press Elysian Guard to activate buffs to all damage, crit chance, and defense. Activating this buff will reduce your movement speed and increase enemy aggro. +20 defense while submerged in liquid."
+      ],
+      [
         "Grants Buff",
-        "Elysian Guard"
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/29/Elysian_Guard.png"
       ],
       [
         "Buff duration",
@@ -9354,9 +9192,8 @@
         "Movement speed reduced, other stats buffed"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/07/God_Slayer_Inferno.png",
-        "God Slayer Inferno",
-        "100% chance"
+        "Inflicts Debuff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/07/God_Slayer_Inferno.png"
       ],
       [
         "Debuff duration",
@@ -9367,9 +9204,8 @@
         "Your flesh is burning off"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d7/Holy_Flames.png",
-        "Holy Flames",
-        "100% chance"
+        "Inflicts Debuff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d7/Holy_Flames.png"
       ],
       [
         "Debuff duration",
@@ -9382,11 +9218,6 @@
       [
         "Rarity",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e7/Rarity_color_14.png"
-      ],
-      [
-        "Sell",
-        "      28  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [
@@ -9569,13 +9400,12 @@
         "12"
       ],
       [
-        "Rarity",
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/36/Rarity_color_13.png"
+        "Tooltip",
+        "Provides immunity to the astral infection debuff. Boosts life regen even while under the effects of a damaging debuff. While under the effects of a damaging debuff you will gain 15 defense. Press Astral Arcanum UI Toggle to toggle teleportation UI while no bosses are alive."
       ],
       [
-        "Sell",
-        "      26  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
+        "Rarity",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/36/Rarity_color_13.png"
       ]
     ],
     "craftingStations": [
@@ -9617,9 +9447,12 @@
         "Accessory"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d7/Holy_Flames.png",
-        "Holy Flames",
-        "100% chance"
+        "Tooltip",
+        "The searing core of the profaned goddess. 10% damage reduction. Being hit creates a miniature sun that lingers, dealing damage to nearby enemies. The sun will slowly drag enemies into it. Only one sun can be active at once. Provides a moderate amount of light in the Abyss."
+      ],
+      [
+        "Inflicts Debuff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d7/Holy_Flames.png"
       ],
       [
         "Debuff duration",
@@ -9632,11 +9465,6 @@
       [
         "Rarity",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/ec/Rarity_color_12.png"
-      ],
-      [
-        "Sell",
-        "      24  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [
@@ -9753,13 +9581,12 @@
         "Accessory"
       ],
       [
-        "Rarity",
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/ec/Rarity_color_12.png"
+        "Tooltip",
+        "You lose up to half your defense after taking damage. Lost defense regenerates over time. You gain 1 health for every 1 defense gained as it regenerates."
       ],
       [
-        "Sell",
-        "      24  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
+        "Rarity",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/ec/Rarity_color_12.png"
       ]
     ],
     "craftingStations": [],
@@ -9775,13 +9602,12 @@
         "Accessory"
       ],
       [
-        "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Rarity_color_7.png"
+        "Tooltip",
+        "One of the ancient relics. You quickly regenerate life while on the ground. This effect works best during daytime. Flowers grow if you are standing on grass. Random dye plants will grow while standing on grassless dirt."
       ],
       [
-        "Sell",
-        "      9  60  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Rarity_color_7.png"
       ]
     ],
     "craftingStations": [
@@ -9852,13 +9678,12 @@
         "8"
       ],
       [
-        "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Rarity_color_7.png"
+        "Tooltip",
+        "Boosts life regen even while under the effects of a damaging debuff. While under the effects of a damaging debuff you will gain 11 defense. Press Astral Teleport to teleport to a random location while no bosses are alive."
       ],
       [
-        "Sell",
-        "      9  60  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Rarity_color_7.png"
       ]
     ],
     "craftingStations": [
@@ -9909,9 +9734,12 @@
         "Accessory"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/0e/Flesh_Totem_Cooldown.png",
-        "Flesh Totem Cooldown",
-        ""
+        "Tooltip",
+        "8% increased damage and damage reduction. Boosts your max HP by 10%Healing Potions are 15% more effective. Halves enemy contact damage. When you take contact damage this effect has a 20 second cooldown."
+      ],
+      [
+        "Inflicts Debuff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/0e/Flesh_Totem_Cooldown.png"
       ],
       [
         "Debuff duration",
@@ -9924,11 +9752,6 @@
       [
         "Rarity",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e7/Rarity_color_14.png"
-      ],
-      [
-        "Sell",
-        "      28  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [
@@ -10107,13 +9930,12 @@
         "Accessory – Crafting material"
       ],
       [
-        "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png"
+        "Tooltip",
+        "7% increased damage reduction and +3 defense while in the corruption."
       ],
       [
-        "Sell",
-        "      40  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png"
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png"
       ]
     ],
     "craftingStations": [
@@ -10158,8 +9980,12 @@
         "20 Summon"
       ],
       [
+        "Tooltip",
+        "Summons a cosmic elemental to fight for you."
+      ],
+      [
         "Grants Buff",
-        "Cosmic Elemental"
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/83/Cosmic_Elemental_%28buff%29.png"
       ],
       [
         "Buff tooltip",
@@ -10168,11 +9994,6 @@
       [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png"
-      ],
-      [
-        "Sell",
-        "      40  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png"
       ]
     ],
     "craftingStations": [
@@ -10243,13 +10064,12 @@
         "3"
       ],
       [
-        "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png"
+        "Tooltip",
+        "5% increased damage reduction. Enemies take damage when they touch you."
       ],
       [
-        "Sell",
-        "      20  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png"
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png"
       ]
     ],
     "craftingStations": [],
@@ -10265,13 +10085,12 @@
         "Accessory – Crafting material"
       ],
       [
-        "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png"
+        "Tooltip",
+        "7% increased damage reduction and +3 defense while in the crimson."
       ],
       [
-        "Sell",
-        "      40  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png"
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png"
       ]
     ],
     "craftingStations": [
@@ -10316,13 +10135,12 @@
         "5"
       ],
       [
-        "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png"
+        "Tooltip",
+        "Boosts life regen even while under the effects of a damaging debuff. While under the effects of a damaging debuff you will gain 8 defense."
       ],
       [
-        "Sell",
-        "      20  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png"
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png"
       ]
     ],
     "craftingStations": [],
@@ -10342,9 +10160,12 @@
         "6"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/fc/Glacial_State.png",
-        "Glacial State",
-        "100% chance"
+        "Tooltip",
+        "One of the ancient relics. Creates a rotating ice shield around you that damages and slows down enemies on contact."
+      ],
+      [
+        "Inflicts Debuff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/fc/Glacial_State.png"
       ],
       [
         "Debuff duration",
@@ -10355,9 +10176,8 @@
         "Cannot move and defense is shattered"
       ],
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Frostburn.png",
-        "Frostburn",
-        "100% chance"
+        "Inflicts Debuff",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Frostburn.png"
       ],
       [
         "Debuff duration",
@@ -10370,11 +10190,6 @@
       [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png"
-      ],
-      [
-        "Sell",
-        "      4  80  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [
@@ -10445,13 +10260,12 @@
         "8"
       ],
       [
-        "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png"
+        "Tooltip",
+        "15% increased damage, movement speed and +15 defense while underwater. While underwater you gain the ability to dash great distances."
       ],
       [
-        "Sell",
-        "      4  80  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png"
       ]
     ],
     "craftingStations": [
@@ -10543,13 +10357,12 @@
         "Accessory – Crafting material"
       ],
       [
-        "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c2/Rarity_color_9.png"
+        "Tooltip",
+        "Causes stars to fall and grants increased immune time when damaged. Provides life regeneration and reduces the cooldown of healing potions."
       ],
       [
-        "Sell",
-        "      16  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c2/Rarity_color_9.png"
       ]
     ],
     "craftingStations": [
@@ -10601,13 +10414,12 @@
         "Accessory – Crafting material"
       ],
       [
-        "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png"
+        "Tooltip",
+        "Reduces the damage caused by the pressure of the abyss while out of breath. Removes the bleed effect caused by the upper layers of the abyss."
       ],
       [
-        "Sell",
-        "      80  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png"
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png"
       ]
     ],
     "craftingStations": [],
@@ -10627,8 +10439,12 @@
         "45 Summon"
       ],
       [
+        "Tooltip",
+        "Summons a sand elemental to fight for you."
+      ],
+      [
         "Grants Buff",
-        "Sand Elemental"
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/23/Sand_Elemental_%28buff%29.png"
       ],
       [
         "Buff tooltip",
@@ -10637,11 +10453,6 @@
       [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png"
-      ],
-      [
-        "Sell",
-        "      4  80  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [],
@@ -10661,8 +10472,12 @@
         "18"
       ],
       [
+        "Tooltip",
+        "Blessed by the Profaned Flame. Grants immunity to knockback, and the Burning, On Fire!  and Holy Flames debuffs. +30 max life. Grants a supreme holy flame dash. Can be used to ram enemies. Press Elysian Guard to activate buffs to all damage, crit chance, and defense. Activating this buff will reduce your movement speed and increase enemy aggro."
+      ],
+      [
         "Grants Buff",
-        "Elysian Guard"
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/29/Elysian_Guard.png"
       ],
       [
         "Buff duration",
@@ -10673,9 +10488,8 @@
         "Movement speed reduced, other stats buffed"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d7/Holy_Flames.png",
-        "Holy Flames",
-        "100% chance"
+        "Inflicts Debuff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d7/Holy_Flames.png"
       ],
       [
         "Debuff duration",
@@ -10688,11 +10502,6 @@
       [
         "Rarity",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/ec/Rarity_color_12.png"
-      ],
-      [
-        "Sell",
-        "      24  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [],
@@ -10712,8 +10521,12 @@
         "45 Summon"
       ],
       [
+        "Tooltip",
+        "Summons a cloud elemental to fight for you."
+      ],
+      [
         "Grants Buff",
-        "Cloud Elemental"
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/15/Cloud_Elemental_%28buff%29.png"
       ],
       [
         "Buff tooltip",
@@ -10722,11 +10535,6 @@
       [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png"
-      ],
-      [
-        "Sell",
-        "      4  80  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [],
@@ -10746,8 +10554,12 @@
         "36"
       ],
       [
+        "Tooltip",
+        "35% decreased movement speed. Enemies take damage when they hit you. You move faster and lose 18 defense for 3 seconds if you take damage. Temporary immunity to lava."
+      ],
+      [
         "Grants Buff",
-        "Shell Speed Boost"
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/35/Shell_Speed_Boost.png"
       ],
       [
         "Buff duration",
@@ -10760,11 +10572,6 @@
       [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png"
-      ],
-      [
-        "Sell",
-        "      4  80  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [
@@ -10846,9 +10653,12 @@
         "Accessory – Crafting material"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/0e/Flesh_Totem_Cooldown.png",
-        "Flesh Totem Cooldown",
-        ""
+        "Tooltip",
+        "Halves enemy contact damage. When you take contact damage this effect has a 20 second cooldown."
+      ],
+      [
+        "Inflicts Debuff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/0e/Flesh_Totem_Cooldown.png"
       ],
       [
         "Debuff duration",
@@ -10861,11 +10671,6 @@
       [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png"
-      ],
-      [
-        "Sell",
-        "      12  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [],
@@ -10885,8 +10690,12 @@
         "13"
       ],
       [
+        "Tooltip",
+        "Absorbs 25% of damage done to players on your team. Only active above 25% life. Grants immunity to knockback. Puts a shell around the owner when below 50% life that reduces damage. The shell becomes more powerful when below 15% life and reduces damage even further."
+      ],
+      [
         "Grants Buff",
-        "Ice Barrier"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8e/Ice_Barrier.png"
       ],
       [
         "Buff duration",
@@ -10898,7 +10707,7 @@
       ],
       [
         "Grants Buff",
-        "Paladin's Shield"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d5/Paladin%27s_Shield_%28buff%29.png"
       ],
       [
         "Buff duration",
@@ -10911,11 +10720,6 @@
       [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Rarity_color_7.png"
-      ],
-      [
-        "Sell",
-        "      9  60  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [],
@@ -10935,9 +10739,12 @@
         "4"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/fc/Glacial_State.png",
-        "Glacial State",
-        "100% chance"
+        "Tooltip",
+        "You will freeze enemies near you when you are struck. You are immune to the chilled debuff."
+      ],
+      [
+        "Inflicts Debuff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/fc/Glacial_State.png"
       ],
       [
         "Debuff duration",
@@ -10950,11 +10757,6 @@
       [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png"
-      ],
-      [
-        "Sell",
-        "      2  40  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [],
@@ -10974,13 +10776,12 @@
         "6"
       ],
       [
-        "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png"
+        "Tooltip",
+        "You emit a mushroom spore explosion when you are hit."
       ],
       [
-        "Sell",
-        "      2  40  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png"
       ]
     ],
     "craftingStations": [],
@@ -11000,8 +10801,12 @@
         "10 Summon"
       ],
       [
+        "Tooltip",
+        "Summons a fungal clump to fight for you. The clump latches onto enemies and steals their life for you."
+      ],
+      [
         "Grants Buff",
-        "Fungal Clump"
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/89/Fungal_Clump_%28buff%29.png"
       ],
       [
         "Buff tooltip",
@@ -11010,11 +10815,6 @@
       [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png"
-      ],
-      [
-        "Sell",
-        "      40  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png"
       ]
     ],
     "craftingStations": [
@@ -11106,9 +10906,12 @@
         "Accessory"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/ce/Pearl_Aura.png",
-        "Pearl Aura",
-        "100% chance"
+        "Tooltip",
+        "You have a light aura around you. Enemies within the aura are slowed down. Does not work while a boss is alive. Provides a small amount of light in the abyss."
+      ],
+      [
+        "Inflicts Debuff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/ce/Pearl_Aura.png"
       ],
       [
         "Debuff duration",
@@ -11121,11 +10924,6 @@
       [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png"
-      ],
-      [
-        "Sell",
-        "      40  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png"
       ]
     ],
     "craftingStations": [],
@@ -11145,8 +10943,12 @@
         "6"
       ],
       [
+        "Tooltip",
+        "15% reduced movement speed and 5% damage reduction. Taking a hit will make you move very fast for a short time."
+      ],
+      [
         "Grants Buff",
-        "Shell Speed Boost"
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/35/Shell_Speed_Boost.png"
       ],
       [
         "Buff duration",
@@ -11159,11 +10961,6 @@
       [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png"
-      ],
-      [
-        "Sell",
-        "      20  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png"
       ]
     ],
     "craftingStations": [],
@@ -11183,13 +10980,12 @@
         "14"
       ],
       [
-        "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png"
+        "Tooltip",
+        "10% decreased movement speed. Enemies take damage when they hit you."
       ],
       [
-        "Sell",
-        "      2  40  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png"
       ]
     ],
     "craftingStations": [],
@@ -11205,9 +11001,12 @@
         "Accessory"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/65/Astral_Infection_%28debuff%29.png",
-        "Astral Infection",
-        "100% chance"
+        "Tooltip",
+        "Tap the DOWN key to increase your fall speed for 5 seconds. This has a 8 second cooldown. Striking the ground with increased fall speed will cause an astral explosion."
+      ],
+      [
+        "Inflicts Debuff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/65/Astral_Infection_%28debuff%29.png"
       ],
       [
         "Debuff duration",
@@ -11220,11 +11019,6 @@
       [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Rarity_color_7.png"
-      ],
-      [
-        "Sell",
-        "      9  60  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [
@@ -11285,17 +11079,20 @@
         "90 Summon"
       ],
       [
+        "Tooltip",
+        "The heart of the world. Summons all elementals to protect you."
+      ],
+      [
         "Grants Buff",
-        "Heart of the Elements"
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/0f/Heart_of_the_Elements_%28buff%29.png"
       ],
       [
         "Buff tooltip",
         "All elementals will protect you"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/71/Brimstone_Flames.png",
-        "Brimstone Flames",
-        "100% chance"
+        "Inflicts Debuff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/71/Brimstone_Flames.png"
       ],
       [
         "Debuff duration",
@@ -11308,11 +11105,6 @@
       [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d9/Rarity_color_rainbow.gif"
-      ],
-      [
-        "Sell",
-        "      16  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [
@@ -11412,9 +11204,12 @@
         "Accessory"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/65/Astral_Infection_%28debuff%29.png",
-        "Astral Infection",
-        "100% chance"
+        "Tooltip",
+        "Taking damage, or inflicting a true melee strike, drops an immense amount of astral stars from the sky. Taking damage boosts true melee damage by 50%Boost duration is based on the amount of damage you took, the higher the damage the longer the boost. Provides immunity to the astral infection, cursed inferno, on fire, and frostburn debuffs. Enemies take damage when they hit you and are inflicted with the astral infection debuff."
+      ],
+      [
+        "Inflicts Debuff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/65/Astral_Infection_%28debuff%29.png"
       ],
       [
         "Debuff duration",
@@ -11427,11 +11222,6 @@
       [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c2/Rarity_color_9.png"
-      ],
-      [
-        "Sell",
-        "      16  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [
@@ -11523,13 +11313,12 @@
         "Accessory"
       ],
       [
-        "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png"
+        "Tooltip",
+        "5% increased damage reduction, plus 9 defense and increased life regen while in the Jungle. Poison and Venom immunity. Honey-like life regen with no speed penalty. Most bee. /hornet enemies and projectiles do 75% damage to you."
       ],
       [
-        "Sell",
-        "      4  80  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png"
       ]
     ],
     "craftingStations": [
@@ -11627,8 +11416,12 @@
         "Accessory"
       ],
       [
+        "Tooltip",
+        "Summons Howl to fight for you, Calcifer to light your way, and Turnip-Head to follow you around. Placing this accessory in vanity slots will summon the trio without the combat or exploration utilities."
+      ],
+      [
         "Grants Buff",
-        "Howl's Heart"
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/a0/Howl%27s_Heart_%28buff%29.png"
       ],
       [
         "Buff tooltip",
@@ -11637,10 +11430,6 @@
       [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8f/Rarity_color_10.png"
-      ],
-      [
-        "Buy / Sell",
-        "      12   /       2  40  "
       ]
     ],
     "craftingStations": [
@@ -11702,13 +11491,12 @@
         "Accessory – Crafting material"
       ],
       [
-        "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png"
+        "Tooltip",
+        "Converts certain debuffs into buffs and extends their durations. Debuffs affected. : Darkness, Blackout, Confused, Slow, Weak, Broken Armor,Armor Crunch, War Cleave, Chilled, Ichor and Obstructed. Revengeance drop."
       ],
       [
-        "Sell",
-        "      80  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png"
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png"
       ]
     ],
     "craftingStations": [],
@@ -11724,13 +11512,12 @@
         "Accessory – Crafting material"
       ],
       [
-        "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png"
+        "Tooltip",
+        "Grants immunity to the irradiated debuff."
       ],
       [
-        "Sell",
-        "      4  80  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png"
       ]
     ],
     "craftingStations": [],
@@ -11746,13 +11533,12 @@
         "Accessory – Crafting material"
       ],
       [
-        "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png"
+        "Tooltip",
+        "5% increased damage reduction, +5 defense, and increased life regen while in the Jungle. Immunity to Poison."
       ],
       [
-        "Sell",
-        "      80  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png"
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png"
       ]
     ],
     "craftingStations": [
@@ -11802,8 +11588,12 @@
         "126 Summon"
       ],
       [
+        "Tooltip",
+        "Summons an earth elemental to fight for you."
+      ],
+      [
         "Grants Buff",
-        "Earth Elemental"
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/39/Earth_Elemental_%28buff%29.png"
       ],
       [
         "Buff tooltip",
@@ -11812,11 +11602,6 @@
       [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png"
-      ],
-      [
-        "Sell",
-        "      4  80  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [
@@ -11887,8 +11672,12 @@
         "1200 Summon"
       ],
       [
+        "Tooltip",
+        "Summons a small Old Duke to fight for you. When below 50% life, it moves much faster."
+      ],
+      [
         "Grants Buff",
-        "Mini Old Duke"
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/80/Mini_Old_Duke_%28buff%29.png"
       ],
       [
         "Buff tooltip",
@@ -11897,11 +11686,6 @@
       [
         "Rarity",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/36/Rarity_color_13.png"
-      ],
-      [
-        "Sell",
-        "      26  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [
@@ -11967,9 +11751,12 @@
         "8"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/fc/Glacial_State.png",
-        "Glacial State",
-        "100% chance"
+        "Tooltip",
+        "Boosted damage reduction and health while wearing the Daedalus armor. Grants a frost dash."
+      ],
+      [
+        "Inflicts Debuff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/fc/Glacial_State.png"
       ],
       [
         "Debuff duration",
@@ -11982,11 +11769,6 @@
       [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png"
-      ],
-      [
-        "Sell",
-        "      4  80  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [
@@ -12031,8 +11813,12 @@
         "65 Summon"
       ],
       [
+        "Tooltip",
+        "Summons a water elemental to fight for you The elemental stays above you, shooting water spears, ice mist, and treble clefs at nearby enemies."
+      ],
+      [
         "Grants Buff",
-        "Anahita"
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/7c/Anahita_%28buff%29.png"
       ],
       [
         "Buff tooltip",
@@ -12041,11 +11827,6 @@
       [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Rarity_color_7.png"
-      ],
-      [
-        "Sell",
-        "      9  60  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [],
@@ -12061,8 +11842,12 @@
         "Accessory"
       ],
       [
+        "Tooltip",
+        "Increases maximum mana by 50 and reduces mana cost by 15%Increases life regen as life decreases. Increases life regen when afflicted with Poison, On Fire, or Brimstone Flames. You will survive fatal damage and revive with 30% life on a 3 minute cooldown. You are encased in an ice barrier for 3 seconds when revived."
+      ],
+      [
         "Grants Buff",
-        "Encased"
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/4d/Encased.png"
       ],
       [
         "Buff duration",
@@ -12073,9 +11858,8 @@
         "30 defense and +30% damage reduction, but..."
       ],
       [
-        "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
-        "Concoction Cooldown",
-        ""
+        "Inflicts Debuff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/69/Concoction_Cooldown.png"
       ],
       [
         "Debuff duration",
@@ -12088,10 +11872,6 @@
       [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png"
-      ],
-      [
-        "Buy / Sell",
-        "      36   /       4  80  "
       ]
     ],
     "craftingStations": [],
@@ -12111,17 +11891,20 @@
         "75/150/225 Summon"
       ],
       [
+        "Tooltip",
+        "Purity. Summons a healer guardian which heals for a certain amount of health every few seconds. Summons a defensive guardian if you have at least 10 minion slots, which boosts your movement speed and your damage resistance. Summons an offensive guardian if you are wearing the tarragon summoner set (or stronger. ), which boosts your summon damage and your minion slots. If you get hit, most of their effects will disappear for 5 seconds."
+      ],
+      [
         "Grants Buff",
-        "The Profaned Soul"
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/4b/The_Profaned_Soul.png"
       ],
       [
         "Buff tooltip",
         "The healer will heal your wounds (Only Healer) The Defensive Duo will protect and heal you! (Healer + Defensive) The Offensive Duo will fight for and heal you! (Healer + Offensive) The Profaned Babs will fight for and defend you! (All Three)"
       ],
       [
-        "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
-        "Burnt Out",
-        ""
+        "Inflicts Debuff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e2/Burnt_Out.png"
       ],
       [
         "Debuff duration",
@@ -12132,9 +11915,8 @@
         "You've been burnt out and your guardians are less effective"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d7/Holy_Flames.png",
-        "Holy Flames",
-        "100% chance"
+        "Inflicts Debuff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d7/Holy_Flames.png"
       ],
       [
         "Debuff duration",
@@ -12147,11 +11929,6 @@
       [
         "Rarity",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/ec/Rarity_color_12.png"
-      ],
-      [
-        "Sell",
-        "      24  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [
@@ -12201,8 +11978,12 @@
         "495/570/645 Summon"
       ],
       [
+        "Tooltip",
+        "Transforms you into an emissary of the profaned goddess. Requires 10 minion slots to use in order to grant the following effects. All non-summon weapons are converted into powerful summon variations. Falling below 50% life will empower these attacks. Transforms Melee attacks into a barrage of spears. Transforms Magic attacks into a powerful splitting fireball. Transforms Ranged attacks into a flurry of fireballs and meteors. Transforms Rogue attacks into a deadly crystalline spiral. Summons and empowers the profaned babs to fight alongside you. You are no longer affected by burn out when hit. Provides buffs depending on the time of day. Thinking back, it was a boring life. And so we burn it all in the name of purity."
+      ],
+      [
         "Grants Buff",
-        "Devotion"
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/4b/Devotion.png"
       ],
       [
         "Buff duration",
@@ -12214,7 +11995,7 @@
       ],
       [
         "Grants Buff",
-        "The Profaned Soul"
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/4b/The_Profaned_Soul.png"
       ],
       [
         "Buff duration",
@@ -12225,9 +12006,8 @@
         "The healer will heal your wounds (Only Healer)The Defensive Duo will protect and heal you! (Healer + Defensive)The Offensive Duo will fight for and heal you! (Healer + Offensive)The Profaned Babs will fight for and defend you! (All Three)"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e2/Burnt_Out.png",
-        "Burnt Out",
-        ""
+        "Inflicts Debuff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e2/Burnt_Out.png"
       ],
       [
         "Debuff duration",
@@ -12238,9 +12018,8 @@
         "You've been burnt out and your guardians are less effective"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d7/Holy_Flames.png",
-        "Holy Flames",
-        "100% chance"
+        "Inflicts Debuff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d7/Holy_Flames.png"
       ],
       [
         "Debuff duration",
@@ -12253,11 +12032,6 @@
       [
         "Rarity",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8b/Rarity_color_16.png"
-      ],
-      [
-        "Sell",
-        "No value       40   (once Exo Mechs and Supreme Calamitas are defeated)",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [
@@ -12327,8 +12101,12 @@
         "18"
       ],
       [
+        "Tooltip",
+        "Causes stars to fall and gives increased immune time when damaged. Provides life regeneration and reduces the cooldown of healing potions. Absorbs 25% of damage done to players on your team. This effect is only active above 25% life. Grants immunity to knockback. Puts a shell around the owner when below 50% life that reduces damage. The shell becomes more powerful when below 15% life and reduces damage even further."
+      ],
+      [
         "Grants Buff",
-        "Ice Barrier"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8e/Ice_Barrier.png"
       ],
       [
         "Buff duration",
@@ -12340,7 +12118,7 @@
       ],
       [
         "Grants Buff",
-        "Paladin's Shield"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d5/Paladin%27s_Shield_%28buff%29.png"
       ],
       [
         "Buff duration",
@@ -12353,11 +12131,6 @@
       [
         "Rarity",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e7/Rarity_color_14.png"
-      ],
-      [
-        "Sell",
-        "      28  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [
@@ -12556,8 +12329,12 @@
         "Accessory – Crafting material"
       ],
       [
+        "Tooltip",
+        "Summons a sand elemental to heal you. ;D."
+      ],
+      [
         "Grants Buff",
-        "Rare Sand Elemental"
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/97/Rare_Sand_Elemental_%28buff%29.png"
       ],
       [
         "Buff tooltip",
@@ -12566,11 +12343,6 @@
       [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png"
-      ],
-      [
-        "Sell",
-        "      4  80  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [],
@@ -12590,13 +12362,12 @@
         "10"
       ],
       [
-        "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Rarity_color_7.png"
+        "Tooltip",
+        "Reduces max HP by 50% but greatly improves life regeneration."
       ],
       [
-        "Sell",
-        "      9  60  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Rarity_color_7.png"
       ]
     ],
     "craftingStations": [
@@ -12681,17 +12452,20 @@
         "60 Summon"
       ],
       [
+        "Tooltip",
+        "One of the ancient relics. Summons a brimstone elemental to fight for you."
+      ],
+      [
         "Grants Buff",
-        "Brimstone Elemental"
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/f5/Brimstone_Elemental_%28buff%29.png"
       ],
       [
         "Buff tooltip",
         "The brimstone elemental will protect you"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/71/Brimstone_Flames.png",
-        "Brimstone Flames",
-        "100% chance"
+        "Inflicts Debuff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/71/Brimstone_Flames.png"
       ],
       [
         "Debuff duration",
@@ -12704,11 +12478,6 @@
       [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png"
-      ],
-      [
-        "Sell",
-        "      4  80  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [],
@@ -12724,13 +12493,12 @@
         "Accessory – Crafting material"
       ],
       [
-        "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png"
+        "Tooltip",
+        "Activates a protective shield that grants 15 defense for 10 seconds. The shield then dissipates and recharges for 20 seconds before being reactivated."
       ],
       [
-        "Sell",
-        "      20  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png"
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png"
       ]
     ],
     "craftingStations": [],
@@ -12750,13 +12518,12 @@
         "3"
       ],
       [
-        "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png"
+        "Tooltip",
+        "Increased defense and damage reduction when submerged in liquid. Increased movement speed when submerged in liquid."
       ],
       [
-        "Sell",
-        "      40  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png"
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png"
       ]
     ],
     "craftingStations": [],
@@ -12776,13 +12543,12 @@
         "2"
       ],
       [
-        "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png"
+        "Tooltip",
+        "Increased defense by 5 when submerged in liquid. Increases movement speed and life regen while wearing the Victide armor."
       ],
       [
-        "Sell",
-        "      40  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png"
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png"
       ]
     ],
     "craftingStations": [
@@ -12823,13 +12589,12 @@
         "Accessory – Crafting material"
       ],
       [
-        "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png"
+        "Tooltip",
+        "Boosts your defense by 4 and max movement speed and acceleration by 5%Receiving a hit causes you to only lose half of your max adrenaline rather than all of it. Revengeance drop."
       ],
       [
-        "Sell",
-        "      80  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png"
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png"
       ]
     ],
     "craftingStations": [],
@@ -12849,13 +12614,12 @@
         "10"
       ],
       [
-        "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c2/Rarity_color_9.png"
+        "Tooltip",
+        "5% increased movement and jump speed. +20 max life and mana. Standing still boosts life and mana regen. Increased defense, movement speed and damage reduction while submerged in liquid. Enemies take damage when they hit you. You emit a cloud of mushroom spores when you are hit. 10% increased damage reduction. 3% reduced stealth costs. 5% of the damage from enemy attacks is absorbed and converted into healing."
       ],
       [
-        "Sell",
-        "      16  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c2/Rarity_color_9.png"
       ]
     ],
     "craftingStations": [
@@ -12940,8 +12704,12 @@
         "10"
       ],
       [
+        "Tooltip",
+        "In rest may we find victory. You deal 90% less damage unless stationary. Standing still grants buff. (s. ) dependent on what weapon you're holding. Standing still provides a damaging aura around you. While moving, you regenerate health as if standing still. Provides a small amount of light in the Abyss."
+      ],
+      [
         "Grants Buff",
-        "Cozy Fire"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c7/Cozy_Fire.png"
       ],
       [
         "Buff duration",
@@ -12953,7 +12721,7 @@
       ],
       [
         "Grants Buff",
-        "Heart Lamp"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/db/Heart_Lamp_%28buff%29.png"
       ],
       [
         "Buff duration",
@@ -12965,7 +12733,7 @@
       ],
       [
         "Grants Buff",
-        "Well Fed"
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a3/Well_Fed.png"
       ],
       [
         "Buff duration",
@@ -12976,9 +12744,8 @@
         "Minor improvements to all statsMinor improvements to all stats and increased life regeneration"
       ],
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4f/On_Fire%21.png",
-        "On Fire!",
-        "100% chance"
+        "Inflicts Debuff",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4f/On_Fire%21.png"
       ],
       [
         "Debuff duration",
@@ -12991,11 +12758,6 @@
       [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Rarity_color_7.png"
-      ],
-      [
-        "Sell",
-        "      9  60  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [
@@ -13062,13 +12824,12 @@
         "Accessory"
       ],
       [
-        "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d9/Rarity_color_rainbow.gif"
+        "Tooltip",
+        "The heart of (most of. ) the Terraria community. Starts off with weak buffs to all of your stats. The stat buffs become more powerful as you progress. Reduces the Do. T effects of harmful debuffs inflicted on you. Thank you to all of my supporters that made this mod a reality."
       ],
       [
-        "Sell",
-        "      9  60  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d9/Rarity_color_rainbow.gif"
       ]
     ],
     "craftingStations": [
@@ -13219,13 +12980,12 @@
         "Accessory"
       ],
       [
-        "Rarity",
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/ec/Rarity_color_12.png"
+        "Tooltip",
+        "You reflect projectiles when they hit you. Reflected projectiles deal no damage to you. This reflect has a 120 second cooldown which is shared with all other dodges and reflects. If this effect triggers you get a health regeneration boost for 5 seconds. If the same enemy projectile type hits you again you will resist its damage 15%."
       ],
       [
-        "Sell",
-        "      24  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
+        "Rarity",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/ec/Rarity_color_12.png"
       ]
     ],
     "craftingStations": [
@@ -13346,13 +13106,12 @@
         "20"
       ],
       [
-        "Rarity",
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e7/Rarity_color_14.png"
+        "Tooltip",
+        "15% increased damage reduction. +30 max life and mana. 5% increased movement and jump speed. Standing still boosts life and mana regen. Increased defense, movement speed and damage reduction while submerged in liquid. Enemies take damage when they hit you. You emit a cloud of mushroom spores and sparks when you are hit. 2% reduced stealth costs. 6. 25% of the damage from enemy attacks is absorbed and converted into healing. Increased healing as health lowers. Dying revives you inside of an encumbering shell for 3 seconds with a 1 minute cooldown. Generates an energy shield over 1 minute that takes one hit."
       ],
       [
-        "Sell",
-        "      28  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
+        "Rarity",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e7/Rarity_color_14.png"
       ]
     ],
     "craftingStations": [
@@ -13507,13 +13266,12 @@
         "Accessory"
       ],
       [
-        "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png"
+        "Tooltip",
+        "Taking damage releases a blast of sparks. Immunity to Electrified and you resist all electrical projectile and enemy damage. Enemy bullets do half damage to you and are reflected back at the enemy for 800% their original damage."
       ],
       [
-        "Sell",
-        "      2  40  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png"
       ]
     ],
     "craftingStations": [
@@ -13605,8 +13363,12 @@
         "Accessory"
       ],
       [
+        "Tooltip",
+        "After 1 second of standing still and not attacking you gain a buff. The buff boosts your damage by 50% and decreases damage taken by 15%The buff deactivates if you move or attack once."
+      ],
+      [
         "Grants Buff",
-        "Chi"
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8b/Chi.png"
       ],
       [
         "Buff duration",
@@ -13619,11 +13381,6 @@
       [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png"
-      ],
-      [
-        "Sell",
-        "      80  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png"
       ]
     ],
     "craftingStations": [],
@@ -13643,8 +13400,12 @@
         "4002 Summon"
       ],
       [
+        "Tooltip",
+        "The true potential of a lesser elemental. Summons an cosmic conflict construct to fight for you. Summons a cosmic shield around you that inflicts God Slayer Inferno. Collecting Cosmichid plants boosts damage by 1% up to 30%While the item's visibility is on, Mana Sickness is replaced with Mana Burn. 50% increased flight time."
+      ],
+      [
         "Grants Buff",
-        "Cosmic Conflict Construct"
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/de/Cosmic_Conflict_Construct_%28buff%29.png"
       ],
       [
         "Buff tooltip",
@@ -13653,11 +13414,6 @@
       [
         "Rarity",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e7/Rarity_color_14.png"
-      ],
-      [
-        "Sell",
-        "      20  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [
@@ -13860,13 +13616,12 @@
         "20"
       ],
       [
-        "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png"
+        "Tooltip",
+        "15% reduced movement speed. Immune to Astral Infection and Feral Bite. Increased regeneration at lower health."
       ],
       [
-        "Sell",
-        "      2  40  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png"
       ]
     ],
     "craftingStations": [],
@@ -13882,8 +13637,12 @@
         "Accessory"
       ],
       [
+        "Tooltip",
+        "Top of the food chain. Summons various spirits of the world to protect you. 20% increase to summon damage and defense. +4 life regeneration, 15% increased pick speed, and +8 max minions. Increased minion knockback. Minions inflict a variety of debuffs and spawn skeletal limbs on enemy hits."
+      ],
+      [
         "Grants Buff",
-        "The World"
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/55/The_World_%28buff%29.png"
       ],
       [
         "Buff tooltip",
@@ -13892,11 +13651,6 @@
       [
         "Rarity",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8d/Rarity_color_15.png"
-      ],
-      [
-        "Sell",
-        "      16  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [
@@ -14090,13 +13844,12 @@
         "Accessory"
       ],
       [
-        "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png"
+        "Tooltip",
+        "30 increased fishing power during the day. 45 increased fishing power during the night. 60 increased fishing power during a solar eclipse. Greatly increases chance of catching potion ingredient fish."
       ],
       [
-        "Sell",
-        "      20  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png"
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png"
       ]
     ],
     "craftingStations": [
@@ -14183,13 +13936,12 @@
         "Accessory"
       ],
       [
-        "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png"
+        "Tooltip",
+        "Increases fishing skill Increases chance to catch crates."
       ],
       [
-        "Sell",
-        "      40  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png"
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png"
       ]
     ],
     "craftingStations": [
@@ -14245,13 +13997,12 @@
         "Accessory"
       ],
       [
-        "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png"
+        "Tooltip",
+        "The ultimate fishing accessory. Increases fishing skill by 80Fishing line will never break and decreases chances of bait consumption. Increases chance to catch crates. Sonar potion effect."
       ],
       [
-        "Sell",
-        "      2  40  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png"
       ]
     ],
     "craftingStations": [
@@ -14337,13 +14088,12 @@
         "Accessory – Crafting material"
       ],
       [
-        "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png"
+        "Tooltip",
+        "Increases pick speed by 15% while underground."
       ],
       [
-        "Sell",
-        "      20  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png"
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png"
       ]
     ],
     "craftingStations": [
@@ -14375,13 +14125,12 @@
         "Accessory – Crafting material"
       ],
       [
-        "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png"
+        "Tooltip",
+        "20% increased mining speed, 5% damage reduction, and +10 defense while underground or in the underworld."
       ],
       [
-        "Sell",
-        "      80  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png"
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png"
       ]
     ],
     "craftingStations": [
@@ -14474,13 +14223,12 @@
         "Accessory"
       ],
       [
-        "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png"
+        "Tooltip",
+        "Spelunker effect and 15% increased mining speed."
       ],
       [
-        "Sell",
-        "      2  40  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png"
       ]
     ],
     "craftingStations": [
@@ -14589,13 +14337,12 @@
         "Accessory – Crafting material"
       ],
       [
-        "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Rarity_color_7.png"
+        "Tooltip",
+        "Reduces the damage caused by the pressure of the abyss while out of breath. Removes the bleed effect caused by the abyss. Grants the ability to swim and greatly extends underwater breathing. Provides light underwater and extra mobility on ice. Provides a moderate amount of light in the abyss. Greatly reduces breath loss in the abyss."
       ],
       [
-        "Sell",
-        "      9  60  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Rarity_color_7.png"
       ]
     ],
     "craftingStations": [
@@ -14656,13 +14403,12 @@
         "Accessory"
       ],
       [
-        "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png"
+        "Tooltip",
+        "One of the ancient relics. Increases flight time, movement speed and jump speed by 10%."
       ],
       [
-        "Sell",
-        "      40  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png"
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png"
       ]
     ],
     "craftingStations": [
@@ -14729,13 +14475,12 @@
         "Accessory – Crafting material"
       ],
       [
-        "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e4/Rarity_color_6.png"
+        "Tooltip",
+        "Extreme Speed! 36% increased running acceleration. Increased flight time. Greater mobility on ice. Water and lava walking. Immunity to the On Fire!  debuff. Temporary immunity to lava."
       ],
       [
-        "Sell",
-        "      7  20  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e4/Rarity_color_6.png"
       ]
     ],
     "craftingStations": [
@@ -14796,13 +14541,12 @@
         "Accessory"
       ],
       [
-        "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png"
+        "Tooltip",
+        "Most ocean enemies become friendly and provides waterbreathing. Being underwater slowly boosts your defense over time but also slows movement speed. The defense boost and movement speed reduction slowly vanish while outside of water. Maximum defense boost is 50, maximum movement speed reduction is 10%Provides a small amount of light in the abyss. Moderately reduces breath loss in the abyss."
       ],
       [
-        "Sell",
-        "      4  80  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png"
       ]
     ],
     "craftingStations": [
@@ -14889,13 +14633,12 @@
         "Accessory – Crafting material"
       ],
       [
-        "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Rarity_color_7.png"
+        "Tooltip",
+        "Mach speed with style! Horizontal speed. : 8Acceleration multiplier. : 1. 5Good vertical speed. Flight time. : 8010% increased movement speed while wearing the Reaver Armor."
       ],
       [
-        "Sell",
-        "      9  60  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Rarity_color_7.png"
       ]
     ],
     "craftingStations": [
@@ -14941,13 +14684,12 @@
         "Accessory"
       ],
       [
-        "Rarity",
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8d/Rarity_color_15.png"
+        "Tooltip",
+        "Talking speed EVEN FURTHER BEYOND! Counts as wings. Horizontal speed. : 12Acceleration multiplier. : 3Excellent vertical speed. Flight time. : 25050% increased running acceleration. Greater mobility on ice. Water and lava walking. Immunity to the On Fire!  debuff. Temporary immunity to lava. Being hit for over 200 damage will make you immune for an extended period of time."
       ],
       [
-        "Sell",
-        "      30  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
+        "Rarity",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8d/Rarity_color_15.png"
       ]
     ],
     "craftingStations": [
@@ -15121,13 +14863,12 @@
         "Accessory – Crafting material"
       ],
       [
-        "Rarity",
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8d/Rarity_color_15.png"
+        "Tooltip",
+        "Absolutely Fabulous. Horizontal speed. : 12Acceleration multiplier. : 3Excellent vertical speed. Flight time. : 361."
       ],
       [
-        "Sell",
-        "      30  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
+        "Rarity",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8d/Rarity_color_15.png"
       ]
     ],
     "craftingStations": [],
@@ -15143,13 +14884,12 @@
         "Accessory – Crafting material"
       ],
       [
-        "Rarity",
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e7/Rarity_color_14.png"
+        "Tooltip",
+        "Ludicrous speed! Counts as wings. Horizontal speed. : 10. 5Acceleration multiplier. : 2. 75Great vertical speed. Flight time. : 18036% increased running acceleration. Greater mobility on ice. Water and lava walking. Immunity to the On Fire!  debuff. Temporary immunity to lava."
       ],
       [
-        "Sell",
-        "      28  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
+        "Rarity",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e7/Rarity_color_14.png"
       ]
     ],
     "craftingStations": [
@@ -15206,13 +14946,12 @@
         "Accessory – Crafting material"
       ],
       [
-        "Rarity",
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/ec/Rarity_color_12.png"
+        "Tooltip",
+        "Blessed by the Profaned Flame. Horizontal speed. : 9. 75Acceleration multiplier. : 2. 7Great vertical speed. Flight time. : 240Temporary immunity to lava and 15% increased movement speed."
       ],
       [
-        "Sell",
-        "      24  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
+        "Rarity",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/ec/Rarity_color_12.png"
       ]
     ],
     "craftingStations": [],
@@ -15228,13 +14967,12 @@
         "Accessory – Crafting material"
       ],
       [
-        "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8f/Rarity_color_10.png"
+        "Tooltip",
+        "Pulsing with an alien heartbeat. Horizontal speed. : 9Acceleration multiplier. : 2. 5Good vertical speed. Flight time. : 1805% increased rogue damage and critical strike chance while wearing the Empyrean Armor."
       ],
       [
-        "Sell",
-        "      16  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8f/Rarity_color_10.png"
       ]
     ],
     "craftingStations": [
@@ -15275,8 +15013,12 @@
         "6"
       ],
       [
+        "Tooltip",
+        "15% reduced movement speed and 5% damage reduction. Taking a hit will make you move very fast for a short time."
+      ],
+      [
         "Grants Buff",
-        "Shell Speed Boost"
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/35/Shell_Speed_Boost.png"
       ],
       [
         "Buff duration",
@@ -15289,11 +15031,6 @@
       [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png"
-      ],
-      [
-        "Sell",
-        "      20  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png"
       ]
     ],
     "craftingStations": [],
@@ -15309,13 +15046,12 @@
         "Accessory – Crafting material"
       ],
       [
-        "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png"
+        "Tooltip",
+        "Fueled by the fury of the depths. Horizontal speed. : 7. 75Acceleration multiplier. : 1. 5Average vertical speed. Flight time. : 1805% increased damage while wearing the Hydrothermic Armor."
       ],
       [
-        "Sell",
-        "      12  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png"
       ]
     ],
     "craftingStations": [
@@ -15361,13 +15097,12 @@
         "Accessory – Crafting material"
       ],
       [
-        "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c2/Rarity_color_9.png"
+        "Tooltip",
+        "Powered by the Astral Infection. Hold down to hover during flight, greatly extending flight duration. Horizontal speed. : 9Acceleration multiplier. : 1. 75Good vertical speed. Flight time. : 12010% increased movement and jump speed while wearing the Astral Armor."
       ],
       [
-        "Sell",
-        "      16  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c2/Rarity_color_9.png"
       ]
     ],
     "craftingStations": [],
@@ -15383,13 +15118,12 @@
         "Accessory – Crafting material"
       ],
       [
-        "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png"
+        "Tooltip",
+        "10% increased movement speed. Boosts your maximum flight time by 20%."
       ],
       [
-        "Sell",
-        "      80  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png"
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png"
       ]
     ],
     "craftingStations": [
@@ -15431,13 +15165,12 @@
         "Accessory – Crafting material"
       ],
       [
-        "Rarity",
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8d/Rarity_color_15.png"
+        "Tooltip",
+        "Delirious thoughts... Horizontal speed. : 14Acceleration multiplier. : 3. 2Excellent vertical speed. Flight time. : ∞."
       ],
       [
-        "Sell",
-        "      30  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
+        "Rarity",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8d/Rarity_color_15.png"
       ]
     ],
     "craftingStations": [
@@ -15588,13 +15321,12 @@
         "Accessory – Crafting material"
       ],
       [
-        "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png"
+        "Tooltip",
+        "Allows you to fall faster in liquids."
       ],
       [
-        "Sell",
-        "      80  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png"
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png"
       ]
     ],
     "craftingStations": [],
@@ -15610,13 +15342,12 @@
         "Accessory"
       ],
       [
-        "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e4/Rarity_color_6.png"
+        "Tooltip",
+        "The mother of all balloons. Counts as wings. Horizontal speed. : 6. 5Acceleration multiplier. : 1Good vertical speed. Flight time. : 7510% increased jump speed and allows constant jumping. Grants the player cloud, blizzard, and sandstorm mid-air jumps."
       ],
       [
-        "Sell",
-        "      7  20  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e4/Rarity_color_6.png"
       ]
     ],
     "craftingStations": [
@@ -15715,13 +15446,12 @@
         "Accessory"
       ],
       [
-        "Rarity",
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/36/Rarity_color_13.png"
+        "Tooltip",
+        "92% increased movement speed. Flying leaves behind batches of damaging microbial clusters."
       ],
       [
-        "Sell",
-        "      9  60  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
+        "Rarity",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/36/Rarity_color_13.png"
       ]
     ],
     "craftingStations": [],
@@ -15737,13 +15467,12 @@
         "Accessory"
       ],
       [
-        "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png"
+        "Tooltip",
+        "Most ocean enemies become friendly and provides waterbreathing."
       ],
       [
-        "Sell",
-        "      40  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png"
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png"
       ]
     ],
     "craftingStations": [
@@ -15804,13 +15533,12 @@
         "Accessory – Crafting material"
       ],
       [
-        "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8f/Rarity_color_10.png"
+        "Tooltip",
+        "Ludicrous speed! Counts as wings. Horizontal speed. : 9Acceleration multiplier. : 2. 5Good vertical speed. Flight time. : 14024% increased running acceleration. Greater mobility on ice. Water and lava walking. Immunity to the On Fire!  debuff. Temporary immunity to lava."
       ],
       [
-        "Sell",
-        "      20  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8f/Rarity_color_10.png"
       ]
     ],
     "craftingStations": [
@@ -15862,13 +15590,12 @@
         "Accessory – Crafting material"
       ],
       [
-        "Rarity",
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e7/Rarity_color_14.png"
+        "Tooltip",
+        "The purest of nature. Horizontal speed. : 11Acceleration multiplier. : 2. 8Excellent vertical speed. Flight time. : 270The Silva revive heals you to half health while wearing the Silva armor."
       ],
       [
-        "Sell",
-        "      28  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
+        "Rarity",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e7/Rarity_color_14.png"
       ]
     ],
     "craftingStations": [
@@ -15915,13 +15642,12 @@
         "Accessory – Crafting material"
       ],
       [
-        "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png"
+        "Tooltip",
+        "Horizontal speed. : 6. 25Acceleration multiplier. : 1Average vertical speed. Flight time. : 8010% increased jump speed while wearing the Aerospec armor."
       ],
       [
-        "Sell",
-        "      80  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png"
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png"
       ]
     ],
     "craftingStations": [
@@ -15972,9 +15698,12 @@
         "Accessory – Crafting material"
       ],
       [
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Frostburn.png",
-        "Frostburn",
-        "100% chance"
+        "Tooltip",
+        "The magic of the ancient ice castle is yours. Counts as wings. Horizontal speed. : 6. 25Acceleration multiplier. : 1Average vertical speed. Flight time. : 1207% increase to all damage. All melee attacks and projectiles inflict frostburn. Icicles rain down as you fly."
+      ],
+      [
+        "Inflicts Debuff",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Frostburn.png"
       ],
       [
         "Debuff duration",
@@ -15987,11 +15716,6 @@
       [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png"
-      ],
-      [
-        "Sell",
-        "      4  80  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [],
@@ -16007,13 +15731,12 @@
         "Accessory – Crafting material"
       ],
       [
-        "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png"
+        "Tooltip",
+        "Wings of the Nightingale. Horizontal speed. : 7. 5Acceleration multiplier. : 1Average vertical speed. Flight time. : 1505% increased damage and critical strike chance while wearing the Daedalus Armor."
       ],
       [
-        "Sell",
-        "      4  80  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png"
       ]
     ],
     "craftingStations": [
@@ -16059,13 +15782,12 @@
         "Accessory – Crafting material"
       ],
       [
-        "Rarity",
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/36/Rarity_color_13.png"
+        "Tooltip",
+        "6% increased jump speed and allows constant jumping. Increased fall damage resistance by 35 blocks. Can climb walls, dash, and dodge attacks. The dodge has a 90 second cooldown. This cooldown is shared with all other dodges and reflects."
       ],
       [
-        "Sell",
-        "      26  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
+        "Rarity",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/36/Rarity_color_13.png"
       ]
     ],
     "craftingStations": [
@@ -16117,9 +15839,12 @@
         "Accessory"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/07/God_Slayer_Inferno.png",
-        "God Slayer Inferno",
-        "100% chance"
+        "Tooltip",
+        "12% increased jump speed and allows constant jumping. Grants immunity to fall damage. Can climb walls, dash and dodge attacks. The dodge has a 90 second cooldown. This cooldown is shared with all other dodges and reflects. Dashes leave homing scythes in your wake."
+      ],
+      [
+        "Inflicts Debuff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/07/God_Slayer_Inferno.png"
       ],
       [
         "Debuff duration",
@@ -16132,11 +15857,6 @@
       [
         "Rarity",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e7/Rarity_color_14.png"
-      ],
-      [
-        "Sell",
-        "      28  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [
@@ -16310,13 +16030,12 @@
         "Accessory – Crafting material"
       ],
       [
-        "Rarity",
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/ec/Rarity_color_12.png"
+        "Tooltip",
+        "Born of the jungle. Horizontal speed. : 9. 5Acceleration multiplier. : 2. 5Great vertical speed. Flight time. : 250+15 defense and +2 life regen while wearing the Tarragon Armor."
       ],
       [
-        "Sell",
-        "      24  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
+        "Rarity",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/ec/Rarity_color_12.png"
       ]
     ],
     "craftingStations": [
@@ -16353,13 +16072,12 @@
         "Accessory – Crafting material"
       ],
       [
-        "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png"
+        "Tooltip",
+        "10% increased movement and jump speed."
       ],
       [
-        "Sell",
-        "      20  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png"
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png"
       ]
     ],
     "craftingStations": [],
@@ -16375,13 +16093,12 @@
         "Accessory"
       ],
       [
-        "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png"
+        "Tooltip",
+        "While powered, allows for infinite jumping. Each subsequent jump without landing requires an increasingly narrowwindow for when the jump can occur."
       ],
       [
-        "Sell",
-        "      20  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png"
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png"
       ]
     ],
     "craftingStations": [],
@@ -16397,8 +16114,12 @@
         "Accessory – Crafting material"
       ],
       [
+        "Tooltip",
+        "Doubles your max HPAllows you to be critically hit 25% of the time. After a critical hit, you gain various buffs for ten seconds. Any healing potions consumed during this time period heal 50% more health."
+      ],
+      [
         "Grants Buff",
-        "Bloody Boost"
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/91/Bloody_Boost.png"
       ],
       [
         "Buff duration",
@@ -16411,11 +16132,6 @@
       [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png"
-      ],
-      [
-        "Sell",
-        "      12  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [],
@@ -16431,13 +16147,12 @@
         "Accessory"
       ],
       [
-        "Rarity",
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/ec/Rarity_color_12.png"
+        "Tooltip",
+        "You lose up to half your defense after taking damage. Lost defense regenerates over time. You gain 1 health for every 1 defense gained as it regenerates."
       ],
       [
-        "Sell",
-        "      24  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
+        "Rarity",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/ec/Rarity_color_12.png"
       ]
     ],
     "craftingStations": [],
@@ -16453,13 +16168,12 @@
         "Accessory – Crafting material"
       ],
       [
-        "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png"
+        "Tooltip",
+        "10% increased movement and jump speed. 5% reduced stealth cost. +20 max life and mana. Standing still boosts life and mana regen."
       ],
       [
-        "Sell",
-        "      4  80  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png"
       ]
     ],
     "craftingStations": [
@@ -16520,13 +16234,12 @@
         "Accessory – Crafting material"
       ],
       [
-        "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png"
+        "Tooltip",
+        "+20 max life. Standing still boosts life regen."
       ],
       [
-        "Sell",
-        "      20  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png"
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png"
       ]
     ],
     "craftingStations": [],
@@ -16542,13 +16255,12 @@
         "Accessory – Crafting material"
       ],
       [
-        "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png"
+        "Tooltip",
+        "+20 max mana. Standing still boosts mana regen."
       ],
       [
-        "Sell",
-        "      20  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png"
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png"
       ]
     ],
     "craftingStations": [],
@@ -16564,13 +16276,12 @@
         "Accessory – Crafting material"
       ],
       [
-        "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Rarity_color_7.png"
+        "Tooltip",
+        "Lowers the cost of stealth strikes by 5%."
       ],
       [
-        "Sell",
-        "      1  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Rarity_color_7.png"
       ]
     ],
     "craftingStations": [],
@@ -16586,13 +16297,12 @@
         "Accessory – Crafting material"
       ],
       [
-        "Rarity",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png"
+        "Tooltip",
+        "You emit light and regen life more quickly at night."
       ],
       [
-        "Sell",
-        "      2  40  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png"
       ]
     ],
     "craftingStations": [
@@ -16635,11 +16345,6 @@
       [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png"
-      ],
-      [
-        "Sell",
-        "      80  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png"
       ]
     ],
     "craftingStations": [],
@@ -16657,11 +16362,6 @@
       [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png"
-      ],
-      [
-        "Sell",
-        "      80  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png"
       ]
     ],
     "craftingStations": [],
@@ -16687,11 +16387,6 @@
       [
         "Rarity",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e7/Rarity_color_14.png"
-      ],
-      [
-        "Sell",
-        "      28  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
       ]
     ],
     "craftingStations": [
@@ -16872,11 +16567,6 @@
       [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png"
-      ],
-      [
-        "Sell",
-        "      80  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png"
       ]
     ],
     "craftingStations": [],

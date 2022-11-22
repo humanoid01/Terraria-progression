@@ -9,6 +9,10 @@
         "Accessory – Crafting material"
       ],
       [
+        "Tooltip",
+        "Reduces the damage caused by the pressure of the abyss while out of breathRemoves the bleed effect caused by the abyssGrants the ability to swim and greatly extends underwater breathingProvides light underwater and extra mobility on iceProvides a moderate amount of light in the abyssGreatly reduces breath loss in the abyss"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Rarity_color_7.png"
       ],
@@ -74,6 +78,10 @@
       [
         "Type",
         "Accessory"
+      ],
+      [
+        "Tooltip",
+        "One of the ancient relicsIncreases flight time, movement speed and jump speed by 10%"
       ],
       [
         "Rarity",
@@ -149,6 +157,10 @@
         "Accessory – Crafting material"
       ],
       [
+        "Tooltip",
+        "Extreme Speed!36% increased running accelerationIncreased flight timeGreater mobility on iceWater and lava walkingImmunity to the On Fire! debuffTemporary immunity to lava"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e4/Rarity_color_6.png"
       ],
@@ -214,6 +226,10 @@
       [
         "Type",
         "Accessory"
+      ],
+      [
+        "Tooltip",
+        "Most ocean enemies become friendly and provides waterbreathingBeing underwater slowly boosts your defense over time but also slows movement speedThe defense boost and movement speed reduction slowly vanish while outside of waterMaximum defense boost is 50, maximum movement speed reduction is 10%Provides a small amount of light in the abyssModerately reduces breath loss in the abyss"
       ],
       [
         "Rarity",
@@ -309,6 +325,10 @@
         "Accessory – Crafting material"
       ],
       [
+        "Tooltip",
+        "Mach speed with style!Horizontal speed: 8Acceleration multiplier: 1.5Good vertical speedFlight time: 8010% increased movement speed while wearing the Reaver Armor"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Rarity_color_7.png"
       ],
@@ -359,6 +379,10 @@
       [
         "Type",
         "Accessory"
+      ],
+      [
+        "Tooltip",
+        "Talking speed EVEN FURTHER BEYOND!Counts as wingsHorizontal speed: 12Acceleration multiplier: 3Excellent vertical speedFlight time: 25050% increased running accelerationGreater mobility on iceWater and lava walkingImmunity to the On Fire! debuffTemporary immunity to lavaBeing hit for over 200 damage will make you immune for an extended period of time"
       ],
       [
         "Rarity",
@@ -541,6 +565,10 @@
         "Accessory – Crafting material"
       ],
       [
+        "Tooltip",
+        "Absolutely FabulousHorizontal speed: 12Acceleration multiplier: 3Excellent vertical speedFlight time: 361"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8d/Rarity_color_15.png"
       ],
@@ -561,6 +589,10 @@
       [
         "Type",
         "Accessory – Crafting material"
+      ],
+      [
+        "Tooltip",
+        "Ludicrous speed!Counts as wingsHorizontal speed: 10.5Acceleration multiplier: 2.75Great vertical speedFlight time: 18036% increased running accelerationGreater mobility on iceWater and lava walkingImmunity to the On Fire! debuffTemporary immunity to lava"
       ],
       [
         "Rarity",
@@ -626,6 +658,10 @@
         "Accessory – Crafting material"
       ],
       [
+        "Tooltip",
+        "Blessed by the Profaned FlameHorizontal speed: 9.75Acceleration multiplier: 2.7Great vertical speedFlight time: 240Temporary immunity to lava and 15% increased movement speed"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/ec/Rarity_color_12.png"
       ],
@@ -646,6 +682,10 @@
       [
         "Type",
         "Accessory – Crafting material"
+      ],
+      [
+        "Tooltip",
+        "Pulsing with an alien heartbeatHorizontal speed: 9Acceleration multiplier: 2.5Good vertical speedFlight time: 1805% increased rogue damage and critical strike chance while wearing the Empyrean Armor"
       ],
       [
         "Rarity",
@@ -695,7 +735,12 @@
         "6"
       ],
       [
+        "Tooltip",
+        "15% reduced movement speed and 5% damage reductionTaking a hit will make you move very fast for a short time"
+      ],
+      [
         "Grants Buff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/35/Shell_Speed_Boost.png",
         "Shell Speed Boost"
       ],
       [
@@ -727,6 +772,10 @@
       [
         "Type",
         "Accessory – Crafting material"
+      ],
+      [
+        "Tooltip",
+        "Fueled by the fury of the depthsHorizontal speed: 7.75Acceleration multiplier: 1.5Average vertical speedFlight time: 1805% increased damage while wearing the Hydrothermic Armor"
       ],
       [
         "Rarity",
@@ -781,6 +830,10 @@
         "Accessory – Crafting material"
       ],
       [
+        "Tooltip",
+        "Powered by the Astral InfectionHold down to hover during flight, greatly extending flight durationHorizontal speed: 9Acceleration multiplier: 1.75Good vertical speedFlight time: 12010% increased movement and jump speed while wearing the Astral Armor"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c2/Rarity_color_9.png"
       ],
@@ -801,6 +854,10 @@
       [
         "Type",
         "Accessory – Crafting material"
+      ],
+      [
+        "Tooltip",
+        "10% increased movement speedBoosts your maximum flight time by 20%"
       ],
       [
         "Rarity",
@@ -849,6 +906,10 @@
       [
         "Type",
         "Accessory – Crafting material"
+      ],
+      [
+        "Tooltip",
+        "Delirious thoughts...Horizontal speed: 14Acceleration multiplier: 3.2Excellent vertical speedFlight time: ∞"
       ],
       [
         "Rarity",
@@ -1008,6 +1069,10 @@
         "Accessory – Crafting material"
       ],
       [
+        "Tooltip",
+        "Allows you to fall faster in liquids"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png"
       ],
@@ -1028,6 +1093,10 @@
       [
         "Type",
         "Accessory"
+      ],
+      [
+        "Tooltip",
+        "The mother of all balloonsCounts as wingsHorizontal speed: 6.5Acceleration multiplier: 1Good vertical speedFlight time: 7510% increased jump speed and allows constant jumpingGrants the player cloud, blizzard, and sandstorm mid-air jumps"
       ],
       [
         "Rarity",
@@ -1135,6 +1204,10 @@
         "Accessory"
       ],
       [
+        "Tooltip",
+        "92% increased movement speedFlying leaves behind batches of damaging microbial clusters"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/36/Rarity_color_13.png"
       ],
@@ -1155,6 +1228,10 @@
       [
         "Type",
         "Accessory"
+      ],
+      [
+        "Tooltip",
+        "Most ocean enemies become friendly and provides waterbreathing"
       ],
       [
         "Rarity",
@@ -1224,6 +1301,10 @@
         "Accessory – Crafting material"
       ],
       [
+        "Tooltip",
+        "Ludicrous speed!Counts as wingsHorizontal speed: 9Acceleration multiplier: 2.5Good vertical speedFlight time: 14024% increased running accelerationGreater mobility on iceWater and lava walkingImmunity to the On Fire! debuffTemporary immunity to lava"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8f/Rarity_color_10.png"
       ],
@@ -1282,6 +1363,10 @@
         "Accessory – Crafting material"
       ],
       [
+        "Tooltip",
+        "The purest of natureHorizontal speed: 11Acceleration multiplier: 2.8Excellent vertical speedFlight time: 270The Silva revive heals you to half health while wearing the Silva armor"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e7/Rarity_color_14.png"
       ],
@@ -1333,6 +1418,10 @@
       [
         "Type",
         "Accessory – Crafting material"
+      ],
+      [
+        "Tooltip",
+        "Horizontal speed: 6.25Acceleration multiplier: 1Average vertical speedFlight time: 8010% increased jump speed while wearing the Aerospec armor"
       ],
       [
         "Rarity",
@@ -1392,6 +1481,11 @@
         "Accessory – Crafting material"
       ],
       [
+        "Tooltip",
+        "The magic of the ancient ice castle is yoursCounts as wingsHorizontal speed: 6.25Acceleration multiplier: 1Average vertical speedFlight time: 1207% increase to all damageAll melee attacks and projectiles inflict frostburnIcicles rain down as you fly"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Frostburn.png",
         "Frostburn",
         "100% chance"
@@ -1425,6 +1519,10 @@
       [
         "Type",
         "Accessory – Crafting material"
+      ],
+      [
+        "Tooltip",
+        "Wings of the NightingaleHorizontal speed: 7.5Acceleration multiplier: 1Average vertical speedFlight time: 1505% increased damage and critical strike chance while wearing the Daedalus Armor"
       ],
       [
         "Rarity",
@@ -1477,6 +1575,10 @@
       [
         "Type",
         "Accessory – Crafting material"
+      ],
+      [
+        "Tooltip",
+        "6% increased jump speed and allows constant jumpingIncreased fall damage resistance by 35 blocksCan climb walls, dash, and dodge attacksThe dodge has a 90 second cooldownThis cooldown is shared with all other dodges and reflects"
       ],
       [
         "Rarity",
@@ -1537,6 +1639,11 @@
         "Accessory"
       ],
       [
+        "Tooltip",
+        "12% increased jump speed and allows constant jumpingGrants immunity to fall damageCan climb walls, dash and dodge attacksThe dodge has a 90 second cooldownThis cooldown is shared with all other dodges and reflectsDashes leave homing scythes in your wake"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/07/God_Slayer_Inferno.png",
         "God Slayer Inferno",
         "100% chance"
@@ -1730,6 +1837,10 @@
         "Accessory – Crafting material"
       ],
       [
+        "Tooltip",
+        "Born of the jungleHorizontal speed: 9.5Acceleration multiplier: 2.5Great vertical speedFlight time: 250+15 defense and +2 life regen while wearing the Tarragon Armor"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/ec/Rarity_color_12.png"
       ],
@@ -1773,6 +1884,10 @@
         "Accessory – Crafting material"
       ],
       [
+        "Tooltip",
+        "10% increased movement and jump speed"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png"
       ],
@@ -1793,6 +1908,10 @@
       [
         "Type",
         "Accessory"
+      ],
+      [
+        "Tooltip",
+        "While powered, allows for infinite jumpingEach subsequent jump without landing requires an increasingly narrowwindow for when the jump can occur"
       ],
       [
         "Rarity",

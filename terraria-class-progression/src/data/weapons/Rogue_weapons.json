@@ -29,6 +29,11 @@
         "14"
       ],
       [
+        "Tooltip",
+        "Throws a rolling barrel that explodes on wall collisionStealth strikes make it rain on collision"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8b/Irradiated.png",
         "Irradiated",
         "100% chance"
@@ -42,6 +47,7 @@
         "Your skin is burning off"
       ],
       [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/11/Poisoned.png",
         "Poisoned",
         "50% chance"
@@ -55,6 +61,7 @@
         "Slowly losing life"
       ],
       [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/fc/Sulphuric_Poisoning.png",
         "Sulphuric Poisoning",
         "12.5% chance"
@@ -140,6 +147,10 @@
         "12"
       ],
       [
+        "Tooltip",
+        "Stealth strikes summon lighting bolts on enemy hits"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png"
       ],
@@ -202,6 +213,11 @@
         "4"
       ],
       [
+        "Tooltip",
+        "Throws a giant plague cell with a lethal aura that splits into 6 plague seekers on deathStealth strikes cause the plague cell to move slower, accumulating an aura of swirling plague seekers as it flies"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/6a/Plague.png",
         "Plague",
         "100% chance"
@@ -279,6 +295,11 @@
         "15"
       ],
       [
+        "Tooltip",
+        "Maybe catching bricks with your face isn’t such a hot idea…Critical hits tear away enemy defenseStealth strikes shatter and briefly stun enemies"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/9a/Crush_Depth.png",
         "Crush Depth",
         "100% chance"
@@ -292,6 +313,7 @@
         "Aquatic Pressure"
       ],
       [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/f9/Eutrophication.png",
         "Eutrophication",
         "100% chance"
@@ -382,6 +404,10 @@
         "15"
       ],
       [
+        "Tooltip",
+        "Throws a fast, small stalactite that crumbles to dust after travelling a short distanceStealth strikes cause a larger, more damaging stalagmite to be thrown which travels slower and further before crumbling to damaging dust"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png"
       ],
@@ -424,6 +450,11 @@
         "10"
       ],
       [
+        "Tooltip",
+        "Launches a star that splits after a short period of timeSplit stars home in on nearby enemies after a few secondsStealth strikes summon a meteor upon enemy impact"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/65/Astral_Infection_%28debuff%29.png",
         "Astral Infection",
         "100% chance"
@@ -479,6 +510,11 @@
         "12"
       ],
       [
+        "Tooltip",
+        "Throws a sticky bomb that explodes into spikes and poison cloudsStealth strikes throw three at once"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8a/Venom.png",
         "Venom",
         "100% chance"
@@ -569,6 +605,11 @@
         "12"
       ],
       [
+        "Tooltip",
+        "Throws a rolling barrel that explodes on wall collisionStealth strikes makes the barrel bounce twice before disappearing with varied effects after each bounce'Some people used to jump over these'"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4f/On_Fire%21.png",
         "On Fire!",
         "100% chance"
@@ -622,6 +663,10 @@
       [
         "Velocity",
         "13"
+      ],
+      [
+        "Tooltip",
+        "Stacks up to 4Stealth strikes release all stars at once with infinite piercing"
       ],
       [
         "Rarity",
@@ -696,6 +741,11 @@
         "9"
       ],
       [
+        "Tooltip",
+        "Slows down when hitting an enemy. Speeds up otherwiseHeals on enemy hitsStealth strikes spawn homing blood on enemy hits"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/71/Brimstone_Flames.png",
         "Brimstone Flames",
         "100% chance"
@@ -772,6 +822,11 @@
         "16"
       ],
       [
+        "Tooltip",
+        "Throws a grenade which bounces after explodingStealth strikes explode into a violent blast of fire and shrapnel when it bounces"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4f/On_Fire%21.png",
         "On Fire!",
         "100% chance"
@@ -826,6 +881,10 @@
         "10"
       ],
       [
+        "Tooltip",
+        "Throws an eyeball that bounces off of surfaces.Critical chance is doubled during a blood moonStealth strikes cause the eyeballs to move much faster and bounce more energetically"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png"
       ],
@@ -866,6 +925,10 @@
       [
         "Velocity",
         "8"
+      ],
+      [
+        "Tooltip",
+        "Throws a very bouncy ball that richochets [sic] off walls and enemiesReceives a small boost in damage and velocity after bouncing off an enemyStealth strikes provide a bigger boost after richocheting [sic]"
       ],
       [
         "Rarity",
@@ -931,6 +994,11 @@
         "12"
       ],
       [
+        "Tooltip",
+        "Explodes into poisonous seawater blastsStealth strikes summon a brackish spear spike"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8a/Venom.png",
         "Venom",
         "100% chance"
@@ -944,6 +1012,7 @@
         "Losing life"
       ],
       [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/11/Poisoned.png",
         "Poisoned",
         "100% chance"
@@ -999,6 +1068,11 @@
         "12"
       ],
       [
+        "Tooltip",
+        "Throws a blade that splits on enemy hitsStealth strikes split further and cause the player to launch a barrage of brimstone darts"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/71/Brimstone_Flames.png",
         "Brimstone Flames",
         "100% chance"
@@ -1074,6 +1148,11 @@
         "8"
       ],
       [
+        "Tooltip",
+        "Throws a shadowflame spiky ball that bursts into flamesStealth Strikes make the ball linger and explode more violently'Definitely not pocket safe'"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e8/Shadowflame.png",
         "Shadowflame",
         "100% chance"
@@ -1129,6 +1208,10 @@
         "20"
       ],
       [
+        "Tooltip",
+        "Throws a fast homing scytheThe scythe will bounce after hitting an enemy up to six timesStealth strikes create damaging afterimages"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8f/Rarity_color_10.png"
       ],
@@ -1169,6 +1252,10 @@
       [
         "Velocity",
         "25"
+      ],
+      [
+        "Tooltip",
+        "Throws a scythe that splits into multiple scythes on enemy hitsStealth strikes reverse direction and home in on enemies after returning to the player"
       ],
       [
         "Rarity",
@@ -1254,6 +1341,10 @@
         "8"
       ],
       [
+        "Tooltip",
+        "Stealth strikes home in after hitting an enemy"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png"
       ],
@@ -1293,6 +1384,10 @@
       [
         "Velocity",
         "12"
+      ],
+      [
+        "Tooltip",
+        "Stealth strikes fire three homing cobalt energy bolts"
       ],
       [
         "Rarity",
@@ -1355,6 +1450,10 @@
       [
         "Velocity",
         "15"
+      ],
+      [
+        "Tooltip",
+        "The bottle is surprisingly dustyThrows a holy flask of water that explodes into a sacred flame pillar on deathThe pillar is destroyed if there's no tiles below itStealth strikes create three flame pillars instead of one on impact"
       ],
       [
         "Rarity",
@@ -1434,6 +1533,11 @@
         "15"
       ],
       [
+        "Tooltip",
+        "Throws a flask of sickly green, irradiated bile which explodes on collisionStealth strikes make the explosion much more violent and powerful"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8b/Irradiated.png",
         "Irradiated",
         "100% chance"
@@ -1514,7 +1618,12 @@
         "8.5"
       ],
       [
+        "Tooltip",
+        "Seems like it has worn down over timeAttacks grant lifesteal based on damage dealtThe lower your HP the more damage this weapon does and heals the player on enemy hitsStealth strikes throw a single rainbow outlined daggerOn enemy hits, this dagger boosts the damage and life regen of all members of your teamHowever, there is a small chance it will cut your health in half instead"
+      ],
+      [
         "Grants Buff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c3/Avertor_Bonus.png",
         "Avertor Bonus"
       ],
       [
@@ -1568,6 +1677,11 @@
         "28"
       ],
       [
+        "Tooltip",
+        "Fires a stream of short-range kunaiStealth strikes spawn 5 Cosmic Scythes which home and explode"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/07/God_Slayer_Inferno.png",
         "God Slayer Inferno",
         "100% chance"
@@ -1623,6 +1737,10 @@
         "20"
       ],
       [
+        "Tooltip",
+        "Throws disks that roll on the ground, occasionally launches an explosive diskStealth strikes launch an explosive disk that can pierce several enemies"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png"
       ],
@@ -1665,6 +1783,11 @@
         "11"
       ],
       [
+        "Tooltip",
+        "Throws bouncing axesStealth strikes throw five at once"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/71/Brimstone_Flames.png",
         "Brimstone Flames",
         "100% chance"
@@ -1720,6 +1843,11 @@
         "20"
       ],
       [
+        "Tooltip",
+        "Throws a crystal javelin that pierces infinitelyStealth strikes travel through blocks, ignore gravity, and summon crystal shards as they fly"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Frostburn.png",
         "Frostburn",
         "100% chance"
@@ -1795,6 +1923,10 @@
         "10"
       ],
       [
+        "Tooltip",
+        "Splits into several projectiles as it travelsStealth strikes make the blade split more and create crystals when destroyed"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png"
       ],
@@ -1867,6 +1999,11 @@
         "12"
       ],
       [
+        "Tooltip",
+        "Throws bouncing daggersStealth strikes are showered in cursed fireballs"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a0/Cursed_Inferno.png",
         "Cursed Inferno",
         "100% chance"
@@ -1920,6 +2057,10 @@
       [
         "Velocity",
         "18"
+      ],
+      [
+        "Tooltip",
+        "Fires high velocity talismans that ignore gravityTalismans attach to enemies, causing them to release lost soulsStealth strikes release more souls and leave behind souls as they travel"
       ],
       [
         "Rarity",
@@ -1994,6 +2135,11 @@
         "20"
       ],
       [
+        "Tooltip",
+        "Throws a dumbbell that bounces and flings weights with each bounceRight click to flex, increasing the damage of your next attack up to 5 times damageFlexes can hit enemies directly"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/9a/Crush_Depth.png",
         "Crush Depth",
         "100% chance"
@@ -2049,6 +2195,11 @@
         "14"
       ],
       [
+        "Tooltip",
+        "Throws an abyssal hatchet that inflicts Armor Crunch and Marked for Death to the enemies it hitsStealth strikes cause the hatchet to be thrown faster and trail water, inflicting Crush Depth in addition to the other debuffs"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8f/Armor_Crunch.png",
         "Armor Crunch",
         "100% chance"
@@ -2062,6 +2213,7 @@
         "Your armor is shredded"
       ],
       [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/db/Marked.png",
         "Marked",
         "100% chance"
@@ -2075,6 +2227,7 @@
         "Damage reduction reduced"
       ],
       [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/9a/Crush_Depth.png",
         "Crush Depth",
         "100% chance"
@@ -2129,6 +2282,10 @@
         "15"
       ],
       [
+        "Tooltip",
+        "Fires a variety of deadly spheres with different effectsStacks up to 5Stealth strikes launch all 4 sphere types at once"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png"
       ],
@@ -2171,6 +2328,11 @@
         "13.69"
       ],
       [
+        "Tooltip",
+        "Fires a lightning bolt to electrocute enemiesThe lightning bolt travels faster while it is rainingSummons lightning from the sky on impactStealth strikes summon more lightning and travel faster"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/56/Electrified.png",
         "Electrified",
         "100% chance"
@@ -2257,6 +2419,11 @@
         "12"
       ],
       [
+        "Tooltip",
+        "Throws an unholy flask of water that explodes into an explosion of bubbles on deathStealth strikes spawn additional bubbles that inflict Ichor and Cursed Inferno"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a0/Cursed_Inferno.png",
         "Cursed Inferno",
         "100% chance"
@@ -2270,6 +2437,7 @@
         "Losing lifeAll damage taken increased by 20%"
       ],
       [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/70/Ichor_%28debuff%29.png",
         "Ichor",
         "100% chance"
@@ -2360,6 +2528,10 @@
         "15"
       ],
       [
+        "Tooltip",
+        "Throws a hydro axe which shreds enemies when it comes into contact with themThe faster it's spinning, the more times it hits before disappearingStealth Strikes make it emit short-ranged bubbles."
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png"
       ],
@@ -2400,6 +2572,10 @@
       [
         "Velocity",
         "12"
+      ],
+      [
+        "Tooltip",
+        "Explodes into a dust cloudStealth strikes form a more intense and longer lasting dust cloud"
       ],
       [
         "Rarity",
@@ -2444,6 +2620,10 @@
         "25"
       ],
       [
+        "Tooltip",
+        "A weapon that, as it flies, processes calculations and fires electricityReleases a flying disk that fires electricity at nearby enemiesStealth strikes allow the disk to ricochet multiple times and unleash an electric explosion, then fire inaccurate lasers while returning"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/bb/Rarity_color_draedon_arsenal.png"
       ],
@@ -2484,6 +2664,10 @@
       [
         "Velocity",
         "15"
+      ],
+      [
+        "Tooltip",
+        "When the sun goes dark, you will know judgementSummons spears from the sky on hitStealth strikes impale enemies and summon a constant barrage of spears over time"
       ],
       [
         "Rarity",
@@ -2557,6 +2741,10 @@
       [
         "Velocity",
         "7"
+      ],
+      [
+        "Tooltip",
+        "And there was no more ground to be seen...Throws out up to 10 lumenous mines with lightning aurasStealth strikes ignore the 10 mine cap, but dissipate quicker"
       ],
       [
         "Rarity",
@@ -2637,6 +2825,11 @@
         "13"
       ],
       [
+        "Tooltip",
+        "Throws a disk that has a chance to generate several disks if enemies are near itStealth strikes fly slower but travel farther, pierce through enemies, and spawn extra disks more frequently"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/71/Brimstone_Flames.png",
         "Brimstone Flames",
         "100% chance"
@@ -2650,6 +2843,7 @@
         "Rapid health loss"
       ],
       [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Frostburn.png",
         "Frostburn",
         "100% chance"
@@ -2663,6 +2857,7 @@
         "It's either really hot or really cold. Either way it REALLY hurts"
       ],
       [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d7/Holy_Flames.png",
         "Holy Flames",
         "100% chance"
@@ -2759,6 +2954,10 @@
         "30"
       ],
       [
+        "Tooltip",
+        "Throws a high velocity axe that returns to you after traveling a short distance or hitting a wallAt the furthest point from the player, a magical axe that travels through walls will be cast towards the nearest enemyStealth strikes make the axe fly further, throwing out many other magical axes in all directions"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png"
       ],
@@ -2794,7 +2993,7 @@
         "5"
       ],
       [
-        "Image not available",
+        null,
         "Conquest Fragment",
         "5"
       ],
@@ -2840,6 +3039,11 @@
         "18"
       ],
       [
+        "Tooltip",
+        "Contrary to its name, it will probably cause an epidemic if used incorrectlyThrows a plagued boomerang that releases plague seekers when it hits tiles or enemiesStealth strikes cause the boomerang to release plague seekers constantly as it travels"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/6a/Plague.png",
         "Plague",
         "100% chance"
@@ -2925,6 +3129,10 @@
         "30"
       ],
       [
+        "Tooltip",
+        "Throws a dark/light boomerang that confuses enemiesThe boomerang will create light shards upon hitting enemies when thrown out, and will fire homing dark shards when returningStealth strikes cause the boomerang to create both dark and light shards whenever one type would be created"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png"
       ],
@@ -3002,6 +3210,11 @@
         "10.5"
       ],
       [
+        "Tooltip",
+        "Throws a disk that fires lasers at nearby enemiesStealth strikes stick to enemies and unleash a barrage of lasers in all directions"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4f/On_Fire%21.png",
         "On Fire!",
         "100% chance"
@@ -3015,6 +3228,7 @@
         "Slowly losing life"
       ],
       [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Frostburn.png",
         "Frostburn",
         "100% chance"
@@ -3070,6 +3284,11 @@
         "26"
       ],
       [
+        "Tooltip",
+        "Throws a stream of homing bladesStealth strikes summon a guillotine of blades on hit"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/07/God_Slayer_Inferno.png",
         "God Slayer Inferno",
         "100% chance"
@@ -3139,6 +3358,10 @@
       [
         "Velocity",
         "64"
+      ],
+      [
+        "Tooltip",
+        "Throws out a spread of daggers that aggressively dart towards enemiesThe daggers stick into hit enemies and deal continous damage, with a max of 20 daggers at onceAfter 10 seconds, each dagger explodes into a cross of laser beamsStealth strikes double the amount of beams on dissipation into an 8 pointed star"
       ],
       [
         "Rarity",
@@ -3217,6 +3440,10 @@
       [
         "Velocity",
         "10"
+      ],
+      [
+        "Tooltip",
+        "Throws a hallowed cross which explodes into a flash of light that damages nearby enemies, closer enemies receiving more damageAs the cross travels downwards, the damage inflicted by both the cross and flash increases constantlyStealth strikes cause the cross to be thrown with full damage immediately. Hallowed stars fall when the cross explodes"
       ],
       [
         "Rarity",
@@ -3301,6 +3528,10 @@
         "18"
       ],
       [
+        "Tooltip",
+        "Fires high velocity talismans that ignore gravityTalismans attach to enemies, causing them to release lost soulsStealth strikes release more souls and leave behind souls as they travel"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Rarity_color_7.png"
       ],
@@ -3341,6 +3572,10 @@
       [
         "Velocity",
         "25"
+      ],
+      [
+        "Tooltip",
+        "Throws a knife which summons homing feathersStealth strike throws a volley of knives"
       ],
       [
         "Rarity",
@@ -3401,6 +3636,10 @@
         "3"
       ],
       [
+        "Tooltip",
+        "Stealth strikes make the boomerang ricochet between enemiesThough the evaporating Sea Kingdom fought a losing battle, its proud inhabitants did not go down easily.As a last resort, they had to fashion weapons from the skeletons of dead animals."
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png"
       ],
@@ -3441,6 +3680,10 @@
       [
         "Velocity",
         "16"
+      ],
+      [
+        "Tooltip",
+        "A long device, used in the tuning of some rather... original machines.Swings a spear around and then throws itOn collision, the spear releases a burst of homing energyStealth strikes release more energy and explode on collisionCurrent Charge: [CHARGE]"
       ],
       [
         "Rarity",
@@ -3520,6 +3763,11 @@
         "15"
       ],
       [
+        "Tooltip",
+        "Fires a long ranged boomerang that explodes into icicles on hitStealth strikes throw three short ranged boomerangs along with a spread of icicles"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Frostburn.png",
         "Frostburn",
         "100% chance"
@@ -3533,6 +3781,7 @@
         "It's either really hot or really cold. Either way it REALLY hurts"
       ],
       [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/9a/Crush_Depth.png",
         "Crush Depth",
         "100% chance"
@@ -3546,6 +3795,7 @@
         "Aquatic pressure"
       ],
       [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/fc/Glacial_State.png",
         "Glacial State",
         "100% chance"
@@ -3632,6 +3882,11 @@
         "22"
       ],
       [
+        "Tooltip",
+        "Do not insert in flare gunSticks to enemiesGenerates a localized hailstormStealth strikes trail snowflakes and summon phantom copies instead of ice shards"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/fc/Glacial_State.png",
         "Glacial State",
         "100% chance"
@@ -3645,6 +3900,7 @@
         "Cannot move and defense is shattered"
       ],
       [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Frostburn.png",
         "Frostburn",
         "100% chance"
@@ -3699,6 +3955,10 @@
         "15"
       ],
       [
+        "Tooltip",
+        "Releases homing sparks while travelingStealth strikes release homing snails that create even more sparks"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png"
       ],
@@ -3741,6 +4001,11 @@
         "14"
       ],
       [
+        "Tooltip",
+        "Throws bouncing dartsStealth strikes ignore gravity and bounce more vigorouslyThey additionally leak slime and cover enemies in dark sludge"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/25/Slime_%28debuff%29.png",
         "Slime",
         "100% chance"
@@ -3754,6 +4019,7 @@
         "You are dripping goo"
       ],
       [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/f5/Slow.png",
         "Slow",
         "100% chance"
@@ -3808,6 +4074,10 @@
         "16"
       ],
       [
+        "Tooltip",
+        "Throws sets of four ghoulish scythes at ultra high velocityStealth strikes summon a flurry of tormented souls on hit"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/36/Rarity_color_13.png"
       ],
@@ -3848,6 +4118,10 @@
       [
         "Velocity",
         "15"
+      ],
+      [
+        "Tooltip",
+        "Throws a shiny blade that ricochets towards another enemy on hitStealth strikes cause the blades to home in after ricocheting, with each ricochet dealing 20% more damageStealth strikes also have increased piercing"
       ],
       [
         "Rarity",
@@ -3917,6 +4191,10 @@
         "10"
       ],
       [
+        "Tooltip",
+        "Stacks up to 3Stealth strikes are super fast and pierce infinitely"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png"
       ],
@@ -3956,6 +4234,10 @@
       [
         "Velocity",
         "15"
+      ],
+      [
+        "Tooltip",
+        "Throws a shiny blade that ricochets towards another enemy on hitStealth strikes cause the blades to home in after ricocheting, with each ricochet dealing 20% more damageStealth strikes also have increased piercing"
       ],
       [
         "Rarity",
@@ -4025,6 +4307,11 @@
         "5"
       ],
       [
+        "Tooltip",
+        "Shoots a speedy homing spiky ball. Stacks up to 10.Attaches to enemies and summons a localized storm of god slayer kunaiStealth strikes home in faster and summon kunai at a faster rateRight click to delete all existing spiky balls"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/07/God_Slayer_Inferno.png",
         "God Slayer Inferno",
         "100% chance"
@@ -4101,6 +4388,10 @@
         "16"
       ],
       [
+        "Tooltip",
+        "Hurls a cursed scythe which homes inThe scythe summons skulls as it flies and explodes into bats on hitStealth strikes spawn a flood of bats and falling skullsInflicts cursed flames and confusion'A dapper skeleton's weapon of choice'"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e4/Rarity_color_6.png"
       ],
@@ -4143,7 +4434,12 @@
         "10"
       ],
       [
+        "Tooltip",
+        "Fires a honeycomb that shatters into fragmentsGrants the honey buff to the player it touchesStealth strikes can bounce off walls and enemies"
+      ],
+      [
         "Grants Buff",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/11/Honey_%28buff%29.png",
         "Honey"
       ],
       [
@@ -4227,6 +4523,11 @@
         "10"
       ],
       [
+        "Tooltip",
+        "Throws a stardisk upwards which then launches itself towards your mouse cursor,explodes into several astral energy bolts if the thrower is moving vertically when throwing it and during its impactStealth strikes rain astral energy bolts from the sky"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/65/Astral_Infection_%28debuff%29.png",
         "Astral Infection",
         "100% chance"
@@ -4282,6 +4583,11 @@
         "5"
       ],
       [
+        "Tooltip",
+        "The Subterranean Sun in the palm of your hand.Shoots a gravity-defying spiky ball. Stacks up to 10.Once stationary, periodically emits small suns that explode on hitStealth strikes emit suns at a faster rate and last for a longer amount of timeRight click to delete all existing spiky balls"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d7/Holy_Flames.png",
         "Holy Flames",
         "100% chance"
@@ -4358,6 +4664,11 @@
         "8"
       ],
       [
+        "Tooltip",
+        "Fires a constant barrage of black ice shardsStealth strikes hurl a set of razor sharp ice chunks that shatter on impact"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Frostburn.png",
         "Frostburn",
         "100% chance"
@@ -4444,6 +4755,11 @@
         "14"
       ],
       [
+        "Tooltip",
+        "Throws homing ice starsStealth strikes pierce infinitely and spawn ice shards on hitIce Stars are too brittle to be recovered after being thrown"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Frostburn.png",
         "Frostburn",
         "100% chance"
@@ -4498,6 +4814,11 @@
         "16"
       ],
       [
+        "Tooltip",
+        "Stealth strikes spawn a cosmic explosion and freeze nearby enemies on enemy hits"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Frostburn.png",
         "Frostburn",
         "100% chance"
@@ -4511,6 +4832,7 @@
         "It's either really hot or really cold. Either way it REALLY hurts"
       ],
       [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/fc/Glacial_State.png",
         "Glacial State",
         "100% chance"
@@ -4524,6 +4846,7 @@
         "Cannot move and defense is shattered"
       ],
       [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/77/Nightwither.png",
         "Nightwither",
         "100% chance"
@@ -4579,6 +4902,11 @@
         "20"
       ],
       [
+        "Tooltip",
+        "Throws an ichor tipped tridentStealth strikes are showered in splashes of ichor"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/70/Ichor_%28debuff%29.png",
         "Ichor",
         "100% chance"
@@ -4634,6 +4962,11 @@
         "15"
       ],
       [
+        "Tooltip",
+        "Throws a burning dagger that starts spinning after travelling a short distance, inflicting additional damage while spinningStealth strikes cause the dagger to be engulfed in flames, exploding on contact with walls and enemies"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4f/On_Fire%21.png",
         "On Fire!",
         "100% chance"
@@ -4714,7 +5047,12 @@
         "15"
       ],
       [
+        "Tooltip",
+        "Fires a slow, long-ranged boomerangStealth strikes grant the Mushy buff to the user on enemy hits and summon homing spores"
+      ],
+      [
         "Grants Buff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/00/Mushy.png",
         "Mushy"
       ],
       [
@@ -4766,6 +5104,10 @@
       [
         "Velocity",
         "12"
+      ],
+      [
+        "Tooltip",
+        "The franciscas do more damage for a short time when initially thrownStealth strikes pierce infinitely"
       ],
       [
         "Rarity",
@@ -4833,6 +5175,10 @@
       [
         "Velocity",
         "25"
+      ],
+      [
+        "Tooltip",
+        "Throws a tight spread of six venomous reaper fangs that stick in enemiesStealth strikes cause the teeth to emit a crushing shockwave on impactYou're gonna need a bigger boat"
       ],
       [
         "Rarity",
@@ -4941,6 +5287,11 @@
         "8"
       ],
       [
+        "Tooltip",
+        "Throws an icy blade that splits into multiple ice stars on enemy hitsStealth strikes will briefly gain sentience and ram nearby enemies before returning to the player"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Frostburn.png",
         "Frostburn",
         "100% chance"
@@ -5042,6 +5393,10 @@
         "11"
       ],
       [
+        "Tooltip",
+        "Stealth strikes throws three short ranged kylies instead of a single long range one'Also known as Dowak'"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png"
       ],
@@ -5083,6 +5438,11 @@
         "10"
       ],
       [
+        "Tooltip",
+        "Sticks to enemies on hit and detonates after 3 seconds Breaks upon hitting blocksStealth Strike Effect: On explosion, fire and shrapnel are releasedStealth strike mines can stick to the ground and last much longer when doing so"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4f/On_Fire%21.png",
         "On Fire!",
         "100% chance"
@@ -5135,6 +5495,10 @@
       [
         "Velocity",
         "12"
+      ],
+      [
+        "Tooltip",
+        "The tomahawks have more damage for a short time when initially thrownStealth strikes pierce infinitely"
       ],
       [
         "Rarity",
@@ -5204,6 +5568,11 @@
         "12"
       ],
       [
+        "Tooltip",
+        "Throws a bombshell that explodes, summoning a meteor to impact the siteRight click to throw a spread of gravity affected comets that explode, leaving behind a starStealth strikes lob a bombshell that additionally splits into comets on hit"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/65/Astral_Infection_%28debuff%29.png",
         "Astral Infection",
         "100% chance"
@@ -5217,6 +5586,7 @@
         "Your flesh is melting off"
       ],
       [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/68/Confused.png",
         "Confused",
         "100% chance"
@@ -5272,6 +5642,11 @@
         "12"
       ],
       [
+        "Tooltip",
+        "Rapidly throws a variety of poisonous fangs that stick to enemiesStealth strikes cause 3 very fast teeth to be thrown, ignoring gravity and inflicting extreme knockback"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8a/Venom.png",
         "Venom",
         "100% chance"
@@ -5327,6 +5702,11 @@
         "12"
       ],
       [
+        "Tooltip",
+        "Sticks to enemies and injects a potent toxinStealth strikes are trailed by homing urchin spikes"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8a/Venom.png",
         "Venom",
         "100% chance"
@@ -5380,6 +5760,10 @@
       [
         "Velocity",
         "20"
+      ],
+      [
+        "Tooltip",
+        "Send the stars back to where they belongThrows a stardust javelin trailed by rising stardust shardsExplodes into additional stardust shards upon hitting enemiesStealth strikes cause the stardust shards to fly alongside the javelin instead of rising"
       ],
       [
         "Rarity",
@@ -5460,6 +5844,10 @@
         "22"
       ],
       [
+        "Tooltip",
+        "Throws out a set of three kunai that ignore gravity and slightly home in on enemiesAfter traveling enough distance, the kunai supercharge with lunar energy, homing in far more aggressively and exploding on impactStealth Strikes instantly throw eight supercharged Kunai"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8f/Rarity_color_10.png"
       ],
@@ -5518,6 +5906,10 @@
         "10"
       ],
       [
+        "Tooltip",
+        "Throws a stream of kunai that stick to enemies and explodeRight click to throw a single kunai that pierces, after piercing an enemy it emits a massive explosion on the next enemy hitStealth strikes fire three kunai that home in, stick to enemies, and explode"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png"
       ],
@@ -5560,6 +5952,11 @@
         "16"
       ],
       [
+        "Tooltip",
+        "Stealth strikes leave a trail of lingering flowers"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a0/Cursed_Inferno.png",
         "Cursed Inferno",
         "100% chance"
@@ -5633,6 +6030,10 @@
       [
         "Velocity",
         "7"
+      ],
+      [
+        "Tooltip",
+        "This has to hurtHurls a heavy metal ball that shatters on impactStealth strikes cause the ball to release spikes as it travels"
       ],
       [
         "Rarity",
@@ -5735,6 +6136,11 @@
         "10 effective"
       ],
       [
+        "Tooltip",
+        "Fires a fist that explodesStealth strikes make the fist ricochet between enemies up to 4 times"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4f/On_Fire%21.png",
         "On Fire!",
         "100% chance"
@@ -5810,6 +6216,10 @@
         "21"
       ],
       [
+        "Tooltip",
+        "Throws a scythe that emits molten globs on enemy hitsStealth strikes spawn molten globs periodically in flight and more on-hit"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/ec/Rarity_color_12.png"
       ],
@@ -5850,6 +6260,10 @@
       [
         "Velocity",
         "8"
+      ],
+      [
+        "Tooltip",
+        "Stealth strikes throw 3 bouncing darts at high speed'Perfect for popping'"
       ],
       [
         "Rarity",
@@ -5893,6 +6307,10 @@
         "20"
       ],
       [
+        "Tooltip",
+        "Fires a stream of short-range fungal rootsStealth strikes spawn an explosion of fungi spores"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png"
       ],
@@ -5933,6 +6351,10 @@
       [
         "Velocity",
         "12"
+      ],
+      [
+        "Tooltip",
+        "Stealth strikes inflict a wide assortment of debuffs"
       ],
       [
         "Rarity",
@@ -5995,6 +6417,10 @@
       [
         "Velocity",
         "27"
+      ],
+      [
+        "Tooltip",
+        "Annihilates anything it touches with one large swingTakes 10 seconds to charge, each 10% of charge will release homing 75 energy blades Holding it uncharged will rapidly heal youStealth strikes will release 575 energy blades on hit'She smothered them in Her hatred'"
       ],
       [
         "Rarity",
@@ -6080,6 +6506,10 @@
         "8"
       ],
       [
+        "Tooltip",
+        "Throws a spiky ball that sticks to everythingExplodes into cactus spikes after roughly 3 secondsCan hurt town NPCsStealth strikes throw five at once"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fd/Rarity_color_0.png"
       ],
@@ -6138,6 +6568,11 @@
         "30"
       ],
       [
+        "Tooltip",
+        "Strike your foes with this spear of the nightThrows a spear that shatters when it hits an enemyStealth strikes cause the spear to summon homing stars as it flies"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/77/Nightwither.png",
         "Nightwither",
         "100% chance"
@@ -6224,6 +6659,10 @@
         "6"
       ],
       [
+        "Tooltip",
+        "Throws a spiky ball that ignores gravity and summons a pair of light and dark orbs that orbit the playerOnce the spiky ball disappears the orbs will home in on the nearest targetStacks up to 10Stealth strikes cause all spiky balls and orbs to be thrown at onceRight click to recall all existing spiky balls"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e4/Rarity_color_6.png"
       ],
@@ -6301,6 +6740,10 @@
         "12"
       ],
       [
+        "Tooltip",
+        "Stealth strikes last longer and summon petals on enemy hits"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png"
       ],
@@ -6363,6 +6806,10 @@
         "16"
       ],
       [
+        "Tooltip",
+        "Stealth strikes split into more javelins"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png"
       ],
@@ -6423,6 +6870,10 @@
       [
         "Velocity",
         "8"
+      ],
+      [
+        "Tooltip",
+        "Throws a shadow bomb that explodes into homing soulsStealth strikes make the bomb manifest on the cursor and explode into more souls"
       ],
       [
         "Rarity",
@@ -6491,6 +6942,10 @@
       [
         "Velocity",
         "14.5"
+      ],
+      [
+        "Tooltip",
+        "Fires an enormous ghost lance that emits lost souls as it fliesExplodes into tormented souls on enemy hitsStealth strikes continuously leave spectral clones in their wake"
       ],
       [
         "Rarity",
@@ -6566,6 +7021,10 @@
         "10"
       ],
       [
+        "Tooltip",
+        "Fires a spectral javelin that rapidly releases lost soulsFades away and slows down over timeLost souls released later deal less damageStealth strikes don't slow down and souls always deal full damage"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png"
       ],
@@ -6638,6 +7097,11 @@
         "12"
       ],
       [
+        "Tooltip",
+        "Releases a swarm of angry plague beesStealth strikes spawn more bees and generate a larger explosion"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/6a/Plague.png",
         "Plague",
         "100% chance"
@@ -6718,6 +7182,11 @@
         "7"
       ],
       [
+        "Tooltip",
+        "Throws a poisonous spiky ball. Stacks up to 3.Stealth strikes cause the balls to release spore cloudsRight click to delete all existing spiky balls"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/11/Poisoned.png",
         "Poisoned",
         "100% chance"
@@ -6798,6 +7267,11 @@
         "16"
       ],
       [
+        "Tooltip",
+        "Throws daggers that split after a whileStealth strikes additionally explode into prism shards and briefly stuns enemies"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/f9/Eutrophication.png",
         "Eutrophication",
         "100% chance"
@@ -6881,6 +7355,10 @@
       [
         "Velocity",
         "20"
+      ],
+      [
+        "Tooltip",
+        "Throws out a molten chunk of profaned rock that explodes and splits into crystalsStealth strikes leave behind lingering patches of magma"
       ],
       [
         "Rarity",
@@ -6971,6 +7449,11 @@
         "6"
       ],
       [
+        "Tooltip",
+        "Fires an unholy spear that explodes on deathStealth strikes spawn smaller spears to fly along side it"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d7/Holy_Flames.png",
         "Holy Flames",
         "100% chance"
@@ -7057,6 +7540,11 @@
         "20"
       ],
       [
+        "Tooltip",
+        "SuccStealth strikes spawn more explosions"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/65/Astral_Infection_%28debuff%29.png",
         "Astral Infection",
         "100% chance"
@@ -7112,6 +7600,11 @@
         "20"
       ],
       [
+        "Tooltip",
+        "Throws daggers that explode and split after a whileStealth strike splits more with a devastating explosion and sucks in enemies"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/65/Astral_Infection_%28debuff%29.png",
         "Astral Infection",
         "100% chance"
@@ -7198,6 +7691,10 @@
         "18"
       ],
       [
+        "Tooltip",
+        "Fires a huge prismatic disk shurikenThe shuriken shatters moments after impact into homing rocketsStealth strikes shatter into many more rockets"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8d/Rarity_color_15.png"
       ],
@@ -7240,6 +7737,11 @@
         "8"
       ],
       [
+        "Tooltip",
+        "Fires a swift homing diskStealth strikes explode into energy stars"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/65/Astral_Infection_%28debuff%29.png",
         "Astral Infection",
         "100% chance"
@@ -7295,6 +7797,11 @@
         "16"
       ],
       [
+        "Tooltip",
+        "Stealth strikes spawn rain clouds on enemy hits"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a0/Cursed_Inferno.png",
         "Cursed Inferno",
         "100% chance"
@@ -7380,6 +7887,10 @@
         "12"
       ],
       [
+        "Tooltip",
+        "Throws sacrificial daggers that lodge themselves in enemiesRight click causes all stuck daggers to fly back at you and give you lifeDaggers stuck to enemies release bloodsplosions over timeStealth strikes provide much more life when returning to you"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8d/Rarity_color_15.png"
       ],
@@ -7420,6 +7931,10 @@
       [
         "Velocity",
         "14"
+      ],
+      [
+        "Tooltip",
+        "Stacks up to 2Stealth strikes throw 2 long ranged sand dollars that explode into coral shards on enemy hits"
       ],
       [
         "Rarity",
@@ -7463,6 +7978,10 @@
         "7"
       ],
       [
+        "Tooltip",
+        "Throws a huge shuriken made out of fused sand unaffected by gravity which slowly accelerates horizontallyIt does more damage depending on how fast it goes horizontally and how long it has been flying forStealth strikes periodically release sand clouds"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Rarity_color_7.png"
       ],
@@ -7503,6 +8022,10 @@
       [
         "Velocity",
         "30"
+      ],
+      [
+        "Tooltip",
+        "Throws an ultra high velocity spear, which creates more projectiles that home inThe spear creates a Scarlet Blast upon hitting an enemyStealth strikes grant summon a star of projectiles upon hitting an enemy'Divine Spear \"Spear The Gungnir\"'"
       ],
       [
         "Rarity",
@@ -7583,6 +8106,10 @@
         "12"
       ],
       [
+        "Tooltip",
+        "Gains velocity over timeStealth strikes gain damage as they damage enemies"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png"
       ],
@@ -7625,6 +8152,11 @@
         "8"
       ],
       [
+        "Tooltip",
+        "Snaps apart into a venomous cloud upon striking an enemyStealth strikes are coated with vile toxins, afflicting enemies with a powerful debuff"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8a/Venom.png",
         "Venom",
         "100% chance"
@@ -7638,6 +8170,7 @@
         "Losing life"
       ],
       [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/fc/Sulphuric_Poisoning.png",
         "Sulphuric Poisoning",
         "100% chance"
@@ -7691,6 +8224,10 @@
       [
         "Velocity",
         "8"
+      ],
+      [
+        "Tooltip",
+        "Throws a bomb that explodes into a bubble which deals extra damage to enemiesStealth strikes are faster and explode into 5 bubbles"
       ],
       [
         "Rarity",
@@ -7760,6 +8297,10 @@
         "14"
       ],
       [
+        "Tooltip",
+        "Shatters on impact, summoning a black hole that sucks in nearby enemiesStealth strikes summon a black hole that lasts longer and sucks enemies with a stronger force"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/ec/Rarity_color_12.png"
       ],
@@ -7823,6 +8364,11 @@
         "15"
       ],
       [
+        "Tooltip",
+        "dAMaGe iS rAthEr cOnSisTeNTFires a frying pan at high velocityEnemy hits summon fireballs that linger around the targetLanding three consecutive hits grants will launch a golden panGolden pans cause all fireballs to aggressively home in on their targetStealth strikes act similar to golden pans but also explode into golden sparksStealth strikes also summon additional fireballs on hit"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/15/Burning_Blood.png",
         "Burning Blood",
         "100% chance"
@@ -7836,6 +8382,7 @@
         "Your blood is on fire"
       ],
       [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4f/On_Fire%21.png",
         "On Fire!",
         "100% chance"
@@ -7932,6 +8479,10 @@
         "11.5"
       ],
       [
+        "Tooltip",
+        "Stealth strikes fire seashells at nearby enemies"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png"
       ],
@@ -7992,6 +8543,10 @@
       [
         "Velocity",
         "64"
+      ],
+      [
+        "Tooltip",
+        "Throws an extraordinarily fast dagger which slows down exponentially and dissipates into lightOnce dissipation has ended, 6 fast, splitting blades that aim at and slice nearby targets are released, alongwith a large laserbeamStealth strikes release a volley of 9 lights which explode into smaller laser beams along with the dagger"
       ],
       [
         "Rarity",
@@ -8090,6 +8645,11 @@
         "5"
       ],
       [
+        "Tooltip",
+        "Shoots a shadow ball that ignores gravity and slows down after a short time.While stationary, it shoots spirits and covers an area in a large shadowStealth strikes also emit dark pulses while stationaryRight click to delete all existing shadow balls'They didn't understand its nature, so it was sealed away...'"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e8/Shadowflame.png",
         "Shadowflame",
         "100% chance"
@@ -8176,6 +8736,10 @@
         "24"
       ],
       [
+        "Tooltip",
+        "Stealth strikes leave homing stars in their wake"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c2/Rarity_color_9.png"
       ],
@@ -8234,6 +8798,11 @@
         "25"
       ],
       [
+        "Tooltip",
+        "Throws daggers that split into scorching homing daggersStealth strikes fire volleys of homing daggers from the player on dagger hits that suck enemies in"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d7/Holy_Flames.png",
         "Holy Flames",
         "100% chance"
@@ -8308,6 +8877,10 @@
       [
         "Velocity",
         "20"
+      ],
+      [
+        "Tooltip",
+        "Throws a fast blade that spawns healing orbs when it kills an enemyStealth strikes cause 3 blades to be thrown at once"
       ],
       [
         "Rarity",
@@ -8388,6 +8961,11 @@
         "12.5"
       ],
       [
+        "Tooltip",
+        "Throws a grenade that explodes into a burst of lightningStealth strikes cause the grenade to leave an electrifying aura when it explodes"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/56/Electrified.png",
         "Electrified",
         "100% chance"
@@ -8469,7 +9047,12 @@
         "15"
       ],
       [
+        "Tooltip",
+        "Fires a slow, long-ranged boomerangStealth strikes grant the Mushy buff to the user on enemy hits and summon homing spores"
+      ],
+      [
         "Grants Buff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/00/Mushy.png",
         "Mushy"
       ],
       [
@@ -8521,6 +9104,10 @@
       [
         "Velocity",
         "2"
+      ],
+      [
+        "Tooltip",
+        "Shoots a gravity-defying spiky ball. Stacks up to 4.Stealth strikes make the balls rain feathers onto enemies when they hitRight click to delete all existing spiky balls"
       ],
       [
         "Rarity",
@@ -8591,6 +9178,11 @@
         "12"
       ],
       [
+        "Tooltip",
+        "Fishy bombers inbound!Launches a skyfin nuke that homes in on enemies below itStealth strikes rapidly home in regardless of enemy position"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8b/Irradiated.png",
         "Irradiated",
         "100% chance"
@@ -8642,6 +9234,10 @@
         "25 Fast"
       ],
       [
+        "Tooltip",
+        "Swipes a cane that steals money from enemies.Stealth strikes gives a 1 in 15 chance for enemies to drop 1-3 gold coins when hit'Economy at its finest'"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png"
       ],
@@ -8683,6 +9279,11 @@
         "10"
       ],
       [
+        "Tooltip",
+        "Slows non-boss enemies slightlyStealth strikes cause the main ball of sludge to split on hit, inflicting more damage"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/f5/Slow.png",
         "Slow",
         "100% chance"
@@ -8754,8 +9355,14 @@
         "12"
       ],
       [
+        "Tooltip",
+        "Can latch on enemies and deal damage over timeStealth strikes throw five clams at once that cause increased damage over time"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/73/Clammed.png",
-        "Clammed"
+        "Clammed",
+        "100% chance"
       ],
       [
         "Debuff duration",
@@ -8807,6 +9414,11 @@
         "20"
       ],
       [
+        "Tooltip",
+        "Throws three spears with the outer two having homing capabilitiesStealth strikes cause all three spears to home in, ignore tiles, and pierce more"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/70/Ichor_%28debuff%29.png",
         "Ichor",
         "100% chance"
@@ -8892,6 +9504,11 @@
         "35"
       ],
       [
+        "Tooltip",
+        "Throws an ancient spear that shatters enemy armorSpears rain fossil shards as they travelStealth strikes travel slower but further, raining more fossil shards"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8f/Armor_Crunch.png",
         "Armor Crunch",
         "100% chance"
@@ -8972,6 +9589,11 @@
         "15"
       ],
       [
+        "Tooltip",
+        "War Never ChangesThrows a fuel container with trace amounts of plutonium that causes a nuclear explosionThe explosion does not occur if there are no tiles below itStealth strikes leave a lingering irradiated zone after the explosion dissipates"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8b/Irradiated.png",
         "Irradiated",
         "100% chance"
@@ -9025,6 +9647,10 @@
       [
         "Velocity",
         "5"
+      ],
+      [
+        "Tooltip",
+        "Fires a huge destructive mine that explodes into destruction boltsAmount of bolts scales with enemies hit, up to 16Stealth strikes always explode into the max amount of bolts"
       ],
       [
         "Rarity",
@@ -9085,6 +9711,11 @@
         "10"
       ],
       [
+        "Tooltip",
+        "Throws knives that stop middair and then home into enemiesStealth strikes throw a volley of 10 knives in a spreadZa Warudo"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/65/Astral_Infection_%28debuff%29.png",
         "Astral Infection",
         "100% chance"
@@ -9176,6 +9807,11 @@
         "8"
       ],
       [
+        "Tooltip",
+        "Throws a spiky ball that sticks to everythingStealth strikes throw seven at once and last a lot longer"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/25/Slime_%28debuff%29.png",
         "Slime",
         "100% chance"
@@ -9250,6 +9886,10 @@
       [
         "Velocity",
         "7"
+      ],
+      [
+        "Tooltip",
+        "Throws a throwing knife that leaves sparks as it travels.Stealth strikes cause the knife to be faster and leave a huge shower of sparks as it travels"
       ],
       [
         "Rarity",
@@ -9334,6 +9974,11 @@
         "16"
       ],
       [
+        "Tooltip",
+        "Throws a scythe that explodes on enemy hitsStealth strikes also summon an orange pillar of fire on enemy hits"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4f/On_Fire%21.png",
         "On Fire!",
         "100% chance"
@@ -9347,6 +9992,7 @@
         "Slowly losing life"
       ],
       [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Stardust_Dragon.png",
         "Daybroken",
         "100% chance"
@@ -9420,6 +10066,10 @@
       [
         "Velocity",
         "16"
+      ],
+      [
+        "Tooltip",
+        "Creates a massive explosion on impactExplodes into spikes and homing energyStealth strikes release energy as they fly"
       ],
       [
         "Rarity",
@@ -9510,6 +10160,10 @@
         "24"
       ],
       [
+        "Tooltip",
+        "Summons a slash attack at the cursor's positionEnemy hits build stealth and cause sword waves to fire from the player in the opposite directionDoes not consume stealth and cannot stealth strike"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/ec/Rarity_color_12.png"
       ],
@@ -9549,6 +10203,10 @@
       [
         "Velocity",
         "16"
+      ],
+      [
+        "Tooltip",
+        "Can be used to quickly send out an electromagnetic blastHurls an unstable device which sticks to the ground and shocks nearby enemies with lightningStealth strikes make the device emit a large, damaging EMP fieldCurrent Charge: [CHARGE]"
       ],
       [
         "Rarity",
@@ -9628,6 +10286,10 @@
         "12"
       ],
       [
+        "Tooltip",
+        "Fires a piercing dart with reduced immunity framesStealth strikes erupt into thorns on enemy hits"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/ec/Rarity_color_12.png"
       ],
@@ -9684,6 +10346,10 @@
       [
         "Velocity",
         "12"
+      ],
+      [
+        "Tooltip",
+        "Throws a disk that has a chance to generate several disks if enemies are near itA max of three disks can be active at a timeStealth strikes travel slower and are rapidly orbited by the smaller disks"
       ],
       [
         "Rarity",
@@ -9763,6 +10429,10 @@
         "10.5"
       ],
       [
+        "Tooltip",
+        "Fires small wavering clawsStealth strikes launch a large, high speed claw which pierces"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e4/Rarity_color_6.png"
       ],
@@ -9835,6 +10505,10 @@
         "24"
       ],
       [
+        "Tooltip",
+        "Throws a quantum-superimposed javelin that strikes from numerous timelines at onceStealth strikes perform far more simultaneous strikes"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8d/Rarity_color_15.png"
       ],
@@ -9877,6 +10551,11 @@
         "1"
       ],
       [
+        "Tooltip",
+        "We shall ride into the sunrise once moreAttack enemies with a giant scythe swing to replenish stealthPress up and attack to throw the scytheStealth strikes perform a horizontal swing that leaves a lingering fire auraStealth strikes performed while pressing up fling yourself at the enemy and slice through them, causing homing fireballs to emerge"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d7/Holy_Flames.png",
         "Holy Flames",
         "100% chance"
@@ -9932,6 +10611,11 @@
         "20"
       ],
       [
+        "Tooltip",
+        "Slice ‘n diceStealth strikes throw four at once"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/9a/Crush_Depth.png",
         "Crush Depth",
         "100% chance"
@@ -9987,6 +10671,11 @@
         "15"
       ],
       [
+        "Tooltip",
+        "Throws a high velocity syringe that increases damage as it travelsShatters into glass and plague cinders on impactStealth strikes also shatter into plague bees'I'm pretty sure this isn't healthy'"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/6a/Plague.png",
         "Plague",
         "100% chance"
@@ -10040,6 +10729,10 @@
       [
         "Velocity",
         "12"
+      ],
+      [
+        "Tooltip",
+        "Prove its resistance by throwing it upwards and catching it with your faceThrows a brick that shatters if stealth is full."
       ],
       [
         "Rarity",
@@ -10104,8 +10797,14 @@
         "16"
       ],
       [
+        "Tooltip",
+        "There should be no boundary to human endeavor.Stealth strikes can hit more enemies and create a larger time field"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e6/Time_Distortion.png",
-        "Time Distortion"
+        "Time Distortion",
+        "100% chance"
       ],
       [
         "Debuff duration",
@@ -10189,6 +10888,10 @@
         "16"
       ],
       [
+        "Tooltip",
+        "Stealth strikes act like a boomerang that spawns clones on enemy hits"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png"
       ],
@@ -10251,6 +10954,11 @@
         "16"
       ],
       [
+        "Tooltip",
+        "Stealth strikes spawn rain clouds on enemy hits"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/15/Burning_Blood.png",
         "Burning Blood",
         "100% chance"
@@ -10336,6 +11044,11 @@
         "12"
       ],
       [
+        "Tooltip",
+        "Explodes into highly flammable black tarTar oils enemies and sets them alightStealth strikes leak tar as they fly"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/74/Betsy%27s_Curse.png",
         "Oiled",
         "100% chance"
@@ -10349,6 +11062,7 @@
         "Taking more damage from being on fire"
       ],
       [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4f/On_Fire%21.png",
         "On Fire!",
         "100% chance"
@@ -10444,6 +11158,11 @@
         "18"
       ],
       [
+        "Tooltip",
+        "Throws a slow moving boomerangAfter a few moments, the boomerang chooses a target and rapidly homes inStealth strikes home in faster and rapidly release sand"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/fc/Sulphuric_Poisoning.png",
         "Sulphuric Poisoning",
         "100% chance"
@@ -10497,6 +11216,10 @@
       [
         "Velocity",
         "10"
+      ],
+      [
+        "Tooltip",
+        "A weapon that, as it flies, processes calculations and fires lasersReleases a flying disk that fires lasers at nearby enemiesStealth strikes allow the disk to fire multiple larger lasers at different targetsCurrent Charge: [CHARGE]"
       ],
       [
         "Rarity",
@@ -10576,6 +11299,10 @@
         "12"
       ],
       [
+        "Tooltip",
+        "Fires a cloudy javelin that bursts into wind slashes on hitWind slashes home if the javelin critsStealth strikes are trailed by homing wind slashes"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png"
       ],
@@ -10644,6 +11371,11 @@
         "12"
       ],
       [
+        "Tooltip",
+        "Stealth strikes stick to enemies while releasing sulfuric bubbles"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8a/Venom.png",
         "Venom",
         "100% chance"
@@ -10699,7 +11431,12 @@
         "12"
       ],
       [
+        "Tooltip",
+        "Space chickens, that is all.Fires random utensils in bursts of threeGrants Well Fed on enemy hitsStealth strikes replace any utensil with a powerful butcher knife"
+      ],
+      [
         "Grants Buff",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a3/Well_Fed.png",
         "Well Fed"
       ],
       [
@@ -10711,6 +11448,7 @@
         "Minor improvements to all statsMinor improvements to all stats and increased life regeneration"
       ],
       [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/33/Bleeding.png",
         "Bleeding",
         "100% chance"
@@ -10724,6 +11462,7 @@
         "Cannot regenerate life"
       ],
       [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/15/Burning_Blood.png",
         "Burning Blood",
         "100% chance"
@@ -10779,6 +11518,11 @@
         "20"
       ],
       [
+        "Tooltip",
+        "Throws a homing reaper scytheStealth strikes spawn razorblade typhoons on enemy hits"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/9a/Crush_Depth.png",
         "Crush Depth",
         "100% chance"
@@ -10792,6 +11536,7 @@
         "Aquatic pressure"
       ],
       [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/be/Wet.png",
         "Wet",
         "100% chance"
@@ -10845,6 +11590,10 @@
       [
         "Velocity",
         "16"
+      ],
+      [
+        "Tooltip",
+        "It utilizes its power to send heavy shockwaves throughout the area, causing agonizing internal damageThrows a bomb which explodes into a forceful shockwaveStealth strikes emit absurdly powerful shockwavesCurrent Charge: [CHARGE]"
       ],
       [
         "Rarity",
@@ -10918,6 +11667,10 @@
       [
         "Velocity",
         "12"
+      ],
+      [
+        "Tooltip",
+        "Throws a spear that bounces a lotStealth strikes throw three high speed spears"
       ],
       [
         "Rarity",
@@ -10997,6 +11750,11 @@
         "6.5"
       ],
       [
+        "Tooltip",
+        "Throws a web-covered ball that covers enemies in cobwebs to slow them downStealth strikes slow enemies down longer"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/cb/Webbed.png",
         "Webbed",
         "100% chance"
@@ -11063,6 +11821,11 @@
         "28"
       ],
       [
+        "Tooltip",
+        "Throws an agile, homing winged spear that constantly spits fireStealth strikes create an eruption of cinders on hit"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Stardust_Dragon.png",
         "Daybroken",
         "100% chance"
@@ -11116,6 +11879,10 @@
       [
         "Velocity",
         "12"
+      ],
+      [
+        "Tooltip",
+        "Stealth strikes make the knife fly further and hit several times at once"
       ],
       [
         "Rarity",

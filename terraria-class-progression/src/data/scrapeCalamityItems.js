@@ -31,10 +31,10 @@ async function scrapeData(url, id) {
     id,
     itemName: '',
     itemIcon: '',
-    itemSpecs: [],
     craftingStations: [],
     craftingIngredients: [],
   };
+
   itemData.itemName = $('.infobox.item.float-right').children('.title').text();
   itemData.itemIcon = $(
     '.infobox.item.float-right div.section.images ul li a'
@@ -46,40 +46,157 @@ async function scrapeData(url, id) {
   weaponData.each((i, el) => {
     const label = $(el).children('th').text();
     const info = $(el).children('td').text();
-    if (label.toLowerCase() === 'tooltip') return;
-    if (label.toLowerCase().includes('inflict')) {
+    if (
+      label.toLowerCase().includes('inflict') ||
+      label.toLowerCase().includes('grants')
+    ) {
       const inflict = $(el).children('td').children('span');
       const img = inflict.children('a').children('img').attr('data-src');
+
       const debuffName = inflict.children('span').children('span').text();
+      const buffName = $(el).children('td').text();
+
       const debuffChance = inflict.children('span').children('div').text();
 
       const buffImg = $(el)
         .children('td')
+        .children('b')
         .children('span.i')
         .children('img')
         .attr('data-src');
+
+      const buffImg2 = $(el)
+        .children('td')
+        .children('b')
+        .children('span.i')
+        .children('img')
+        .attr('src');
+
+      const buffImg3 = $(el)
+        .children('td')
+        .children('span.i')
+        .children('img')
+        .attr('data-src');
+
+      const buffImg4 = $(el)
+        .children('td')
+        .children('span.i')
+        .children('img')
+        .attr('src');
+
+      const buffImg5 = $(el)
+        .children('td')
+        .children('b')
+        .children('span.i')
+        .children('a')
+        .children('img')
+        .attr('data-src');
+
+      const buffImg6 = $(el)
+        .children('td')
+        .children('b')
+        .children('span.i')
+        .children('a')
+        .children('img')
+        .attr('src');
+
+      const debuffImg1 = $(el)
+        .children('td')
+        .children('span.i')
+        .children('img')
+        .attr('data-src');
+
       const debuffImg2 = $(el)
         .children('td')
         .children('span.i')
         .children('img')
         .attr('src');
 
-      if (debuffImg2) {
-        weaponDetails.push([debuffImg2, debuffName, debuffChance]);
+      const debuffImg3 = $(el)
+        .children('td')
+        .children('span.i')
+        .children('a')
+        .children('img')
+        .attr('data-src');
+
+      const debuffImg4 = $(el)
+        .children('td')
+        .children('span.i')
+        .children('a')
+        .children('img')
+        .attr('src');
+
+      if (buffImg && label.toLowerCase().includes('grant')) {
+        weaponDetails.push([label, buffImg, buffName]);
+        return;
+      } else if (buffImg2 && label.toLowerCase().includes('grant')) {
+        weaponDetails.push([label, buffImg2, buffName]);
+        return;
+      } else if (buffImg3 && label.toLowerCase().includes('grant')) {
+        weaponDetails.push([label, buffImg3, buffName]);
+        return;
+      } else if (buffImg4 && label.toLowerCase().includes('grant')) {
+        weaponDetails.push([label, buffImg4, buffName]);
+        return;
+      } else if (buffImg5 && label.toLowerCase().includes('grant')) {
+        weaponDetails.push([label, buffImg5, buffName]);
+        return;
+      } else if (buffImg6 && label.toLowerCase().includes('grant')) {
+        weaponDetails.push([label, buffImg6, buffName]);
         return;
       }
-      if (buffImg) {
-        weaponDetails.push([buffImg, debuffName]);
+
+      if (debuffImg1) {
+        weaponDetails.push([
+          label,
+          debuffImg1,
+          debuffName,
+          debuffChance ? debuffChance : '100% chance',
+        ]);
+        return;
+      } else if (debuffImg2) {
+        weaponDetails.push([
+          label,
+          debuffImg2,
+          debuffName,
+          debuffChance ? debuffChance : '100% chance',
+        ]);
+        return;
+      } else if (debuffImg3) {
+        weaponDetails.push([
+          label,
+          debuffImg3,
+          debuffName,
+          debuffChance ? debuffChance : '100% chance',
+        ]);
+        return;
+      } else if (debuffImg4) {
+        weaponDetails.push([
+          label,
+          debuffImg4,
+          debuffName,
+          debuffChance ? debuffChance : '100% chance',
+        ]);
         return;
       }
 
       if (!img) {
         const img = inflict.children('a').children('img').attr('src');
-        weaponDetails.push([img, debuffName, debuffChance]);
+        weaponDetails.push([
+          label,
+          img,
+          debuffName,
+          debuffChance ? debuffChance : '100% chance',
+        ]);
         return;
       }
 
-      weaponDetails.push([img, debuffName, debuffChance]);
+      weaponDetails.push([
+        label,
+        img,
+        debuffName,
+        debuffChance ? debuffChance : '100% chance',
+      ]);
       return;
     }
     if (label.toLowerCase() === 'sell') {
@@ -206,14 +323,13 @@ async function saveItemsData() {
   const getCalamityItems = async weapons => {
     for (const [name, id] of weapons ? weaponUrlNames : accessoriesUrlNames) {
       const pageUrl = `https://calamitymod.fandom.com/wiki/${name}`;
-      // const pageUrl = `https://calamitymod.fandom.com/wiki/Magic_weapons`;
-      const data = await getPageItems(pageUrl, id);
+      const data = await getPageItems(pageUrl, id, weapons);
       fs.writeFileSync(
         weapons ? `./weapons/${name}.json` : `./accessories/${name}.json`,
         JSON.stringify(data, null, 2)
       );
     }
   };
-  getCalamityItems(false);
+  getCalamityItems(true);
 }
 saveItemsData();

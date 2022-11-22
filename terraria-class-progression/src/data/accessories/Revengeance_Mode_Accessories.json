@@ -3,10 +3,16 @@
     "id": 10000,
     "itemName": "Heart of Darkness",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/17/Heart_of_Darkness.gif/revision/latest?cb=20200221203902",
+    "craftingStations": [],
+    "craftingIngredients": [],
     "itemSpecs": [
       [
         "Type",
         "Accessory – Crafting material"
+      ],
+      [
+        "Tooltip",
+        "You constantly gain rage over timeRage does not fade away when out of combatRevengeance drop"
       ],
       [
         "Rarity",
@@ -17,18 +23,22 @@
         "      80  ",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png/revision/latest?cb=20200516221827"
       ]
-    ],
-    "craftingStations": [],
-    "craftingIngredients": []
+    ]
   },
   {
     "id": 10001,
     "itemName": "Laudanum",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/a1/Laudanum.png/revision/latest?cb=20200205063906",
+    "craftingStations": [],
+    "craftingIngredients": [],
     "itemSpecs": [
       [
         "Type",
         "Accessory – Crafting material"
+      ],
+      [
+        "Tooltip",
+        "Converts certain debuffs into buffs and extends their durationsDebuffs affected: Darkness, Blackout, Confused, Slow, Weak, Broken Armor,Armor Crunch, War Cleave, Chilled, Ichor and ObstructedRevengeance drop"
       ],
       [
         "Rarity",
@@ -39,37 +49,12 @@
         "      80  ",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png/revision/latest?cb=20200516221827"
       ]
-    ],
-    "craftingStations": [],
-    "craftingIngredients": []
+    ]
   },
   {
     "id": 10002,
     "itemName": "Occult Skull Crown",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/5e/Occult_Skull_Crown.png/revision/latest?cb=20220314144953",
-    "itemSpecs": [
-      [
-        "Type",
-        "Accessory – Armor"
-      ],
-      [
-        "Defense",
-        "5"
-      ],
-      [
-        "Body slot",
-        "Helmet"
-      ],
-      [
-        "Rarity",
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e7/Rarity_color_14.png/revision/latest?cb=20180106235104"
-      ],
-      [
-        "Sell",
-        "      28  ",
-        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
-      ]
-    ],
     "craftingStations": [
       [
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e2/Ancient_Manipulator.png/revision/latest?cb=20200516185008",
@@ -234,16 +219,49 @@
         "The Verboten One",
         "1"
       ]
+    ],
+    "itemSpecs": [
+      [
+        "Type",
+        "Accessory – Armor"
+      ],
+      [
+        "Defense",
+        "5"
+      ],
+      [
+        "Body slot",
+        "Helmet"
+      ],
+      [
+        "Tooltip",
+        "Only a fool would ever wear this...You constantly gain rage over time and rage does not fade away when out of combatConverts certain debuffs into buffs and extends their durationsDebuffs affected: Darkness, Blackout, Confused, Slow, Weak, Broken Armor,Armor Crunch, War Cleave, Chilled, Ichor and ObstructedGetting hit causes you to only lose half of your max adrenaline rather than all of itIncreases your max movement speed and acceleration by 5%Can also be worn as a helmetRevengeance item"
+      ],
+      [
+        "Rarity",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e7/Rarity_color_14.png/revision/latest?cb=20180106235104"
+      ],
+      [
+        "Sell",
+        "      28  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png/revision/latest?cb=20200516213029"
+      ]
     ]
   },
   {
     "id": 10003,
     "itemName": "Stress Pills",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/38/Stress_Pills.png/revision/latest?cb=20221103150449",
+    "craftingStations": [],
+    "craftingIngredients": [],
     "itemSpecs": [
       [
         "Type",
         "Accessory – Crafting material"
+      ],
+      [
+        "Tooltip",
+        "Boosts your defense by 4 and max movement speed and acceleration by 5%Receiving a hit causes you to only lose half of your max adrenaline rather than all of itRevengeance drop"
       ],
       [
         "Rarity",
@@ -254,8 +272,6 @@
         "      80  ",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png/revision/latest?cb=20200516221827"
       ]
-    ],
-    "craftingStations": [],
-    "craftingIngredients": []
+    ]
   }
 ]

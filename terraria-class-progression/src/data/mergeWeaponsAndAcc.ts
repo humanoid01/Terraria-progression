@@ -21,14 +21,14 @@ export const mergeWeapons = (...weapons: any) => {
   );
 };
 
-// mergeWeapons(
-// Classless_weapons,
-//   Magic_weapons,
-//   Melee_weapons,
-//   Rogue_weapons,
-//   Summon_weapons,
-//   Ranged_weapons;
-// );
+mergeWeapons(
+  Classless_weapons,
+  Magic_weapons,
+  Melee_weapons,
+  Rogue_weapons,
+  Summon_weapons,
+  Ranged_weapons
+);
 
 const mergeAccessories = (...accessories: any) => {
   const mergedWeapons = accessories.reduce(

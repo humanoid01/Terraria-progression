@@ -9,6 +9,10 @@
         "Accessory"
       ],
       [
+        "Tooltip",
+        "30 increased fishing power during the day45 increased fishing power during the night60 increased fishing power during a solar eclipseGreatly increases chance of catching potion ingredient fish"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png"
       ],
@@ -102,6 +106,10 @@
         "Accessory"
       ],
       [
+        "Tooltip",
+        "Increases fishing skill Increases chance to catch crates"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png"
       ],
@@ -162,6 +170,10 @@
       [
         "Type",
         "Accessory"
+      ],
+      [
+        "Tooltip",
+        "The ultimate fishing accessoryIncreases fishing skill by 80Fishing line will never break and decreases chances of bait consumptionIncreases chance to catch cratesSonar potion effect"
       ],
       [
         "Rarity",

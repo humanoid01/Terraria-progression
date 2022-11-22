@@ -29,6 +29,10 @@
         "5"
       ],
       [
+        "Tooltip",
+        "You don't need an aerodynamics major to use thisThrows a floaty explosive that defies gravity"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png"
       ],
@@ -92,8 +96,14 @@
         "5"
       ],
       [
+        "Tooltip",
+        "Fires crystals that explode and slow enemies downThis weapon scales with all your damage stats at once"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/27/Vaporfied.png",
-        "Vaporfied"
+        "Vaporfied",
+        "100% chance"
       ],
       [
         "Debuff duration",
@@ -196,6 +206,10 @@
         "12"
       ],
       [
+        "Tooltip",
+        "Uses Grenade ShellsCan be used twice per boss battle"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png"
       ],
@@ -268,6 +282,10 @@
         "12"
       ],
       [
+        "Tooltip",
+        "Uses Magnum RoundsCan be used thrice per boss battle"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8f/Rarity_color_10.png"
       ],
@@ -336,6 +354,11 @@
         "12"
       ],
       [
+        "Tooltip",
+        "Fires powerful beams that reduce enemy protectionThis weapon scales with all your damage stats at onceHeals mana and health on hit"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/db/Marked.png",
         "Marked",
         "100% chance"
@@ -412,6 +435,11 @@
         "12"
       ],
       [
+        "Tooltip",
+        "Shoots a straight line of ichor"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/70/Ichor_%28debuff%29.png",
         "Ichor",
         "100% chance"
@@ -492,6 +520,10 @@
         "12"
       ],
       [
+        "Tooltip",
+        "Uses Explosive Shotgun ShellsCan be used once per boss battle"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png"
       ],
@@ -567,6 +599,10 @@
       [
         "Velocity",
         "12"
+      ],
+      [
+        "Tooltip",
+        "Uses Magnum RoundsCan be used thrice per boss battle"
       ],
       [
         "Rarity",
@@ -656,6 +692,11 @@
         "12"
       ],
       [
+        "Tooltip",
+        "Fires lunic beams that reduce enemy protectionThis weapon scales with all your damage stats at once"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/db/Marked.png",
         "Marked",
         "100% chance"
@@ -746,6 +787,10 @@
         "12"
       ],
       [
+        "Tooltip",
+        "Uses Magnum RoundsCan be used thrice per boss battle"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png"
       ],
@@ -818,6 +863,11 @@
         "12"
       ],
       [
+        "Tooltip",
+        "Shots reduce enemy protectionThis weapon scales with all your damage stats at once"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/db/Marked.png",
         "Marked",
         "100% chance"
@@ -895,6 +945,10 @@
         "25 Fast"
       ],
       [
+        "Tooltip",
+        "Summons a spear that causes you to lunge towards the mouse positionThe spear requires a charge-up. The longer the charge, the stronger the lungeThe spear disappears immediately if you are not holding this item while chargingIf enough time has passed or the spear collides into a wall, the spear dies and the lunge ends"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/96/Rarity_color_11.png"
       ],
@@ -935,6 +989,10 @@
       [
         "Velocity",
         "14"
+      ],
+      [
+        "Tooltip",
+        "Spreads the astral infection to some blocks"
       ],
       [
         "Rarity",
@@ -998,6 +1056,10 @@
       [
         "Velocity",
         "14"
+      ],
+      [
+        "Tooltip",
+        "BOOM!Throws out a Wulfrum Turtle that tries to find enemies and jump into them, explodingRight click to lay the turtle on the ground to cause enemies to aggro on itOnly 4 turtles can be active at once"
       ],
       [
         "Rarity",
@@ -1072,7 +1134,12 @@
         "24"
       ],
       [
+        "Tooltip",
+        "When hitting a boss, miniboss, or their minions, you gain various boosts and cripple the enemy hitA knife from an unknown worldAn owner whose heart is pure and free of taintA heart of iron and valor"
+      ],
+      [
         "Grants Buff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/1d/Kami_Injection.png",
         "Kami Injection"
       ],
       [
@@ -1084,8 +1151,10 @@
         "Increased movement speed and damage"
       ],
       [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/ca/Kami_Flu.png",
-        "Kami Flu"
+        "Kami Flu",
+        "100% chance"
       ],
       [
         "Debuff duration",

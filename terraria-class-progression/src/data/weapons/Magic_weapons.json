@@ -33,6 +33,11 @@
         "14"
       ],
       [
+        "Tooltip",
+        "Fires an erratic lightning bolt that arcs and bounces between enemies"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/56/Electrified.png",
         "Electrified",
         "100% chance"
@@ -92,6 +97,10 @@
         "9"
       ],
       [
+        "Tooltip",
+        "Casts a slow-moving ball of dark energy"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png"
       ],
@@ -136,6 +145,10 @@
       [
         "Velocity",
         "14"
+      ],
+      [
+        "Tooltip",
+        "Releases three streams of acid"
       ],
       [
         "Rarity",
@@ -205,6 +218,10 @@
         "0"
       ],
       [
+        "Tooltip",
+        "Summons an orbital Aergia NeuronHolding right click causes the orbit to accelerateOnce fully charged, the ring can be thrown to chase enemies"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8d/Rarity_color_15.png"
       ],
@@ -251,6 +268,11 @@
         "12"
       ],
       [
+        "Tooltip",
+        "Inflicts long-lasting shadowflame and splits on tile hitsProjectiles gain damage as they travelRight click to change from magic to ranged damageRight click consumes no mana"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e8/Shadowflame.png",
         "Shadowflame",
         "100% chance"
@@ -341,6 +363,10 @@
         "24"
       ],
       [
+        "Tooltip",
+        "Fires a barrage of phased god rays that pass through terrain"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8d/Rarity_color_15.png"
       ],
@@ -423,6 +449,10 @@
         "6"
       ],
       [
+        "Tooltip",
+        "Disintegrates everything with a tri-beam of energy and lasersRight click to fire a Y-shaped beam of destructive energy and a spread of lasers"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e7/Rarity_color_14.png"
       ],
@@ -500,6 +530,11 @@
         "13"
       ],
       [
+        "Tooltip",
+        "Fires a beautiful aurora trailed by a star shower"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/65/Astral_Infection_%28debuff%29.png",
         "Astral Infection",
         "100% chance"
@@ -559,6 +594,11 @@
         "13"
       ],
       [
+        "Tooltip",
+        "Casts slow-moving treble clefs that confuse enemies"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/68/Confused.png",
         "Confused",
         "100% chance"
@@ -618,6 +658,11 @@
         "8"
       ],
       [
+        "Tooltip",
+        "Fires ion blasts that speed up and then explodeDamage scales with how full your mana isUsing Astral Injection reduces the effectiveness of the mana boost"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/71/Brimstone_Flames.png",
         "Brimstone Flames",
         "100% chance"
@@ -696,6 +741,10 @@
       [
         "Velocity",
         "42"
+      ],
+      [
+        "Tooltip",
+        "Eat wormsUnleashes interdimensional projection magic"
       ],
       [
         "Rarity",
@@ -790,6 +839,10 @@
         "14"
       ],
       [
+        "Tooltip",
+        "Shoots two blue bolts"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png"
       ],
@@ -866,6 +919,10 @@
         "20"
       ],
       [
+        "Tooltip",
+        "Casts a beaming flower that explodes into homing petals"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8f/Rarity_color_10.png"
       ],
@@ -933,6 +990,11 @@
         "27"
       ],
       [
+        "Tooltip",
+        "The savage mauling that fits in your pocketFires spiritual claws that ignore walls and confuse enemies"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Frostburn.png",
         "Frostburn",
         "100% chance"
@@ -946,6 +1008,7 @@
         "It's either really hot or really cold. Either way it REALLY hurts"
       ],
       [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/fc/Glacial_State.png",
         "Glacial State",
         "100% chance"
@@ -959,6 +1022,7 @@
         "Cannot move and defense is shattered"
       ],
       [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/68/Confused.png",
         "Confused",
         "33.33% chance"
@@ -1015,6 +1079,10 @@
       [
         "Velocity",
         "12"
+      ],
+      [
+        "Tooltip",
+        "Casts a star that follows the mouse that creates a rainbow trail as it movesOnce a full shape is created with the trail all enemies within it take damage proportional to how long it took to draw the shapeAnd the audience goes wild!"
       ],
       [
         "Rarity",
@@ -1098,6 +1166,10 @@
         "20"
       ],
       [
+        "Tooltip",
+        "Summons asteroids from the sky"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8f/Rarity_color_10.png"
       ],
@@ -1165,6 +1237,11 @@
         "15"
       ],
       [
+        "Tooltip",
+        "Summons a large crystal from the sky that has a large area of effect on impact."
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/65/Astral_Infection_%28debuff%29.png",
         "Astral Infection",
         "100% chance"
@@ -1240,6 +1317,11 @@
         "13"
       ],
       [
+        "Tooltip",
+        "Fires a spread of homing astral spider fangs"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/65/Astral_Infection_%28debuff%29.png",
         "Astral Infection",
         "100% chance"
@@ -1299,6 +1381,10 @@
         "32"
       ],
       [
+        "Tooltip",
+        "Casts aquatic spears that split as they travel"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Rarity_color_7.png"
       ],
@@ -1345,6 +1431,11 @@
         "30"
       ],
       [
+        "Tooltip",
+        "Casts a burst of elemental tentacles to spear your enemies"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/71/Brimstone_Flames.png",
         "Brimstone Flames",
         "100% chance"
@@ -1358,6 +1449,7 @@
         "Rapid health loss"
       ],
       [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Frostburn.png",
         "Frostburn",
         "100% chance"
@@ -1371,6 +1463,7 @@
         "It's either really hot or really cold. Either way it REALLY hurts"
       ],
       [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d7/Holy_Flames.png",
         "Holy Flames",
         "100% chance"
@@ -1466,6 +1559,11 @@
         "20"
       ],
       [
+        "Tooltip",
+        "DootFires an array of dirty reeds, music notes, and sulphuric bubbles"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8b/Irradiated.png",
         "Irradiated",
         "100% chance"
@@ -1479,6 +1577,7 @@
         "Your skin is burning off"
       ],
       [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8a/Venom.png",
         "Venom",
         "100% chance"
@@ -1536,6 +1635,10 @@
       [
         "Velocity",
         "20"
+      ],
+      [
+        "Tooltip",
+        "Unleashes a concentrated beam of life energy"
       ],
       [
         "Rarity",
@@ -1605,6 +1708,10 @@
         "8"
       ],
       [
+        "Tooltip",
+        "Spews bubbles and homing plankton"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png"
       ],
@@ -1649,6 +1756,10 @@
       [
         "Velocity",
         "9"
+      ],
+      [
+        "Tooltip",
+        "Drenches your foes in blood"
       ],
       [
         "Rarity",
@@ -1727,6 +1838,11 @@
         "6"
       ],
       [
+        "Tooltip",
+        "Fires a spread of brimstone beams"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/71/Brimstone_Flames.png",
         "Brimstone Flames",
         "100% chance"
@@ -1806,6 +1922,11 @@
         "15"
       ],
       [
+        "Tooltip",
+        "Fires a bouncing brimstone fireball that splits into homing fireballs upon collision with water"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/71/Brimstone_Flames.png",
         "Brimstone Flames",
         "100% chance"
@@ -1884,6 +2005,10 @@
       [
         "Velocity",
         "6"
+      ],
+      [
+        "Tooltip",
+        "Fires a blood rayThe farther along the ray hit enemies are, the more damage they take"
       ],
       [
         "Rarity",
@@ -1977,6 +2102,11 @@
         "25"
       ],
       [
+        "Tooltip",
+        "Let the sky fallFires night wyverns and stars from the sky that stick to enemies and tiles and explode"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/77/Nightwither.png",
         "Nightwither",
         "100% chance"
@@ -2067,6 +2197,11 @@
         "6"
       ],
       [
+        "Tooltip",
+        "Shoots 3 shadowflame skulls"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e8/Shadowflame.png",
         "Shadowflame",
         "100% chance"
@@ -2124,6 +2259,10 @@
       [
         "Velocity",
         "16"
+      ],
+      [
+        "Tooltip",
+        "Casts coral water spouts that lay on the ground and damage enemies"
       ],
       [
         "Rarity",
@@ -2191,6 +2330,10 @@
       [
         "Velocity",
         "18"
+      ],
+      [
+        "Tooltip",
+        "Launches a barrage of rainbows"
       ],
       [
         "Rarity",
@@ -2275,6 +2418,11 @@
         "12"
       ],
       [
+        "Tooltip",
+        "ChillFires an icy wave that splits multiple times and explodes into shards"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/fc/Glacial_State.png",
         "Glacial State",
         "100% chance"
@@ -2288,6 +2436,7 @@
         "Cannot move and defense is shattered"
       ],
       [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Frostburn.png",
         "Frostburn",
         "100% chance"
@@ -2346,6 +2495,11 @@
         "14"
       ],
       [
+        "Tooltip",
+        "Fires blue frost flames that explode"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Frostburn.png",
         "Frostburn",
         "100% chance"
@@ -2441,6 +2595,10 @@
         "30"
       ],
       [
+        "Tooltip",
+        "And everything under the sun is in tune,But the sun is eclipsed by the moon."
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/36/Rarity_color_13.png"
       ],
@@ -2516,6 +2674,10 @@
       [
         "Velocity",
         "5"
+      ],
+      [
+        "Tooltip",
+        "Casts a large blast of dust"
       ],
       [
         "Rarity",
@@ -2600,6 +2762,11 @@
         "18"
       ],
       [
+        "Tooltip",
+        "Rain death upon your foes!Casts a storm of nebula lasers from the sky"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4f/On_Fire%21.png",
         "On Fire!",
         "100% chance"
@@ -2613,6 +2780,7 @@
         "Slowly losing life"
       ],
       [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Frostburn.png",
         "Frostburn",
         "100% chance"
@@ -2672,6 +2840,11 @@
         "19"
       ],
       [
+        "Tooltip",
+        "Mage is superior to rogue; look, we got a donor weapon to prove it!"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d7/Holy_Flames.png",
         "Holy Flames",
         "100% chance"
@@ -2685,6 +2858,7 @@
         "Dissolving from holy light"
       ],
       [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/9a/Crush_Depth.png",
         "Crush Depth",
         "100% chance"
@@ -2775,6 +2949,10 @@
         "14"
       ],
       [
+        "Tooltip",
+        "Fires a spray of water that drips extra trails of water"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png"
       ],
@@ -2819,6 +2997,10 @@
       [
         "Velocity",
         "13"
+      ],
+      [
+        "Tooltip",
+        "Shoots a massive spread of bubbles"
       ],
       [
         "Rarity",
@@ -2898,6 +3080,11 @@
         "8"
       ],
       [
+        "Tooltip",
+        "EarrapeFires a string of bouncing sound waves that become stronger as they travel"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/9a/Crush_Depth.png",
         "Crush Depth",
         "100% chance"
@@ -2957,6 +3144,11 @@
         "12"
       ],
       [
+        "Tooltip",
+        "The power of an ancient cultist resonates within this staffFires a spread of ancient light and has a chance to fire a spinning ice cluster Summons a Juvenile Eidolon Wyrm to fight for you which takes up 4 minion slotsRight click to fire out Ice ClustersWhen an Ice Cluster intersects with the Wyrm, it explodes into homing iciclesOnly one wyrm can exist at a time"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/fc/Glacial_State.png",
         "Glacial State",
         "100% chance"
@@ -3016,6 +3208,10 @@
         "12"
       ],
       [
+        "Tooltip",
+        "Casts eldritch tentacles to spear your enemies"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png"
       ],
@@ -3062,6 +3258,11 @@
         "6"
       ],
       [
+        "Tooltip",
+        "Casts four celestial beams near the playerSolar beams explode on enemy hitsNebula beams sweeps a little bit over timeVortex beams act like fast lightning and electrify enemies on hitStardust beams release small stars that home on enemy hits"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/99/Elemental_Mix.png",
         "Elemental Mix",
         "100% chance"
@@ -3141,6 +3342,10 @@
       [
         "Velocity",
         "0"
+      ],
+      [
+        "Tooltip",
+        "Hexes a possible nearby enemy, trapping them in a brilliant display of destructionThere's pictures of ponies in the book"
       ],
       [
         "Rarity",
@@ -3240,6 +3445,11 @@
         "25"
       ],
       [
+        "Tooltip",
+        "Nothing, not even light, can return.Fires a ring of stars to home in on nearby enemiesStars spawn black holes on enemy hits"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Stardust_Dragon.png",
         "Daybroken",
         "100% chance"
@@ -3335,6 +3545,11 @@
         "10"
       ],
       [
+        "Tooltip",
+        "Fires a stream of burning green ichor"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/70/Ichor_%28debuff%29.png",
         "Ichor",
         "100% chance"
@@ -3348,6 +3563,7 @@
         "Defense reduced by 20"
       ],
       [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a0/Cursed_Inferno.png",
         "Cursed Inferno",
         "100% chance"
@@ -3432,6 +3648,10 @@
         "13.5"
       ],
       [
+        "Tooltip",
+        "Casts a bouncing beam that splits when enemies are near it"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8b/Rarity_color_16.png"
       ],
@@ -3502,6 +3722,10 @@
       [
         "Velocity",
         "20"
+      ],
+      [
+        "Tooltip",
+        "WOOO!! FAAAAAAANTASYY WORLDDDDD!Fires music notesRight click summons an amplifier that shoots towards your mouse"
       ],
       [
         "Rarity",
@@ -3586,6 +3810,10 @@
         "1"
       ],
       [
+        "Tooltip",
+        "Spawns ghostly fireballs that follow the player"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/36/Rarity_color_13.png"
       ],
@@ -3632,6 +3860,11 @@
         "7.5"
       ],
       [
+        "Tooltip",
+        "Casts a slow-moving ball of flame"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4f/On_Fire%21.png",
         "On Fire!",
         "100% chance"
@@ -3722,6 +3955,11 @@
         "9"
       ],
       [
+        "Tooltip",
+        "Casts a fire orb that emits a gigantic explosion on death"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4f/On_Fire%21.png",
         "On Fire!",
         "100% chance"
@@ -3802,6 +4040,11 @@
         "6.5"
       ],
       [
+        "Tooltip",
+        "Casts a slow-moving ball of flash-freezing magma"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4f/On_Fire%21.png",
         "On Fire!",
         "100% chance"
@@ -3815,6 +4058,7 @@
         "Slowly losing life"
       ],
       [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Frostburn.png",
         "Frostburn",
         "100% chance"
@@ -3905,6 +4149,11 @@
         "6"
       ],
       [
+        "Tooltip",
+        "Casts a slow-moving ball of frost"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Frostburn.png",
         "Frostburn",
         "100% chance"
@@ -3995,6 +4244,11 @@
         "24"
       ],
       [
+        "Tooltip",
+        "Large laser cannon used primarily by Yharim's fleet and base defense forceCurrent Charge: [CHARGE]"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4f/On_Fire%21.png",
         "On Fire!",
         "100% chance"
@@ -4089,6 +4343,10 @@
         "14"
       ],
       [
+        "Tooltip",
+        "A simple pistol that utilizes magic power; a weapon for the more magically adept.Fires a devastating high velocity blast with extreme knockbackCurrent Charge: [CHARGE]"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/bb/Rarity_color_draedon_arsenal.png"
       ],
@@ -4170,6 +4428,10 @@
         "6"
       ],
       [
+        "Tooltip",
+        "Fires a Y-shaped beam of destructive energy and a spread of lasers"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8f/Rarity_color_10.png"
       ],
@@ -4242,6 +4504,10 @@
         "9"
       ],
       [
+        "Tooltip",
+        "Fires homing ghast energy that explodes"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/36/Rarity_color_13.png"
       ],
@@ -4286,6 +4552,10 @@
       [
         "Velocity",
         "14"
+      ],
+      [
+        "Tooltip",
+        "Casts a gleaming flower that explodes into petals"
       ],
       [
         "Rarity",
@@ -4359,6 +4629,10 @@
         "7"
       ],
       [
+        "Tooltip",
+        "Casts a meteor star for the player to ride in the direction of the cursorThe meteor star explodes after hitting an enemy, crashing into a wall, or after 6 secondsThis explosion hurts both enemies and the playerReleasing the cursor before the star explodes will cause it to explode prematurely for less damageMounts are disabled while this weapon is in use"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png"
       ],
@@ -4403,6 +4677,10 @@
       [
         "Velocity",
         "9"
+      ],
+      [
+        "Tooltip",
+        "Summons a gaseous conglomeration of spirits near the cursorAt first, the spirits will fly wildly. This can hurt enemies and playersHowever, over time they will begin to accumulate to create a single, controllable monstrosityThe spirits of the amalgam could never pass on to their desired afterlife,Tainted and melded by rage as they were."
       ],
       [
         "Rarity",
@@ -4451,6 +4729,11 @@
         "8"
       ],
       [
+        "Tooltip",
+        "Fires a random assortment of ocean creatures'There's no telling how long it was down there... or what lurks inside'"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/9a/Crush_Depth.png",
         "Crush Depth",
         "100% chance"
@@ -4464,8 +4747,10 @@
         "Aquatic pressure"
       ],
       [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8a/Venom.png",
-        "Acid Venom"
+        "Acid Venom",
+        "100% chance"
       ],
       [
         "Debuff duration",
@@ -4522,6 +4807,11 @@
         "10"
       ],
       [
+        "Tooltip",
+        "Fires a string of bouncing sound waves that become stronger as they travelSound waves echo additional sound waves on enemy hits"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/9a/Crush_Depth.png",
         "Crush Depth",
         "100% chance"
@@ -4617,6 +4907,10 @@
         "10"
       ],
       [
+        "Tooltip",
+        "Casts flaming pumpkins"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png"
       ],
@@ -4688,6 +4982,11 @@
         "15"
       ],
       [
+        "Tooltip",
+        "The power of a galaxy, if only for mere momentsLaunches volatile star cores which erupt into colossal fusion blasts"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8b/Irradiated.png",
         "Irradiated",
         "100% chance"
@@ -4701,6 +5000,7 @@
         "Your skin is burning off"
       ],
       [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Stardust_Dragon.png",
         "Daybroken",
         "100% chance"
@@ -4801,6 +5101,11 @@
         "32"
       ],
       [
+        "Tooltip",
+        "Casts a beam of flame"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4f/On_Fire%21.png",
         "On Fire!",
         "100% chance"
@@ -4860,6 +5165,11 @@
         "9"
       ],
       [
+        "Tooltip",
+        "Casts flaming bats"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4f/On_Fire%21.png",
         "On Fire!",
         "100% chance"
@@ -4944,6 +5254,10 @@
         "10"
       ],
       [
+        "Tooltip",
+        "Casts a barrage of blood geysers from below"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png"
       ],
@@ -4988,6 +5302,10 @@
       [
         "Velocity",
         "0"
+      ],
+      [
+        "Tooltip",
+        "Releases fire and souls upward from a held bookAs the book is held the power of both increases"
       ],
       [
         "Rarity",
@@ -5036,6 +5354,10 @@
         "1"
       ],
       [
+        "Tooltip",
+        "Creates mushroom spores near the player"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png"
       ],
@@ -5082,6 +5404,11 @@
         "2"
       ],
       [
+        "Tooltip",
+        "Oh dear, you are dead!Casts a deadly and powerful ice spell in the location of the cursorThis ice spell locks itself to the position of nearby enemiesConsumes 2 Blood Runes every time it's used"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/fc/Glacial_State.png",
         "Glacial State",
         "100% chance"
@@ -5095,6 +5422,7 @@
         "Cannot move and defense is shattered"
       ],
       [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/73/Exo_Freeze.png",
         "Exo Freeze",
         "100% chance"
@@ -5108,6 +5436,7 @@
         "Cannot move"
       ],
       [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Frostburn.png",
         "Frostburn",
         "100% chance"
@@ -5208,6 +5537,10 @@
         "11"
       ],
       [
+        "Tooltip",
+        "Casts icicles from the sky"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png"
       ],
@@ -5279,6 +5612,11 @@
         "12"
       ],
       [
+        "Tooltip",
+        "Shoots piercing icicles"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/fc/Glacial_State.png",
         "Glacial State",
         "100% chance"
@@ -5292,6 +5630,7 @@
         "Cannot move and defense is shattered"
       ],
       [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Frostburn.png",
         "Frostburn",
         "100% chance"
@@ -5350,6 +5689,11 @@
         "16"
       ],
       [
+        "Tooltip",
+        "Summons infernal blades that spawn additional blades on enemy hits"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/71/Brimstone_Flames.png",
         "Brimstone Flames",
         "100% chance"
@@ -5439,6 +5783,11 @@
         "3"
       ],
       [
+        "Tooltip",
+        "Fires ion blasts that speed up and then explodeDamage scales with how full your mana isUsing Astral Injection reduces the effectiveness of the mana boost"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/71/Brimstone_Flames.png",
         "Brimstone Flames",
         "100% chance"
@@ -5523,6 +5872,10 @@
         "15"
       ],
       [
+        "Tooltip",
+        "Summons a geyser upon hitting an enemyCrumple em' like paper"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png"
       ],
@@ -5569,6 +5922,11 @@
         "9"
       ],
       [
+        "Tooltip",
+        "Watch the world burn..."
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/71/Brimstone_Flames.png",
         "Brimstone Flames",
         "100% chance"
@@ -5628,6 +5986,11 @@
         "15"
       ],
       [
+        "Tooltip",
+        "Fires a bouncing laser that explodes on enemy hits"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4f/On_Fire%21.png",
         "On Fire!",
         "100% chance"
@@ -5658,7 +6021,7 @@
     ],
     "craftingIngredients": [
       [
-        "No image available",
+        null,
         "Any Zapinator",
         "1"
       ],
@@ -5718,6 +6081,10 @@
         "20"
       ],
       [
+        "Tooltip",
+        "Zap"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e4/Rarity_color_6.png"
       ],
@@ -5762,6 +6129,10 @@
       [
         "Velocity",
         "25"
+      ],
+      [
+        "Tooltip",
+        "Casts small, homing light beads along with explosive light balls"
       ],
       [
         "Rarity",
@@ -5856,6 +6227,10 @@
         "19"
       ],
       [
+        "Tooltip",
+        "Fires a variety of high-velocity flasksRight click to throw a prismatic flask that inflicts many debuffsRed flasks explode violently, blue flasks contain poison gas, green flasks summon lunar flares and purple flasks explode into homing shrapnel"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/96/Rarity_color_11.png"
       ],
@@ -5936,6 +6311,10 @@
       [
         "Velocity",
         "12"
+      ],
+      [
+        "Tooltip",
+        "Fires a concentrated blast of energy"
       ],
       [
         "Rarity",
@@ -6019,6 +6398,10 @@
         "12"
       ],
       [
+        "Tooltip",
+        "Launches a diamond cross of supercharged magnet spheres"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/ec/Rarity_color_12.png"
       ],
@@ -6089,6 +6472,10 @@
       [
         "Velocity",
         "10"
+      ],
+      [
+        "Tooltip",
+        "Casts a mana flower that explodes into petals"
       ],
       [
         "Rarity",
@@ -6167,6 +6554,11 @@
         "10"
       ],
       [
+        "Tooltip",
+        "Fires a spread of gas clouds that slow down after hitting an enemy"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8b/Irradiated.png",
         "Irradiated",
         "100% chance"
@@ -6256,6 +6648,10 @@
         "24"
       ],
       [
+        "Tooltip",
+        "Casts a storm of pine needles and leaves"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/ec/Rarity_color_12.png"
       ],
@@ -6333,6 +6729,10 @@
         "16"
       ],
       [
+        "Tooltip",
+        "Fires a barrage of nano lasers"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8f/Rarity_color_10.png"
       ],
@@ -6401,6 +6801,10 @@
         "10 Very Fast"
       ],
       [
+        "Tooltip",
+        "Charges up a laser beam that scales with mana remaining."
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8d/Rarity_color_15.png"
       ],
@@ -6445,6 +6849,10 @@
       [
         "Velocity",
         "6"
+      ],
+      [
+        "Tooltip",
+        "Fires a dark ray When hitting enemies, they are hit by several new beams from their side"
       ],
       [
         "Rarity",
@@ -6538,6 +6946,11 @@
         "16"
       ],
       [
+        "Tooltip",
+        "Casts a torrent of cosmic typhoons"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/be/Wet.png",
         "Wet",
         "100% chance"
@@ -6638,6 +7051,11 @@
         "10"
       ],
       [
+        "Tooltip",
+        "Fires a spread of water leeches that latch onto enemies, dealing a stacking damage over time"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8b/Irradiated.png",
         "Irradiated",
         "100% chance"
@@ -6695,6 +7113,10 @@
       [
         "Velocity",
         "12"
+      ],
+      [
+        "Tooltip",
+        "Casts a phantasmal bolt that explodes into more bolts"
       ],
       [
         "Rarity",
@@ -6769,6 +7191,11 @@
         "30"
       ],
       [
+        "Tooltip",
+        "Baptism by holy fireCasts a barrage of fire from the sky"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d7/Holy_Flames.png",
         "Holy Flames",
         "100% chance"
@@ -6828,6 +7255,11 @@
         "16"
       ],
       [
+        "Tooltip",
+        "Fires a spread of plague fangs"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/6a/Plague.png",
         "Plague",
         "100% chance"
@@ -6887,6 +7319,11 @@
         "5"
       ],
       [
+        "Tooltip",
+        "Industrial tool used to fuse metal together with super-heated plasmaRight click for turbo modeCurrent Charge: [CHARGE]"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4f/On_Fire%21.png",
         "On Fire!",
         "100% chance"
@@ -6900,6 +7337,7 @@
         "Losing life"
       ],
       [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a0/Cursed_Inferno.png",
         "Cursed Inferno",
         "100% chance"
@@ -6990,6 +7428,10 @@
         "12"
       ],
       [
+        "Tooltip",
+        "Fires a plasma blast that explodesRight click to fire plasma bolts"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/ec/Rarity_color_12.png"
       ],
@@ -7066,6 +7508,11 @@
         "11"
       ],
       [
+        "Tooltip",
+        "Casts a low-damage plasma boltShooting a tile will cause several bolts with increased damage to fireShooting an enemy will inflict shadowflame for a long duration"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e8/Shadowflame.png",
         "Shadowflame",
         "100% chance"
@@ -7121,6 +7568,10 @@
         "10"
       ],
       [
+        "Tooltip",
+        "Casts a poseidon typhoon"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png"
       ],
@@ -7165,6 +7616,10 @@
       [
         "Velocity",
         "8"
+      ],
+      [
+        "Tooltip",
+        "An ancient relic from an ancient landCasts a gigantic blast of dust"
       ],
       [
         "Rarity",
@@ -7244,6 +7699,10 @@
         "4"
       ],
       [
+        "Tooltip",
+        "Casts a large blast of dust"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png"
       ],
@@ -7315,6 +7774,10 @@
       [
         "Velocity",
         "5.2"
+      ],
+      [
+        "Tooltip",
+        "Fires a pulse that arcs to a new target on enemy hitsCurrent Charge: [CHARGE]"
       ],
       [
         "Rarity",
@@ -7398,6 +7861,11 @@
         "6"
       ],
       [
+        "Tooltip",
+        "Emits three beams of holy energy in a tight spread"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d7/Holy_Flames.png",
         "Holy Flames",
         "100% chance"
@@ -7411,6 +7879,7 @@
         "Dissolving from holy light"
       ],
       [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4f/On_Fire%21.png",
         "On Fire!",
         "100% chance"
@@ -7464,6 +7933,10 @@
       [
         "Use time",
         "24 Fast"
+      ],
+      [
+        "Tooltip",
+        "Let the rainbow remind you that together we will always shine..."
       ],
       [
         "Rarity",
@@ -7558,7 +8031,12 @@
         "9"
       ],
       [
-        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/53/Rancor_Burn.png/revision/latest?cb=20220317222006&format=original",
+        "Tooltip",
+        "Casts a magic circle that charges energy and eventually releases a powerful laser burst of controlled maleficent magicThe laser causes arms and searing lava to appear on surfaces it touches which harm both you and enemiesForgiveness can only heal so much,If the recipient has not yet forgiven themselves."
+      ],
+      [
+        "Inflicts Debuff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/53/Rancor_Burn.png",
         "Rancor Burn",
         "100% chance"
       ],
@@ -7615,6 +8093,10 @@
       [
         "Velocity",
         "10"
+      ],
+      [
+        "Tooltip",
+        "A thousand years sealed in the demon's realm will teach you a thing or twoSummons beast scythes around the player in a small circle, before firing toward the cursor and home in to nearby enemies"
       ],
       [
         "Rarity",
@@ -7694,6 +8176,10 @@
         "30"
       ],
       [
+        "Tooltip",
+        "Casts a spread of sand blades"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png"
       ],
@@ -7766,6 +8252,10 @@
         "24"
       ],
       [
+        "Tooltip",
+        "Fires a wave of 3 rouge air slashes"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/96/Rarity_color_11.png"
       ],
@@ -7810,6 +8300,10 @@
       [
         "Velocity",
         "20"
+      ],
+      [
+        "Tooltip",
+        "Fires plasma orbs that linger and emit massive explosionsRight click to fire powerful energy beams"
       ],
       [
         "Rarity",
@@ -7888,6 +8382,11 @@
         "14"
       ],
       [
+        "Tooltip",
+        "Fires a blast of sanguine flares that drain enemy life"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/71/Brimstone_Flames.png",
         "Brimstone Flames",
         "100% chance"
@@ -7963,6 +8462,10 @@
         "6"
       ],
       [
+        "Tooltip",
+        "Fires a barrage of brimstone blasts"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png"
       ],
@@ -8007,6 +8510,10 @@
       [
         "Velocity",
         "10"
+      ],
+      [
+        "Tooltip",
+        "Casts a serpent that follows the mouse cursor"
       ],
       [
         "Rarity",
@@ -8055,6 +8562,11 @@
         "16"
       ],
       [
+        "Tooltip",
+        "Summons rapid fire shadecrystals, can shoot two crystals at once"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Frostburn.png",
         "Frostburn",
         "100% chance"
@@ -8135,6 +8647,11 @@
         "16"
       ],
       [
+        "Tooltip",
+        "Fires a shade storm cloud"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e8/Shadowflame.png",
         "Shadowflame",
         "100% chance"
@@ -8224,6 +8741,10 @@
         "6"
       ],
       [
+        "Tooltip",
+        "The more tiles and enemies the beam bounces off of or travels through the more damage the beam does"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/36/Rarity_color_13.png"
       ],
@@ -8296,6 +8817,10 @@
         "14"
       ],
       [
+        "Tooltip",
+        "Summons dark aura rain from the sky"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png"
       ],
@@ -8340,6 +8865,10 @@
       [
         "Velocity",
         "7"
+      ],
+      [
+        "Tooltip",
+        "Casts a sand shard that follows the mouse cursor"
       ],
       [
         "Rarity",
@@ -8388,6 +8917,10 @@
         "15"
       ],
       [
+        "Tooltip",
+        "Fires feathers from the sky that stick to enemies and tiles and explode"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png"
       ],
@@ -8434,6 +8967,11 @@
         "14"
       ],
       [
+        "Tooltip",
+        "Casts a magical acid eel that releases acid drops as it moves"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8b/Irradiated.png",
         "Irradiated",
         "100% chance"
@@ -8493,6 +9031,11 @@
         "7"
       ],
       [
+        "Tooltip",
+        "Fires a snowflake that follows the mouse cursor"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Frostburn.png",
         "Frostburn",
         "100% chance"
@@ -8550,6 +9093,10 @@
       [
         "Velocity",
         "6"
+      ],
+      [
+        "Tooltip",
+        "Casts a powerful ray that summons extra rays on enemy hits"
       ],
       [
         "Rarity",
@@ -8614,6 +9161,10 @@
         "14"
       ],
       [
+        "Tooltip",
+        "Fires a concentrated laser to annihilate your foesDefeated enemies explode into prism shards"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png"
       ],
@@ -8656,6 +9207,11 @@
         "30 Average"
       ],
       [
+        "Tooltip",
+        "Hold your mouse, wait, wait, wait, and put your trust in the power of blue magic"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4f/On_Fire%21.png",
         "On Fire!",
         "100% chance"
@@ -8669,6 +9225,7 @@
         "Slowly losing life"
       ],
       [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Frostburn.png",
         "Frostburn",
         "100% chance"
@@ -8682,6 +9239,7 @@
         "It's either really hot or really cold. Either way it REALLY hurts"
       ],
       [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d7/Holy_Flames.png",
         "Holy Flames",
         "100% chance"
@@ -8767,6 +9325,11 @@
         "12"
       ],
       [
+        "Tooltip",
+        "Casts a spread of astral stars at the mouse cursor"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/65/Astral_Infection_%28debuff%29.png",
         "Astral Infection",
         "100% chance"
@@ -8826,6 +9389,10 @@
         "10"
       ],
       [
+        "Tooltip",
+        "Fires a spray of water that drips extra trails of water"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png"
       ],
@@ -8872,6 +9439,10 @@
         "7"
       ],
       [
+        "Tooltip",
+        "Fires an energy orb containing the essence of our stratosphereUp to six of these can be active at a time"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/36/Rarity_color_13.png"
       ],
@@ -8916,6 +9487,10 @@
       [
         "Velocity",
         "1"
+      ],
+      [
+        "Tooltip",
+        "Summons a colossal vortex around the player while heldNearby enemies are sucked into the vortex and are attacked by a flurry of exo tentacles"
       ],
       [
         "Rarity",
@@ -8995,6 +9570,11 @@
         "13.5"
       ],
       [
+        "Tooltip",
+        "Faint memories of a Princess from the future cross your mind...Fires a sword beam that electrifies enemies on hit"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/56/Electrified.png",
         "Electrified",
         "100% chance"
@@ -9104,6 +9684,11 @@
         "5.5"
       ],
       [
+        "Tooltip",
+        "Casts slow-moving homing balls of heavenly light"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d7/Holy_Flames.png",
         "Holy Flames",
         "100% chance"
@@ -9194,6 +9779,10 @@
         "6"
       ],
       [
+        "Tooltip",
+        "Casts an energy ray that splits into energy on enemies hitsMore energy is created the farther along the ray the enemy hit is"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png"
       ],
@@ -9274,6 +9863,10 @@
         "5"
       ],
       [
+        "Tooltip",
+        "Lightweight energy cannon that blasts an intense electrical beam that explodesBeams can arc to nearby targetsCurrent Charge: [CHARGE]"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/bb/Rarity_color_draedon_arsenal.png"
       ],
@@ -9349,6 +9942,10 @@
       [
         "Velocity",
         "14"
+      ],
+      [
+        "Tooltip",
+        "Barrages enemies with a hailstorm of Light Blades'And in a flash of light, nothing remains'"
       ],
       [
         "Rarity",
@@ -9428,6 +10025,11 @@
         "23.5"
       ],
       [
+        "Tooltip",
+        "Casts a holy fireball that explodes into 6 flamesSo you're telling me that the prince exploded, and then turned into a flower?-Dain, the sailor druid"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d7/Holy_Flames.png",
         "Holy Flames",
         "100% chance"
@@ -9513,6 +10115,11 @@
         "12"
       ],
       [
+        "Tooltip",
+        "Fires a swarm of bees and wasps"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/11/Poisoned.png",
         "Poisoned",
         "100% chance"
@@ -9526,6 +10133,7 @@
         "Slowly losing life"
       ],
       [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8a/Venom.png",
         "Venom",
         "100% chance"
@@ -9611,6 +10219,11 @@
         "24"
       ],
       [
+        "Tooltip",
+        "The ultimate wand"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4f/On_Fire%21.png",
         "On Fire!",
         "100% chance"
@@ -9624,6 +10237,7 @@
         "Losing life"
       ],
       [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Stardust_Dragon.png",
         "Daybroken",
         "100% chance"
@@ -9704,6 +10318,10 @@
         "6"
       ],
       [
+        "Tooltip",
+        "Make it rain"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/ec/Rarity_color_12.png"
       ],
@@ -9750,6 +10368,11 @@
         "17"
       ],
       [
+        "Tooltip",
+        "Casts cosmic tentacles to spear your enemiesCan randomly fire a brimstone tentacle for immense damage"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/71/Brimstone_Flames.png",
         "Brimstone Flames",
         "100% chance"
@@ -9830,6 +10453,10 @@
         "20"
       ],
       [
+        "Tooltip",
+        "Casts fast moving sunlight feathers"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png"
       ],
@@ -9902,6 +10529,11 @@
         "16"
       ],
       [
+        "Tooltip",
+        "Summons liquidation blades that summon more blades on enemy hitsThe blades inflict ichor, cursed inferno and brimstone flames"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/70/Ichor_%28debuff%29.png",
         "Ichor",
         "100% chance"
@@ -9915,6 +10547,7 @@
         "Defense reduced by 20"
       ],
       [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/71/Brimstone_Flames.png",
         "Brimstone Flames",
         "100% chance"
@@ -9928,6 +10561,7 @@
         "Rapid health loss"
       ],
       [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a0/Cursed_Inferno.png",
         "Cursed Inferno",
         "100% chance"
@@ -10028,6 +10662,11 @@
         "12"
       ],
       [
+        "Tooltip",
+        "Casts a swarm of homing spears"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/9a/Crush_Depth.png",
         "Crush Depth",
         "100% chance"
@@ -10115,6 +10754,10 @@
       [
         "Velocity",
         "25"
+      ],
+      [
+        "Tooltip",
+        "Casts a devastating ray of holy power"
       ],
       [
         "Rarity",
@@ -10208,6 +10851,11 @@
         "16"
       ],
       [
+        "Tooltip",
+        "Casts intense bolts of hellish power that explode into skullsDirect hits inflict Demon Flames for an extended period of time"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/82/Demon_Flames.png",
         "Demon Flames",
         "100% chance"
@@ -10263,6 +10911,11 @@
         "19"
       ],
       [
+        "Tooltip",
+        "Casts an infernal trident that erupts into a gigantic explosion of fire and magma shards"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4f/On_Fire%21.png",
         "On Fire!",
         "100% chance"
@@ -10348,7 +11001,12 @@
         "20"
       ],
       [
+        "Tooltip",
+        "Asteroids give the Molten buff on enemy hitsCalls down a swarm of molten asteroidsRight click to fire a spread of molten asteroids from the staff"
+      ],
+      [
         "Grants Buff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d2/Molten.png",
         "Molten"
       ],
       [
@@ -10404,6 +11062,10 @@
       [
         "Velocity",
         "6"
+      ],
+      [
+        "Tooltip",
+        "Fires a blood beam that heals you on enemy hitsThe more tiles and enemies the beam bounces off of or travels through the more healing the beam does"
       ],
       [
         "Rarity",
@@ -10468,6 +11130,11 @@
         "20"
       ],
       [
+        "Tooltip",
+        "Releases a volley of venomous fangs and spit"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/fc/Sulphuric_Poisoning.png",
         "Sulphuric Poisoning",
         "100% chance"
@@ -10525,6 +11192,10 @@
       [
         "Velocity",
         "6"
+      ],
+      [
+        "Tooltip",
+        "Fires five randomized beams of elemental energy at the cursorOn enemy and tile hits, beams either explode into a big flash,summon an additonal laser from the sky,or split into energy orbsIts majesty inspires a stroke of unparalleled genius"
       ],
       [
         "Rarity",
@@ -10619,6 +11290,10 @@
         "12"
       ],
       [
+        "Tooltip",
+        "Conjures an octagon of supercharged magnet spheres around the cursor"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8d/Rarity_color_15.png"
       ],
@@ -10686,6 +11361,10 @@
         "12"
       ],
       [
+        "Tooltip",
+        "Casts inaccurate water bolts"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png"
       ],
@@ -10729,6 +11408,10 @@
       [
         "Velocity",
         "25"
+      ],
+      [
+        "Tooltip",
+        "Fires a concentrated laser beam"
       ],
       [
         "Rarity",
@@ -10777,6 +11460,11 @@
         "12"
       ],
       [
+        "Tooltip",
+        "The pages are freezing to the touch"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Frostburn.png",
         "Frostburn",
         "100% chance"
@@ -10790,6 +11478,7 @@
         "It's either really hot or really cold. Either way it REALLY hurts"
       ],
       [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/fc/Glacial_State.png",
         "Glacial State",
         "100% chance"
@@ -10848,6 +11537,10 @@
         "9"
       ],
       [
+        "Tooltip",
+        "Summons an energy pulse at the cursor to periodically summon homing spirits"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png"
       ],
@@ -10892,6 +11585,10 @@
       [
         "Velocity",
         "9"
+      ],
+      [
+        "Tooltip",
+        "Casts a wulfrum bolt"
       ],
       [
         "Rarity",
@@ -10958,6 +11655,10 @@
       [
         "Velocity",
         "18"
+      ],
+      [
+        "Tooltip",
+        "I call upon the mythical Wyvern to shower the lands with its graceFires wyverns and colored feathers from the sky that stick to enemies and tiles and explode"
       ],
       [
         "Rarity",
@@ -11034,6 +11735,10 @@
       [
         "Velocity",
         "30"
+      ],
+      [
+        "Tooltip",
+        "Fires draconic beams of total annihilation"
       ],
       [
         "Rarity",

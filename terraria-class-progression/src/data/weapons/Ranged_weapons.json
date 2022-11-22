@@ -29,6 +29,11 @@
         "24"
       ],
       [
+        "Tooltip",
+        "Fires a string of cards with varying effects based on card typeHearts grant lifesteal. Spades pierce and ignore immunity frames.Diamonds explode. Clubs split into three."
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/71/Brimstone_Flames.png",
         "Brimstone Flames",
         "100% chance"
@@ -172,6 +177,11 @@
         "12"
       ],
       [
+        "Tooltip",
+        "Inflicts long-lasting shadowflame and splits on tile hitsProjectiles gain damage as they travelRight click to change from magic to ranged damageRight click consumes no mana"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e8/Shadowflame.png",
         "Shadowflame",
         "100% chance"
@@ -256,6 +266,10 @@
       [
         "Velocity",
         "35"
+      ],
+      [
+        "Tooltip",
+        "Converts wooden arrows into sharks, torrential and typhoon arrowsFires a torrent of six arrows at once"
       ],
       [
         "Rarity",
@@ -346,6 +360,11 @@
         "12"
       ],
       [
+        "Tooltip",
+        "Each shot casts a radiant beam of holy light from the skyConverts musket balls into illuminated bulletsFighting ‘til the war’s won"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d7/Holy_Flames.png",
         "Holy Flames",
         "100% chance"
@@ -432,6 +451,10 @@
         "11"
       ],
       [
+        "Tooltip",
+        "50% chance to not consume ammoFires a powerful sniper roundRight click to fire a burst of bullets"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Rarity_color_7.png"
       ],
@@ -474,6 +497,11 @@
         "12"
       ],
       [
+        "Tooltip",
+        "Converts musket balls into .50 caliber sniper rounds that rip apart enemy defense and DRIf you crit the target a second swarm of bullets will fire"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/db/Marked.png",
         "Marked",
         "100% chance"
@@ -548,6 +576,10 @@
       [
         "Velocity",
         "22"
+      ],
+      [
+        "Tooltip",
+        "Converts musket balls into aquashards that split upon hitting an enemy"
       ],
       [
         "Rarity",
@@ -632,6 +664,10 @@
         "12"
       ],
       [
+        "Tooltip",
+        "Fires a volley of 10 high-speed arrowsArrows start off small and grow in size with continuous fireArrow damage, spread and knockback scale with arrow size"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png"
       ],
@@ -674,6 +710,11 @@
         "11"
       ],
       [
+        "Tooltip",
+        "Converts musket balls into streams of water"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/be/Wet.png",
         "Wet",
         "100% chance"
@@ -701,6 +742,78 @@
   },
   {
     "id": 1009,
+    "itemName": "Arngren",
+    "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e1/Arngren.png",
+    "itemSpecs": [
+      [
+        "Type",
+        "Weapon – Crafting material"
+      ],
+      [
+        "Damage",
+        "28 Ranged"
+      ],
+      [
+        "Knockback",
+        "0 (No Knockback)"
+      ],
+      [
+        "Critical chance",
+        "4%"
+      ],
+      [
+        "Use time",
+        "4 Insanely Fast"
+      ],
+      [
+        "Velocity",
+        "26"
+      ],
+      [
+        "Tooltip",
+        "80% chance to not consume ammo"
+      ],
+      [
+        "Rarity",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c2/Rarity_color_9.png"
+      ],
+      [
+        "Sell",
+        "      8  ",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Gold_Coin.png"
+      ]
+    ],
+    "craftingStations": [
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e2/Ancient_Manipulator.png",
+        "Ancient Manipulator"
+      ]
+    ],
+    "craftingIngredients": [
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/14/Clock_Gatlignum.png",
+        "Clock Gatlignum",
+        "1"
+      ],
+      [
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/ec/Stardust_Fragment.png",
+        "Stardust Fragment",
+        "10"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e8/Abyss_Gravel.png",
+        "Abyss Gravel",
+        "64"
+      ],
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e1/Arngren.png",
+        "Arngren",
+        "1"
+      ]
+    ]
+  },
+  {
+    "id": 1010,
     "itemName": "Arterial Assault",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/b7/Arterial_Assault.png",
     "itemSpecs": [
@@ -729,6 +842,11 @@
         "30"
       ],
       [
+        "Tooltip",
+        "Fires a chain of 5 arrows from the skyWooden arrows are converted into homing bloodfire arrows"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/71/Brimstone_Flames.png",
         "Brimstone Flames",
         "100% chance"
@@ -771,7 +889,7 @@
     ]
   },
   {
-    "id": 1010,
+    "id": 1011,
     "itemName": "Astral Blaster",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/27/Astral_Blaster.png",
     "itemSpecs": [
@@ -800,6 +918,11 @@
         "12"
       ],
       [
+        "Tooltip",
+        "Converts musket balls into homing astral rounds"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/65/Astral_Infection_%28debuff%29.png",
         "Astral Infection",
         "100% chance"
@@ -842,7 +965,7 @@
     ]
   },
   {
-    "id": 1011,
+    "id": 1012,
     "itemName": "Astral Bow",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/1b/Astral_Bow.png",
     "itemSpecs": [
@@ -869,6 +992,10 @@
       [
         "Velocity",
         "16"
+      ],
+      [
+        "Tooltip",
+        "Fires a burst of three arrows"
       ],
       [
         "Rarity",
@@ -900,7 +1027,7 @@
     ]
   },
   {
-    "id": 1012,
+    "id": 1013,
     "itemName": "Astreal Defeat",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/10/Astreal_Defeat.png",
     "itemSpecs": [
@@ -929,6 +1056,11 @@
         "4"
       ],
       [
+        "Tooltip",
+        "Ethereal bow of the tyrant king's motherThe mother strongly discouraged acts of violence throughout her lifeThough she kept this bow close, to protect her family in times of great disasterAll arrows are converted to Astreal Arrows that emit flames as they travel"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e8/Shadowflame.png",
         "Shadowflame",
         "100% chance"
@@ -1001,7 +1133,7 @@
     ]
   },
   {
-    "id": 1013,
+    "id": 1014,
     "itemName": "Auralis",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/3a/Auralis.png",
     "itemSpecs": [
@@ -1030,6 +1162,11 @@
         "7.5"
       ],
       [
+        "Tooltip",
+        "Fires a high speed glowing bullet that inflicts debilitating debuffsRight click to zoom outStanding still provides increasing damage bonuses up to 25%Standing still for 5 or more seconds while using the scope ability will summon an auroraThe aurora reduces the damage of the next projectile hit by a flat 100This effect lasts up to 20 seconds and has a 30 second cooldown50% chance to not consume bullets"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a0/Cursed_Inferno.png",
         "Cursed Inferno",
         "100% chance"
@@ -1043,6 +1180,7 @@
         "Losing lifeAll damage taken increased by 20%"
       ],
       [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/70/Ichor_%28debuff%29.png",
         "Ichor",
         "100% chance"
@@ -1056,6 +1194,7 @@
         "Defense reduced by 20"
       ],
       [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/db/Marked.png",
         "Marked",
         "100% chance"
@@ -1113,7 +1252,7 @@
     ]
   },
   {
-    "id": 1014,
+    "id": 1015,
     "itemName": "Aurora Blazer",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/2d/Aurora_Blazer.png",
     "itemSpecs": [
@@ -1142,6 +1281,11 @@
         "7.5"
       ],
       [
+        "Tooltip",
+        "Spews astral flames that travel in star-shaped patterns60% chance to not consume gel"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/65/Astral_Infection_%28debuff%29.png",
         "Astral Infection",
         "100% chance"
@@ -1168,7 +1312,7 @@
     "craftingIngredients": []
   },
   {
-    "id": 1015,
+    "id": 1016,
     "itemName": "Axisdriver",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/60/Axisdriver.png",
     "itemSpecs": [
@@ -1195,6 +1339,10 @@
       [
         "Velocity",
         "12"
+      ],
+      [
+        "Tooltip",
+        "Shoots a burst of 3 exo bullets that tear through enemies\nCritical hits rain elemental bolts from aboveRight click to fire an explosive homing exo bullet50% chance to not consume bullets"
       ],
       [
         "Rarity",
@@ -1266,7 +1414,7 @@
     ]
   },
   {
-    "id": 1016,
+    "id": 1017,
     "itemName": "Barinade",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/09/Barinade.png",
     "itemSpecs": [
@@ -1295,6 +1443,10 @@
         "14"
       ],
       [
+        "Tooltip",
+        "Converts wooden arrows into electric bolt arrows that explode"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png"
       ],
@@ -1308,7 +1460,7 @@
     "craftingIngredients": []
   },
   {
-    "id": 1017,
+    "id": 1018,
     "itemName": "Barinautical",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/cb/Barinautical.png",
     "itemSpecs": [
@@ -1337,6 +1489,10 @@
         "15"
       ],
       [
+        "Tooltip",
+        "Converts wooden arrows into strings of 3 electric bolt arrows that explode"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png"
       ],
@@ -1350,7 +1506,7 @@
     "craftingIngredients": []
   },
   {
-    "id": 1018,
+    "id": 1019,
     "itemName": "Barracuda Gun",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/9a/Barracuda_Gun.png",
     "itemSpecs": [
@@ -1377,6 +1533,10 @@
       [
         "Velocity",
         "15"
+      ],
+      [
+        "Tooltip",
+        "Fires two barracudas that latch onto enemies"
       ],
       [
         "Rarity",
@@ -1432,7 +1592,7 @@
     ]
   },
   {
-    "id": 1019,
+    "id": 1020,
     "itemName": "Bladedge Railbow",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/7f/Bladedge_Railbow.png",
     "itemSpecs": [
@@ -1459,6 +1619,10 @@
       [
         "Velocity",
         "16"
+      ],
+      [
+        "Tooltip",
+        "Fires 4 arrows at onceFires 2 additional leaves"
       ],
       [
         "Rarity",
@@ -1494,7 +1658,7 @@
     ]
   },
   {
-    "id": 1020,
+    "id": 1021,
     "itemName": "Blight Spewer",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/31/Blight_Spewer.png",
     "itemSpecs": [
@@ -1523,6 +1687,7 @@
         "7.5"
       ],
       [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/6a/Plague.png",
         "Plague",
         "100% chance"
@@ -1549,7 +1714,7 @@
     "craftingIngredients": []
   },
   {
-    "id": 1021,
+    "id": 1022,
     "itemName": "Blissful Bombardier",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/2c/Blissful_Bombardier.png",
     "itemSpecs": [
@@ -1578,6 +1743,11 @@
         "24"
       ],
       [
+        "Tooltip",
+        "Fires flare rockets"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d7/Holy_Flames.png",
         "Holy Flames",
         "100% chance"
@@ -1604,7 +1774,7 @@
     "craftingIngredients": []
   },
   {
-    "id": 1022,
+    "id": 1023,
     "itemName": "Blood Boiler",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/fe/Blood_Boiler.png",
     "itemSpecs": [
@@ -1633,6 +1803,11 @@
         "12"
       ],
       [
+        "Tooltip",
+        "Fires a stream of lifestealing bloodfireUses your health as ammo25% chance to not consume ammo"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/15/Burning_Blood.png",
         "Burning Blood",
         "100% chance"
@@ -1646,6 +1821,7 @@
         "Your blood is on fire"
       ],
       [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/71/Brimstone_Flames.png",
         "Brimstone Flames",
         "100% chance"
@@ -1688,7 +1864,7 @@
     ]
   },
   {
-    "id": 1023,
+    "id": 1024,
     "itemName": "Blossom Flux",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/92/Blossom_Flux.png",
     "itemSpecs": [
@@ -1717,6 +1893,10 @@
         "10"
       ],
       [
+        "Tooltip",
+        "Fires a stream of leavesRight click to fire a spore orb that explodes into a cloud of spore gas"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Rarity_color_7.png"
       ],
@@ -1730,7 +1910,7 @@
     "craftingIngredients": []
   },
   {
-    "id": 1024,
+    "id": 1025,
     "itemName": "Brimstone Flameblaster",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/92/Brimstone_Flameblaster.png",
     "itemSpecs": [
@@ -1759,6 +1939,11 @@
         "10"
       ],
       [
+        "Tooltip",
+        "Fires bouncing brimstone fireballs"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/71/Brimstone_Flames.png",
         "Brimstone Flames",
         "100% chance"
@@ -1785,7 +1970,7 @@
     "craftingIngredients": []
   },
   {
-    "id": 1025,
+    "id": 1026,
     "itemName": "Brimstone Fury",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/3e/Brimstone_Fury.png",
     "itemSpecs": [
@@ -1814,6 +1999,11 @@
         "13"
       ],
       [
+        "Tooltip",
+        "Converts wooden arrows into spreads of 3 brimstone bolts"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/71/Brimstone_Flames.png",
         "Brimstone Flames",
         "100% chance"
@@ -1860,7 +2050,7 @@
     ]
   },
   {
-    "id": 1026,
+    "id": 1027,
     "itemName": "Bullet-Filled ShotgunBullet-Filled Shotgun",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e2/Bullet-Filled_Shotgun.png",
     "itemSpecs": [
@@ -1887,6 +2077,10 @@
       [
         "Velocity",
         "9"
+      ],
+      [
+        "Tooltip",
+        "Fires a massive spread of bouncing bulletsConsumes five bullets per-useAim? What's that?"
       ],
       [
         "Rarity",
@@ -1932,14 +2126,14 @@
     ]
   },
   {
-    "id": 1028,
+    "id": 1029,
     "itemName": "",
     "itemSpecs": [],
     "craftingStations": [],
     "craftingIngredients": []
   },
   {
-    "id": 1029,
+    "id": 1030,
     "itemName": "Charged Dart Blaster",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/57/Charged_Dart_Blaster.png",
     "itemSpecs": [
@@ -1968,6 +2162,11 @@
         "22"
       ],
       [
+        "Tooltip",
+        "Fires a shotgun spread of darts and a splitting energy blastRight click to fire a more powerful exploding energy blast that bounces"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/6a/Plague.png",
         "Plague",
         "100% chance"
@@ -1994,7 +2193,7 @@
     "craftingIngredients": []
   },
   {
-    "id": 1030,
+    "id": 1031,
     "itemName": "Chicken Cannon",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/98/Chicken_Cannon.png",
     "itemSpecs": [
@@ -2023,6 +2222,10 @@
         "14.5"
       ],
       [
+        "Tooltip",
+        "Fires chicken flares which create enormous incendiary explosionsRight click to detonate all airborne rockets"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8d/Rarity_color_15.png"
       ],
@@ -2036,7 +2239,7 @@
     "craftingIngredients": []
   },
   {
-    "id": 1031,
+    "id": 1032,
     "itemName": "Clamor Rifle",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/eb/Clamor_Rifle.png",
     "itemSpecs": [
@@ -2065,6 +2268,10 @@
         "15"
       ],
       [
+        "Tooltip",
+        "Converts musket balls into homing energy bolts"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png"
       ],
@@ -2078,7 +2285,7 @@
     "craftingIngredients": []
   },
   {
-    "id": 1032,
+    "id": 1033,
     "itemName": "Claret Cannon",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/a3/Claret_Cannon.png",
     "itemSpecs": [
@@ -2107,6 +2314,11 @@
         "24"
       ],
       [
+        "Tooltip",
+        "Converts musket balls into strings of 3 [sic] bloody tears that drain enemy health"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/71/Brimstone_Flames.png",
         "Brimstone Flames",
         "100% chance"
@@ -2149,7 +2361,7 @@
     ]
   },
   {
-    "id": 1033,
+    "id": 1034,
     "itemName": "Cleansing Blaze",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/33/Cleansing_Blaze.png",
     "itemSpecs": [
@@ -2178,6 +2390,11 @@
         "14"
       ],
       [
+        "Tooltip",
+        "90% chance to not use gel"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/07/God_Slayer_Inferno.png",
         "God Slayer Inferno",
         "100% chance"
@@ -2220,7 +2437,7 @@
     ]
   },
   {
-    "id": 1034,
+    "id": 1035,
     "itemName": "Clock Gatlignum",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/14/Clock_Gatlignum.png",
     "itemSpecs": [
@@ -2247,6 +2464,10 @@
       [
         "Velocity",
         "20"
+      ],
+      [
+        "Tooltip",
+        "33% chance to not consume ammoConverts musket balls into strings of 3 high velocity bullets"
       ],
       [
         "Rarity",
@@ -2302,7 +2523,7 @@
     ]
   },
   {
-    "id": 1035,
+    "id": 1036,
     "itemName": "Clockwork Bow",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/5b/Clockwork_Bow.png",
     "itemSpecs": [
@@ -2329,6 +2550,10 @@
       [
         "Velocity",
         "10"
+      ],
+      [
+        "Tooltip",
+        "Launches cogs\nRepeated attacks build up damage and fire an occasional precision blast"
       ],
       [
         "Rarity",
@@ -2365,7 +2590,7 @@
     ]
   },
   {
-    "id": 1036,
+    "id": 1037,
     "itemName": "Condemnation",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/f4/Condemnation.png",
     "itemSpecs": [
@@ -2394,6 +2619,10 @@
         "14.5"
       ],
       [
+        "Tooltip",
+        "Fires powerful scarlet bolts suffused with hateful magicsHold left click to load up to eight bolts for powerful burst fireHold right click to use the repeater full auto"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8d/Rarity_color_15.png"
       ],
@@ -2407,7 +2636,7 @@
     "craftingIngredients": []
   },
   {
-    "id": 1037,
+    "id": 1038,
     "itemName": "Conference Call",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/9a/Conference_Call.png",
     "itemSpecs": [
@@ -2434,6 +2663,10 @@
       [
         "Velocity",
         "12"
+      ],
+      [
+        "Tooltip",
+        "@everyone"
       ],
       [
         "Rarity",
@@ -2470,7 +2703,7 @@
     ]
   },
   {
-    "id": 1038,
+    "id": 1039,
     "itemName": "Contagion",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/ec/Contagion.png",
     "itemSpecs": [
@@ -2499,6 +2732,11 @@
         "20"
       ],
       [
+        "Tooltip",
+        "Fires contagion arrows that leave exploding orbs behind as they travel"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/6a/Plague.png",
         "Plague",
         "100% chance"
@@ -2551,7 +2789,7 @@
     ]
   },
   {
-    "id": 1039,
+    "id": 1040,
     "itemName": "Continental Greatbow",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d4/Continental_Greatbow.png",
     "itemSpecs": [
@@ -2580,6 +2818,11 @@
         "17"
       ],
       [
+        "Tooltip",
+        "Wooden arrows are set alight with fireFires 3 arrows at onceFires 2 additional cursed, hellfire, or ichor arrows"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/70/Ichor_%28debuff%29.png",
         "Ichor",
         "100% chance"
@@ -2593,6 +2836,7 @@
         "Defense reduced by 20"
       ],
       [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a0/Cursed_Inferno.png",
         "Cursed Inferno",
         "100% chance"
@@ -2639,7 +2883,7 @@
     ]
   },
   {
-    "id": 1040,
+    "id": 1041,
     "itemName": "Coral Cannon",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/cd/Coral_Cannon.png",
     "itemSpecs": [
@@ -2668,6 +2912,11 @@
         "10"
       ],
       [
+        "Tooltip",
+        "Has a chance to shoot a big coral that stuns enemies"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/f9/Eutrophication.png",
         "Eutrophication",
         "100% chance"
@@ -2693,7 +2942,7 @@
     "craftingIngredients": []
   },
   {
-    "id": 1041,
+    "id": 1042,
     "itemName": "Corroded Caustibow",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e3/Corroded_Caustibow.png",
     "itemSpecs": [
@@ -2722,6 +2971,11 @@
         "5"
       ],
       [
+        "Tooltip",
+        "Converts wooden arrows into slow, powerful shells that trail an irradiated aura"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8b/Irradiated.png",
         "Irradiated",
         "100% chance"
@@ -2735,6 +2989,7 @@
         "Your skin is burning off"
       ],
       [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/fc/Sulphuric_Poisoning.png",
         "Sulphuric Poisoning",
         "100% chance"
@@ -2791,7 +3046,7 @@
     ]
   },
   {
-    "id": 1042,
+    "id": 1043,
     "itemName": "Cosmic Bolter",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/38/Cosmic_Bolter.png",
     "itemSpecs": [
@@ -2818,6 +3073,10 @@
       [
         "Velocity",
         "10"
+      ],
+      [
+        "Tooltip",
+        "Fires three arrows at onceConverts wooden arrows into sliding energy bolts"
       ],
       [
         "Rarity",
@@ -2868,7 +3127,7 @@
     ]
   },
   {
-    "id": 1043,
+    "id": 1044,
     "itemName": "Crackshot Colt",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/87/Crackshot_Colt.png",
     "itemSpecs": [
@@ -2897,6 +3156,10 @@
         "14"
       ],
       [
+        "Tooltip",
+        "Right click to throw a coin in the air. Hitting the coin with a bullet redirects the shot into the nearest enemyCoin throws consume copper coins"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png"
       ],
@@ -2910,7 +3173,7 @@
     "craftingIngredients": []
   },
   {
-    "id": 1044,
+    "id": 1045,
     "itemName": "Cursed Capper",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/ae/Cursed_Capper.png",
     "itemSpecs": [
@@ -2939,6 +3202,11 @@
         "14"
       ],
       [
+        "Tooltip",
+        "Fires cursed bullets"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a0/Cursed_Inferno.png",
         "Cursed Inferno",
         "100% chance"
@@ -2990,7 +3258,7 @@
     ]
   },
   {
-    "id": 1045,
+    "id": 1046,
     "itemName": "Daemon's Flame",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/fe/Daemon%27s_Flame.png",
     "itemSpecs": [
@@ -3019,6 +3287,10 @@
         "20"
       ],
       [
+        "Tooltip",
+        "Shoots daemon flame fireballs as well as 4 regular arrows"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/36/Rarity_color_13.png"
       ],
@@ -3032,7 +3304,7 @@
     "craftingIngredients": []
   },
   {
-    "id": 1046,
+    "id": 1047,
     "itemName": "Darkecho Greatbow",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/64/Darkecho_Greatbow.png",
     "itemSpecs": [
@@ -3059,6 +3331,10 @@
       [
         "Velocity",
         "16"
+      ],
+      [
+        "Tooltip",
+        "Fires two arrows at onceFires an additional crystal dart"
       ],
       [
         "Rarity",
@@ -3094,7 +3370,7 @@
     ]
   },
   {
-    "id": 1047,
+    "id": 1048,
     "itemName": "Deathwind",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c4/Deathwind.png",
     "itemSpecs": [
@@ -3123,6 +3399,11 @@
         "20"
       ],
       [
+        "Tooltip",
+        "Fires a spread of 4 arrowsWooden arrows are converted into nebula arrows"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Frostburn.png",
         "Frostburn",
         "100% chance"
@@ -3136,6 +3417,7 @@
         "It's either really hot or really cold. Either way it REALLY hurts"
       ],
       [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4f/On_Fire%21.png",
         "On Fire!",
         "100% chance"
@@ -3162,7 +3444,7 @@
     "craftingIngredients": []
   },
   {
-    "id": 1048,
+    "id": 1049,
     "itemName": "Disseminator",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/cf/Disseminator.png",
     "itemSpecs": [
@@ -3189,6 +3471,10 @@
       [
         "Velocity",
         "13"
+      ],
+      [
+        "Tooltip",
+        "50% chance to not consume ammoFires a spread of bullets from the gun, above, and below"
       ],
       [
         "Rarity",
@@ -3225,7 +3511,7 @@
     ]
   },
   {
-    "id": 1049,
+    "id": 1050,
     "itemName": "Dodu's Handcannon",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/89/Dodu%27s_Handcannon.png",
     "itemSpecs": [
@@ -3252,6 +3538,10 @@
       [
         "Velocity",
         "24"
+      ],
+      [
+        "Tooltip",
+        "The power of the nut rests in your handsFires high explosive peanut shells, literally"
       ],
       [
         "Rarity",
@@ -3293,7 +3583,7 @@
     ]
   },
   {
-    "id": 1050,
+    "id": 1051,
     "itemName": "Dragon's Breath",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c6/Dragon%27s_Breath.png",
     "itemSpecs": [
@@ -3322,6 +3612,11 @@
         "12"
       ],
       [
+        "Tooltip",
+        "Left click fires in two-shot burstsThe first shot is a spread of 6 normal bulletsThe second shot is a tight spread of 6 Dragon's Breath roundsRight click fires full auto and mixes the bullets randomly, but does 20% less damageThis weapon has no randomness to its spread pattern66% chance to not consume ammo"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4f/On_Fire%21.png",
         "On Fire!",
         "100% chance"
@@ -3348,7 +3643,7 @@
     "craftingIngredients": []
   },
   {
-    "id": 1051,
+    "id": 1052,
     "itemName": "Dragoon Drizzlefish",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c0/Dragoon_Drizzlefish.png",
     "itemSpecs": [
@@ -3377,6 +3672,11 @@
         "11"
       ],
       [
+        "Tooltip",
+        "Fires an inaccurate spread of fireballsThe brimstone sac appears to contain fuelRevenge is a dish best served flaming hot"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/71/Brimstone_Flames.png",
         "Brimstone Flames",
         "100% chance"
@@ -3390,6 +3690,7 @@
         "Rapid health loss"
       ],
       [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4f/On_Fire%21.png",
         "On Fire!",
         "100% chance"
@@ -3416,7 +3717,7 @@
     "craftingIngredients": []
   },
   {
-    "id": 1052,
+    "id": 1053,
     "itemName": "Drataliornus",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/27/Drataliornus.png",
     "itemSpecs": [
@@ -3443,6 +3744,10 @@
       [
         "Velocity",
         "18"
+      ],
+      [
+        "Tooltip",
+        "Fires an escalating stream of fireballs.Fireballs rain meteors, leave dragon dust trails, and launch additional bolts at max speed.Taking damage while firing the stream will interrupt it and reduce your wing flight time.Right click to fire two devastating barrages of five empowered fireballs.'Just don't get hit'"
       ],
       [
         "Rarity",
@@ -3489,7 +3794,7 @@
     ]
   },
   {
-    "id": 1053,
+    "id": 1054,
     "itemName": "Dualpoon",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/af/Dualpoon.png",
     "itemSpecs": [
@@ -3518,6 +3823,10 @@
         "20"
       ],
       [
+        "Tooltip",
+        "Launches two harpoons"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png"
       ],
@@ -3531,7 +3840,7 @@
     "craftingIngredients": []
   },
   {
-    "id": 1054,
+    "id": 1055,
     "itemName": "Effluvium Bow",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/b8/Effluvium_Bow.png",
     "itemSpecs": [
@@ -3560,6 +3869,11 @@
         "12"
       ],
       [
+        "Tooltip",
+        "Fires two arrows at onceConverts wooden arrows into mist arrows"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/fc/Glacial_State.png",
         "Glacial State",
         "100% chance"
@@ -3573,6 +3887,7 @@
         "Cannot move and defense is shattered"
       ],
       [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Frostburn.png",
         "Frostburn",
         "100% chance"
@@ -3599,7 +3914,7 @@
     "craftingIngredients": []
   },
   {
-    "id": 1055,
+    "id": 1056,
     "itemName": "Elemental Blaster",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/62/Elemental_Blaster.png",
     "itemSpecs": [
@@ -3628,6 +3943,11 @@
         "18"
       ],
       [
+        "Tooltip",
+        "Does not consume ammoFires a storm of rainbow blasts"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/71/Brimstone_Flames.png",
         "Brimstone Flames",
         "100% chance"
@@ -3641,6 +3961,7 @@
         "Rapid health loss"
       ],
       [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Frostburn.png",
         "Frostburn",
         "100% chance"
@@ -3654,6 +3975,7 @@
         "It's either really hot or really cold. Either way it REALLY hurts"
       ],
       [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d7/Holy_Flames.png",
         "Holy Flames",
         "100% chance"
@@ -3769,7 +4091,7 @@
     ]
   },
   {
-    "id": 1056,
+    "id": 1057,
     "itemName": "Elemental Eruption",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e6/Elemental_Eruption.png",
     "itemSpecs": [
@@ -3796,6 +4118,10 @@
       [
         "Velocity",
         "10"
+      ],
+      [
+        "Tooltip",
+        "90% chance to not consume gelFires a spread of rainbow flames"
       ],
       [
         "Rarity",
@@ -3852,7 +4178,7 @@
     ]
   },
   {
-    "id": 1057,
+    "id": 1058,
     "itemName": "Eternal Blizzard",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/25/Eternal_Blizzard.png",
     "itemSpecs": [
@@ -3881,6 +4207,11 @@
         "11"
       ],
       [
+        "Tooltip",
+        "Fires an additional icicle arrow that shatters on impact"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Frostburn.png",
         "Frostburn",
         "100% chance"
@@ -3906,7 +4237,7 @@
     "craftingIngredients": []
   },
   {
-    "id": 1058,
+    "id": 1059,
     "itemName": "Eviscerator",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/20/Eviscerator.png",
     "itemSpecs": [
@@ -3933,6 +4264,10 @@
       [
         "Velocity",
         "22"
+      ],
+      [
+        "Tooltip",
+        "Converts musket balls into slow-moving blood clots"
       ],
       [
         "Rarity",
@@ -3978,7 +4313,7 @@
     ]
   },
   {
-    "id": 1059,
+    "id": 1060,
     "itemName": "Fetid Emesis",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/3e/Fetid_Emesis.png",
     "itemSpecs": [
@@ -4007,6 +4342,11 @@
         "16"
       ],
       [
+        "Tooltip",
+        "40% chance to not consume ammoHas a chance to release rotten chunks instead of bullets"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/fc/Sulphuric_Poisoning.png",
         "Sulphuric Poisoning",
         "100% chance"
@@ -4033,7 +4373,7 @@
     "craftingIngredients": []
   },
   {
-    "id": 1060,
+    "id": 1061,
     "itemName": "Firestorm Cannon",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/13/Firestorm_Cannon.png",
     "itemSpecs": [
@@ -4062,6 +4402,11 @@
         "5.5"
       ],
       [
+        "Tooltip",
+        "70% chance to not consume flaresRight click to fire a spread of flares"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4f/On_Fire%21.png",
         "On Fire!",
         "100% chance"
@@ -4123,7 +4468,7 @@
     ]
   },
   {
-    "id": 1061,
+    "id": 1062,
     "itemName": "Flak Kraken",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e1/Flak_Kraken.png",
     "itemSpecs": [
@@ -4150,6 +4495,10 @@
       [
         "Velocity",
         "30"
+      ],
+      [
+        "Tooltip",
+        "Fires an energy reticle that becomes more powerful over time"
       ],
       [
         "Rarity",
@@ -4200,7 +4549,7 @@
     ]
   },
   {
-    "id": 1062,
+    "id": 1063,
     "itemName": "Flak Toxicannon",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/ad/Flak_Toxicannon.png",
     "itemSpecs": [
@@ -4229,6 +4578,11 @@
         "9"
       ],
       [
+        "Tooltip",
+        "Fires angled shots in the direction of the cursorCan only be shot in a cone direction above the playerHigh IQ required"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8b/Irradiated.png",
         "Irradiated",
         "100% chance"
@@ -4242,6 +4596,7 @@
         "Your skin is burning off"
       ],
       [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/fc/Sulphuric_Poisoning.png",
         "Sulphuric Poisoning",
         "100% chance"
@@ -4268,7 +4623,7 @@
     "craftingIngredients": []
   },
   {
-    "id": 1063,
+    "id": 1064,
     "itemName": "Flarewing Bow",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/09/Flarewing_Bow.png",
     "itemSpecs": [
@@ -4295,6 +4650,10 @@
       [
         "Velocity",
         "16"
+      ],
+      [
+        "Tooltip",
+        "Shoots a spread of 5 arrowsWooden arrows are converted into bouncing obsidian bats"
       ],
       [
         "Rarity",
@@ -4345,7 +4704,7 @@
     ]
   },
   {
-    "id": 1064,
+    "id": 1065,
     "itemName": "Flurrystorm Cannon",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/5f/Flurrystorm_Cannon.png",
     "itemSpecs": [
@@ -4374,6 +4733,11 @@
         "18"
       ],
       [
+        "Tooltip",
+        "Fires a chain of snowballs that become faster over timeHas a chance to also fire an ice chunk that shatters into shards50% chance to not consume snowballs"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Frostburn.png",
         "Frostburn",
         "100% chance"
@@ -4387,6 +4751,7 @@
         "It's either really hot or really cold. Either way it REALLY hurts"
       ],
       [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/fc/Glacial_State.png",
         "Glacial State",
         "100% chance"
@@ -4458,7 +4823,7 @@
     ]
   },
   {
-    "id": 1065,
+    "id": 1066,
     "itemName": "Frostbite Blaster",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/ca/Frostbite_Blaster.png",
     "itemSpecs": [
@@ -4487,6 +4852,11 @@
         "9"
       ],
       [
+        "Tooltip",
+        "Fires a spread of 6 bulletsConverts musket balls into icicles"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Frostburn.png",
         "Frostburn",
         "100% chance"
@@ -4512,7 +4882,7 @@
     "craftingIngredients": []
   },
   {
-    "id": 1066,
+    "id": 1067,
     "itemName": "Fungicide",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/7f/Fungicide.png",
     "itemSpecs": [
@@ -4541,6 +4911,10 @@
         "14"
       ],
       [
+        "Tooltip",
+        "Converts musket balls into fungal rounds that split on death"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png"
       ],
@@ -4554,7 +4928,7 @@
     "craftingIngredients": []
   },
   {
-    "id": 1067,
+    "id": 1068,
     "itemName": "Galeforce",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/0c/Galeforce.png",
     "itemSpecs": [
@@ -4581,6 +4955,10 @@
       [
         "Velocity",
         "20"
+      ],
+      [
+        "Tooltip",
+        "Fires a spread of low-damage feathers"
       ],
       [
         "Rarity",
@@ -4617,7 +4995,7 @@
     ]
   },
   {
-    "id": 1068,
+    "id": 1069,
     "itemName": "Gauss Rifle",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/3e/Gauss_Rifle.png",
     "itemSpecs": [
@@ -4644,6 +5022,10 @@
       [
         "Velocity",
         "27"
+      ],
+      [
+        "Tooltip",
+        "A large and slow weapon, the concussive force of its projectiles do well in clearing large groupsFires a devastating high velocity blast with absurd knockbackCurrent Charge: [CHARGE]"
       ],
       [
         "Rarity",
@@ -4694,7 +5076,7 @@
     ]
   },
   {
-    "id": 1069,
+    "id": 1070,
     "itemName": "God's Bellows",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d4/God%27s_Bellows.png",
     "itemSpecs": [
@@ -4721,6 +5103,10 @@
       [
         "Velocity",
         "9"
+      ],
+      [
+        "Tooltip",
+        "70% chance to not consume gel"
       ],
       [
         "Rarity",
@@ -4752,7 +5138,7 @@
     ]
   },
   {
-    "id": 1070,
+    "id": 1071,
     "itemName": "Golden Eagle",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/4e/Golden_Eagle.png",
     "itemSpecs": [
@@ -4781,6 +5167,10 @@
         "20"
       ],
       [
+        "Tooltip",
+        "Fires 5 bullets at once"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/96/Rarity_color_11.png"
       ],
@@ -4794,7 +5184,7 @@
     "craftingIngredients": []
   },
   {
-    "id": 1071,
+    "id": 1072,
     "itemName": "Goobow",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/ee/Goobow.png",
     "itemSpecs": [
@@ -4823,6 +5213,11 @@
         "12"
       ],
       [
+        "Tooltip",
+        "Fires two streams of slime"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/25/Slime_%28debuff%29.png",
         "Slime",
         "100% chance"
@@ -4875,7 +5270,7 @@
     ]
   },
   {
-    "id": 1072,
+    "id": 1073,
     "itemName": "Gunk Shot",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/b4/Gunk_Shot.png",
     "itemSpecs": [
@@ -4902,6 +5297,10 @@
       [
         "Velocity",
         "5"
+      ],
+      [
+        "Tooltip",
+        "Shoots a spread of bullets"
       ],
       [
         "Rarity",
@@ -4943,7 +5342,7 @@
     ]
   },
   {
-    "id": 1073,
+    "id": 1074,
     "itemName": "Halibut Cannon",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/b8/Halibut_Cannon.png",
     "itemSpecs": [
@@ -4970,6 +5369,10 @@
       [
         "Velocity",
         "12"
+      ],
+      [
+        "Tooltip",
+        "Yes, it's still overpowered"
       ],
       [
         "Rarity",
@@ -5021,7 +5424,7 @@
     ]
   },
   {
-    "id": 1074,
+    "id": 1075,
     "itemName": "Halley's Inferno",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/28/Halley%27s_Inferno.png",
     "itemSpecs": [
@@ -5050,6 +5453,11 @@
         "14.6"
       ],
       [
+        "Tooltip",
+        "Halley came sooner than expectedFires a flaming comet50% chance to not consume gelRight click to zoom out"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/77/Nightwither.png",
         "Nightwither",
         "100% chance"
@@ -5107,7 +5515,7 @@
     ]
   },
   {
-    "id": 1075,
+    "id": 1076,
     "itemName": "Handheld Tank",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/5e/Handheld_Tank.png",
     "itemSpecs": [
@@ -5180,7 +5588,7 @@
     ]
   },
   {
-    "id": 1076,
+    "id": 1077,
     "itemName": "Havoc's Breath",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/1d/Havoc%27s_Breath.png",
     "itemSpecs": [
@@ -5209,6 +5617,7 @@
         "8.5"
       ],
       [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/71/Brimstone_Flames.png",
         "Brimstone Flames",
         "100% chance"
@@ -5235,7 +5644,7 @@
     "craftingIngredients": []
   },
   {
-    "id": 1077,
+    "id": 1078,
     "itemName": "Heavenly Gale",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/27/Heavenly_Gale.png",
     "itemSpecs": [
@@ -5262,6 +5671,10 @@
       [
         "Velocity",
         "12"
+      ],
+      [
+        "Tooltip",
+        "Converts wooden arrows into gilded exo arrowsArrows rain down from above the cursor which rapidly gust sideways upon enemy hitsUpon gusting, a large slash is created, trailed by heavenly lightning."
       ],
       [
         "Rarity",
@@ -5323,7 +5736,7 @@
     ]
   },
   {
-    "id": 1078,
+    "id": 1079,
     "itemName": "Heavy Laser Rifle",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/f1/Heavy_Laser_Rifle.png",
     "itemSpecs": [
@@ -5352,6 +5765,11 @@
         "5"
       ],
       [
+        "Tooltip",
+        "Laser weapon used by heavy infantry units in Yharim's armyCurrent Charge: [CHARGE]"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4f/On_Fire%21.png",
         "On Fire!",
         "100% chance"
@@ -5409,7 +5827,7 @@
     ]
   },
   {
-    "id": 1079,
+    "id": 1080,
     "itemName": "Hellborn",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c3/Hellborn.png",
     "itemSpecs": [
@@ -5438,6 +5856,11 @@
         "12"
       ],
       [
+        "Tooltip",
+        "Fires a spread of 3 bulletsConverts musket balls into explosive bulletsEnemies that touch the gun while it's being fired trigger a massive explosionAfter the explosion, this gun gains a massive boost to damage, fire rate and knockback for 10 secondsThese stat bonuses slowly decay over time"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4f/On_Fire%21.png",
         "On Fire!",
         "100% chance"
@@ -5464,7 +5887,7 @@
     "craftingIngredients": []
   },
   {
-    "id": 1080,
+    "id": 1081,
     "itemName": "Helstorm",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/b9/Helstorm.png",
     "itemSpecs": [
@@ -5493,6 +5916,11 @@
         "11.5"
       ],
       [
+        "Tooltip",
+        "Fires two bullets at onceThe gun also deals damage to enemies that touch it"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4f/On_Fire%21.png",
         "On Fire!",
         "100% chance"
@@ -5539,7 +5967,7 @@
     ]
   },
   {
-    "id": 1081,
+    "id": 1082,
     "itemName": "Impaler",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/31/Impaler.png",
     "itemSpecs": [
@@ -5568,6 +5996,11 @@
         "10"
       ],
       [
+        "Tooltip",
+        "Fires explosive and flaming stakesInstantly kills vampires and vampire bats"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4f/On_Fire%21.png",
         "On Fire!",
         "100% chance"
@@ -5594,7 +6027,7 @@
     "craftingIngredients": []
   },
   {
-    "id": 1082,
+    "id": 1083,
     "itemName": "Infinity",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e2/Infinity.png",
     "itemSpecs": [
@@ -5621,6 +6054,10 @@
       [
         "Velocity",
         "12"
+      ],
+      [
+        "Tooltip",
+        "Fires a barrage of energy bolts that split and bounceRight click to fire a barrage of normal bulletsThey say infinity is neverending, yet you hold it in your hands"
       ],
       [
         "Rarity",
@@ -5710,7 +6147,7 @@
     ]
   },
   {
-    "id": 1083,
+    "id": 1084,
     "itemName": "Karasawa",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/82/Karasawa.png",
     "itemSpecs": [
@@ -5739,6 +6176,11 @@
         "1"
       ],
       [
+        "Tooltip",
+        "...This is heavy... too heavy."
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4f/On_Fire%21.png",
         "On Fire!",
         "100% chance"
@@ -5752,6 +6194,7 @@
         "Slowly losing life"
       ],
       [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/68/Confused.png",
         "Confused",
         "100% chance"
@@ -5765,6 +6208,7 @@
         "Movement is reversed"
       ],
       [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8b/Irradiated.png",
         "Irradiated",
         "100% chance"
@@ -5885,7 +6329,7 @@
     ]
   },
   {
-    "id": 1084,
+    "id": 1085,
     "itemName": "Leviatitan",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/2d/Leviatitan.png",
     "itemSpecs": [
@@ -5914,6 +6358,11 @@
         "12"
       ],
       [
+        "Tooltip",
+        "Converts musket balls into toxic and normal water blasts"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/11/Poisoned.png",
         "Poisoned",
         "100% chance"
@@ -5927,6 +6376,7 @@
         "Slowly losing life"
       ],
       [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8a/Venom.png",
         "Venom",
         "100% chance"
@@ -5953,7 +6403,7 @@
     "craftingIngredients": []
   },
   {
-    "id": 1085,
+    "id": 1086,
     "itemName": "Lunarian Bow",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/7d/Lunarian_Bow.png",
     "itemSpecs": [
@@ -5980,6 +6430,10 @@
       [
         "Velocity",
         "8"
+      ],
+      [
+        "Tooltip",
+        "Fires two arrows at onceConverts wooden arrows into sliding energy bolts"
       ],
       [
         "Rarity",
@@ -6034,7 +6488,7 @@
     ]
   },
   {
-    "id": 1086,
+    "id": 1087,
     "itemName": "Magna Striker",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/72/Magna_Striker.png",
     "itemSpecs": [
@@ -6061,6 +6515,10 @@
       [
         "Velocity",
         "15"
+      ],
+      [
+        "Tooltip",
+        "Fires a string of opal and magna strikes"
       ],
       [
         "Rarity",
@@ -6111,7 +6569,7 @@
     ]
   },
   {
-    "id": 1087,
+    "id": 1088,
     "itemName": "Magnomaly Cannon",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/1e/Magnomaly_Cannon.png",
     "itemSpecs": [
@@ -6138,6 +6596,10 @@
       [
         "Velocity",
         "15"
+      ],
+      [
+        "Tooltip",
+        "Launches a powerful exo rocket to nuke anything and everythingRockets are surrounded by an invisible damaging aura and split into damaging beams on hit66% chance to not consume rockets"
       ],
       [
         "Rarity",
@@ -6189,7 +6651,7 @@
     ]
   },
   {
-    "id": 1088,
+    "id": 1089,
     "itemName": "Malevolence",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/94/Malevolence.png",
     "itemSpecs": [
@@ -6218,6 +6680,11 @@
         "12"
       ],
       [
+        "Tooltip",
+        "Fires two arrows at onceConverts wooden arrows into plague arrows that explode into bees on death"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/6a/Plague.png",
         "Plague",
         "100% chance"
@@ -6244,7 +6711,7 @@
     "craftingIngredients": []
   },
   {
-    "id": 1089,
+    "id": 1090,
     "itemName": "Mandible Bow",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8a/Mandible_Bow.png",
     "itemSpecs": [
@@ -6286,7 +6753,7 @@
     "craftingIngredients": []
   },
   {
-    "id": 1090,
+    "id": 1091,
     "itemName": "Marksman Bow",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/cc/Marksman_Bow.png",
     "itemSpecs": [
@@ -6313,6 +6780,10 @@
       [
         "Velocity",
         "10"
+      ],
+      [
+        "Tooltip",
+        "Fires three arrows at onceWooden arrows are converted into Jester’s arrows"
       ],
       [
         "Rarity",
@@ -6348,7 +6819,7 @@
     ]
   },
   {
-    "id": 1091,
+    "id": 1092,
     "itemName": "Marnite Bayonet",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/1a/Marnite_Bayonet.png",
     "itemSpecs": [
@@ -6375,6 +6846,10 @@
       [
         "Velocity",
         "22"
+      ],
+      [
+        "Tooltip",
+        "The gun damages enemies that touch it"
       ],
       [
         "Rarity",
@@ -6420,7 +6895,7 @@
     ]
   },
   {
-    "id": 1092,
+    "id": 1093,
     "itemName": "Matter Modulator",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/35/Matter_Modulator.png",
     "itemSpecs": [
@@ -6447,6 +6922,10 @@
       [
         "Velocity",
         "7"
+      ],
+      [
+        "Tooltip",
+        "Using extra mass gained from collision with solid materials, it causes extra damageFires a burst of unstable matter that does significant damage after striking a tileBefore striking a tile, the matter pierces infinitely but deals little damageCurrent Charge: [CHARGE]"
       ],
       [
         "Rarity",
@@ -6497,7 +6976,7 @@
     ]
   },
   {
-    "id": 1093,
+    "id": 1094,
     "itemName": "Megalodon",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/36/Megalodon.png",
     "itemSpecs": [
@@ -6524,6 +7003,10 @@
       [
         "Velocity",
         "16"
+      ],
+      [
+        "Tooltip",
+        "50% chance to not consume ammoFires streams of water every other shot"
       ],
       [
         "Rarity",
@@ -6579,7 +7062,7 @@
     ]
   },
   {
-    "id": 1094,
+    "id": 1095,
     "itemName": "Meowthrower",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/54/Meowthrower.png",
     "itemSpecs": [
@@ -6608,6 +7091,11 @@
         "5.5"
       ],
       [
+        "Tooltip",
+        "50% chance to not consume gelFires blue and pink flames that emit meows on enemy hits"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4f/On_Fire%21.png",
         "On Fire!",
         "100% chance"
@@ -6621,6 +7109,7 @@
         "Slowly losing life"
       ],
       [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Frostburn.png",
         "Frostburn",
         "100% chance"
@@ -6647,7 +7136,7 @@
     "craftingIngredients": []
   },
   {
-    "id": 1095,
+    "id": 1096,
     "itemName": "Midas Prime",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/b9/Midas_Prime.png",
     "itemSpecs": [
@@ -6676,6 +7165,11 @@
         "14"
       ],
       [
+        "Tooltip",
+        "Struck enemies drop extra coinsRight click to throw a coin in the air. Hitting the coin with a bullet redirects the shot into the nearest enemyIf you have multiple coins up in the air, bullets will first redirect towards other coins up to a maximum of 4Coin ricochets will increase the damage of the bullet, provided the coins have been in the air for long enoughCoin throws consume gold and silver coins"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d8/Midas.png",
         "Midas",
         "100% chance"
@@ -6702,7 +7196,7 @@
     "craftingIngredients": []
   },
   {
-    "id": 1096,
+    "id": 1097,
     "itemName": "Mineral Mortar",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/bf/Mineral_Mortar.png",
     "itemSpecs": [
@@ -6729,6 +7223,10 @@
       [
         "Velocity",
         "14"
+      ],
+      [
+        "Tooltip",
+        "Shoots an onyx bomb that explodes into sand sharks on death"
       ],
       [
         "Rarity",
@@ -6769,7 +7267,7 @@
     ]
   },
   {
-    "id": 1097,
+    "id": 1098,
     "itemName": "Minigun",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/eb/Minigun.png",
     "itemSpecs": [
@@ -6798,6 +7296,10 @@
         "22"
       ],
       [
+        "Tooltip",
+        "80% chance to not consume ammo"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8d/Rarity_color_15.png"
       ],
@@ -6814,6 +7316,11 @@
       ]
     ],
     "craftingIngredients": [
+      [
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e1/Arngren.png",
+        "Arngren",
+        "1"
+      ],
       [
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/3c/Chain_Gun.png",
         "Chain Gun",
@@ -6837,7 +7344,7 @@
     ]
   },
   {
-    "id": 1098,
+    "id": 1099,
     "itemName": "Molecular Manipulator",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/98/Molecular_Manipulator.png",
     "itemSpecs": [
@@ -6864,6 +7371,10 @@
       [
         "Velocity",
         "25"
+      ],
+      [
+        "Tooltip",
+        "Is it nullable or not? Let's find out!Fires a fast null bullet that distorts NPC stats"
       ],
       [
         "Rarity",
@@ -6905,7 +7416,7 @@
     ]
   },
   {
-    "id": 1099,
+    "id": 1100,
     "itemName": "Monsoon",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/0e/Monsoon.png",
     "itemSpecs": [
@@ -6932,6 +7443,10 @@
       [
         "Velocity",
         "12"
+      ],
+      [
+        "Tooltip",
+        "Fires a spread of 5 arrowsWooden arrows are converted into typhoon arrows and sharks"
       ],
       [
         "Rarity",
@@ -6993,7 +7508,7 @@
     ]
   },
   {
-    "id": 1100,
+    "id": 1101,
     "itemName": "Needler",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/bc/Needler.png",
     "itemSpecs": [
@@ -7022,6 +7537,10 @@
         "9"
       ],
       [
+        "Tooltip",
+        "Converts musket balls into needles that stick to enemies and explode"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png"
       ],
@@ -7035,7 +7554,7 @@
     "craftingIngredients": []
   },
   {
-    "id": 1101,
+    "id": 1102,
     "itemName": "Nettlevine Greatbow",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/29/Nettlevine_Greatbow.png",
     "itemSpecs": [
@@ -7064,6 +7583,11 @@
         "16"
       ],
       [
+        "Tooltip",
+        "Shoots 4 arrows at onceFires 2 additional venom or chlorophyte arrows"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8a/Venom.png",
         "Venom",
         "100% chance"
@@ -7106,7 +7630,7 @@
     ]
   },
   {
-    "id": 1102,
+    "id": 1103,
     "itemName": "Norfleet",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/44/Norfleet.png",
     "itemSpecs": [
@@ -7135,6 +7659,10 @@
         "30"
       ],
       [
+        "Tooltip",
+        "Fire everything!"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e7/Rarity_color_14.png"
       ],
@@ -7148,7 +7676,7 @@
     "craftingIngredients": []
   },
   {
-    "id": 1103,
+    "id": 1104,
     "itemName": "Nullification Pistol",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/4a/Nullification_Pistol.png",
     "itemSpecs": [
@@ -7177,6 +7705,10 @@
         "25"
       ],
       [
+        "Tooltip",
+        "Is it nullable or not? Let's find out!Fires a fast null bullet that distorts NPC stats"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png"
       ],
@@ -7190,7 +7722,7 @@
     "craftingIngredients": []
   },
   {
-    "id": 1104,
+    "id": 1105,
     "itemName": "Onyx Chain Blaster",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8c/Onyx_Chain_Blaster.png",
     "itemSpecs": [
@@ -7217,6 +7749,10 @@
       [
         "Velocity",
         "24"
+      ],
+      [
+        "Tooltip",
+        "50% chance to not consume ammoFires a spread of bullets and an onyx shard"
       ],
       [
         "Rarity",
@@ -7258,7 +7794,7 @@
     ]
   },
   {
-    "id": 1105,
+    "id": 1106,
     "itemName": "Onyxia",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/a2/Onyxia.png",
     "itemSpecs": [
@@ -7285,6 +7821,10 @@
       [
         "Velocity",
         "28"
+      ],
+      [
+        "Tooltip",
+        "50% chance to not consume ammoFires a storm of bullets and onyx shards"
       ],
       [
         "Rarity",
@@ -7326,7 +7866,7 @@
     ]
   },
   {
-    "id": 1106,
+    "id": 1107,
     "itemName": "Opal Striker",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/42/Opal_Striker.png",
     "itemSpecs": [
@@ -7353,6 +7893,10 @@
       [
         "Velocity",
         "6"
+      ],
+      [
+        "Tooltip",
+        "Fires a string of opal strikes"
       ],
       [
         "Rarity",
@@ -7403,7 +7947,7 @@
     ]
   },
   {
-    "id": 1107,
+    "id": 1108,
     "itemName": "Overloaded Blaster",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/28/Overloaded_Blaster.png",
     "itemSpecs": [
@@ -7432,6 +7976,11 @@
         "6.5"
       ],
       [
+        "Tooltip",
+        "33% chance to not consume gelFires a large spread of bouncing slime"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/25/Slime_%28debuff%29.png",
         "Slime",
         "100% chance"
@@ -7458,7 +8007,7 @@
     "craftingIngredients": []
   },
   {
-    "id": 1108,
+    "id": 1109,
     "itemName": "P90",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c2/P90.png",
     "itemSpecs": [
@@ -7487,6 +8036,10 @@
         "18"
       ],
       [
+        "Tooltip",
+        "50% chance to not consume ammoIt's a bullet hose"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Rarity_color_7.png"
       ],
@@ -7500,7 +8053,7 @@
     "craftingIngredients": []
   },
   {
-    "id": 1109,
+    "id": 1110,
     "itemName": "Pearl God",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/a0/Pearl_God.png",
     "itemSpecs": [
@@ -7529,6 +8082,11 @@
         "12"
       ],
       [
+        "Tooltip",
+        "Your life is mine...Fires shockblast rounds that emit massive explosions and steal enemy life as well as additional bulletsEvery seventh shot fires a massive shockblast"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/fc/Glacial_State.png",
         "Glacial State",
         "100% chance"
@@ -7542,6 +8100,7 @@
         "Cannot move and defense is shattered"
       ],
       [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4f/On_Fire%21.png",
         "On Fire!",
         "100% chance"
@@ -7555,6 +8114,7 @@
         "Losing life"
       ],
       [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Frostburn.png",
         "Frostburn",
         "100% chance"
@@ -7611,7 +8171,7 @@
     ]
   },
   {
-    "id": 1110,
+    "id": 1111,
     "itemName": "Pestilent Defiler",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8d/Pestilent_Defiler.png",
     "itemSpecs": [
@@ -7640,6 +8200,11 @@
         "12"
       ],
       [
+        "Tooltip",
+        "Converts musket balls into plague rounds that explode and split apart on death"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/6a/Plague.png",
         "Plague",
         "100% chance"
@@ -7653,6 +8218,7 @@
         "Rotting from the inside"
       ],
       [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/11/Poisoned.png",
         "Poisoned",
         "100% chance"
@@ -7666,6 +8232,7 @@
         "Slowly losing life"
       ],
       [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8a/Venom.png",
         "Venom",
         "100% chance"
@@ -7692,7 +8259,7 @@
     "craftingIngredients": []
   },
   {
-    "id": 1111,
+    "id": 1112,
     "itemName": "Phangasm",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/98/Phangasm.png",
     "itemSpecs": [
@@ -7719,6 +8286,10 @@
       [
         "Velocity",
         "20"
+      ],
+      [
+        "Tooltip",
+        "Fires a spread of 5 arrows and emits phantom arrows on enemy hits"
       ],
       [
         "Rarity",
@@ -7765,7 +8336,7 @@
     ]
   },
   {
-    "id": 1112,
+    "id": 1113,
     "itemName": "Photoviscerator",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/4a/Photoviscerator.png",
     "itemSpecs": [
@@ -7792,6 +8363,10 @@
       [
         "Velocity",
         "18"
+      ],
+      [
+        "Tooltip",
+        "90% chance to not consume gelFires a stream of exo flames and light that explodes into homing sparksRight click to fire homing flares which stick to enemies and incinerate them"
       ],
       [
         "Rarity",
@@ -7838,7 +8413,7 @@
     ]
   },
   {
-    "id": 1113,
+    "id": 1114,
     "itemName": "Planetary Annihilation",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/5a/Planetary_Annihilation.png",
     "itemSpecs": [
@@ -7865,6 +8440,10 @@
       [
         "Velocity",
         "12"
+      ],
+      [
+        "Tooltip",
+        "Fires a storm of 7 arrows from the skyWooden arrows are converted into homing energy bolts"
       ],
       [
         "Rarity",
@@ -7911,7 +8490,7 @@
     ]
   },
   {
-    "id": 1114,
+    "id": 1115,
     "itemName": "Polaris Parrotfish",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/2a/Polaris_Parrotfish.png",
     "itemSpecs": [
@@ -7940,7 +8519,12 @@
         "15"
       ],
       [
+        "Tooltip",
+        "It carries the mark of the Northern StarProjectile hits grant buffs to the weapon and the playerBuffs are removed on hit"
+      ],
+      [
         "Grants Buff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/a2/Polaris_Boost.png",
         "Polaris Boost"
       ],
       [
@@ -7961,7 +8545,7 @@
     "craftingIngredients": []
   },
   {
-    "id": 1115,
+    "id": 1116,
     "itemName": "Prideful Hunter's Planar Ripper",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/09/Prideful_Hunter%27s_Planar_Ripper.png",
     "itemSpecs": [
@@ -7990,6 +8574,11 @@
         "15"
       ],
       [
+        "Tooltip",
+        "Every fourth shot deals 135% damageConverts musket balls into lightning boltsLightning bolts travel extremely fast and explode on enemy killsLightning bolt crits grant a stacking speed boost to the playerThis stacks up to 20 percent bonus movement speed and accelerationThe boost will reset if the player holds a different item33% chance to not consume ammo"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/56/Electrified.png",
         "Electrified",
         "100% chance"
@@ -8120,7 +8709,7 @@
     ]
   },
   {
-    "id": 1116,
+    "id": 1117,
     "itemName": "Prismatic Breaker",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/ab/Prismatic_Breaker.png",
     "itemSpecs": [
@@ -8149,6 +8738,11 @@
         "14"
       ],
       [
+        "Tooltip",
+        "Seems to belong to a certain magical girl. Radiates with intense cosmic energy.Fire to charge for a powerful rainbow laserRight click to instead swing the sword and fire rainbow colored wavesThe sword is boosted by both melee and ranged damage"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Stardust_Dragon.png",
         "Daybroken",
         "100% chance"
@@ -8162,6 +8756,7 @@
         "Incinerated by solar rays"
       ],
       [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/77/Nightwither.png",
         "Nightwither",
         "100% chance"
@@ -8224,7 +8819,7 @@
     ]
   },
   {
-    "id": 1117,
+    "id": 1118,
     "itemName": "Pristine Fury",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/37/Pristine_Fury.gif",
     "itemSpecs": [
@@ -8253,6 +8848,11 @@
         "11"
       ],
       [
+        "Tooltip",
+        "Fires an intense helix of flames that explode into a column of fireRight click to fire a short ranged cloud of lingering flames"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d7/Holy_Flames.png",
         "Holy Flames",
         "100% chance"
@@ -8279,7 +8879,7 @@
     "craftingIngredients": []
   },
   {
-    "id": 1118,
+    "id": 1119,
     "itemName": "Proporse Pistol",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/2d/Proporse_Pistol.png",
     "itemSpecs": [
@@ -8308,6 +8908,10 @@
         "20"
       ],
       [
+        "Tooltip",
+        "Fires a blue energy blast that bounces"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png"
       ],
@@ -8321,7 +8925,7 @@
     "craftingIngredients": []
   },
   {
-    "id": 1119,
+    "id": 1120,
     "itemName": "Pulse Rifle",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/61/Pulse_Rifle.png",
     "itemSpecs": [
@@ -8348,6 +8952,10 @@
       [
         "Velocity",
         "5"
+      ],
+      [
+        "Tooltip",
+        "Draedon's former pulse rifle, used in emergencies for creations which turned against himWhen the pulse hits a target it will arc to another nearby targetCurrent Charge: [CHARGE]"
       ],
       [
         "Rarity",
@@ -8394,7 +9002,7 @@
     ]
   },
   {
-    "id": 1120,
+    "id": 1121,
     "itemName": "Pumpler",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/ca/Pumpler.png",
     "itemSpecs": [
@@ -8421,6 +9029,10 @@
       [
         "Velocity",
         "11"
+      ],
+      [
+        "Tooltip",
+        "Hold left click to load up to five pumpkin grenades into the gun"
       ],
       [
         "Rarity",
@@ -8466,7 +9078,7 @@
     ]
   },
   {
-    "id": 1121,
+    "id": 1122,
     "itemName": "Raider's Glory",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/fb/Raider%27s_Glory.png",
     "itemSpecs": [
@@ -8495,6 +9107,11 @@
         "15"
       ],
       [
+        "Tooltip",
+        "Fires ichor arrows with increased velocityThese arrows also cause enemies to drop more money"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/70/Ichor_%28debuff%29.png",
         "Ichor",
         "100% chance"
@@ -8508,6 +9125,7 @@
         "Defense reduced by 20"
       ],
       [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d8/Midas.png",
         "Midas",
         "100% chance"
@@ -8534,7 +9152,7 @@
     "craftingIngredients": []
   },
   {
-    "id": 1122,
+    "id": 1123,
     "itemName": "Realm Ravager",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/24/Realm_Ravager.png",
     "itemSpecs": [
@@ -8563,6 +9181,10 @@
         "30"
       ],
       [
+        "Tooltip",
+        "Shoots a burst of 3 to 4 bulletsConverts musket balls into explosive bullets"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png"
       ],
@@ -8576,7 +9198,7 @@
     "craftingIngredients": []
   },
   {
-    "id": 1123,
+    "id": 1124,
     "itemName": "Reed Blowgun",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/3f/Reed_Blowgun.png",
     "itemSpecs": [
@@ -8605,6 +9227,10 @@
         "16"
       ],
       [
+        "Tooltip",
+        "Fires a high-pressure stream of bubblesThe Old Sea Kingdom never truly sought to expand beyond its initial borders.However, they had a perfect track record of repelling any invasions, thanks to their insurmountable advantage in the water."
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png"
       ],
@@ -8618,7 +9244,7 @@
     "craftingIngredients": []
   },
   {
-    "id": 1124,
+    "id": 1125,
     "itemName": "Rubico Prime",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/09/Rubico_Prime.png",
     "itemSpecs": [
@@ -8645,6 +9271,10 @@
       [
         "Velocity",
         "12"
+      ],
+      [
+        "Tooltip",
+        "Semi-automatic sniper that fires in 5 second burstsFires impact rounds that have an increased crit multiplier"
       ],
       [
         "Rarity",
@@ -8739,7 +9369,7 @@
     ]
   },
   {
-    "id": 1125,
+    "id": 1126,
     "itemName": "SDFMG",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/b6/SDFMG.png",
     "itemSpecs": [
@@ -8766,6 +9396,10 @@
       [
         "Velocity",
         "16"
+      ],
+      [
+        "Tooltip",
+        "It came from the edge of Terraria50% chance to not consume ammo"
       ],
       [
         "Rarity",
@@ -8832,7 +9466,7 @@
     ]
   },
   {
-    "id": 1126,
+    "id": 1127,
     "itemName": "SDOMG",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/a4/SDOMG.png",
     "itemSpecs": [
@@ -8859,6 +9493,10 @@
       [
         "Velocity",
         "18"
+      ],
+      [
+        "Tooltip",
+        "75% chance to not consume ammoRapidly fires a spread of bullets that close in over timeRight clicking while standing still consumes a Plasma Grenade to fire a large deathrayWhile the deathray is active, you are afflicted with slow, on fire, and oiled"
       ],
       [
         "Rarity",
@@ -8905,7 +9543,7 @@
     ]
   },
   {
-    "id": 1128,
+    "id": 1129,
     "itemName": "Scorched Earth",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/03/Scorched_Earth.png",
     "itemSpecs": [
@@ -8934,6 +9572,11 @@
         "12.6"
       ],
       [
+        "Tooltip",
+        "Fires a burst of four fuel-air rockets which explode into cluster bombsEach burst consumes two rockets eachBurns your targets to a fine crisp"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Stardust_Dragon.png",
         "Daybroken",
         "100% chance"
@@ -8947,6 +9590,7 @@
         "Incinerated by solar rays"
       ],
       [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4f/On_Fire%21.png",
         "On Fire!",
         "100% chance"
@@ -9004,7 +9648,7 @@
     ]
   },
   {
-    "id": 1129,
+    "id": 1130,
     "itemName": "Scorpio",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/69/Scorpio.png",
     "itemSpecs": [
@@ -9031,6 +9675,10 @@
       [
         "Velocity",
         "20"
+      ],
+      [
+        "Tooltip",
+        "BOOMRight click to fire a nuke"
       ],
       [
         "Rarity",
@@ -9081,7 +9729,7 @@
     ]
   },
   {
-    "id": 1130,
+    "id": 1131,
     "itemName": "Sea's Searing",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/20/Sea%27s_Searing.png",
     "itemSpecs": [
@@ -9110,6 +9758,11 @@
         "11"
       ],
       [
+        "Tooltip",
+        "Fires a string of bubbles summoning a shower of bubbles on hitRight click to fire a slower, larger water blast that summons a water spout"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/fc/Sulphuric_Poisoning.png",
         "Sulphuric Poisoning",
         "100% chance"
@@ -9123,6 +9776,7 @@
         "The acidic water burns away your flesh"
       ],
       [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/be/Wet.png",
         "Wet",
         "100% chance"
@@ -9136,6 +9790,7 @@
         "You are dripping water"
       ],
       [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Frostburn.png",
         "Frostburn",
         "100% chance"
@@ -9162,7 +9817,7 @@
     "craftingIngredients": []
   },
   {
-    "id": 1131,
+    "id": 1132,
     "itemName": "Seabow",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/0d/Seabow.png",
     "itemSpecs": [
@@ -9189,6 +9844,10 @@
       [
         "Velocity",
         "16"
+      ],
+      [
+        "Tooltip",
+        "Fires slow-moving water blasts"
       ],
       [
         "Rarity",
@@ -9224,7 +9883,7 @@
     ]
   },
   {
-    "id": 1132,
+    "id": 1133,
     "itemName": "Seadragon",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/93/Seadragon.png",
     "itemSpecs": [
@@ -9253,6 +9912,11 @@
         "16"
       ],
       [
+        "Tooltip",
+        "50% chance to not consume ammoFires streams of water every other shotFires a homing rocket every 18 shots, which explodes into fire shards on death"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4f/On_Fire%21.png",
         "On Fire!",
         "100% chance"
@@ -9325,7 +9989,7 @@
     ]
   },
   {
-    "id": 1133,
+    "id": 1134,
     "itemName": "Septic Skewer",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/7e/Septic_Skewer.png",
     "itemSpecs": [
@@ -9354,6 +10018,11 @@
         "25"
       ],
       [
+        "Tooltip",
+        "Launches a spiky harpoon infested with toxinsReleases bacteria when returning to the player"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/fc/Sulphuric_Poisoning.png",
         "Sulphuric Poisoning",
         "100% chance"
@@ -9367,6 +10036,7 @@
         "The acidic water burns away your flesh"
       ],
       [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8a/Venom.png",
         "Venom",
         "100% chance"
@@ -9393,7 +10063,7 @@
     "craftingIngredients": []
   },
   {
-    "id": 1134,
+    "id": 1135,
     "itemName": "Shadethrower",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/53/Shadethrower.png",
     "itemSpecs": [
@@ -9420,6 +10090,10 @@
       [
         "Velocity",
         "5.5"
+      ],
+      [
+        "Tooltip",
+        "66% chance to not consume gel"
       ],
       [
         "Rarity",
@@ -9465,7 +10139,7 @@
     ]
   },
   {
-    "id": 1135,
+    "id": 1136,
     "itemName": "Shellshooter",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/68/Shellshooter.png",
     "itemSpecs": [
@@ -9494,6 +10168,10 @@
         "1.5"
       ],
       [
+        "Tooltip",
+        "Converts wooden arrows into slow, powerful shells"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png"
       ],
@@ -9506,7 +10184,7 @@
     "craftingIngredients": []
   },
   {
-    "id": 1136,
+    "id": 1137,
     "itemName": "Shredder",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/6e/Shredder.png",
     "itemSpecs": [
@@ -9533,6 +10211,10 @@
       [
         "Velocity",
         "12"
+      ],
+      [
+        "Tooltip",
+        "The myth, the legend, the weapon that drops more frames than any otherFires a barrage of energy bolts that split and bounceRight click to fire a barrage of normal bullets"
       ],
       [
         "Rarity",
@@ -9584,7 +10266,7 @@
     ]
   },
   {
-    "id": 1137,
+    "id": 1138,
     "itemName": "Shroomer",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/a6/Shroomer.png",
     "itemSpecs": [
@@ -9611,6 +10293,10 @@
       [
         "Velocity",
         "10"
+      ],
+      [
+        "Tooltip",
+        "Fires bullets and an extremely powerful homing mushroom"
       ],
       [
         "Rarity",
@@ -9652,7 +10338,7 @@
     ]
   },
   {
-    "id": 1138,
+    "id": 1139,
     "itemName": "Slag Magnum",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/f5/Slag_Magnum.png",
     "itemSpecs": [
@@ -9681,6 +10367,11 @@
         "12"
       ],
       [
+        "Tooltip",
+        "Converts musket balls into fossil shards that split into additional shards on death"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8f/Armor_Crunch.png",
         "Armor Crunch",
         "100% chance"
@@ -9707,7 +10398,7 @@
     "craftingIngredients": []
   },
   {
-    "id": 1139,
+    "id": 1140,
     "itemName": "Soma Prime",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/38/Soma_Prime.png",
     "itemSpecs": [
@@ -9736,8 +10427,14 @@
         "9"
       ],
       [
+        "Tooltip",
+        "Converts musket balls into extremely powerful high velocity rounds that inflict a powerful bleed debuff"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/36/Shred.png",
-        "Shred"
+        "Shred",
+        "10% chance"
       ],
       [
         "Debuff duration",
@@ -9787,7 +10484,7 @@
     ]
   },
   {
-    "id": 1140,
+    "id": 1141,
     "itemName": "Spark Spreader",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/f5/Spark_Spreader.png",
     "itemSpecs": [
@@ -9816,6 +10513,11 @@
         "5"
       ],
       [
+        "Tooltip",
+        "70% chance to not consume gel"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4f/On_Fire%21.png",
         "On Fire!",
         "100% chance"
@@ -9872,7 +10574,7 @@
     ]
   },
   {
-    "id": 1141,
+    "id": 1142,
     "itemName": "Spectralstorm Cannon",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/66/Spectralstorm_Cannon.png",
     "itemSpecs": [
@@ -9901,6 +10603,11 @@
         "9.5"
       ],
       [
+        "Tooltip",
+        "70% chance to not consume flaresFires a storm of lost souls and flares"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4f/On_Fire%21.png",
         "On Fire!",
         "100% chance"
@@ -9953,7 +10660,7 @@
     ]
   },
   {
-    "id": 1142,
+    "id": 1143,
     "itemName": "Spectre Rifle",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/75/Spectre_Rifle.png",
     "itemSpecs": [
@@ -9980,6 +10687,10 @@
       [
         "Velocity",
         "12"
+      ],
+      [
+        "Tooltip",
+        "Converts musket balls into powerful homing souls"
       ],
       [
         "Rarity",
@@ -10020,7 +10731,7 @@
     ]
   },
   {
-    "id": 1143,
+    "id": 1144,
     "itemName": "Speed Blaster",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/69/Speed_Blaster.png",
     "itemSpecs": [
@@ -10047,6 +10758,10 @@
       [
         "Velocity",
         "20"
+      ],
+      [
+        "Tooltip",
+        "Shoots a string of paint blasts"
       ],
       [
         "Rarity",
@@ -10087,7 +10802,7 @@
     ]
   },
   {
-    "id": 1144,
+    "id": 1145,
     "itemName": "Spyker",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d4/Spyker.png",
     "itemSpecs": [
@@ -10114,6 +10829,10 @@
       [
         "Velocity",
         "9"
+      ],
+      [
+        "Tooltip",
+        "Converts musket balls into spikes that stick to enemies, tiles and explode into shrapnel"
       ],
       [
         "Rarity",
@@ -10155,7 +10874,7 @@
     ]
   },
   {
-    "id": 1145,
+    "id": 1146,
     "itemName": "Star Cannon EX",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/0e/Star_Cannon_EX.png",
     "itemSpecs": [
@@ -10184,6 +10903,11 @@
         "15"
       ],
       [
+        "Tooltip",
+        "Fires a mix of normal, starfury, and astral stars"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/65/Astral_Infection_%28debuff%29.png",
         "Astral Infection",
         "100% chance"
@@ -10210,7 +10934,7 @@
     "craftingIngredients": []
   },
   {
-    "id": 1146,
+    "id": 1147,
     "itemName": "Star Sputter",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/69/Star_Sputter.png",
     "itemSpecs": [
@@ -10239,6 +10963,11 @@
         "15"
       ],
       [
+        "Tooltip",
+        "Fires a chain of cometsFires a bigger, more powerful comet every four roundsLook to the stars for a galaxy far, far away"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/65/Astral_Infection_%28debuff%29.png",
         "Astral Infection",
         "100% chance"
@@ -10265,7 +10994,7 @@
     "craftingIngredients": []
   },
   {
-    "id": 1147,
+    "id": 1148,
     "itemName": "Starfleet",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/56/Starfleet.png",
     "itemSpecs": [
@@ -10292,6 +11021,10 @@
       [
         "Velocity",
         "12"
+      ],
+      [
+        "Tooltip",
+        "Fires a spread of plasma blasts"
       ],
       [
         "Rarity",
@@ -10333,7 +11066,7 @@
     ]
   },
   {
-    "id": 1148,
+    "id": 1149,
     "itemName": "Starmada",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/cd/Starmada.png",
     "itemSpecs": [
@@ -10362,6 +11095,11 @@
         "16"
       ],
       [
+        "Tooltip",
+        "Fires a barrage of stars and plasma blasts"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4f/On_Fire%21.png",
         "On Fire!",
         "100% chance"
@@ -10375,6 +11113,7 @@
         "Slowly losing life"
       ],
       [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Frostburn.png",
         "Frostburn",
         "100% chance"
@@ -10388,6 +11127,7 @@
         "It's either really hot or really cold. Either way it REALLY hurts"
       ],
       [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/65/Astral_Infection_%28debuff%29.png",
         "Astral Infection",
         "100% chance"
@@ -10483,7 +11223,7 @@
     ]
   },
   {
-    "id": 1149,
+    "id": 1150,
     "itemName": "Stellar Cannon",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/1c/Stellar_Cannon.png",
     "itemSpecs": [
@@ -10512,6 +11252,11 @@
         "2"
       ],
       [
+        "Tooltip",
+        "Launches an explosive astral crystal"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/65/Astral_Infection_%28debuff%29.png",
         "Astral Infection",
         "100% chance"
@@ -10538,7 +11283,7 @@
     "craftingIngredients": []
   },
   {
-    "id": 1150,
+    "id": 1151,
     "itemName": "Storm Dragoon",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/43/Storm_Dragoon.png",
     "itemSpecs": [
@@ -10567,6 +11312,10 @@
         "18"
       ],
       [
+        "Tooltip",
+        "Fires a spray of bullets90% chance to not consume ammo"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/ec/Rarity_color_12.png"
       ],
@@ -10580,7 +11329,7 @@
     "craftingIngredients": []
   },
   {
-    "id": 1151,
+    "id": 1152,
     "itemName": "Storm Surge",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/0a/Storm_Surge.png",
     "itemSpecs": [
@@ -10607,6 +11356,10 @@
       [
         "Velocity",
         "12"
+      ],
+      [
+        "Tooltip",
+        "Fear the stormDoes not consume ammo"
       ],
       [
         "Rarity",
@@ -10652,7 +11405,7 @@
     ]
   },
   {
-    "id": 1152,
+    "id": 1153,
     "itemName": "Sulphuric Acid Cannon",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/95/Sulphuric_Acid_Cannon.png",
     "itemSpecs": [
@@ -10681,6 +11434,10 @@
         "16"
       ],
       [
+        "Tooltip",
+        "Fires an acidic shot that sticks to enemies and dissolves them"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/36/Rarity_color_13.png"
       ],
@@ -10694,7 +11451,7 @@
     "craftingIngredients": []
   },
   {
-    "id": 1153,
+    "id": 1154,
     "itemName": "Surge Driver",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/5b/Surge_Driver.png",
     "itemSpecs": [
@@ -10723,6 +11480,10 @@
         "11"
       ],
       [
+        "Tooltip",
+        "Left clicks release a laser ray that explodes on collisionRight clicks release a barrage of laser beams that release homing energy on enemy hits"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8d/Rarity_color_15.png"
       ],
@@ -10736,7 +11497,7 @@
     "craftingIngredients": []
   },
   {
-    "id": 1154,
+    "id": 1155,
     "itemName": "Svantechnical",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/1a/Svantechnical.png",
     "itemSpecs": [
@@ -10763,6 +11524,10 @@
       [
         "Velocity",
         "12"
+      ],
+      [
+        "Tooltip",
+        "Fires several barrages of bulletsRight click to zoom out"
       ],
       [
         "Rarity",
@@ -10819,7 +11584,7 @@
     ]
   },
   {
-    "id": 1155,
+    "id": 1156,
     "itemName": "Taser",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/08/Taser.png",
     "itemSpecs": [
@@ -10848,6 +11613,11 @@
         "15"
       ],
       [
+        "Tooltip",
+        "A slow, simple electric weapon, meant only for low ranking guards.Shoots a hook that attaches to enemies and electrocutes them before returningCurrent Charge: [CHARGE]"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/56/Electrified.png",
         "Electrified",
         "100% chance"
@@ -10909,7 +11679,7 @@
     ]
   },
   {
-    "id": 1156,
+    "id": 1157,
     "itemName": "Telluric Glare",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/88/Telluric_Glare.png",
     "itemSpecs": [
@@ -10938,6 +11708,11 @@
         "18"
       ],
       [
+        "Tooltip",
+        "Fires volleys of four colossal radiant arrows which can pass through walls"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d7/Holy_Flames.png",
         "Holy Flames",
         "100% chance"
@@ -10964,7 +11739,7 @@
     "craftingIngredients": []
   },
   {
-    "id": 1157,
+    "id": 1158,
     "itemName": "Terra Flameburster",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/a0/Terra_Flameburster.png",
     "itemSpecs": [
@@ -10993,6 +11768,11 @@
         "7.5"
       ],
       [
+        "Tooltip",
+        "80% chance to not consume gel"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a0/Cursed_Inferno.png",
         "Cursed Inferno",
         "100% chance"
@@ -11049,7 +11829,7 @@
     ]
   },
   {
-    "id": 1158,
+    "id": 1159,
     "itemName": "The Ballista",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/b1/The_Ballista.png",
     "itemSpecs": [
@@ -11078,6 +11858,11 @@
         "20"
       ],
       [
+        "Tooltip",
+        "Converts wooden arrows into greatarrows that crush enemy armor and break into shards on death"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8f/Armor_Crunch.png",
         "Armor Crunch",
         "100% chance"
@@ -11134,7 +11919,7 @@
     ]
   },
   {
-    "id": 1159,
+    "id": 1160,
     "itemName": "The Hive",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/92/The_Hive.png",
     "itemSpecs": [
@@ -11163,6 +11948,11 @@
         "13"
       ],
       [
+        "Tooltip",
+        "Launches a variety of rockets that explode into bees on death"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/6a/Plague.png",
         "Plague",
         "100% chance"
@@ -11189,7 +11979,7 @@
     "craftingIngredients": []
   },
   {
-    "id": 1160,
+    "id": 1161,
     "itemName": "The Jailor",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/a9/The_Jailor.png",
     "itemSpecs": [
@@ -11218,6 +12008,10 @@
         "14.5"
       ],
       [
+        "Tooltip",
+        "Releases electric mines outward that connect to each-other via arcs"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8d/Rarity_color_15.png"
       ],
@@ -11231,7 +12025,7 @@
     "craftingIngredients": []
   },
   {
-    "id": 1161,
+    "id": 1162,
     "itemName": "The Pack",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d9/The_Pack.png",
     "itemSpecs": [
@@ -11258,6 +12052,10 @@
       [
         "Velocity",
         "24"
+      ],
+      [
+        "Tooltip",
+        "Fires large homing rockets that explode into more homing mini rockets when in proximity to an enemy"
       ],
       [
         "Rarity",
@@ -11309,7 +12107,7 @@
     ]
   },
   {
-    "id": 1162,
+    "id": 1163,
     "itemName": "The Sevens Striker",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c5/The_Sevens_Striker.png",
     "itemSpecs": [
@@ -11338,6 +12136,11 @@
         "24"
       ],
       [
+        "Tooltip",
+        "Left click to consume 1 coin and play a slot machineQuality of the outcome depends on the coin usedRight click to rapidly fire a barrage of coinsRight click has an 80% chance to not consume coins and will not fire platinum coins'A gun given to a great gunslingerForged by the arms of a man given no name'"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d8/Midas.png",
         "Midas",
         "100% chance"
@@ -11405,7 +12208,7 @@
     ]
   },
   {
-    "id": 1163,
+    "id": 1164,
     "itemName": "The Storm",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/97/The_Storm.png",
     "itemSpecs": [
@@ -11434,6 +12237,10 @@
         "28"
       ],
       [
+        "Tooltip",
+        "Fires a spread of arrows from the skyConverts wooden arrows into lightning bolts"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/ec/Rarity_color_12.png"
       ],
@@ -11447,7 +12254,7 @@
     "craftingIngredients": []
   },
   {
-    "id": 1164,
+    "id": 1165,
     "itemName": "Titanium Railgun",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/0b/Titanium_Railgun.png",
     "itemSpecs": [
@@ -11474,6 +12281,10 @@
       [
         "Velocity",
         "6"
+      ],
+      [
+        "Tooltip",
+        "Fires a laser"
       ],
       [
         "Rarity",
@@ -11514,7 +12325,7 @@
     ]
   },
   {
-    "id": 1165,
+    "id": 1166,
     "itemName": "Toxibow",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/41/Toxibow.png",
     "itemSpecs": [
@@ -11543,6 +12354,11 @@
         "15"
       ],
       [
+        "Tooltip",
+        "Converts wooden arrows into slow arrows that occasionally inflict sulphuric poisoning"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/fc/Sulphuric_Poisoning.png",
         "Sulphuric Poisoning",
         "100% chance"
@@ -11594,7 +12410,7 @@
     ]
   },
   {
-    "id": 1166,
+    "id": 1167,
     "itemName": "Triploon",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/9b/Triploon.png",
     "itemSpecs": [
@@ -11623,6 +12439,10 @@
         "20"
       ],
       [
+        "Tooltip",
+        "Launches three harpoons"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Rarity_color_7.png"
       ],
@@ -11636,7 +12456,7 @@
     "craftingIngredients": []
   },
   {
-    "id": 1167,
+    "id": 1168,
     "itemName": "Tyranny's End",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/7c/Tyranny%27s_End.png",
     "itemSpecs": [
@@ -11665,6 +12485,11 @@
         "12"
       ],
       [
+        "Tooltip",
+        "Pierce the heart of even the most heavily-armored foeFires a .70 caliber sniper round that bypasses enemy defense and DRRounds mark enemies for death and summon a swarm of additional bullets on crits"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/db/Marked.png",
         "Marked",
         "100% chance"
@@ -11770,7 +12595,7 @@
     ]
   },
   {
-    "id": 1168,
+    "id": 1169,
     "itemName": "Ultima",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/29/Ultima.png",
     "itemSpecs": [
@@ -11797,6 +12622,10 @@
       [
         "Velocity",
         "18"
+      ],
+      [
+        "Tooltip",
+        "Casts a continuous stream of plasma boltsOver time the bolts are replaced with powerful lasersBolts power up into solid beams as you continue shooting90% chance to not consume ammo"
       ],
       [
         "Rarity",
@@ -11858,7 +12687,7 @@
     ]
   },
   {
-    "id": 1169,
+    "id": 1170,
     "itemName": "Universal Genesis",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/2f/Universal_Genesis.png",
     "itemSpecs": [
@@ -11887,6 +12716,11 @@
         "20"
       ],
       [
+        "Tooltip",
+        "Let the starry sky fall upon your enemiesFires a spread of bullets from the gun and a flurry of stars to rain down on the cursorConverts musket balls into starcaller shots that summon additional stars on enemy hits50% chance to not consume ammo"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Frostburn.png",
         "Frostburn",
         "100% chance"
@@ -11900,6 +12734,7 @@
         "It's either really hot, or really cold, but it REALLY hurts"
       ],
       [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/07/God_Slayer_Inferno.png",
         "God Slayer Inferno",
         "100% chance"
@@ -11995,7 +12830,7 @@
     ]
   },
   {
-    "id": 1170,
+    "id": 1171,
     "itemName": "Voidragon",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/7d/Voidragon.png",
     "itemSpecs": [
@@ -12022,6 +12857,10 @@
       [
         "Velocity",
         "18"
+      ],
+      [
+        "Tooltip",
+        "75% chance to not consume ammoFires void blasts that explode every other shot"
       ],
       [
         "Rarity",
@@ -12063,7 +12902,7 @@
     ]
   },
   {
-    "id": 1171,
+    "id": 1172,
     "itemName": "Vortexpopper",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e5/Vortexpopper.png",
     "itemSpecs": [
@@ -12090,6 +12929,10 @@
       [
         "Velocity",
         "50"
+      ],
+      [
+        "Tooltip",
+        "Fires bubbles everywhere that pop into bullets"
       ],
       [
         "Rarity",
@@ -12126,7 +12969,7 @@
     ]
   },
   {
-    "id": 1172,
+    "id": 1173,
     "itemName": "Wulfrum Bow",
     "itemIcon": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/cf/Wulfrum_Bow.png",
     "itemSpecs": [

@@ -9,7 +9,12 @@
         "Accessory – Crafting material"
       ],
       [
+        "Tooltip",
+        "Doubles your max HPAllows you to be critically hit 25% of the timeAfter a critical hit, you gain various buffs for ten secondsAny healing potions consumed during this time period heal 50% more health"
+      ],
+      [
         "Grants Buff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/91/Bloody_Boost.png",
         "Bloody Boost"
       ],
       [
@@ -43,6 +48,10 @@
         "Accessory"
       ],
       [
+        "Tooltip",
+        "You lose up to half your defense after taking damageLost defense regenerates over timeYou gain 1 health for every 1 defense gained as it regenerates"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/ec/Rarity_color_12.png"
       ],
@@ -63,6 +72,10 @@
       [
         "Type",
         "Accessory – Crafting material"
+      ],
+      [
+        "Tooltip",
+        "10% increased movement and jump speed5% reduced stealth cost+20 max life and manaStanding still boosts life and mana regen"
       ],
       [
         "Rarity",
@@ -132,6 +145,10 @@
         "Accessory – Crafting material"
       ],
       [
+        "Tooltip",
+        "+20 max lifeStanding still boosts life regen"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png"
       ],
@@ -152,6 +169,10 @@
       [
         "Type",
         "Accessory – Crafting material"
+      ],
+      [
+        "Tooltip",
+        "+20 max manaStanding still boosts mana regen"
       ],
       [
         "Rarity",
@@ -176,6 +197,10 @@
         "Accessory – Crafting material"
       ],
       [
+        "Tooltip",
+        "Lowers the cost of stealth strikes by 5%"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Rarity_color_7.png"
       ],
@@ -196,6 +221,10 @@
       [
         "Type",
         "Accessory – Crafting material"
+      ],
+      [
+        "Tooltip",
+        "You emit light and regen life more quickly at night"
       ],
       [
         "Rarity",

@@ -25,7 +25,12 @@
         "19 Very Fast"
       ],
       [
+        "Tooltip",
+        "Cast down from the heavens in disgust, this relic sings a song of quiet tragedy...Consumes all of the remaining minion slots on useMust be used from the hotbarIncreased power and size based on the number of minion slots usedHolding this weapon grants 10% increased jump speed"
+      ],
+      [
         "Grants Buff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/eb/Astral_Jelly_%28buff%29.png",
         "Astral Jelly"
       ],
       [
@@ -33,6 +38,7 @@
         "The mini astrageldon slime will protect you"
       ],
       [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/65/Astral_Infection_%28debuff%29.png",
         "Astral Infection",
         "100% chance"
@@ -84,7 +90,12 @@
         "24 Fast"
       ],
       [
+        "Tooltip",
+        "Summons an ice clasper to fight for you"
+      ],
+      [
         "Grants Buff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/27/Ice_Clasper_%28buff%29.png",
         "Ice Clasper"
       ],
       [
@@ -134,8 +145,14 @@
         "10"
       ],
       [
+        "Tooltip",
+        "Creates a panel with four slots and four choices above it: Plasma, Tesla, Laser, and GaussClicking one of the choices and then clicking one of the slots allows you to summon a cannon that stays close to you and attacks nearby enemiesClicking on a slot that's already occupied destroys its associated cannon and clears the slotCannons take 3 minion slots each"
+      ],
+      [
         "Grants Buff",
-        "Ares' CannonsAres' Cannons"
+        null,
+        "",
+        "100% chance"
       ],
       [
         "Buff tooltip",
@@ -182,6 +199,10 @@
       [
         "Velocity",
         "10"
+      ],
+      [
+        "Tooltip",
+        "Drops down a crate from the sky that opens up to reveal a mounted, stationary cannon\nThe cannon will fire at any potential enemies within its range, and enter overdrive mode if said enemy is close to the cannon When in overdrive mode the cannon uses three barrels that each collectively fire. The cannon also heats up the more it fires in overdrive mode\nPlayers may right click to pick up the cannon and use it for themselves, if they are selecting an Atlas Munitions Beacon. When players fire the cannon, it automatically enters overdrive mode If the held cannon becomes hot due to overdrive mode, you are forced to drop it. Otherwise, right clicking allows you to drop it manually If the held cannon is dropped back onto the mount, it is attached again   It's surprisingly easy to pick up\n\nSummons an Atlas Soldier to fight for you Takes up 3 minion slots and only one can exist"
       ],
       [
         "Rarity",
@@ -243,7 +264,12 @@
         "34 Slow"
       ],
       [
+        "Tooltip",
+        "Summons a cute forest spirit that scatters toxic petals"
+      ],
+      [
         "Grants Buff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/49/Belladonna_Spirit_%28buff%29.png",
         "Belladonna Spirit"
       ],
       [
@@ -251,6 +277,7 @@
         "A cute forest spirit is following you"
       ],
       [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/11/Poisoned.png",
         "Poisoned",
         "100% chance"
@@ -337,7 +364,12 @@
         "24 Fast"
       ],
       [
+        "Tooltip",
+        "Summons a Black Hawk jet to fight for you"
+      ],
+      [
         "Grants Buff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/96/Black_Hawk_%28buff%29.png",
         "Black Hawk"
       ],
       [
@@ -383,7 +415,12 @@
         "29 Average"
       ],
       [
+        "Tooltip",
+        "Summons a blood clot to fight for you"
+      ],
+      [
         "Grants Buff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c6/Blood_Clot_%28buff%29.png",
         "Blood Clot"
       ],
       [
@@ -463,6 +500,11 @@
         "10"
       ],
       [
+        "Tooltip",
+        "Summons aureus bombers to fight for youAureus bombers explode on enemy impactDoes not consume minion slots"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/65/Astral_Infection_%28debuff%29.png",
         "Astral Infection",
         "100% chance"
@@ -514,6 +556,10 @@
         "13 Very Fast"
       ],
       [
+        "Tooltip",
+        "Summons a gross Old Duke head on the ground"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/36/Rarity_color_13.png"
       ],
@@ -552,7 +598,12 @@
         "9 Very Fast"
       ],
       [
+        "Tooltip",
+        "Summons a squid to fight for you"
+      ],
+      [
         "Grants Buff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/a4/Calamari_%28buff%29.png",
         "Calamari"
       ],
       [
@@ -560,6 +611,7 @@
         "The squid will protect you"
       ],
       [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/9a/Crush_Depth.png",
         "Crush Depth",
         "100% chance"
@@ -611,6 +663,10 @@
         "34 Slow"
       ],
       [
+        "Tooltip",
+        "Summons a toad that explodes if enemies are nearby"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png"
       ],
@@ -649,7 +705,12 @@
         "24 Fast"
       ],
       [
+        "Tooltip",
+        "Summons a mini dragon to fight for youThe dragon can inflict several debilitating debuffs if you hold a summon weapon or tool"
+      ],
+      [
         "Grants Buff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/ab/Caustic_Dragon_%28buff%29.png",
         "Caustic Dragon"
       ],
       [
@@ -730,7 +791,12 @@
         "29 Average"
       ],
       [
+        "Tooltip",
+        "Summons a really hot flower over your headThere can only be one flower"
+      ],
+      [
         "Grants Buff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/35/Cinder_Blossom_%28buff%29.png",
         "Cinder Blossom"
       ],
       [
@@ -806,6 +872,10 @@
         "29 Average"
       ],
       [
+        "Tooltip",
+        "Summons either Cataclysm or Catastrophe at the mouse positionThey will look at you for a moment before charging at youThey can do damage to both you and enemiesThe Witch, a sinner of her own making,Within her mind her demon lies, ever patient, until the end of time."
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8d/Rarity_color_15.png"
       ],
@@ -844,7 +914,12 @@
         "24 Fast"
       ],
       [
+        "Tooltip",
+        "Summons the power of the ancient ice castleFor each minion slot used, you will gain an additional orbiting shield spikeThese spikes accelerate rapidly towards a nearby enemy to inflict heavy damageThey take some time to regenerate after launching themselves at the target, howeverOn right click, summons a duplicate ring around the targeted enemy, which slowly converges before exploding"
+      ],
+      [
         "Grants Buff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/2d/Cold_Divinity_%28buff%29.png",
         "Cold Divinity"
       ],
       [
@@ -852,6 +927,7 @@
         "The magic of the ancient ice castle will aid you"
       ],
       [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Frostburn.png",
         "Frostburn",
         "100% chance"
@@ -903,7 +979,12 @@
         "29 Average"
       ],
       [
+        "Tooltip",
+        "Summons a corro slime to fight for you"
+      ],
+      [
         "Grants Buff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/7f/Corroslime_%28buff%29.png",
         "Corroslime"
       ],
       [
@@ -949,7 +1030,12 @@
         "9 Very Fast"
       ],
       [
+        "Tooltip",
+        "Nevermore.Summons a powerful raven which teleports and dashes"
+      ],
+      [
         "Grants Buff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8d/Raven_%28buff%29.png",
         "Raven"
       ],
       [
@@ -1021,7 +1107,12 @@
         "9 Very Fast"
       ],
       [
+        "Tooltip",
+        "Summons a cosmic energy spiral to fight for youThe orb will fire swarms of homing energy bolts when enemies are detected by itRequires 10 minion slots to use and there can only be one energy spiralWithout a summoner armor set bonus this minion will deal less damage"
+      ],
+      [
         "Grants Buff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/cb/Cosmic_Energy_%28buff%29.png",
         "Cosmic Energy"
       ],
       [
@@ -1103,7 +1194,12 @@
         "9 Very Fast"
       ],
       [
+        "Tooltip",
+        "Summons a cosmic gunship to shoot down your foes"
+      ],
+      [
         "Grants Buff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/eb/Cosmic_Viper_%28buff%29.png",
         "Cosmic Viper"
       ],
       [
@@ -1111,6 +1207,7 @@
         "The cosmic gunship will protect you"
       ],
       [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/07/God_Slayer_Inferno.png",
         "God Slayer Inferno",
         "100% chance"
@@ -1188,7 +1285,12 @@
         "14 Very Fast"
       ],
       [
+        "Tooltip",
+        "Summons a cosmic lantern to fight for youTakes up 2 minion slots"
+      ],
+      [
         "Grants Buff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/36/Cosmilamp_%28buff%29.png",
         "Cosmilamp"
       ],
       [
@@ -1234,7 +1336,12 @@
         "29 Average"
       ],
       [
+        "Tooltip",
+        "Summons a crim slime to fight for you"
+      ],
+      [
         "Grants Buff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/05/Crimslime_%28buff%29.png",
         "Crimslime"
       ],
       [
@@ -1280,6 +1387,11 @@
         "24 Fast"
       ],
       [
+        "Tooltip",
+        "Summons an animated ice construct to protect youFire rate and range increase the longer it targets an enemy"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Frostburn.png",
         "Frostburn",
         "100% chance"
@@ -1330,7 +1442,12 @@
         "24 Fast"
       ],
       [
+        "Tooltip",
+        "Summons a Daedalus Golem soldier that fires pellets and electricityShining god of greed"
+      ],
+      [
         "Grants Buff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e8/Daedalus_Golem_%28buff%29.png",
         "Daedalus Golem"
       ],
       [
@@ -1396,7 +1513,12 @@
         "29 Average"
       ],
       [
+        "Tooltip",
+        "Summons a dank creeper to fight for you"
+      ],
+      [
         "Grants Buff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/f3/Dank_Creeper_%28buff%29.png",
         "Dank Creeper"
       ],
       [
@@ -1472,7 +1594,12 @@
         "14 Very Fast"
       ],
       [
+        "Tooltip",
+        "Summons a holy blade to fight for you"
+      ],
+      [
         "Grants Buff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/14/Dazzling_Stabber_%28buff%29.png",
         "Dazzling Stabber"
       ],
       [
@@ -1480,6 +1607,7 @@
         "En garde"
       ],
       [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d7/Holy_Flames.png",
         "Holy Flames",
         "100% chance"
@@ -1531,7 +1659,12 @@
         "34 Slow"
       ],
       [
+        "Tooltip",
+        "Summons an eye above your head that watches you and shoots at enemiesThere can only be one eye"
+      ],
+      [
         "Grants Buff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/b9/Miniature_Eye_of_Cthulhu_%28buff%29.png",
         "Miniature Eye of Cthulhu"
       ],
       [
@@ -1577,7 +1710,12 @@
         "24 Fast"
       ],
       [
+        "Tooltip",
+        "Summons an aquatic star to fight for you"
+      ],
+      [
         "Grants Buff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/58/Aquatic_Star_%28buff%29.png",
         "Aquatic Star"
       ],
       [
@@ -1623,7 +1761,12 @@
         "24 Fast"
       ],
       [
+        "Tooltip",
+        "You could’ve sworn that they turned even scarier when you looked at their reflections in a mirrorSummons a brimseeker to keep you companyFiring another brimseeker when all minion slots are filled summons a brimstone auraThe aura empowers your brimseeker summons and produces damaging fireballsOnly one aura can persist at a time"
+      ],
+      [
         "Grants Buff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/aa/Brimseeker_%28buff%29.png",
         "Brimseeker"
       ],
       [
@@ -1631,6 +1774,7 @@
         "Does it want something from you?"
       ],
       [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/71/Brimstone_Flames.png",
         "Brimstone Flames",
         "100% chance"
@@ -1682,7 +1826,12 @@
         "14 Very Fast"
       ],
       [
+        "Tooltip",
+        "Summons a skeletal dragon and her two childrenRequires 6 minion slots to be summonedThere can only be one family"
+      ],
+      [
         "Grants Buff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/6e/Skeletal_Dragons_%28buff%29.png",
         "Skeletal Dragons"
       ],
       [
@@ -1742,6 +1891,10 @@
       [
         "Use time",
         "24 Fast"
+      ],
+      [
+        "Tooltip",
+        "Summons a dreadmine turret to fight for you"
       ],
       [
         "Rarity",
@@ -1812,7 +1965,12 @@
         "14 Very Fast"
       ],
       [
+        "Tooltip",
+        "Summons an elemental axe to fight for you"
+      ],
+      [
         "Grants Buff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/b8/Elemental_Axe_%28buff%29.png",
         "Elemental Axe"
       ],
       [
@@ -1820,6 +1978,7 @@
         "The elemental axe will protect you"
       ],
       [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/71/Brimstone_Flames.png",
         "Brimstone Flames",
         "100% chance"
@@ -1833,6 +1992,7 @@
         "Rapid health loss"
       ],
       [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Frostburn.png",
         "Frostburn",
         "100% chance"
@@ -1846,6 +2006,7 @@
         "It's either really hot or really cold. Either way it REALLY hurts"
       ],
       [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d7/Holy_Flames.png",
         "Holy Flames",
         "100% chance"
@@ -1938,7 +2099,12 @@
         "9 Very Fast"
       ],
       [
+        "Tooltip",
+        "Summons a frigid entity with a headIf the entity already exists, using this item again will cause it to gain more heads"
+      ],
+      [
         "Grants Buff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8c/Endo_Hydra_%28buff%29.png",
         "Endo Hydra"
       ],
       [
@@ -2010,7 +2176,12 @@
         "9 Very Fast"
       ],
       [
+        "Tooltip",
+        "Summons an ascended ice construct to protect youChanges attack modes by resummoning or reusing the staffThe first mode makes it shoot sweeping lasers aimed at the enemyThe second mode sacrifices its limbs to shoot out homing projectilesThe third mode allows it to aggressively tackle its enemiesThe fourth mode makes the limbs function as endothermic flamethrowersRequires 10 minion slots to useThere can only be oneIce puns not included"
+      ],
+      [
         "Grants Buff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/a6/Endo_Cooper_%28buff%29.png",
         "Endo Cooper"
       ],
       [
@@ -2018,6 +2189,7 @@
         "The ascened[sic] Cooper will protect you"
       ],
       [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/73/Exo_Freeze.png",
         "Exo Freeze",
         "100% chance"
@@ -2031,6 +2203,7 @@
         "Cannot move"
       ],
       [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/fc/Glacial_State.png",
         "Glacial State",
         "100% chance"
@@ -2044,6 +2217,7 @@
         "Cannot move and defense is shattered"
       ],
       [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Frostburn.png",
         "Frostburn",
         "100% chance"
@@ -2131,6 +2305,10 @@
         "14 Very Fast"
       ],
       [
+        "Tooltip",
+        "Summons a profaned energy turret to fight for you"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/96/Rarity_color_11.png"
       ],
@@ -2173,7 +2351,12 @@
         "10"
       ],
       [
+        "Tooltip",
+        "Summons Calamitas and her brothers to protect youOne minion trio takes two minion slots"
+      ],
+      [
         "Grants Buff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/6c/Blighted_Eyes_%28buff%29.png",
         "Blighted Eyes"
       ],
       [
@@ -2181,6 +2364,7 @@
         "Calamitas and her brothers will protect you"
       ],
       [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/71/Brimstone_Flames.png",
         "Brimstone Flames",
         "100% chance"
@@ -2232,7 +2416,12 @@
         "9 Very Fast"
       ],
       [
+        "Tooltip",
+        "Summons a phantom to protect youEach phantom takes only half of a minion slot"
+      ],
+      [
         "Grants Buff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/1d/Phantom_%28buff%29.png",
         "Phantom"
       ],
       [
@@ -2278,7 +2467,12 @@
         "29 Average"
       ],
       [
+        "Tooltip",
+        "Summons a diseased eyeball that attaches to enemies and inflict cursed flames"
+      ],
+      [
         "Grants Buff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/eb/Eye_of_Night_%28buff%29.png",
         "Eye of Night"
       ],
       [
@@ -2286,6 +2480,7 @@
         "It eerily watches"
       ],
       [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a0/Cursed_Inferno.png",
         "Cursed Inferno",
         "100% chance"
@@ -2372,7 +2567,12 @@
         "9 Very Fast"
       ],
       [
+        "Tooltip",
+        "Summons a colossal controllable mechRight click to display the mech's control panelThe panel has 3 configurations, selected using the brackets on the edges of the UIEach bracket powers 2 out of 3 possible functions, represented by the circular icons.The bottom left icon miniaturizes the mech to the size of a player, but weakens its weapons.The bottom right icon is a powerful jet booster which greatly enhances movement.The top icon is the mech's weaponry. It must be powered in order to attack.Click the top icon to switch between Regicide, an enormous energy blade, and a powerful Gauss rifle.Exiting the mount while a boss is alive will temporarily hinder your movementNow, make them pay."
+      ],
+      [
         "Grants Buff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/06/Andromeda_%28buff%29.png",
         "Andromeda"
       ],
       [
@@ -2380,8 +2580,10 @@
         "You're controlling a piece of history"
       ],
       [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/71/Andromeda_Cripple.png",
-        "Andromeda Cripple"
+        "Andromeda Cripple",
+        "100% chance"
       ],
       [
         "Debuff duration",
@@ -2466,7 +2668,12 @@
         "29 Average"
       ],
       [
+        "Tooltip",
+        "Summons a tentacled ball of flesh that splashes blood onto enemies"
+      ],
+      [
         "Grants Buff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/f6/Flesh_Ball_%28buff%29.png",
         "Flesh Ball"
       ],
       [
@@ -2547,7 +2754,12 @@
         "14 Very Fast"
       ],
       [
+        "Tooltip",
+        "Summons five rainbow flowers over your headThe combined flowers consume two and a half minion slots"
+      ],
+      [
         "Grants Buff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/51/Flowers_of_Mortality_%28buff%29.png",
         "Flowers of Mortality"
       ],
       [
@@ -2555,6 +2767,7 @@
         "Celestial blossoms surround you"
       ],
       [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/71/Brimstone_Flames.png",
         "Brimstone Flames",
         "100% chance"
@@ -2568,6 +2781,7 @@
         "Rapid health loss"
       ],
       [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Frostburn.png",
         "Frostburn",
         "100% chance"
@@ -2581,6 +2795,7 @@
         "It's either really hot or really cold. Either way it REALLY hurts"
       ],
       [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d7/Holy_Flames.png",
         "Holy Flames",
         "100% chance"
@@ -2672,7 +2887,12 @@
         "12"
       ],
       [
+        "Tooltip",
+        "Summons ancient mineral sharks to take on your foes.Seems to have lost its jaw some time in the past"
+      ],
+      [
         "Grants Buff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/ee/Ancient_Mineral_Shark_%28buff%29.png",
         "Ancient Mineral Shark"
       ],
       [
@@ -2748,7 +2968,12 @@
         "34 Slow"
       ],
       [
+        "Tooltip",
+        "Summons a frozen flower over your headThere can only be one flower"
+      ],
+      [
         "Grants Buff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/35/Frost_Blossom_%28buff%29.png",
         "Frost Blossom"
       ],
       [
@@ -2824,7 +3049,12 @@
         "19 Very Fast"
       ],
       [
+        "Tooltip",
+        "Releases a small, special variant of the plaguebringers"
+      ],
+      [
         "Grants Buff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/b0/Mini_Plaguebringer_%28buff%29.png",
         "Mini Plaguebringer"
       ],
       [
@@ -2832,6 +3062,7 @@
         "A small plague bee is following you"
       ],
       [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/6a/Plague.png",
         "Plague",
         "100% chance"
@@ -2883,7 +3114,12 @@
         "14 Very Fast"
       ],
       [
+        "Tooltip",
+        "Summons radioactive heads that are bound by your body"
+      ],
+      [
         "Grants Buff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/4d/Gamma_Hydra_%28buff%29.png",
         "Gamma Hydra"
       ],
       [
@@ -2891,6 +3127,7 @@
         "..."
       ],
       [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/fc/Sulphuric_Poisoning.png",
         "Sulphuric Poisoning",
         "100% chance"
@@ -2942,7 +3179,12 @@
         "19 Very Fast"
       ],
       [
+        "Tooltip",
+        "Summons aquatic aberrations to protect youAberrations fire vomit at nearby enemies with every third attack firing bubbles"
+      ],
+      [
         "Grants Buff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/ac/Gastric_Aberration_%28buff%29.png",
         "Gastric Aberration"
       ],
       [
@@ -2988,7 +3230,12 @@
         "19 Very Fast"
       ],
       [
+        "Tooltip",
+        "Summons astral probes to protect you"
+      ],
+      [
         "Grants Buff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/4e/Astral_Probe_%28buff%29.png",
         "Astral Probe"
       ],
       [
@@ -3034,6 +3281,11 @@
         "14 Very Fast"
       ],
       [
+        "Tooltip",
+        "Shadows dream of endless fire, flames devour and embers swoopSummons a lantern turret to fight for you"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/71/Brimstone_Flames.png",
         "Brimstone Flames",
         "100% chance"
@@ -3085,7 +3337,12 @@
         "24 Fast"
       ],
       [
+        "Tooltip",
+        "Summons a stack of haunted dishes to fight for you"
+      ],
+      [
         "Grants Buff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/84/Haunted_Dishes_%28buff%29.png",
         "Haunted Dishes"
       ],
       [
@@ -3170,7 +3427,12 @@
         "10"
       ],
       [
+        "Tooltip",
+        "Summons a Herring to fight for youEach herring takes only half of a minion slot"
+      ],
+      [
         "Grants Buff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/72/Herring_%28buff%29.png",
         "Herring"
       ],
       [
@@ -3216,6 +3478,11 @@
         "19 Very Fast"
       ],
       [
+        "Tooltip",
+        "Summons an astral hive to protect you"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/65/Astral_Infection_%28debuff%29.png",
         "Astral Infection",
         "100% chance"
@@ -3267,7 +3534,12 @@
         "24 Fast"
       ],
       [
+        "Tooltip",
+        "Summons an orbiting bladeRight click to launch all blades towards the cursor"
+      ],
+      [
         "Grants Buff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/6f/Igneous_Blade_%28buff%29.png",
         "Igneous Blade"
       ],
       [
@@ -3338,7 +3610,12 @@
         "34 Slow"
       ],
       [
+        "Tooltip",
+        "Summons a hermit crab to fight for you"
+      ],
+      [
         "Grants Buff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/30/Hermit_Crab_%28buff%29.png",
         "Hermit Crab"
       ],
       [
@@ -3383,7 +3660,12 @@
         "9 Very Fast"
       ],
       [
+        "Tooltip",
+        "Summons a sepulcher to fight for youWhile the sepulcher is active brimstone hearts will begin to appear and orbit youIt will attempt to attack you more and more frequently depending on how many hearts are presentIt takes up 4 minion slots and it can only be summoned onceA contemplated possible future of the cosmic serpent,A gruesome warning for those blinded by the hunger for power."
+      ],
+      [
         "Grants Buff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/48/Sepulcher_%28buff%29.png",
         "Sepulcher"
       ],
       [
@@ -3391,6 +3673,7 @@
         "It is not benevolent"
       ],
       [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/71/Brimstone_Flames.png",
         "Brimstone Flames",
         "100% chance"
@@ -3446,7 +3729,12 @@
         "10"
       ],
       [
+        "Tooltip",
+        "Summons a UFO to vaporize enemies"
+      ],
+      [
         "Grants Buff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/ac/Midnight_Sun_UFO_%28buff%29.png",
         "Midnight Sun UFO"
       ],
       [
@@ -3454,6 +3742,7 @@
         "A strange UFO is observing you, and it's making you very uncomfortable"
       ],
       [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/56/Electrified.png",
         "Electrified",
         "100% chance"
@@ -3531,7 +3820,12 @@
         "24 Fast"
       ],
       [
+        "Tooltip",
+        "Laser technology used in this case for both targeting and defenseSummons a powerful weapon above your head that fires lasers at nearby enemiesCurrent Charge: [CHARGE]"
+      ],
+      [
         "Grants Buff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/66/Mounted_Scanner_%28buff%29.png",
         "Mounted Scanner"
       ],
       [
@@ -3612,6 +3906,11 @@
         "24 Fast"
       ],
       [
+        "Tooltip",
+        "Summons a flying orthocera sentry at the mouse position"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8a/Venom.png",
         "Venom",
         "100% chance"
@@ -3663,7 +3962,12 @@
         "9 Very Fast"
       ],
       [
+        "Tooltip",
+        "Summons a beacon at the position of the mouseWhen a target is manually selected via right click it releases torrents of souls from below onto the targetOnly one beacon may exist at a time"
+      ],
+      [
         "Grants Buff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/31/Perdition_%28buff%29.png",
         "Perdition"
       ],
       [
@@ -3709,7 +4013,12 @@
         "19 Very Fast"
       ],
       [
+        "Tooltip",
+        "Summons a miniature plantera to protect youFires seeds, spiky balls, and spore clouds from afar to poison targetsEnrages when you get under 75% health and begins ramming enemiesOccupies 3 minion slots and there can only be one"
+      ],
+      [
         "Grants Buff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e1/Plantation.png",
         "Plantation"
       ],
       [
@@ -3717,6 +4026,7 @@
         "The miniature plantera will protect you"
       ],
       [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/11/Poisoned.png",
         "Poisoned",
         "100% chance"
@@ -3730,6 +4040,7 @@
         "Slowly losing life"
       ],
       [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8a/Venom.png",
         "Venom",
         "100% chance"
@@ -3820,7 +4131,12 @@
         "9 Very Fast"
       ],
       [
+        "Tooltip",
+        "Magnetic devices which tear at foes by propelling themselves off their opposite counterpartsIncredibly dangerousSummons a pair of floating magnets that repel each other and relentlessly swarm enemiesCurrent Charge: [CHARGE]"
+      ],
+      [
         "Grants Buff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/3e/Pole_Warper_%28buff%29.png",
         "Pole Warper"
       ],
       [
@@ -3897,6 +4213,10 @@
         "34 Slow"
       ],
       [
+        "Tooltip",
+        "Summons a polyp bunch that launches coral chunks at nearby enemies"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png"
       ],
@@ -3932,6 +4252,10 @@
       [
         "Use time",
         "24 Fast"
+      ],
+      [
+        "Tooltip",
+        "A device used to defend against the weaker, less cognizant rogue creations of DraedonSummons a pulse turret which eradicates nearby foes with focused energy blastsOnly one pulse turret may exist at a timeCurrent Charge: [CHARGE]"
       ],
       [
         "Rarity",
@@ -4007,7 +4331,12 @@
         "19 Very Fast"
       ],
       [
+        "Tooltip",
+        "Remembering the melancholy of human existenceEven ghosts stray from the path of righteousnessSummons a pair of butterflies to fight for you"
+      ],
+      [
         "Grants Buff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/60/Resurrection_Butterfly_%28buff%29.png",
         "Resurrection Butterfly"
       ],
       [
@@ -4088,7 +4417,12 @@
         "10"
       ],
       [
+        "Tooltip",
+        "Summons a long-abandoned drone to support youThe drone slowly follows your cursor and inflicts Irradiated to nearby enemies"
+      ],
+      [
         "Grants Buff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/fb/Rusty_Drone_%28buff%29.png",
         "Rusty Drone"
       ],
       [
@@ -4096,6 +4430,7 @@
         "A pitifully fragile drone is observing you"
       ],
       [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8b/Irradiated.png",
         "Irradiated",
         "100% chance"
@@ -4172,7 +4507,12 @@
         "19 Very Fast"
       ],
       [
+        "Tooltip",
+        "Summons a sandnado to fight for you"
+      ],
+      [
         "Grants Buff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/54/Sandnado_%28buff%29.png",
         "Sandnado"
       ],
       [
@@ -4222,7 +4562,12 @@
         "10"
       ],
       [
+        "Tooltip",
+        "Gain absolute control over light itselfSummons a radiant auraConsumes all of the remaining minion slots on useMust be used from the hotbarIncreased power based on the number of minion slots used"
+      ],
+      [
         "Grants Buff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/2c/Saros_Possession_%28buff%29.png",
         "Saros Possession"
       ],
       [
@@ -4294,7 +4639,12 @@
         "29 Average"
       ],
       [
+        "Tooltip",
+        "Summons a baby blood crawler to protect you"
+      ],
+      [
         "Grants Buff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/fd/Baby_Blood_Crawler_%28buff%29.png",
         "Baby Blood Crawler"
       ],
       [
@@ -4370,7 +4720,12 @@
         "34 Slow"
       ],
       [
+        "Tooltip",
+        "Summons a brittle star to fight for you"
+      ],
+      [
         "Grants Buff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e3/Brittle_Star_%28buff%29.png",
         "Brittle Star"
       ],
       [
@@ -4416,7 +4771,12 @@
         "24 Fast"
       ],
       [
+        "Tooltip",
+        "Summons a shellfish to fight for youTakes up 2 minion slots"
+      ],
+      [
         "Grants Buff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/80/Shellfish_%28buff%29.png",
         "Shellfish"
       ],
       [
@@ -4424,8 +4784,10 @@
         "The shellfish will protect you"
       ],
       [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e9/Shellfish_Claps.png",
-        "Shellfish Claps"
+        "Shellfish Claps",
+        "100% chance"
       ],
       [
         "Debuff tooltip",
@@ -4474,7 +4836,12 @@
         "10"
       ],
       [
+        "Tooltip",
+        "Summons the brightest star in the night sky to shine upon your foesConsumes all of the remaining minion slots on useMust be used from the hotbarIncreased power based on the number of slots used"
+      ],
+      [
         "Grants Buff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/5d/Sirius_%28buff%29.png",
         "Sirius"
       ],
       [
@@ -4482,6 +4849,7 @@
         "A bit too bright, but it helps me"
       ],
       [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/77/Nightwither.png",
         "Nightwither",
         "100% chance"
@@ -4568,6 +4936,10 @@
         "10"
       ],
       [
+        "Tooltip",
+        "Summons a slime ball that follows youThe ball flies toward nearby enemies and explodes into slime on enemy hitsDoes not consume minion slots"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png"
       ],
@@ -4606,7 +4978,12 @@
         "14 Very Fast"
       ],
       [
+        "Tooltip",
+        "Surveillance drones equipped with a strong electric field which can be directed at enemiesSummons a mechanical watcher that zaps and flies around enemiesCurrent Charge: [CHARGE]"
+      ],
+      [
         "Grants Buff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/35/Snake_Eyes_%28buff%29.png",
         "Snake Eyes"
       ],
       [
@@ -4683,6 +5060,10 @@
         "19 Very Fast"
       ],
       [
+        "Tooltip",
+        "Summons a spikecrag to protect you"
+      ],
+      [
         "Rarity",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png"
       ],
@@ -4719,6 +5100,10 @@
       [
         "Use time",
         "34 Slow"
+      ],
+      [
+        "Tooltip",
+        "Summons a squirrel squire to fight for you"
       ],
       [
         "Rarity",
@@ -4780,7 +5165,12 @@
         "29 Average"
       ],
       [
+        "Tooltip",
+        "Summons small skeletons to fight for youThe skeletons leave behind bone cells as they move"
+      ],
+      [
         "Grants Buff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/5f/Small_Skeleton_%28buff%29.png",
         "Small Skeleton"
       ],
       [
@@ -4830,7 +5220,12 @@
         "10"
       ],
       [
+        "Tooltip",
+        "Summons an aerial mechworm to fight for you"
+      ],
+      [
         "Grants Buff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/32/Mechworm_%28buff%29.png",
         "Mechworm"
       ],
       [
@@ -4876,7 +5271,12 @@
         "30 Average"
       ],
       [
+        "Tooltip",
+        "Small novelties created to easily transport and fire plasma, strangely popular with humansSummons a biomechanical frog that vomits plasma onto enemiesCurrent Charge: [CHARGE]"
+      ],
+      [
         "Grants Buff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/95/Star_Swallower_%28buff%29.png",
         "Star Swallower"
       ],
       [
@@ -4884,6 +5284,7 @@
         "Mmmm myes"
       ],
       [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8b/Irradiated.png",
         "Irradiated",
         "100% chance"
@@ -4970,7 +5371,12 @@
         "34 Slow"
       ],
       [
+        "Tooltip",
+        "Summons a baby stormlion to fight for you"
+      ],
+      [
         "Grants Buff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/42/Baby_Stormlion_%28buff%29.png",
         "Baby Stormlion"
       ],
       [
@@ -5016,7 +5422,12 @@
         "24 Fast"
       ],
       [
+        "Tooltip",
+        "Summons a solar god spirit to protect youThere can only be one spirit"
+      ],
+      [
         "Grants Buff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/35/Solar_God_Spirit_%28buff%29.png",
         "Solar God Spirit"
       ],
       [
@@ -5102,7 +5513,12 @@
         "28 Average"
       ],
       [
+        "Tooltip",
+        "Summons a solar spirit to protect youThere can only be one spirit"
+      ],
+      [
         "Grants Buff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/0a/Solar_Spirit_%28buff%29.png",
         "Solar Spirit"
       ],
       [
@@ -5173,7 +5589,12 @@
         "14 Very Fast"
       ],
       [
+        "Tooltip",
+        "Summons a plague jet to pummel your enemies into submissionJets will fire ammo from your inventory, 66% chance to not consume ammoSometimes shoots a missile instead of a bullet"
+      ],
+      [
         "Grants Buff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/b8/Tactical_Plague_Engine_%28buff%29.png",
         "Tactical Plague Engine"
       ],
       [
@@ -5181,6 +5602,7 @@
         "A giant plague jet is following you"
       ],
       [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/6a/Plague.png",
         "Plague",
         "100% chance"
@@ -5268,7 +5690,12 @@
         "12 Very Fast"
       ],
       [
+        "Tooltip",
+        "Surprisingly sturdy, I reckon this could defeat the Mafia in a single blowSummons a magic hat to hover above your headThe hat will release a variety of objects to assault your foesRequires 8 minion slots to use and there can only be one hat"
+      ],
+      [
         "Grants Buff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/9a/Magic_Hat_%28buff%29.png",
         "Magic Hat"
       ],
       [
@@ -5350,7 +5777,12 @@
         "24 Fast"
       ],
       [
+        "Tooltip",
+        "Summons three unusual flowers over your headEach flower consumes one minion slot"
+      ],
+      [
         "Grants Buff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/15/Tundra_Flame_Blossom_%28buff%29.png",
         "Tundra Flame Blossom"
       ],
       [
@@ -5358,6 +5790,7 @@
         "A perfect unison of balance and beauty"
       ],
       [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Frostburn.png",
         "Frostburn",
         "100% chance"
@@ -5439,8 +5872,14 @@
         "9 Very Fast"
       ],
       [
+        "Tooltip",
+        "Summons an energy field at the mouse cursorAfter the field has been deployed, it begins to summon multiple small beamsAfter several seconds have passed, an enormous laser beam appears at the field's positionThis effect has a cooldownAttempting to use this item during the cooldown will cause it to short circuit and do damage to you.An ancient artifact from a previous age, it waits for your command...This is a terrible idea, but it isn't yours anyways... right?"
+      ],
+      [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/30/Universe_Splitter_Cooldown.png",
-        "Universe Splitter Cooldown"
+        "Universe Splitter Cooldown",
+        "100% chance"
       ],
       [
         "Debuff duration",
@@ -5451,6 +5890,7 @@
         "You cannot use the Universe Splitter"
       ],
       [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/56/Electrified.png",
         "Electrified",
         "100% chance"
@@ -5464,6 +5904,7 @@
         "You cannot move"
       ],
       [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/77/Nightwither.png",
         "Nightwither",
         "100% chance"
@@ -5541,7 +5982,12 @@
         "9 Very Fast"
       ],
       [
+        "Tooltip",
+        "Summons a soul seeker to fight for you"
+      ],
+      [
         "Grants Buff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/6f/Soul_Seeker_%28buff%29.png",
         "Soul Seeker"
       ],
       [
@@ -5549,6 +5995,7 @@
         "It definitely wants something from you"
       ],
       [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/71/Brimstone_Flames.png",
         "Brimstone Flames",
         "100% chance"
@@ -5600,7 +6047,12 @@
         "29 Average"
       ],
       [
+        "Tooltip",
+        "Summons a baby eater of souls to protect you"
+      ],
+      [
         "Grants Buff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/6d/Vile_Feeder_%28buff%29.png",
         "Vile Feeder"
       ],
       [
@@ -5676,7 +6128,12 @@
         "19 Very Fast"
       ],
       [
+        "Tooltip",
+        "Summons a sage spirit to fight for youInflicts Sage Poison, a debuff that becomes stronger the more spirits you own"
+      ],
+      [
         "Grants Buff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/16/Sage_Spirit_%28buff%29.png",
         "Sage Spirit"
       ],
       [
@@ -5684,8 +6141,10 @@
         "It's uncomfortably close"
       ],
       [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/7e/Sage_Poison.png",
-        "Sage Poison"
+        "Sage Poison",
+        "100% chance"
       ],
       [
         "Debuff duration",
@@ -5754,7 +6213,12 @@
         "14 Very Fast"
       ],
       [
+        "Tooltip",
+        "Summons a blade to float behind youThe blades will slash at enemies in front of you, inflicting Poisoned"
+      ],
+      [
         "Grants Buff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/28/Virid_Vanguard_%28buff%29.png",
         "Virid Vanguard"
       ],
       [
@@ -5821,7 +6285,12 @@
         "14 Very Fast"
       ],
       [
+        "Tooltip",
+        "Summons a foreboding aura that attacks by firing void orbsMinion damage is increased by 5% while the aura is activeRequires three minion slots to useOnly one may existRight click to launch a black hole that grows in size"
+      ],
+      [
         "Grants Buff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/93/Concentrated_Void.png",
         "Concentrated Void"
       ],
       [
@@ -5867,7 +6336,12 @@
         "19 Very Fast"
       ],
       [
+        "Tooltip",
+        "Summons four decaying flowers over your headThe combined flowers consume two minion slots"
+      ],
+      [
         "Grants Buff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e0/Wither_Blossoms.png",
         "Wither Blossoms"
       ],
       [
@@ -5875,6 +6349,7 @@
         "Pestilence surrounds you"
       ],
       [
+        "Inflicts Debuff",
         "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/6a/Plague.png",
         "Plague",
         "100% chance"
@@ -5965,7 +6440,12 @@
         "10"
       ],
       [
+        "Tooltip",
+        "Summons a wulfrum droid to fight for you"
+      ],
+      [
         "Grants Buff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/a0/Wulfrum_Droid_%28buff%29.png",
         "Wulfrum Droid"
       ],
       [
@@ -6031,7 +6511,12 @@
         "9 Very Fast"
       ],
       [
+        "Tooltip",
+        "Summons a fiery draconid to fight for youRequires 5 minion slots to use"
+      ],
+      [
         "Grants Buff",
+        "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/61/Fiery_Draconid.png",
         "Fiery Draconid"
       ],
       [
