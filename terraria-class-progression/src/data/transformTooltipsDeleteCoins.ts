@@ -11,7 +11,7 @@ const isLetter = (str: string): boolean => {
 };
 
 const transformString = (string: string): string => {
-  let newStr = '';
+  let newStr: string = '';
   for (let i = 0; i < string.length; i++) {
     const currLetter = string[i];
     const nextLetter = string[i + 1];
@@ -96,14 +96,21 @@ const transformString = (string: string): string => {
 };
 
 const transformItems = () => {
-  const newItems = allWeapons.map((weapon: any) => {
+  const newItems = allAccessories.map((weapon: any) => {
     const { itemSpecs }: { itemSpecs: string[][] } = weapon;
-    const newSpecs: string[][] = itemSpecs.map(([label, desc]) => {
+    const newSpecs: string[][] = itemSpecs.map(([label, desc, buffName]) => {
       if (label.toLowerCase() === 'tooltip') {
         const newDesc = transformString(desc);
-
+        if (buffName) {
+          return [label, newDesc, buffName];
+        }
         return [label, newDesc];
       }
+
+      if (buffName) {
+        return [label, desc, buffName];
+      }
+
       return [label, desc];
     });
     newSpecs.pop();
@@ -111,7 +118,7 @@ const transformItems = () => {
 
     return weapon;
   });
-  fs.writeFileSync('allWeapons.json', JSON.stringify(newItems, null, 2));
+  fs.writeFileSync('allAccessories.json', JSON.stringify(newItems, null, 2));
 };
 
 transformItems();
