@@ -1,10 +1,9 @@
 import { useState } from 'react';
 import allAccessories from '../../data/accessories/allAccessories.json';
-import { DisplayItemInfo } from './../DisplayItem/DisplayItemInfo';
+import { ItemInfo } from '../ItemInfo/ItemInfo';
 
 export const Accessories = () => {
   const [currentAccessory, setCurrentAccessory] = useState(7000);
-  console.log(allAccessories.length);
   return (
     <div>
       <select
@@ -21,7 +20,7 @@ export const Accessories = () => {
           })}
         </optgroup>
       </select>
-      {/* <DisplayItemInfo itemId={currentAccessory} itemsData={allAccessories} /> */}
+      <ItemInfo itemId={currentAccessory} itemsData={allAccessories} />
     </div>
   );
 };

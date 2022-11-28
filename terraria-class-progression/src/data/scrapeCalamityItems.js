@@ -309,7 +309,6 @@ async function saveItemsData() {
     const itemNames = await getItemsNames(pageUrl);
     let i = 0;
     for (const name of itemNames) {
-      console.log(name);
       const itemData = await scrapeData(
         `https://calamitymod.fandom.com/wiki/${name}`,
         id + i

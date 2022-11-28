@@ -1,15 +1,15 @@
-interface DisplayCraftingProps {
-  craftingIngredients: string[][];
-  craftingStations: string[][];
+interface CraftingProps {
+  craftingIngredients: string[][] | undefined;
+  craftingStations: string[][] | undefined;
 }
 
-export const DisplayItemCrafting = ({
+export const ItemCrafting = ({
   craftingIngredients,
   craftingStations,
-}: DisplayCraftingProps) => {
+}: CraftingProps) => {
   return (
     <div>
-      {craftingIngredients.map(([image, label, quantity], i) => {
+      {craftingIngredients?.map(([image, label, quantity], i) => {
         return (
           <div key={i}>
             <img src={image} alt={label} title={label} />

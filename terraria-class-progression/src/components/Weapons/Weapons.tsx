@@ -1,10 +1,9 @@
 import allWeapons from '../../data/weapons/allWeapons.json';
 import { useState } from 'react';
-import { DisplayItemInfo } from '../DisplayItem/DisplayItemInfo';
+import { ItemInfo } from '../ItemInfo/ItemInfo';
 
 export const Weapons = () => {
   const [currentWeapon, setCurrentWeapon] = useState(1);
-  console.log(allWeapons.length);
   return (
     <div>
       <select
@@ -21,7 +20,7 @@ export const Weapons = () => {
           })}
         </optgroup>
       </select>
-      {/* <DisplayItemInfo itemId={currentWeapon} itemsData={allWeapons} /> */}
+      <ItemInfo itemId={currentWeapon} itemsData={allWeapons} />
     </div>
   );
 };

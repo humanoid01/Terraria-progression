@@ -1,0 +1,22 @@
+.item {
+  background-color: #25295d;
+  display: flex;
+  flex-direction: column;
+  padding: 30px;
+  width: 25%;
+  border-radius: 1rem;
+  border: 2px black solid;
+
+  &--weapon {
+    width: 20% !important;
+  }
+
+  img {
+    min-width: 30px;
+    width: 10%;
+  }
+
+  &--text {
+    width: 30%;
+  }
+}

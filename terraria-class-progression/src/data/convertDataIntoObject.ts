@@ -77,5 +77,3 @@ export const transformToObject = () => {
   });
   fs.writeFileSync('allAccessories.json', JSON.stringify(newItems, null, 2));
 };
-
-console.log(transformToObject());
