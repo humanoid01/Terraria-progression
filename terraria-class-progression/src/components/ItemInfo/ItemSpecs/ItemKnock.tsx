@@ -1,5 +1,9 @@
 import React from 'react';
 
 export const ItemKnock = ({ knock }: { knock: string }) => {
-  return <div>Knockback: {knock}</div>;
+  return (
+    <div>
+      <span className='label'> Knockback:</span> {knock}
+    </div>
+  );
 };

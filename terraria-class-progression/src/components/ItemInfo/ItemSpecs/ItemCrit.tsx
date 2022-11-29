@@ -1,3 +1,7 @@
 export const ItemCrit = ({ crit }: { crit: string }) => {
-  return <div>Critical chance: {crit}</div>;
+  return (
+    <div>
+      <span className='label'> Critical chance:</span> {crit}
+    </div>
+  );
 };

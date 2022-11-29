@@ -1,5 +1,10 @@
 import React from 'react';
 
 export const ItemType = ({ type }: { type: string }) => {
-  return <div>Type: {type}</div>;
+  return (
+    <div>
+      {' '}
+      <span className='label'> Type:</span> {type}
+    </div>
+  );
 };

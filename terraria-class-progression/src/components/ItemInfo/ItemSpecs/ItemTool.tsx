@@ -1,5 +1,10 @@
 import React from 'react';
 
 export const ItemTool = ({ tooltip }: { tooltip: string }) => {
-  return <div>Tooltip: {tooltip}</div>;
+  return (
+    <div>
+      {' '}
+      <span className='label'> Tooltip:</span> {tooltip}
+    </div>
+  );
 };

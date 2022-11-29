@@ -1,5 +1,9 @@
 import React from 'react';
 
 export const ItemDamage = ({ damage }: { damage: string }) => {
-  return <div>Damage: {damage}</div>;
+  return (
+    <div>
+      <span className='label'> Damage:</span> {damage}
+    </div>
+  );
 };

@@ -1,39 +1,13 @@
 import allWeapons from './dataToTransform/allWeapons.json';
 import allAccessories from './dataToTransform//allAccessories.json';
 import * as fs from 'fs';
-
-interface NewSpecs {
-  type?: string;
-  damage?: string;
-  knock?: string;
-  crit?: string;
-  mana?: string;
-  use?: string;
-  velocity?: string;
-  tooltip?: string;
-  buffs?: string[][];
-  buffsDur?: string[];
-  buffTool?: string[];
-  debuffs?: string[][];
-  debuffsDur?: string[];
-  debuffsTool?: string[];
-  rarity?: string;
-}
-
-interface NewItem {
-  id?: number;
-  itemName?: string;
-  itemIcon?: string;
-  itemSpecs?: NewSpecs;
-  craftingStations?: string[][];
-  craftingIngredients?: string[][];
-}
+import { Item, Specs } from './../types/types';
 
 export const transformToObject = () => {
-  const newItems: NewSpecs[] = [];
+  const newItems: Specs[] = [];
 
   allAccessories.forEach(weapons => {
-    const newSpecs: NewSpecs = {
+    const newSpecs: Specs = {
       buffs: [],
       buffsDur: [],
       buffTool: [],
@@ -64,7 +38,7 @@ export const transformToObject = () => {
         newSpecs.debuffsTool?.push(desc);
       if (label.toLowerCase() === 'rarity') newSpecs.rarity = desc;
     });
-    const newItem: NewItem = {
+    const newItem: Item = {
       id: weapons.id,
       itemName: weapons.itemName,
       itemIcon: weapons.itemIcon,
@@ -73,7 +47,7 @@ export const transformToObject = () => {
       craftingIngredients: weapons.craftingIngredients,
     };
 
-    newItems.push(newItem as NewSpecs);
+    newItems.push(newItem as Specs);
   });
   fs.writeFileSync('allAccessories.json', JSON.stringify(newItems, null, 2));
 };

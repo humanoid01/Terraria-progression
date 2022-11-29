@@ -1,6 +1,6 @@
 import { ItemCrafting } from './ItemCrafting/ItemCrafting';
 import { ItemIcon } from './ItemIcon/ItemIcon';
-import './ItemInfo.css';
+import './ItemInfo.scss';
 import { ItemName } from './ItemName/ItemName';
 import { ItemType } from './ItemSpecs/ItemType';
 import { ItemDamage } from './ItemSpecs/ItemDamage';
@@ -10,37 +10,9 @@ import { ItemUse } from './ItemSpecs/ItemUse';
 import { ItemVelocity } from './ItemSpecs/ItemVelocity';
 import { ItemTool } from './ItemSpecs/ItemTool';
 import { ItemBuffs } from './ItemSpecs/ItemBuffs';
-import { ItemBuffsDur } from './ItemSpecs/ItemBuffsDur';
-import { ItemBuffsTool } from './ItemSpecs/ItemBuffsTool';
 import { ItemDebuffs } from './ItemSpecs/ItemDebuffs';
-import { ItemDebuffsDur } from './ItemSpecs/ItemDebuffsDur';
-import { ItemDebuffsTool } from './ItemSpecs/ItemDebuffsTool';
-
-interface Specs {
-  type?: string;
-  damage?: string;
-  knock?: string;
-  crit?: string;
-  mana?: string;
-  use?: string;
-  velocity?: string;
-  tooltip?: string;
-  buffs?: string[][];
-  buffsDur?: string[];
-  buffTool?: string[];
-  debuffs?: string[][];
-  debuffsDur?: string[];
-  debuffsTool?: string[];
-  rarity?: string;
-}
-interface Item {
-  id?: number;
-  itemName?: string;
-  itemIcon?: string;
-  itemSpecs?: Specs;
-  craftingStations?: string[][];
-  craftingIngredients?: string[][];
-}
+import { Item } from '../../types/types';
+import { ItemRarity } from './ItemSpecs/ItemRarity';
 
 interface DisplayItemProps {
   itemId: number;
@@ -48,8 +20,7 @@ interface DisplayItemProps {
 }
 
 export const ItemInfo: React.FC<DisplayItemProps> = ({ itemId, itemsData }) => {
-  const items: Item[] = itemsData;
-  const [targetedItem]: Item[] = items.filter((item: Item) => {
+  const [targetedItem]: Item[] = itemsData.filter((item: Item) => {
     return item.id === itemId;
   });
 
@@ -68,8 +39,10 @@ export const ItemInfo: React.FC<DisplayItemProps> = ({ itemId, itemsData }) => {
   return (
     <div className='item'>
       <div>
-        {itemName ? <ItemName itemName={itemName} /> : ''}
-        {itemIcon ? <ItemIcon itemIcon={itemIcon} itemName={itemName} /> : ''}
+        <div className='item--box'>
+          {itemName ? <ItemName itemName={itemName} /> : ''}
+          {itemIcon ? <ItemIcon itemIcon={itemIcon} itemName={itemName} /> : ''}
+        </div>
         {itemSpecs?.type ? <ItemType type={itemSpecs?.type} /> : ''}
         {itemSpecs?.damage ? <ItemDamage damage={itemSpecs?.damage} /> : ''}
         {itemSpecs?.knock ? <ItemKnock knock={itemSpecs?.knock} /> : ''}
@@ -81,32 +54,25 @@ export const ItemInfo: React.FC<DisplayItemProps> = ({ itemId, itemsData }) => {
           ''
         )}
         {itemSpecs?.tooltip ? <ItemTool tooltip={itemSpecs?.tooltip} /> : ''}
-        {itemSpecs?.buffs?.length ? <ItemBuffs buffs={itemSpecs?.buffs} /> : ''}
-        {itemSpecs?.buffsDur?.length ? (
-          <ItemBuffsDur buffsDur={itemSpecs?.buffsDur} />
-        ) : (
-          ''
-        )}
-        {itemSpecs?.buffTool?.length ? (
-          <ItemBuffsTool buffTool={itemSpecs?.buffTool} />
+        {itemSpecs?.buffs?.length ? (
+          <ItemBuffs
+            buffs={itemSpecs?.buffs}
+            buffsDur={itemSpecs?.buffsDur}
+            buffTool={itemSpecs?.buffTool}
+          />
         ) : (
           ''
         )}
         {itemSpecs?.debuffs?.length ? (
-          <ItemDebuffs debuffs={itemSpecs?.debuffs} />
+          <ItemDebuffs
+            debuffs={itemSpecs?.debuffs}
+            debuffsDur={itemSpecs?.debuffsDur}
+            debuffsTool={itemSpecs?.debuffsTool}
+          />
         ) : (
           ''
         )}
-        {itemSpecs?.debuffsDur?.length ? (
-          <ItemDebuffsDur debuffsDur={itemSpecs?.debuffsDur} />
-        ) : (
-          ''
-        )}
-        {itemSpecs?.debuffsTool?.length ? (
-          <ItemDebuffsTool debuffsTool={itemSpecs?.debuffsTool} />
-        ) : (
-          ''
-        )}
+        {itemSpecs?.rarity ? <ItemRarity rarity={itemSpecs.rarity} /> : ''}
       </div>
       <br />
       {craftingStations?.length ? <ItemCrafting {...craftingProps} /> : ''}
