@@ -6,17 +6,20 @@ interface Debuffs {
 
 export const ItemDebuffs = ({ debuffs, debuffsDur, debuffsTool }: Debuffs) => {
   return (
-    <div>
+    <div className='item--debuff'>
       <span className='label'> Debuff(s):</span>
       {debuffs.map(([img, name]: string[], i) => {
         return (
-          <div key={i}>
-            <h4>{name}</h4> <img src={img} alt={name} />
-            <div>
+          <div className='item--dbf' key={i}>
+            <div className='item--description'>
+              <h4>{name}</h4> <img src={img} alt={name} title={name} />
+            </div>
+
+            <div className='item--description'>
               <span className='label'>Debuff duration: </span>
               {debuffsDur?.[i]}
             </div>
-            <div>
+            <div className='item--description'>
               <span className='label'>Debuff tooltip: </span>
               {debuffsTool?.[i]}
             </div>
